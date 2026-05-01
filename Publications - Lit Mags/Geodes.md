@@ -1,0 +1,2 @@
+[[David R. Lincoln]]
+#publisher 

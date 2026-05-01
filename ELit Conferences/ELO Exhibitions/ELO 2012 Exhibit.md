@@ -1,0 +1,58 @@
+#anthology 
+
+“Electrifying Literature:  Affordances and Constraints”––The ELO 2012 Media Art Show––features 55 artists from Australia, Belgium, Canada, France, Korea, Norway, Switzerland, the US, and the UK and their work.  Five artists are honored with a retrospective:  [[Alan Bigelow]], [[J. R. Carpenter]], [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Judy Malloy]],  and [[Jason Nelson]].  Five artists are awarded the first-ever Jury’s Choice Award for the excellence of their work:  [[Caitlin Fisher]], [[Jason Nelson]], [[Jason Edward Lewis]], and [[Greg J. Smith]] & [[Erik Loyer]].  Below is the complete list of artists, their works, and the venues at which their work can be found. 
+### curators [[Dene Grigar]], [[Kathi Inman Berens]], [[Lori Emerson]]
+
+[[Sepand Ansari]] & [[Raschin Fatemi]]
+[[Josephine Anstey]], [[Dave Pape]], [[Intermedia Performance Studio]]
+[[Johannes Auer]], [[René Bauer]] and [[Beat Suter]]
+[[John F. Barber]]
+[[Alan Bigelow]]
+[[Jim Bizzocchi]]
+[[Serge Bouchardon]]
+[[Paul Bogaert]]
+[[Philippe Bootz]]
+[[J. R. Carpenter]]
+[[Alison Clifford]] & [[Graeme Truslove]]
+[[Roderick Coover]], [[Nick Montfort]], and [[Scott Rettberg]]
+[[M. D. Coverley aka Marjorie C. Luesebrink]] 
+[[Jeremy Douglass]]
+[[Brian Evans]]
+[[Grégory Fabre]]
+[[Natalia Fedorova]]
+[[Angela Ferraiolo]]
+[[Caitlin Fisher]]
+[[Megan Heyward]]
+[[Daniel C. Howe]]
+[[David Jhave Johnston]]
+[[Jeff Knowlton]],
+[[Yong Hun Kim]]
+[[LAinundacion]]
+[[Eric LeMay]]
+[[Jason Edward Lewis]]
+[[A.J. Patrick Liszkiewicz]]
+[[Will Luers]], [[Roger Dean]], and [[Hazel Smith]]
+[[Judy Malloy]]
+[[Chris Mann]]
+[[Lello Masucci]]
+[[Pelayo Mendez]]
+[[Mez Breeze]]
+
+[[Mez Breeze]] + [[shane hinton]]
+
+[[A. Bill Miller]]
+
+[[Alexander Mouton]]
+
+[[Jason Nelson]]
+[[Sally Rodgers]] & [[Steve Jones]]
+[[Alexandra Saemmer]]
+[[Mark Sample]]
+[[Greg J. Smith]] & [[Erik Loyer]]      
+
+[[Alan Sondheim]]   
+[[Steve Tomasula]]
+[[Graeme Truslove]]     
+[[Christine Wilks]]
+[[Laura Zaylea]]
+[[Jody Zellen]]

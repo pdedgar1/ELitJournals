@@ -1,0 +1,128 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Publications - Lit Mags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14490909
+      }
+    },
+    {
+      "query": "path:\"Publications - Art Mags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16751001
+      }
+    },
+    {
+      "query": "path:Awards  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746593
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 720679
+      }
+    },
+    {
+      "query": "path:\"Publications - Academic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4449763
+      }
+    },
+    {
+      "query": "path:Anthologies  ",
+      "color": {
+        "a": 1,
+        "rgb": 5478126
+      }
+    },
+    {
+      "query": "path:Archives  ",
+      "color": {
+        "a": 1,
+        "rgb": 11495647
+      }
+    },
+    {
+      "query": "path:People  ",
+      "color": {
+        "a": 1,
+        "rgb": 4456642
+      }
+    },
+    {
+      "query": "path:Programs  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences/ELO Exhibitions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences/ELO Conferences\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences/MIX Conferences\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences/ELO Teams\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences/Unconferences\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13688914
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences\" path:\"ELit Conferences/E-Poetry\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13751976
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 1.49705295138889,
+  "lineSizeMultiplier": 0.326922743055556,
+  "collapse-forces": false,
+  "centerStrength": 0.0484809027777778,
+  "repelStrength": 18.9913194444444,
+  "linkStrength": 0.748307291666667,
+  "linkDistance": 500,
+  "scale": 0.010168323362241286,
+  "close": true
+}

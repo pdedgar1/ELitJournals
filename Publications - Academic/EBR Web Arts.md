@@ -1,0 +1,17 @@
+#academicJournal 
+### Web Arts
+2025 - [[Sarah Whitcomb Laiola]], [[Richard Snyder]]
+2022 - [[Will Luers]]
+2021 - [[Jin Sol Kim]], [[Lulu Liu]]
+[[Anne Burdick]]
+2003 - [[Lisette Gonzales]]
+2001 - [[Hannah Higgins]]
+[[Daniel Wenk]]
+[[Stephanie Strickland]]
+[[Jan Baetens]]
+[[Cary Wolfe]]
+[[Allison Hunter]]
+[[John Brunetti]]
+[[Joseph Tabbi]]
+1999 - [[Linda C. Brigham]]
+1995 - [[Michael Joyce]]

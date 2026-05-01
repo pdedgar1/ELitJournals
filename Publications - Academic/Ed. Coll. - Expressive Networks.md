@@ -1,0 +1,18 @@
+#printanthology 
+Edited by [[Matthew Kilbane]]
+
+[[Cameron Awkward-Rich]]
+[[Micah Bateman]]
+[[Andrew Campana]]
+[[Sumita Chakraborty]]
+[[Scott Challenger]]
+[[C.R. Grimmer]]
+[[Matthew Kilbane]]
+[[Tess McNulty]]
+[[Michael Nardone]]
+[[Seth Perlow]]
+[[Anna Preus]]
+[[Susanna Sacks]]
+[[Carly Schnitzler]]
+[[Melanie Walsh]]
+[[Samuel Caleb Wee]]

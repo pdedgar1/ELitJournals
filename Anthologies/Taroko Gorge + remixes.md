@@ -1,0 +1,16 @@
+[[Nick Montfort]]
+[[J. R. Carpenter]][[Andrew Plotkin]]
+[[Sonny Rae Tempest]]
+[[Flourish Klink]][[Zach Whalen]]
+[[Judy Malloy]]
+[[Alireza Mahzoon]]
+[[John Pat Macnamara]]
+[[Mark Sample]]
+[[Helen J. Burgess]]
+[[Scott Rettberg]]
+[[Kathi Inman Berens]]
+[[Talan Memmott]]
+[[James T. Burling]]
+[[Piotr Małecki]]
+
+#anthology 

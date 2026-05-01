@@ -1,0 +1,191 @@
+#academicJournal
+### Founding Editors 
+[[Jason Nelson]], [[Helen J. Burgess]], [[Ellen E. Berry]], [[Carol Siegel]], [[Craig J. Saper]]
+Advisory editors 
+[[Davin Heckman]], [[Alan Sondheim]], [[Darren Tofts]], [[Sandy Baldwin]], [[Jeanne Hamming]], [[Joe Milutis]], [[Jill Walker Rettberg]], [[Sherman Young]]
+### 01 - 2005
+[[Helen J. Burgess]] and [[Jason Nelson]]
+[[babel]]
+[[Joe Milutis]]
+[[Jason Nelson]]
+[[Sonya Nielsen]]
+[[Cathlena Martin]], [[Kate Casey-Sawicki]], [[Lindsey Collins]], and [[Brenda Maxey-Billings]]
+
+[[Craig J. Saper]]
+### 02 - 2006
+[[Helen J. Burgess]]
+[[Sandra Powers]]
+[[Donna Kuhn]]
+[[Craig J. Saper]] and [[Lynn Tomlinson]]
+[[Sandy Baldwin]]
+[[Alan Sondheim]]
+[[Lao Kacenjar]]
+
+### 03 - 2007
+[[Helen J. Burgess]]
+[[OnacloV]]
+[[John Grech]]
+[[George Thomas Morrow]]
+[[Theodoros Chiotis]]
+[[Mez Breeze]]
+[[OnacloV]]
+[[Dene Grigar]] and [[Steve Gibson]]
+[[Davin Heckman]]
+[[Davin Heckman]]
+### 04 - 2007
+[[Helen J. Burgess]]
+[[Thom Swiss]]
+[[Braxton Soderman]]
+[[Mark C. Marino]]
+[[Stephanie Strickland]] and [[Cynthia Lawson Jaramillo]]
+[[Jaka Železnikar]]
+[[Michael Peters]]
+[[Jeanne Hamming]]
+[[Davin Heckman]]
+### 05 - 2008 
+[[Helen J. Burgess]]
+[[Chris Ault]]
+[[A. Andreas]]
+[[Victoria Welby]]
+[[Alan Bigelow]]
+[[Paul A. Toth]]
+[[Patrick McHenry]]
+[[Vidhu Aggarwal]]
+[[Andrew Famiglietti]]
+[[Marilyn R.P. Morgan]]
+[[Mary Tripp]]
+[[Neil Patten]]
+[[Anne Brubaker]]
+[[Beth Weaver]]
+[[Wieslaw Piontczak]]
+### 06 - 2009 - - Guest editor [[Dene Grigar]]
+[[John Cayley]]
+[[Robert Kendall]]
+[[D. Fox Harrell]] and [[Kenny K. N. Chow]]
+[[Daniel C. Howe]] and [[Braxton Soderman]]
+[[Juan B. Gutierrez]], [[Mark C. Marino]], [[Pablo Gervás]], [[Laura Borràs Castanyer]]
+[[Serge Bouchardon]], and [[Ayermic Brisse]]
+[[Hans Kristian Rustad]]
+[[Alan Bigelow]]
+[[Jim Bizzocchi]]
+[[John F. Barber]]
+[[J. R. Carpenter]]
+[[Donna Leishman]]
+[[Roderick Coover]]
+[[Rita Raley]]
+[[Sandy Baldwin]]
+### 07 - 2010 - guest eds. [[Davin Heckman]] and [[Hai Ren]]
+[[Andrew Klobucar]]
+[[Benjamin J. Robertson]]
+[[Brian M. Reed]]
+[[Neil Hennessy]]
+[[Brett Phares]]
+[[Brett Phares]]
+[[Jason Nelson]]
+[[Angela Ferraiolo]] and [[Mary Flanagan]]
+[[Nicholas Knouf]]
+[[Neil Hennessy]]
+[[Dene Grigar]]
+### 08 - 2011
+[[Darren Tofts]]
+[[McKenzie Wark]]
+[[John F. Barber]]
+[[Nicholas Schiller]]
+[[Jichen Zhu]] and [[D. Fox Harrell]]
+[[Christine Wilks]]
+[[Hazel Smith]] and [[Roger Dean]]
+[[Whitney Trettien]]
+[[Marvin E. Hobson]]
+
+### 09 - 2012
+[[Hazel Smith]]
+[[David Gruber]] and [[David M. Rieder]]
+[[Piotr Célinski]]
+[[Hazel Smith]], [[Joanna Still]], and [[Roger Dean]]
+[[David Gruber]] and [[David M. Rieder]]
+[[David Ciccoricco]] and [[Jill DelSordi]]
+[[The Hanseatic Semiotic Traders League]] - 
+[[Mirona Magearu]]
+
+### 10 - 2013
+E-lit reviews
+[[David Jhave Johnston]]
+[[Caroline Godart]]
+[[Michael Leong]]
+[[Jennifer S. Roudabush]]
+
+regular reviews 
+[[Kris Coffield]]
+[[Phil Dickinson]]
+[[Romy Hubler]]
+[[Christopher Justice]]
+[[Diane Kuthy]]
+[[Laura Rutter Strickling]]
+[[K. A. Wisniewski]]
+[[Tymofey Wowk]]
+
+## 11  - Spring 2015 -netprov [[Mark C. Marino]] + [[Rob Wittig]]
+[[Lauren Burr]]
+[[Leonardo Flores]]
+[[Kathi Inman Berens]]
+[[Davin Heckman]]
+[[Peggy Weil]]
+
+[[Jean-Pierre Balpe]]
+[[Talan Memmott]]
+[[Glen Gatin]]
+[[Deena Larsen]] and [[MaJe Larsen]]
+[[Mez Breeze]]
+[[Peter McDonald]] and [[Patrick Jagoda]]
+[[Reed Gaines]]
+[[Rob Wittig]], [[Mark C. Marino]] and [[SpeidiShow Players]]
+
+[[Kathi Inman Berens]]
+[[Eddie Lohmeyer]]
+
+
+## 12  - Summer 2015 - Mapping Culture Multimodally - [[Craig J. Saper]] and [[Nancy Duxbury]]
+
+[[Nancy Duxbury]] and [[Craig J. Saper]]
+
+[[John Craig Freeman]] and [[Jessica Auchter]]
+[[Lisa-Katharina Förster]] and [[Folker Metzger]]
+[[Félix Burgos]]
+
+[[Petra Johnson]]
+[[Marta Carrasco]] and [[Sergi Selvas]]
+[[Caroline Gausden]] and [[Helen Smith]]
+
+[[Alys Longley]], [[James Hutchinson]], [[Charlotte Sunde]], [[Sasha Matthewman]], [[Karen Fisher]]
+[[Michelle Ferrier]]
+[[Craig J. Saper]] and [[Lynn Tomlinson]]
+
+[[Scott Rettberg]]
+[[Roderick Coover]] and [[Scott Rettberg]]
+[[Roderick Coover]] and [[Scott Rettberg]]
+[[Nick Montfort]] and [[Scott Rettberg]]
+
+[[Dean Casale]]
+[[Jessica Floyd]]
+[[Tissa J. Thomas]]
+
+## 13  - Fall 2015 - Kits, Plans, Schematics - [[Helen J. Burgess]] and [[David M. Rieder]]
+
+[[David M. Rieder]]
+[[Robert A. Emmons Jr.]], [[James Brown]]
+[[Helen J. Burgess]]
+
+[[David M. Rieder]]
+[[Helen J. Burgess]]
+[[Melissa Rogers]]
+
+[[Jessica Handloff]], [[Geoffrey Luurs]], and [[Sarah Beth Evans]]
+[[Jay Kirby]] and [[Eddie Lohmeyer]]
+[[Duke University Speculative Sensation Lab]]
+
+[[Ellen K. Foster]]
+[[Jentery Sayers]] and [[Maker Lab in the Humanities]]
+[[Lynn Tomlinson]] and [[Diane Kuthy]]
+
+[[Craig J. Saper]]
+

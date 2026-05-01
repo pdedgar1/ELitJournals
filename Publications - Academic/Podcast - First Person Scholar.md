@@ -1,0 +1,71 @@
+#anthology #academicJournal #organization 
+Monthly ish!! 
+
+60 - [[Collin Walsh]], [[Dakota Pinheiro]], [[Chrisophe McMahon]], [[Autumn Wright]]
+59 - [[Collin Walsh]], [[Sabrina Sgandurra]], [[Dakota Pinheiro]]
+|58| [[Giuseppe Femia]], [[James Rendell]], [[Rosemarie Sarno aka Rosie Stormborn]]
+gone from internet? 
+|57| [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Robert Gillis]], [[Aleksander Franiczek]]
+|56| [[Giuseppe Femia]], [[Patrick R. Dolan]], [[Aleksander Franiczek]], [[Dakota Pinheiro]]
+|55| [[Alex Chalk]], [[Mariah E. Marsden]], [[Kelsey Paige Mason]]
+|54| [[Giuseppe Femia]], [[Alex Chalk]], [[Adrianna Burton]], [[Aaron Trammell]], [[Elise Vist]]
+|53|
+|52| [[Alex Fleck]], [[Giuseppe Femia]], [[Collin Walsh]], [[Andrew Bailey]]?
+|51| [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Alex Chalk]], [[Aldijana Halilagic]], [[Andrew Bailey]]? 
+|50| [[Emma Vossen]], [[Patrick R. Dolan]], [[Giuseppe Femia]], [[Alex Chalk]]
+|49| [[Alex Chalk]], [[Alison Harvey]], [[Daniel Joseph]]
+|48| [[Kacper Szozda]], [[Andrew Bailey]], [[Francis Parr]], [[Patrick R. Dolan]]
+|47| [[Giuseppe Femia]], [[Alex Chalk]], [[Patrick R. Dolan]]
+|46| [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Alex Chalk]], [[Patrick R. Dolan]]
+|45| [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Alex Chalk]], [[Patrick R. Dolan]]
+|44| [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Alex Chalk]], [[Patrick R. Dolan]]
+transition to youtube
+|43|  [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Alex Chalk]], [[Patrick R. Dolan]]
+|42| [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Alex Chalk]], [[Patrick R. Dolan]]
+|41| [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Lia Black]], [[Patrick R. Dolan]]
+|40|[[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Lia Black]], [[Patrick R. Dolan]]
+|39|[[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Lia Black]], [[Patrick R. Dolan]]
+|38|[[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Lia Black]], [[Patrick R. Dolan]]
+|37| [[Michelle Lee Brown]], [[Beth LaPenseé]], [[Maru Nihoniho]], [[Meagan Byrne]], [[Betsy Brey]]
+|36|  [[Elise Vist]], [[Rob Parker]], [[Chris Persaud]], [[Matthew Perks]]
+|35| [[Lindsay Meaning]], [[Rob Parker]], [[Sabrina Sgandurra]], [[Axel Hassen Taiari]]
+|34| [[Lia Black]], [[Betsy Brey]], [[Sarah Stang]], [[Nicholas Hobin]], [[Sabrina Sgandurra]]
+|33|[[Lia Black]], [[Giuseppe Femia]], [[Chris Lawrence]], [[Sabrina Sgandurra]]
+|32|[[Lia Black]], [[Sarah Stang]]
+|31|[[Chris Lawrence]], [[Lia Black]],[[Patrick R. Dolan]]
+ -queer game issue [[Elise Vist]], [[Betsy Brey]], [[Jess Marcotte]], [[Bonnie 'Bo' Ruberg]],[[Kara Stone]]
+|30|[[Betsy Brey]], [[Sarah Stang]], [[Chris Lawrence]], [[Justin Carpenter]]
+|29|[[Jason Lajoie]], [[Betsy Brey]], [[Chris Lawrence]], [[Jeremy Antley]], [[Will Fast]], [[Rob Parker]], [[Elise Vist]]
+|28| [[Betsy Brey]], [[Pierson Browne]], [[Will Fast]], [[Rob Parker]], [[Jason Lajoie]]
+|27| [[Betsy Brey]], [[Pierson Browne]], [[Chris Lawrence]]
+|26| [[Betsy Brey]], [[E. Deshane]], [[Matthew Perks]], [[Jason Lajoie]]
+|25| [[Betsy Brey]], [[Chris Lawrence]], [[Will Fast]], [[Justin Carpenter]], [[Jason Lajoie]], [[Pierson Browne]], [[Rob Parker]]
+|24| [[Jason Lajoie]], [[Hazel Monforton]], [[Betsy Brey]], [[Rob Parker]]
+|23| [[Jason Lajoie]], [[Betsy Brey]], [[Chris Lawrence]], [[Will Fast]], [[Pierson Browne]]
+|22| [[Jason Lajoie]], [[Betsy Brey]], [[Justin Carpenter]], [[Rob Parker]]
+|21| [[Jason Lajoie]], [[Betsy Brey]], [[Justin Carpenter]], [[Rob Parker]], [[Elise Vist]]
+|20| [[Alexandra Orlando]], [[Rob Parker]], [[Rina Wehbe]]
+|19| [[Alexandra Orlando]], [[Chris Lawrence]], [[Emma Vossen]]
+|18| [[Alexandra Orlando]], [[Betsy Brey]], [[Rob Parker]], [[Shawn Dorey]]
+|17|[[Alexandra Orlando]], [[Rob Parker]]. [[Chris Lawrence]], [[Cameron Kunzelman]]
+|16| [[Alexandra Orlando]], [[Betsy Brey]], [[Shawn Dorey]], [[Alex Fleck]]
+|15| [[Alexandra Orlando]], [[Pierson Browne]], [[Betsy Brey]], [[Shawn Dorey]]., [[Rob Parker]]
+|14| [[Alexandra Orlando]], [[Chris Lawrence]], [[Betsy Brey]], [[Alex Fleck]]., [[Rob Parker]], [[Phil Miletic]], [[Justin Carpenter]]
+|13| [[Alexandra Orlando]], [[Chris Lawrence]], [[Rob Parker]], [[Pierson Browne]], [[Shawn Dorey]]
+|12| [[Alexandra Orlando]]. [[Betsy Brey]], [[Rob Parker]], [[Michael Lutz]]
+|11| [[Alexandra Orlando]], [[Rob Parker]], [[Shawn Dorey]], [[Justin Carpenter]]
+|10|[[Emma Vossen]], [[Alexandra Orlando]], [[Judy Ehrentraut]], [[Betsy Brey]], [[Elise Vist]]
+|9| [[Emma Vossen]], [[Alexandra Orlando]], [[Elise Vist]], [[Chris Lawrence]], [[Phil Miletic]]
+|8|[[Emma Vossen]], [[Rob Parker]], [[Shawn Dorey]]
+|7|[[Emma Vossen]], [[Chris Lawrence]]. [[Alexandra Orlando]], [[Rob Parker]]
+|6|[[Emma Vossen]], [[Betsy Brey]], [[Shawn Dorey]], [[Alex Fleck]], [[Phil Miletic]]
+|5|[[Betsy Brey]], [[Elise Vist]]
+This is on the site! 
+|4|[[Rob Parker]], [[Alexandra Orlando]], [[Chris Lawrence]], [[Betsy Brey]], [[Emma Vossen]]
+##### 2015 
+|3|[[Emma Vossen]], [[Michael Hancock]], [[Steve Wilcox]], [[Rob Parker]], and [[Alexandra Orlando]]
+|2| [[Alexandra Orlando]],  [[Emma Vossen]], [[Rob Parker]], 
+dark souls roundtable [[Michael Hancock]], [[Jason Hawreliak]], [[Rob Parker]], [[Jonathan Boulter]]
+bioshock? [[Jason Hawreliak]], [[Michael Hancock]]., [[Steve Wilcox]], 
+
+music by [[Steve Trothen]]
