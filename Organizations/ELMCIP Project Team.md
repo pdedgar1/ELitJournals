@@ -30,7 +30,7 @@ Blekinge Institute of Technology (SE)
 The University of Amsterdam (NL)
 [[Yra van Dijk]] [Principal Investigator]  
 The University of Ljubljana (SI)
-[[Janez Strechovec]] [Principal Investigator]  
+[[Janez Strehovec]] [Principal Investigator]  
  
 ## The University of Jyväskylä (FI)
 [[Raine Koskimaa]] [Principal Investigator]  

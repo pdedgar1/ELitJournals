@@ -11,7 +11,8 @@
 | [[@ReachArtwork]]                          |
 | [[P.D. Edgar]]                             |
 
-## Issue 1
+## Issue 1 - Digital Life
+
 | [[Andy Oram]]                   |
 | ------------------------------- |
 | [[Sarah (Ember) Bricault]]      |
@@ -21,7 +22,8 @@
 | Interview w. Dr. [[Amber Buck]] |
 | [[P.D. Edgar]]                  |
 
-## Issue 2
+## Issue 2 - 
+
 | [[Daniel Lichtman]] |
 | ------------------- |
 | [[O Neace]]         |
@@ -87,3 +89,4 @@
 ### letters by 
 [[max]]
 [[Claire Carroll]]
+[[Tanishq Khandelwal]]

@@ -62,7 +62,7 @@
 | [[Sarah Hamid]]                 |
 | [[Karin Hansson]]               |
 | [[Joan Haran]]                  |
-| [[Donna J. Haraway]]            |
+| [[Donna Haraway]]            |
 | [[Ameryah Hederson]]            |
 | [[Ameryah Henderson]]           |
 | [[Mar Hicks]]                   |

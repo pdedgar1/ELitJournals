@@ -2,7 +2,7 @@ Editorial [[Christoph Grünberger]]
 [[Emi Kusano]]
 
 
-Interviews : [[Ana Maria Caballero]]  by [[Olena Yara]]
+Interviews : [[Ana María Caballero]]  by [[Olena Yara]]
 [[Golan Levin]] awith [[Simone Brauner]]
 [[Lauren Lee McCarthy]] with [[Anika Meier]]
 [[Sasha Stiles]] with [[Merzmensch]]

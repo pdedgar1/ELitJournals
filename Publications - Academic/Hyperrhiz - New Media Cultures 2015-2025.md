@@ -246,7 +246,7 @@ Advisory editors
 ### 29 - Algorithmic Art on the Blockchain - Fall 2025 - [[Merve Güven Özkerim]] and [[David M. Berry]]
 [[Merve Güven Özkerim]] and [[David M. Berry]]
 [[Can Koçak]]
-[[Ana Maria Caballero]] and [[Merve Güven Özkerim]]
+[[Ana María Caballero]] and [[Merve Güven Özkerim]]
 [[Merve Güven Özkerim]] 
 [[Bas Uterwijk]] and [[Merve Güven Özkerim]]
 [[Seda Ates]]

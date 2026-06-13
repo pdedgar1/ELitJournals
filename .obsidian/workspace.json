@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "743044f760d52f2e",
+        "id": "fb81003b1f5f9f83",
         "type": "tabs",
         "children": [
           {
-            "id": "df2a7fd6294c1e0b",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "50fa9640590da0e0",
+            "id": "71352309fd77501c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 247.5
   },
   "right": {
     "id": "3aff8d706b64363f",
@@ -174,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 451.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,40 +175,38 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
-      "infranodus-graph-view:InfraNodus Graph View": false,
-      "3d-graph:3D Graph": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "new-3d-graph:Open 3d graph": false
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "50fa9640590da0e0",
+  "active": "71352309fd77501c",
   "lastOpenFiles": [
-    "Anthologies/Indian Electronic Literature Anthology.md",
-    "Publications - Art Mags/Neural - 1993 - 2010.md",
-    "Organizations/0x0a.md",
-    "People/P.D. Edgar.md",
     "ELO Keynotes + plenaries.md",
-    "Publications - Art Mags/E-Flux Index.md",
-    "Publications - Academic/Journ. - Reviews in Digital Humanities.md",
-    "ELit Conferences/ELO Teams/ELO Team 2026.md",
-    "ELit Conferences/ELO Conferences/ELO Conference 2026.md",
-    "Jolene L. Armstrong.md",
-    "Deena Larsen.md",
-    "Archives/Digitale Literatuur Databank.md",
-    "International Silence.md",
-    "Awards/NuMeWriPri Shortlists.md",
-    "Mehulkumar Desai.md",
+    "Publications - Academic/Journ. - Computational Humanities Research.md",
+    "Organizations/Computational Humanities Research.md",
+    "Kenton T. Howard.md",
+    "Publications - Academic/Journ - Media-N 2015-2026.md",
+    "Awards/Woollahra Digital Literary Award.md",
+    "mez breeze.md",
+    "Publications - Art Mags/On NFTs.md",
+    "Linda Dounia.md",
+    "David M. Berry.md",
+    "Publications - Academic/Journ - Media-N 2005-2015.md",
+    "Organizations/New Media Caucus.md",
+    "Publications - Lit Mags/Re•mediate.md",
+    "People/Phreaking Collective.md",
+    "Publications - Lit Mags/Drunken Boat 2011-2026.md",
+    "Indigenous Data Alliance.md",
+    "Organizations/Empirical Study of Literature Training Network.md",
+    "Publications - Lit Mags/The Minute Review.md",
+    "Ana María Caballero.md",
+    "J. R. Carpenter.md",
+    "Organizations/DH Now.md",
+    "Organizations/DH Now Team.md",
+    "Publications - Lit Mags/Drunken Boat 2000-2010.md",
     "Archives/Bits Series.md",
-    "Archives/MAELD & ADELD.md",
-    "Anthologies/Media Art Net.md",
-    "ELit Conferences/Unconferences/Unconference 2026.md",
-    "Publications - Lit Mags/Taper Zine.md",
-    "Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md",
-    "Organizations/Lab-yrinthe - Quebec Lab for Pub.Edu.Dig.Works.md",
-    "Archives/Ubuweb \"Contemporary\".md",
-    "Publications - Lit Mags/Speechless.md",
-    "Derek Beaulieu.md",
-    "Kevin McPherson Eckhoff.md",
+    "Pasted image 20260603122852.png",
+    "Archives/Répertoire NT2 - 1995-2006.md",
+    "Organizations/ELMCIP Project Team.md",
     "extracted_links.csv",
     "Pasted image 20260418232828.png",
     "Pasted image 20260418230621.png",

@@ -23,7 +23,7 @@ Digital Art Magazine Post-2020
 |[[Ameesia Marold]]|
 |[[Ameesia Marold]]|
 |[[Amir H. Fallah]] speaks with [[Shahrzad Hamzeh]] about the power of artists to bring light to darkness]]|
-|[[Ana Maria Caballero]]|
+|[[Ana María Caballero]]|
 |[[Ana María Caballero]], [[Gladys Garrote]], and [[Elisabeth Sweet]]|
 |[[Andrew Ngurumi]]|
 |[[Anika Meier]]|

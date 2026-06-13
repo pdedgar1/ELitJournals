@@ -50,7 +50,7 @@
 | [[Dan Power]]                     |
 | [[Daniel Lichtman]]               |
 | [[Dashiel Carrera]]               |
-| [[David Berry]]                   |
+| [[David M. Berry]]                   |
 | [[David Ciccoricco]]              |
 | [[David Devanny]]                 |
 | [[David Meurer]]                  |

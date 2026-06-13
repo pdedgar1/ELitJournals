@@ -361,7 +361,7 @@ CELL Member  : French-language E-lit
 | [[Étienne Lemay]]                     |
 | [[Philipp Lenssen]]                   |
 | [[Les Liens Invisibles]]              |
-| [[Jason E. Lewis]]                    |
+| [[Jason Edward Lewis]]                    |
 | [[LIA]]                               |
 | [[Olia Lialina]]                      |
 | [[Maya Lin]]                          |
@@ -553,7 +553,7 @@ CELL Member  : French-language E-lit
 | [[Joel Sugerman]]                     |
 | [[sumoto.iki]]                        |
 | [[Hugues Sweeney]]                    |
-| [[Thomas Swiss]]                      |
+| [[Thom Swiss]]                      |
 | [[Illya Szilak]]                      |
 | [[Matthew Taranto]]                   |
 | [[Tom Taylor]]                        |

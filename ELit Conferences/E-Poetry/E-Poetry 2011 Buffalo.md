@@ -87,8 +87,8 @@ An International digital Poetry Festival
 | [[Wilton Azevedo]]                                            |     |
 | [[David Jhave Johnston]]                                      |     |
 | [[Sandra Huber]]                                              |     |
-| [[Chris Funkhouser]]                                          |     |
-| [[Leonardo L. Flores]]                                        |     |
+| [[Christopher T. Funkhouser]]                                 |     |
+| [[Leonardo Flores]]                                           |     |
 | [[Amy Sara Caroll]]                                           |     |
 | [[Patricia Tomaszek]]                                         |     |
 | [[Erin Costello]]                                             |     |

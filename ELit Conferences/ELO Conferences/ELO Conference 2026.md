@@ -3,115 +3,107 @@
 #conference 
 
 ## PRELIMINARY Presenters  (NOT FULL PANELS/WORKSHOPS)
+
 |                                 |
 | ------------------------------- |
-| [[Aishat Olayetunde Isiaq]]     |
-| [[Alan Bigelow]]                |
-| [[Alex Calderwood]]             |
-| [[Alex Mitchell]]               |
-| [[Andrew Burrell]]              |
-| [[Andrew Campana]]              |
-| [[Angely C. Suarez DeJesus]]    |
-| [[Artemio Morales]]             |
-| [[Beat Suter]]                  |
-| [[Bridget Kies]]                |
-| [[Cailey E. Cassity-Ness]]      |
-| [[Caleb Sour]]                  |
-| [[Carolijn Guytonbeck]]         |
-| [[Charles Danoff]]              |
-| [[Chloe M. A. Mauvais]]         |
-| [[Claudia Kozak]]               |
-| [[Collier Nogues]]              |
-| [[Daniel Lichtman]]             |
-| [[David Ciccoricco]]            |
-| [[Davin Heckman]]               |
-| [[Dene Grigar]]                 |
-| [[Deena Larsen]]                |
-| [[Devin Higgins]]               |
-| [[Diamond E. Beverly-Porter]]   |
-| [[Gloria Wilson Inyang]]        |
-| [[Elizabeth Maher]]             |
-| [[Emily Carr]]                  |
-| [[Emily K. Johnson]]            |
-| [[Erin R. Glass]]               |
-| [[Faith Samuel Bassey]]         |
-| [[Fernanda Mugica]]             |
-| [[Francisco Reyes Betancourtt]] |
-| [[Glenn S. Ritchey III]]        |
-| [[James H. Pardue]]             |
-| [[Jasmine Darman]]              |
-| [[Jasmine Mattey]]              |
-| [[Jason Boyd]]                  |
-| [[Jason Nelson]]                |
-| [[Jingjie Zhang]]               |
-| [[Joao de Mendonca Salim]]      |
-| [[Johanna Drucker]]             |
-| [[John T. Murray]]              |
-| [[Jolene L. Armstrong]]         |
-| [[Joy Pang]]                    |
-| [[Judd Morrissey]]              |
-| [[Judy Malloy]]                 |
-| [[Justin Bortnick]]             |
-| [[Katherine Parrish]]           |
-| [[Kavisha D. Alagiya]]          |
-| [[Kenneth Sherwood]]            |
-| [[Kenton T. Howard]]            |
-| [[Kiera Obbard]]                |
-| [[Lee Tusman]]                  |
-| [[Léonard Creismeas]]           |
-| [[Liselotte de Beer]]           |
-| [[LJ Connolly]]                 |
-| [[Lopamudra Saha]]              |
-| [[Lucas P. Sanchez]]            |
-| [[R. Lyle Skains]]              |
-| [[María Garay Arriba]]          |
-| [[Mark A. Black]]               |
-| [[Mark C. Marino]]              |
-| [[Mark Sample]]                 |
-| [[Matthew F. Griffin]]          |
-| [[Matthew Mosher]]              |
-| [[Maya Sarfaty]]                |
-| [[Mehulkumar Desai]]            |
-|                                 |
-| [[Mez Breeze]]                  |
-| [[Michael A. Cabrera]]          |
-| [[Monica Storss]]               |
-| [[Nanette Wylde]]               |
-| [[Nick Montfort]]               |
-| [[Nicole Patino]]               |
-| [[Owen Roberts]]                |
-|                                 |
-| [[patrick lichty]]              |
-| [[P.D. Edgar]]                  |
-| [[Piotr Małecki]]               |
-| [[Rachel Kerr]]                 |
-| [[Richard A. Carter]]           |
-| [[Ricky Finch]]                 |
-| [[Rob Wittig]]                  |
-| [[Robert Arellano]]             |
-| [[Roger Dean]]                  |
-| [[Ruth Oluyemi Akande]]         |
-| [[Samya Brata Roy]]             |
-| [[Scott Rettberg]]              |
-| [[Seth Wilson]]                 |
-| [[Shannon Lee]]                 |
-| [[Shweta Khilnani]]             |
-| [[Shyla E. Nuxol]]              |
-| [[Simon Biggs]]                 |
-| [[Stephanie Tripp]]             |
-| [[Steven Xu]]                   |
-| [[Stuart Moulthrop]]            |
-| [[Tegan Pyke]]                  |
-| [[Terhi Marttila]]              |
 | [[Theodora Bassey Etim]]        |
-| [[Tiffany Fung]]                |
-| [[Tony Vieira]]                 |
-| [[Vinicius Marquet]]            |
-| [[Xiang Yu]]                    |
-| [[Xie Licheng]]                 |
-| [[Yan St-Onge]]                 |
+| [[Andrew Burrell]]              |
+| [[Lopamudra Saha]]              |
+| [[Ruth Oluyemi Akande]]         |
+| [[Francisco Reyes Betancourtt]] |
+| [[Andrew Campana]]              |
+| [[Mehulkumar Desai]]            |
+| [[Jolene L. Armstrong]]         |
+| [[Maya Sarfaty]]                |
+| [[Gloria Wilson Inyang]]        |
+| [[Emily Carr]]                  |
+| [[Devin Higgins]]               |
+| [[Piotr Małecki]]               |
+| [[Jason Boyd]]                  |
+| [[Nick Montfort]]               |
+| [[Jasmine Mattey]]              |
+| [[Lee Tusman]]                  |
+| [[Angely C. Suarez DeJesus]]    |
+| [[LJ Connolly]]                 |
+| [[Fernanda Mugica]]             |
+| [[Joy Pang]]                    |
+| [[Bridget Kies]]                |
+| [[Kenton T. Howard]]            |
+| [[Shweta Khilnani]]             |
+| [[Terhi Marttila]]              |
 | [[Yingzi (Kathryn) Kong]]       |
-| [[Yohanna Joseph Waliya]]       |
+| [[Faith Samuel Bassey]]         |
+| [[Tiffany Fung]]                |
+| [[Liselotte de Beer]]           |
+| [[Katherine Parrish]]           |
+| [[Shannon Lee]]                 |
+| [[Matthew F. Griffin]]          |
+| [[María Garay Arriba]]          |
 | [[Zach Whalen]]                 |
-| [[Zeroichi Arakawa]]            |
-| [[Zhanruo Li]]                  |
+| [[Alex Mitchell]]               |
+| [[Mark A. Black]]               |
+| [[Richard A. Carter]]           |
+| [[Yohanna Joseph Waliya]]       |
+| [[Christine Wilks]]             |
+| [[Gisela De Castro]]            |
+| [[Mihai Bacaran]]               |
+| [[Jesse M. Ward]]               |
+| [[David Thomas Henry Wright]]   |
+| [[Mark Sample]]                 |
+| [[zhijing wang]]                |
+| [[Mumtaz Mazumdar]]             |
+| [[Alex Saum-Pascual]]           |
+| [[Lilian Okoro]]                |
+| [[Roque Fernández Alcañiz]]     |
+| [[Dene Grigar]]                 |
+| [[Johanna Drucker]]             |
+| [[Stuart Moulthrop]]            |
+| [[Chloe M. A. Mauvais]]         |
+| [[Rachel Kerr]]                 |
+| [[Tegan Pyke]]                  |
+| [[Kiera Obbard]]                |
+| [[P.D. Edgar]]                  |
+| [[Claudia Kozak]]               |
+| [[Mark C. Marino]]              |
+| [[Mehulkumar Desai]]            |
+| [[Robert Arellano]]             |
+| [[Davin Heckman]]               |
+| [[Denise Larsen]]               |
+| [[Monica Storss]]               |
+| [[Kavisha D. Alagiya]]          |
+| [[patrick lichty]]              |
+| [[Rob Wittig]]                  |
+| [[Samya Brata Roy]]             |
+| [[Artemio Morales]]             |
+| [[Charles Danoff]]              |
+| [[Vinicius Marquet]]            |
+| [[Lyle Skains]]                 |
+| [[Kateryna Shabelnyk]]          |
+| [[Halim Madi]]                  |
+| [[Xiang Yu]]                    |
+| [[Jeremy Andriano]]             |
+| [[Emily Johnson]]               |
+| [[Yolanda De Gregorio]]         |
+| [[Glenn S. Ritchey III]]        |
+| [[Emery Beckman]]               |
+| [[Sebastian R. Richter]]        |
+| [[Daniela Silva de Freitas]]    |
+| [[Kirill Azernyi]]              |
+| [[Siobhan O'Flynn]]             |
+| [[Mallen Clifton]]              |
+| [[Allison Parrish]]             |
+| [[Brendan Howell]]              |
+| [[Elizabeth Losh]]              |
+| [[Élika Ortega]]                |
+| [[Caitlin Fisher]]              |
+| [[Sara Raffel]]                 |
+| [[Alex Calderwood]]             |
+| [[Abhik Hasnain]]               |
+| [[Daniel Lichtman]]             |
+| [[Michael Merriam]]             |
+| [[Ana Marques da Silva]]        |
+| [[James H. Pardue]]             |
+| [[Erin R. Glass]]               |
+| [[Judd Morrissey]]              |
+| [[Aishat Olayetunde Isiaq]]     |
+| [[John T. Murray]]              |

@@ -55,7 +55,7 @@ Madrid) 103 Proposed Panel 104 [[Anne Karhio]] (National University of Ireland, 
 
 [[Donna Leishman]] (Dundee University) 138 [[Johannah Rodgers]] (The City University of New York) 139 [[Markku Eskelinen]] (University of Jyväskylä) 140 Proposed Panel 
 
-Friday, August 7 • 11:00 - 12:30 (Sydneshaugen skole: Auditorium R) 141 [[Sandra Bettencourt]] (CLP (FLUC-UC)) 141 [[Diogo Marques]] (CLP (FLUC-UC)) 143 [[Ana Marques da Silva]] (CLP (FLUC-UC)) 144 [[Jason Lewis]] (Concordia University, Canada) 145 
+Friday, August 7 • 11:00 - 12:30 (Sydneshaugen skole: Auditorium R) 141 [[Sandra Bettencourt]] (CLP (FLUC-UC)) 141 [[Diogo Marques]] (CLP (FLUC-UC)) 143 [[Ana Marques da Silva]] (CLP (FLUC-UC)) 144 [[Jason Edward Lewis]] (Concordia University, Canada) 145 
 
 149 [[Roderick Coover]] (Temple University) 151 
 
@@ -63,7 +63,7 @@ Friday, August 7 • 11:00 - 12:30 (Sydneshaugen skole: Auditorium R) 141 [[Sand
 
 xiii 
 
-[[Penny Florence]] (Slade School of Fine Art, University College London, UK) and [[Paolo Totaro]] (Independent, Australia) 160 [[Stuart Moulthrop]] (University of Wisconsin-Milwaukee, USA) 162 [[Jason Lewis]] (Obx Labs / Concordia University, Canada) 164 [[Jörg Piringer]] (Independent, Austria) 165 [[Leonardo Flores]] (University of Puerto Rico, Mayaguez, Puerto Rico) and [[Mark Sample]] (Davidson College, USA) 166 [[Kristian Pedersen]] and [[Audun Lindholm]] (Gasspedal Animert, Norway) 166 
+[[Penny Florence]] (Slade School of Fine Art, University College London, UK) and [[Paolo Totaro]] (Independent, Australia) 160 [[Stuart Moulthrop]] (University of Wisconsin-Milwaukee, USA) 162 [[Jason Edward Lewis]] (Obx Labs / Concordia University, Canada) 164 [[Jörg Piringer]] (Independent, Austria) 165 [[Leonardo Flores]] (University of Puerto Rico, Mayaguez, Puerto Rico) and [[Mark Sample]] (Davidson College, USA) 166 [[Kristian Pedersen]] and [[Audun Lindholm]] (Gasspedal Animert, Norway) 166 
 
 [[Samantha Gorman]] (USC, Tender Claws, USA) and [[Danny Cannizzaro]] (Tender Claws, USA) 167 [[David Jhave Johnston]] (City University of Hong Kong, Hong Kong) 168 [[Judy Malloy ]](Princeton University, USA) 169 [[Dene Grigar]] and [[Greg Philbrook]] (Washington State University Vancouver, USA) 170 [[John Cayley]] (Brown University, USA) 171 [[Zenon Fajfer]] (independent poet; Ha!art Foundation, Poland) and [[Katarzyna Bazarnik]] (Jagiellonian University; Ha!art Foundation, Poland) 171 
 

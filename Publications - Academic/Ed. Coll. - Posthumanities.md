@@ -26,8 +26,8 @@ ed by [[Cary Wolfe]]
 | [[Davide Tarizzo]]                                            |
 | [[Dominic Pettman]]                                           |
 | [[Dominic Pettman]]                                           |
-| [[Donna J. Haraway]]                                          |
-| [[Donna J. Haraway]]                                          |
+| [[Donna Haraway]]                                          |
+| [[Donna Haraway]]                                          |
 | [[Edgar Landgraf]]                                            |
 | Edited by [[Christopher John Müller]] and [[Christian Dries]] |
 | Edited by [[Jeffrey West Kirkwood]] and [[Leif Weatherby]]    |

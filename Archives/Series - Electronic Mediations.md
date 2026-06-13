@@ -85,7 +85,8 @@ Unviersity Minnesota Press
 | [[Andrew Battaglia]] and [[Daniel Raschke]] |
 | [[Charles Marcrum II]]                      |
 | [[Dominic J Bonfiglio]]                     |
-| [[Eric Hayot and Lea Pao]]                  |
+| [[Eric Hayot]] and [[Lea Pao]]              |
 | [[Joanna Zylinska]]                         |
 | [[Nancy Ann Roth]]                          |
 | [[Nancy Ann Roth]]                          |
+|                                             |

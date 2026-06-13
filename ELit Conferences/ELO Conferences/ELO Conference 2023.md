@@ -81,7 +81,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Evgenia Kleidona]]                       |
 | [[Vasiliki Karanika]]                      |
 | [[Jeremy Douglass]]                        |
-| [[David Berry]]                            |
+| [[David M. Berry]]                            |
 | [[Jason Boyd]]                             |
 | [[John Cayley]]                            |
 | [[Daniel Temkin]]                          |
@@ -246,7 +246,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Jennifer Minnen]]                        |
 | [[Christian Bök]]                          |
 | [[Sasha Stiles]]                           |
-| [[Ana Maria Caballero]]                    |
+| [[Ana María Caballero]]                    |
 | [[Lillian-Yvonne Bertram]]                 |
 | [[Rui Torres]]                             |
 | [[Amira Hanafi]]                           |
