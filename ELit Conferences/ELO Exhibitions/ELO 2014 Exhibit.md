@@ -42,7 +42,7 @@
 [[Joseph Peters]]
 [[Scott Rettberg]] and [[Roderick Coover]]
 [[Chris Rodley]] and [[Andrew Burrell]]
-[[Johannah Rodgers]]
+[[Johanna Rodgers]]
 [[Jim Rosenberg]]
 [[Anastasia Salter]] and [[John T. Murray]]
 [[Catherine Siller]]

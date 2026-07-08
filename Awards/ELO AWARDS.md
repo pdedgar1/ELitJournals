@@ -56,6 +56,6 @@ hon. ment. [[Alessandro Ludovico]] and [[Simone Murray]]
 2021 to present 
 
 [[Talan Memmott]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[Allison Parrish]]
 [[Jason Nelson]]

@@ -1,7 +1,7 @@
 #academicJournal 
 
 # 2026 
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[Anna Nacher]]
 
 ## 2025

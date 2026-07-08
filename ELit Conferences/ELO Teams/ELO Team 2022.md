@@ -10,7 +10,7 @@
 - [[David Thomas Henry Wright]] (University of Nagoya)
 - [[Raine Koskimaa]] (University of Jyväskylä)
 - [[Rejane C. Rocha]] (Federal University of São Carlos)
-- [[Alckmar Luis Dos Santos]] (Federal University of Santa Catarina)
+- [[Alckmar Luís dos Santos]] (Federal University of Santa Catarina)
 - [[Isabela Melim Borges]] (Federal University of Santa Catarina)
 - [[Nohelia Meza]] (Independent Scholar)
 - [[Mariana Ciancia]] (Politecnico di Milano)

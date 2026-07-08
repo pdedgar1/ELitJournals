@@ -47,7 +47,7 @@
 [[Jason Nelson]]
 [[Sally Rodgers]] & [[Steve Jones]]
 [[Alexandra Saemmer]]
-[[Mark Sample]]
+[[Mark L. Sample]]
 [[Greg J. Smith]] & [[Erik Loyer]]      
 
 [[Alan Sondheim]]   

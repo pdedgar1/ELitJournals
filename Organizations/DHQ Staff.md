@@ -37,7 +37,7 @@
 | [[Alex Gil]]                           |
 | [[Robin Hershkowitz]]                  |
 | [[Hoyeol Kim]]                         |
-| [[Matthew Kirschenbaum]]               |
+| [[Matthew G. Kirschenbaum]]               |
 | [[Nika Mavrody]]                       |
 | [[Jessica Pressman]]                   |
 | [[Geoffrey Rockwell]]                  |

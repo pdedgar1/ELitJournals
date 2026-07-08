@@ -14,7 +14,7 @@
 [[Alex Mitchell]],
  [[Scott Rettberg]]
 [[Jeffrey T. Johnson]], 
-[[Johannah Rodgers]]
+[[Johanna Rodgers]]
 [[Claire Donato]]
 [[Jean Sramek]]
 

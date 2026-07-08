@@ -128,7 +128,7 @@ Liberdade
 
 [[Francisco Marinho]] (Federal University of Minas Gerais, Brazil) and
 
-[[Alckmar Santos]] (Federal University of Santa Catarina, Brazil)  243
+[[Alckmar Luís dos Santos]] (Federal University of Santa Catarina, Brazil)  243
 
 Labyrinth…
 
@@ -246,7 +246,7 @@ INTERVENTIONS: ENGAGING THE BODY POLITIC 261
 
 Cavewriting Classics on the Oculus Rift
 
-[[Damon Baker]] (Independent, USA) 264
+[[Damon Loren Baker]] (Independent, USA) 264
 
 The End: Death in Seven Colours
 

@@ -72,7 +72,7 @@
 [[Kimberly Lyle]]
 [[Nilufar Karimi]] and [[Eliseo Ortiz]]
 [[Caleb Foss]]
-[[Tina Escaja]]
+[[Tina Escaja aka Alm@ Pérez]]
 [[Dalena Tran]]
 [[Robert Spahr]]
 [[Andrew W. Smith]]
@@ -100,7 +100,7 @@
 
 
 ### Fall 2020 - Edited by [[John Darcy]] and [[Kira Homsher]]
-[[Tina Escaja]]
+[[Tina Escaja aka Alm@ Pérez]]
 [[Ella Rosenblatt]]
 [[Caitlin Foley]] & [[Misha Rabinovich ]]
 
@@ -121,7 +121,7 @@
 [[Mark C. Marino]]
 [[Alex Saum-Pascual]]
 [[Lai-Tze Fan]] and [[Nick Montfort]]
-[[Andrew Demirjian]] and [[James Proctor]]
+[[Andrew Haik Demirjian]] and [[James Proctor]]
 [[Vanessa Argueta]]
 [[Liliana Vasques]]
 [[Logan K. Young]]

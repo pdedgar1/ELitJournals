@@ -1,7 +1,7 @@
 #academicJournal 
 ### Writing under Constraint 
 2023 - [[Manuel Portela]]
-2021 - [[Deena Larsen]]
+2021 - [[Denise+Deena Larsen]]
 [[Hannah Ackermans]]
 2013 - [[Maria Damon]]
 2010 - [[Louis Bury]]

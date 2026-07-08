@@ -8,8 +8,8 @@
 | [[Clare Harvey]]                                      |
 | [[Daniel Temkin]]                                     |
 | [[David R. Lincoln]]                                  |
-| [[Deena Larsen]]                                      |
-| [[Deena Larsen]], [[Marianne Abdallah]]               |
+| [[Denise+Deena Larsen]]                                      |
+| [[Denise+Deena Larsen]], [[Marianne Abdallah]]               |
 | [[Elvis Herrada Erquiaga]]                            |
 | [[Halim Madi]]                                        |
 | [[Jim Andrews]]                                       |

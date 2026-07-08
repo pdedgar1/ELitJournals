@@ -50,7 +50,7 @@
 | [[Piotr Małecki]]                                                                                       |
 | [[Tomasz Tdc Cieślewicz]]                                                                               |
 | [[Krzysztof Kaz Ziembik]]                                                                               |
-| [[Andrew Demirjian]]                                                                                    |
+| [[Andrew Haik Demirjian]]                                                                                    |
 | [[Thea Pitman ]]                                                                                        |
 | [[Erik Zepka]]                                                                                          |
 | [[David Núñez Ruiz]]                                                                                         |
@@ -58,13 +58,13 @@
 | [[María Mencía]]                                                                                        |
 | [[Christiana Kazakou]]                                                                                  |
 | [[Paulo Silva Pereira]]                                                                                 |
-| [[Tina Escaja]]                                                                                         |
+| [[Tina Escaja aka Alm@ Pérez]]                                                                                         |
 | [[Richard A. Carter]]                                                                                   |
 | [[Diogo Marques]]                                                                                       |
 | [[Ana Gago]]                                                                                            |
 | [[Andy Simionato]]                                                                                      |
 | [[Karen Ann Donnachie]]                                                                                 |
-| [[Johannah Rodgers]]                                                                                    |
+| [[Johanna Rodgers]]                                                                                    |
 | [[Michael Heidt]]                                                                                       |
 | [[Edouard Beau]]                                                                                        |
 | [[Evan Harris]]                                                                                         |
@@ -88,10 +88,10 @@
 | [[Maya Zalbidea Paniagua]]                                                                              |
 | [[Laura Sánchez Gómez]]                                                                                 |
 | [[John T. Murray]]                                                                                      |
-| [[Ana Machado]]                                                                                         |
+| [[Ana Maria Silva Machado]]                                                                                         |
 | [[Rui Torres]]                                                                                          |
-| [[Ana Aguilar]]                                                                                         |
-| [[Luís Pereira]]                                                                                        |
+| [[Ana Sofia Albuquerque e Aguilar]]                                                                                         |
+| [[Luís Lucas Pereira]]                                                                                        |
 | [[Thales Estefani]]                                                                                     |
 | [[Júlia Andrade]]                                                                                       |
 | [[Stuart Moulthrop]]                                                                                    |
@@ -127,7 +127,7 @@
 | [[Claus-Michael Schlesinger]]                                                                           |
 | [[David Devanny]]                                                                                       |
 | [[Anna Nacher]]                                                                                         |
-| [[Johannah Rodgers]]                                                                                    |
+| [[Johanna Rodgers]]                                                                                    |
 | [[Andrew Klobucar]]                                                                                    |
 | [[Daniel C. Howe]]                                                                                      |
 | [[Nicholas Schiller]]                                                                                   |
@@ -145,7 +145,7 @@
 | [[Laura Okkema]]                                                                                        |
 | [[Patrick Lichty]]                                                                                      |
 | [[Annelyse Gelman]]                                                                                     |
-| [[Tina Escaja]]                                                                                         |
+| [[Tina Escaja aka Alm@ Pérez]]                                                                                         |
 | [[John F. Barber]]                                                                                      |
 | [[Greg Philbrook]]                                                                                      |
 | [[Colm Scully]]                                                                                         |
@@ -190,7 +190,7 @@
 | [[Shawn Day]]                                                                                           |
 | [[Hannah Ackermans]]                                                                                    |
 | [[Clara Chetcuti]]                                                                                      |
-| [[Andrew Demirjian]]                                                                                    |
+| [[Andrew Haik Demirjian]]                                                                                    |
 | [[Anna Nacher]]                                                                                         |
 | [[Hannah Ackermans]]                                                                                    |
 | [[Kristin Allukian]]                                                                                    |
@@ -203,7 +203,7 @@
 | [[Krzysztof Kaz Ziembik]]                                                                               |
 | [[Michael J. Maguire]]                                                                                  |
 | [[Catherine Winters]]                                                                                   |
-| [[Svetlana Kuchina]]                                                                                    |
+| [[Svetlana Anatolevna Kuchina]]                                                                                    |
 | [[Corey Sparks]]                                                                                        |
 | [[Helen J. Burgess]]                                                                                       |
 | [[Álvaro Seiça]]                                                                                        |
@@ -278,7 +278,7 @@
 | [[Karen Ann Donnachie]] (Independent Artist)]]                                                          |
 | [[Patrick LeMieux]] & ]]                                                                                |
 | [[Stephanie Boluk]] (University of California, Davis)]]                                                 |
-| [[Deena Larsen]] (The Rose Project) & ]]                                                                |
+| [[Denise+Deena Larsen]] (The Rose Project) & ]]                                                                |
 | [[Leonardo Flores]]                                                                                     |
 | [[Paul O'Neill]]                                                                                        |
 | [[Pip Thornton]]                                                                                        |
@@ -298,7 +298,7 @@
 | [[Jason Nelson]] (Griffith University)]]                                                                |
 | [[Cecília Magalhães]]                                                                                   |
 | [[Maartje Smits]] (Gerrit Rietveld Academie / ArtEZ)]]                                                  |
-| [[Tina Escaja]]                                                                                         |
+| [[Tina Escaja aka Alm@ Pérez]]                                                                                         |
 | [[Meredith Morran]] (Brown University)]]                                                                |
 | [[Sasha Mile Rudan]]                                                                                    |
 | [[Christopher Boucher]] (Boston College)]]                                                              |
@@ -325,7 +325,7 @@
 | [[Milton Läufer]]                                                                                       |
 | [[Demian Schopf]]                                                                                       |
 | [[Vinícius Carvalho Pereira]]                                                                           |
-| [[Deena Larsen]]                                                                                        |
+| [[Denise+Deena Larsen]]                                                                                        |
 | [[Jon Saklofske]]                                                                                       |
 | [[Bill Bly]]                                                                                            |
 | [[Dene Grigar]]                                                                                         |

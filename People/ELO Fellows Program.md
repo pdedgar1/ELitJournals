@@ -8,7 +8,7 @@
 ### 2021-2022
 - [[Hannah Ackermans]]
 - [[Laura Sánchez Gómez]]
-- [[Alexandra Martin]]
+- [[Alexandra L. Martin]]
 - [[Shanmuga Priya]]
 - [[Zahra Rizvi]]
 

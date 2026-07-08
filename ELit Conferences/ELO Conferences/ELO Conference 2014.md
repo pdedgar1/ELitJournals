@@ -8,7 +8,7 @@ Buses depart Doubletree for UWM
 Media Arts Show OPEN –Golda Meir Library, Digital Humanities Lab: 9AM-­‐5PM
 Session 1A Language in Front of Us–Curtin 118
 Chair:T.B.A.
-❏[[Luc Dall'Armellina]], ❏[[Jonathan Olshefski]], ❏[[Deena Larsen]], Session 1B Social Media, The City–Curtin 175
+❏[[Luc Dall'Armellina]], ❏[[Jonathan Olshefski]], ❏[[Denise+Deena Larsen]], Session 1B Social Media, The City–Curtin 175
 Chair:CarolynGuertin
 ❏[[Carolyn Guertin]], ❏[[Kathi Inman Berens]], ❏[[Kwabena Opoku-Agyemang]], ❏[[Benjamin Grosser]], Break
 Session 2A A Feel for the Algorithm–Curtin 118
@@ -33,9 +33,9 @@ Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
 Chair:T.B.A.
 ❏[[Hazel Smith]], ❏[[Caitlin Fisher]], ❏[[John Garrison]], ❏[[Talan Memmott]],Pedestrionics:MemeCulture,AlienationCapital,andGesticPlay
 
-❏[[Stephanie Strickland]] & [[Ian Hatcher]], ❏[[ChristianUlrik Andersen]], [[Jonas Fritsch]] & [[Søren Bro Pold]], ❏[[Scott Rettberg]]& [[Rod Coover]], Session 5B Children’s E-­‐Lit–Curtin 118
+❏[[Stephanie Strickland]] & [[Ian Hatcher]], ❏[[Christian Ulrik Andersen]], [[Jonas Fritsch]] & [[Søren Bro Pold]], ❏[[Scott Rettberg]]& [[Rod Coover]], Session 5B Children’s E-­‐Lit–Curtin 118
 Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
-❏[[Leonardo Flores]], ❏[[Lucas Ramada Prieto]], ❏[[Jill Walker Rettberg]], Session 5C Media Arts Demo Session 2–Digital Humanities Lab, Golda Meir Library Second Floor❏[[Chris Rodley]], [[Nick Montfort]], [[Serge Bouchardon]]&[[Luc Dall'Armellina]]& [[Pierre Fourny]], [[Jim Rosenberg]], [[Natalia Fedorova]], [[Tully Hansen]], [[Mark Marino]], [[Mark Marino]] & [[Rob Wittig]], [[Jeff T. Johnson]] & [[Andrew Klobucar]], [[Stephen Wingate]], [[Joel Beeson]] & [[Dana Coester]],  [[Piotr Małecki]] and [[Aleksandra Małecka]],[[Alan Bigelow]]
+❏[[Leonardo Flores]], ❏[[Lucas Ramada Prieto]], ❏[[Jill Walker Rettberg]], Session 5C Media Arts Demo Session 2–Digital Humanities Lab, Golda Meir Library Second Floor❏[[Chris Rodley]], [[Nick Montfort]], [[Serge Bouchardon]]&[[Luc Dall'Armellina]]& [[Pierre Fourny]], [[Jim Rosenberg]], [[Natalia Fedorova]], [[Tully Hansen]], [[Mark C. Marino]], [[Mark C. Marino]] & [[Rob Wittig]], [[Jeff T. Johnson]] & [[Andrew Klobucar]], [[Stephen Wingate]], [[Joel Beeson]] & [[Dana Coester]],  [[Piotr Małecki]] and [[Aleksandra Małecka]],[[Alan Bigelow]]
 Break
 Session 6A Book, Archive, Narrative –Curtin 118
 Chair:[[Jessica Pressman]]
@@ -44,7 +44,7 @@ Chair:LeonardoFlores
 ❏[[Dene Grigar]], ❏[[Jim Rosenberg]], ❏[[Rob Wittig]], Catered Lunch–Golda Meir Library, Fourth Floor Conference Center
 Session 7A Teaching E-­‐Lit–Curtin 118
 Chair:[[Carolyn Guertin]]
-❏[[Barbara Liu]], ❏[[Trent Hergenrader]], ❏[[Allison Parrish]], ❏[[Helen Burgess]], Session 7B Developing for New Platforms Roundtable Discussion–Curtin 175
+❏[[Barbara Liu]], ❏[[Trent Hergenrader]], ❏[[Allison Parrish]], ❏[[Helen J. Burgess]], Session 7B Developing for New Platforms Roundtable Discussion–Curtin 175
 Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
 ❏[[M. D. Coverley aka Marjorie C. Luesebrink]], [[Stephanie Strickland]], [[Nick Montfort]], [[Ian Hatcher]], [[John T. Murray]], [[Anastasia Salter]], and[[Steve Tomasula]]
 Break
@@ -72,7 +72,7 @@ Session 11A Surfaces, Virtualities–Curtin 118
 Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
 ❏[[Jeroen Gerrits]], ❏[[Kristopher Purzycki]], Session 11B Modes of Production–Curtin 175
 Chair:[[Lori Emerson]]
-❏[[Craig Saper]], ❏[[María Goicoechea de Jorge]], Break
+❏[[Craig J. Saper]], ❏[[María Goicoechea de Jorge]], Break
 Open ELO Meeting–Curtin 175
 [[M. D. Coverley aka Marjorie C. Luesebrink]], Convener
 **

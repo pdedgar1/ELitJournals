@@ -20,7 +20,7 @@
 | [[Claudia Kozak]]            |
 | [[Dan Cox]]                  |
 | [[Daniel Heslep]]            |
-| [[Deena Larsen]]             |
+| [[Denise+Deena Larsen]]             |
 | [[Dene Grigar]]              |
 | [[Kirk M. Lundblade]]        |
 | [[Élika Ortega]]             |

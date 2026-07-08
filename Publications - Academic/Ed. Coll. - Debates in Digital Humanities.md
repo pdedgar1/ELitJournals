@@ -35,11 +35,11 @@ Contributors
 [[Stephen Ramsay]] is associate professor of English and a fellow at the Center for Digital Research in the Humanities at the University of Nebraska, Lincoln. He is the author of Reading Machines: Toward an Algorithmic Criticism.
 [[ALEXANDER REID]] is associate professor of English and director of composition and teaching fellows at the State University of New York at Buffalo. He is the author of The Two Virtuals: New Media and Composition and coeditor of Design Discourse: Composing and Revising Programs in Professional and Technical Writing.
 [[Geoffrey Rockwell]] is professor of philosophy and director of the Canadian Institute for Research Computing in the Arts (CIRCA) at the University of Alberta. He is the author of Defining Dialogue: From Socrates to the Internet.
-[[Mark Sample]] is assistant professor of English at George Mason University.
+[[Mark L. Sample]] is assistant professor of English at George Mason University.
 [[TOM SCHEINFELDT]] is managing director of the Roy Rosenzweig Center for History and New Media at George Mason University. He is coeditor with Dan Cohen of Hacking the Academy.
 [[KATHLEEN MARIE SMITH]] is a PhD candidate in the Department of Germanic Languages and Literatures at the University of Illinois at Urbana-Champaign.
 [[Lisa Spiro]] is director of National Institute for Technology in Liberal Education (NITLE) Labs.
-[[Patrik Svensson]] is associate professor of digital humanities and director of HUMlab at Umeå University.
+[[Patrik BO Svensson]] is associate professor of digital humanities and director of HUMlab at Umeå University.
 [[LUKE WALTZER]] is assistant director for educational technology at the Bernard L. Schwartz Communications Institute, Baruch College.
 [[MATTHEW WILKENS]] is assistant professor of English at the University of Notre Dame.
 [[GEORGE H. WILLIAMS]] is assistant professor of English at the University of South Carolina Upstate.
@@ -98,7 +98,7 @@ Contributors
 [[Lisa Marie Rhody]], previously associate director of research projects at the Roy Rosenzweig Center for History and New Media at George Mason University, is now at the CUNY Graduate Center as deputy director of Digital Initiatives. Her scholarly interests span contemporary poetry, topic modeling, data visualization, and scholarly communication.
 [[Roopika Risam]] is assistant professor of English and English education at Salem State University. Her research examines the intersections of postcolonial, African American, and U.S. ethnic literatures and the role of digital humanities in mediating between them.
 [[Stephen Robertson]] is director of the Roy Rosenzweig Center for History and New Media and professor in the Department of History and Art History at George Mason University. He is one of the creators of the site Digital Harlem: Everyday Life, 1915–1930 (digitalharlem.org).
-[[Mark Sample]] is associate professor of digital studies at Davidson College. His teaching and research focuses on contemporary literature, new media, and video games. His examination of the representation of torture in video games appeared in Game Studies.
+[[Mark L. Sample]] is associate professor of digital studies at Davidson College. His teaching and research focuses on contemporary literature, new media, and video games. His examination of the representation of torture in video games appeared in Game Studies.
 [[Jentery Sayers]] is assistant professor of English and cultural, social, and political thought, as well as director of the Maker Lab in the Humanities, at the University of Victoria. He works at the intersections of comparative media studies and digital humanities.
 [[Benjamin M. Schmidt]] is assistant professor of history at Northeastern University and a member of the core faculty at the NULab for Texts, Maps, and Networks. His research interests are in the digital humanities and the intellectual and cultural history of the United States in the nineteenth and twentieth centuries.
 [[Scott Selisker]] is assistant professor of English at the University of Arizona. He is author of Human Programming: Brainwashing, Automatons, and American Unfreedom (Minnesota, 2016).
@@ -165,7 +165,7 @@ Contributors
 [[KATIE RAWSON]] is director of learning innovation at the University of Pennsylvania Libraries.
 [[BEN ROBERTS]] is lecturer in digital humanities at the University of Sussex.
 [[David S. Roh]] is associate professor of English and director of the Digital Matters Lab at the University of Utah. He is author of Illegal Literature and coeditor of Techno-Orientalism.
-[[Mark Sample]] is associate professor of digital studies at Davidson College. He is coauthor of 10 PRINT CHR$(205.5+RND(1)); : GOTO 10.
+[[Mark L. Sample]] is associate professor of digital studies at Davidson College. He is coauthor of 10 PRINT CHR$(205.5+RND(1)); : GOTO 10.
 [[MOACIR P. DE SÁ PEREIRA]] is assistant professor and faculty fellow of English at New York University.
 [[TIM SHERRATT]] is associate professor of digital heritage at the University of Canberra.
 [[BOBBY L. SMILEY]] is associate director of the Divinity Library at Vanderbilt University.

@@ -115,7 +115,7 @@ CELL member : Portuguese Language E-lit
 |[[Ana Isabel Moniz]]|
 |[[Ana Luísa Amaral]]|
 |[[Ana Luísa Barão]]|
-|[[Ana Maria Machado]]|
+|[[Ana Maria Silva Machado]]|
 |[[Ana Marques Gastão]]|
 |[[Ana Paixão]]|
 |[[Ana Sousa Dias]]|
@@ -316,7 +316,7 @@ CELL member : Portuguese Language E-lit
 |[[Luís Veiga Leitão]]|
 |[[Luísa Gonçalves]]|
 |[[Mafalda Costa]]|
-|[[Manaíra Athayde]]|
+|[[Manaíra Aires Athayde]]|
 |[[Mandrágora]]|
 |[[Manoel Barbosa]]|
 |[[Manuel de Lima]]|
@@ -427,7 +427,7 @@ CELL member : Portuguese Language E-lit
 |[[Uwe Warnke]]|
 |[[Valéria Nassif Domingues]]|
 |[[Vera Carvalho]]|
-|[[Vinicius Carvalho Pereira]]|
+|[[Vinícius Carvalho Pereira]]|
 |[[Vítor Freitas]]|
 |[[Wagner Moreira]]|
 |[[Yara Frateschi Vieira]]|

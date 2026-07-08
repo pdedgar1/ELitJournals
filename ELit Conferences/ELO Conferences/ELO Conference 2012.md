@@ -8,7 +8,7 @@
 [[Bill Bly]] and [[Alan Sondheim]]
 [[Eric Dean Rasmussen]] and [[Scott Rettberg]]
 [[Daniel C. Howe]]
-[[Bill Bly]], [[Deena Larsen]], [[M. D. Coverley aka Marjorie C. Luesebrink]]
+[[Bill Bly]], [[Denise+Deena Larsen]], [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Maria Angel]] [[Laura Borràs Castanyer]] [[Anna Gibbs]] [[Dene Grigar]] [[Davin Heckman]] [[Eric Dean Rasmussen]] [[Joseph Tabbi]]
 [[Caitlin Fisher]] [[Jason Edward Lewis]] [[Erik Loyer]] [[Greg J. Smith]] [[Jason Nelson]]
 
@@ -21,7 +21,7 @@
 [[John Cayley]] [[Jacob Garbe]] [[John T. Murray]] 
 [[Christopher T. Funkhouser]] [[Andrew Klobucar]]
 [[Hazel Smith]]
-[[J. R. Carpenter]] [[Maria Engberg]] [[Flourish Klink]] [[Talan Memmott]] [[Nick Montfort]] [[Andrew Plotkin]] [[Scott Rettberg]] [[Mark Sample]] [[Eric Snodgrass]]
+[[J. R. Carpenter]] [[Maria Engberg]] [[Flourish Klink]] [[Talan Memmott]] [[Nick Montfort]] [[Andrew Plotkin]] [[Scott Rettberg]] [[Mark L. Sample]] [[Eric Snodgrass]]
 
 [[David Clark]] [[M. D. Coverley aka Marjorie C. Luesebrink]] [[Jessica Pressman]] 
 [[Fabio De Vivo]] [[D. Fox Harrell]] [[Anastasia Salter]]
@@ -37,7 +37,7 @@
 [[Jason Farman]] [[Dene Grigar]] [[Jeff Ritchie]]
 [[Dene Grigar]] [[M. D. Coverley aka Marjorie C. Luesebrink]] [[Judy Malloy]]
 
-[[Brian Evans]] [[Daniel C. Howe]] [[Braxton Soderman]] [[Stacey Mason]] [[Mark Sample]]
+[[Brian Evans]] [[Daniel C. Howe]] [[Braxton Soderman]] [[Stacey Mason]] [[Mark L. Sample]]
 [[Jim Bizzocchi]] [[Lane Hall]] [[Aaron A. Reed]] [[Rob Wittig]]
 [[Stephanie Boluk]] [[Patrick LeMieux]] [[Nick Montfort]] [[Stephanie Strickland]]
 [[Claire Donato]] [[Jeffrey T. Johnson]]

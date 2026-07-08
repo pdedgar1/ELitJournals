@@ -8,12 +8,12 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Johanna Drucker]] (U. California Los Angeles, USA), "Amusements Electroniques"
 - [[Oscar Schwartz]] (Monash U., Australia), "The Aeolian Poetics: Computation as Metaphor for Poetic Invention in English Romanticism"
-- [[Johannah Rodgers]] (City U. New York, USA), "Plumbing the Depths of Print: John Peter’s ‘Artificial Versifying’ and the 17th c. Textual Machine in England"
+- [[Johanna Rodgers]] (City U. New York, USA), "Plumbing the Depths of Print: John Peter’s ‘Artificial Versifying’ and the 17th c. Textual Machine in England"
 - [[Andy Simionato]] (RMIT U., Australia) and [[Karen Ann Donnachie]] (Australia), "Mallarmé’s Self-replicating Machine"
 - [[Agnieszka Przybyszewska]] (U. Lodz, Poland), "Milorad Pavić and Literary Interfaces for Non-linear Writing"
 
-- [[Vinícius Pereira]] (Federal U. Mato Grosso, Brazil), "The Convergence between Print and Digital Literature in Blackout Poetry"
-- [[Alckmar Luiz dos Santos]] (Federal U. Santa Catarina, Brazil), "’O Cosmonauta’, a Digital Creation)"
+- [[Vinícius Carvalho Pereira]] (Federal U. Mato Grosso, Brazil), "The Convergence between Print and Digital Literature in Blackout Poetry"
+- [[Alckmar Luís dos Santos]] (Federal U. Santa Catarina, Brazil), "’O Cosmonauta’, a Digital Creation)"
 - [[Joshua Alma Enslen]] (US Military Academy West Point, USA), "'As Aves que Aqui Twittam': New Media Variations of 'Canção do Exílio' and Brazil’s Twenty-First Century Socio-Cultural Landscape"
 - [[Yue-Jin Ho]] (Open U., Hong Kong), "The Battle of Simplified & Traditional: Chinese Text-based Interactive Installations and the French Lettrism"
 - [[Hartmut Koenitz]] (HKU U. of the Arts, Utrecht, Netherlands), "The SPP Model - Theorizing Frasca’s Narrativist Approach Towards Interactive Narrative"
@@ -32,11 +32,11 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Jaime Alejandro Rodríguez Ruiz]] (Pontificia U. Javeriana, Colombia), "Virtuality and Intermediation in Hypermedia: ‘Memorias y caminos’"
 - [[Carolina Gainza]] (U. Diego Portales, Chile) "Textualities, Politics and Languages of the Digital: Poetics and Aesthetics in the Chilean Digital Literature"
 
-- [[Svetlana Kuchina]] (Novosibirsk State Technical U., Russia), "On Generative Poetry: Structural, Stylistic and Lexical Features"
+- [[Svetlana Anatolevna Kuchina]] (Novosibirsk State Technical U., Russia), "On Generative Poetry: Structural, Stylistic and Lexical Features"
 - [[Vladimira Velicki]] (U. Zagreb, Croatia) and Damir Velicki (U. Zagreb, Croatia), "Hyperfiction and Reading, with Examples of Electronic Processing of Grimms’ Fairy Tales"
 - [[Gilles Rouffineau]] (ESAD Valence, France), "Is Literary Translation Really Useless in the Digital Field? MBCBFTW as a Case Study"
 - [[Agnieszka Przybyszewska]] (U. Lodz, Poland), "Liberacy in Context of Interfacial and Material Turn and What They Have in Common with E-literacy"
-- [[Robert Fletcher]] (West Chester U., USA), "All Lit Constantly Aspires Towards the Condition of Elit: Aestheticism and Augmented Reality"
+- [[Robert P. Fletcher]] (West Chester U., USA), "All Lit Constantly Aspires Towards the Condition of Elit: Aestheticism and Augmented Reality"
 - [[Susana Fotu]] (Mills College, USA), "The Resurrection of the Cyborg-Reader: An Examination of User Engagement with Digital Poetry"
 - [[Patrick Lichty]] (Zayed U., United Arab Emirates), "Virtual Narratology and the Notion of Literary Spatial Form"
 
@@ -84,7 +84,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Amber Strother]] (Washington State U., USA), "Mary Shelley’s Hideous Progeny and the Reclaiming of the Monstrous Female Body in Shelley Jackson’s ‘Patchwork Girl’ and ‘Penny Dreadful’"
 - [[Matteo d'Ambrosio]] (U. Naples Federico II, Italy), "The Early Computer Poetry and Concrete Poetry"
 
-- [[Rogério Barbosa Silva]] (Federal Center of Technological Education Minas Gerais, Brazil), [[Caio Roberto Saldanha]] (Federal Center of Technological Education Minas Gerais, Brazil), and [[Amanda Rafaela Gomes Martins]] (Federal Center of Technological Education Minas Gerais, Brazil), "Poemaps: Perspectives for Creation and Circulation of Poetry in the Multimedia Context"
+- [[Rogério Barbosa da Silva]] (Federal Center of Technological Education Minas Gerais, Brazil), [[Caio Roberto Saldanha]] (Federal Center of Technological Education Minas Gerais, Brazil), and [[Amanda Rafaela Gomes Martins]] (Federal Center of Technological Education Minas Gerais, Brazil), "Poemaps: Perspectives for Creation and Circulation of Poetry in the Multimedia Context"
 - [[Pablo Gobira]] (State U. Minas Gerais, Brazil), "Aleph System: A Poetic Interface for Computational Works of Art"
 - [[Álvaro Andrade Garcia]] (Ciclope, Brazil) and [[Lucas Junqueira]]*, "Toy Poems and Free Software Managana: Challenges of a Transmedia Publication"
 - [[Wagner Moreira]] (Federal Center of Technological Education Minas Gerais, Brazil), [[Andre Menezes]] (Studio Alfavaca, Brazil), and [[Cardes Amâncio]]*, "The Poetic Technical Image: to Think a Politics of the Look"
@@ -141,7 +141,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Jianni Tien]] (City U., Hong Kong), "Cyborg Poetries: A Procedural Analysis of Poetics of Reading"
 
 - [[Laura Sánchez Gómez]] (Complutense U. Madrid, Spain), "Mapping Spanish E-lit: Networks, Readings and Communities"
-- [[Mark Sample]] (Davidson College, USA), "Massive E-Lit: Teaching Digital Literature to Thousands"
+- [[Mark L. Sample]] (Davidson College, USA), "Massive E-Lit: Teaching Digital Literature to Thousands"
 - [[Damon Loren Baker]] (York U., Canada), "Web Native Technologies for Electronic Literature: York University AR Lab Technical Report 17-07"
 - [[Ryan House]] (Washington State U., USA), "A Game by Any Other Name: An Examination of Film and Game Design Theory in Virginia"
 
@@ -204,7 +204,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 
 - [[M. D. Coverley aka Marjorie C. Luesebrink]] (Electronic Literature Organization, USA) and [[Stephanie Strickland]] (Electronic Literature Organization, USA), "Axolotls and Perfume Bottles"
 - [[Donna Leishman]] (Glasgow School of Art, UK), "Cautionary Tale: Stories Made and Distributed through the Internet"
-- [[Angelica Huizar]] (Old Dominion U., USA [Brazil]), "Poetic Transliteration, Metaphysical Transpositions in Brazilian Digital Poetries"
+- [[Angelica J. Huizar]] (Old Dominion U., USA [Brazil]), "Poetic Transliteration, Metaphysical Transpositions in Brazilian Digital Poetries"
 
 - [[Bertrand Gervais]] (U. Québec Montréal, Canada), "Imaginary Montreal: Urban Literary Walks"
 - [[Alexandra Saemmer]] (U. Paris 8, France), "Ambulatory Hyperlinks"
@@ -217,7 +217,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 - [Gilles Rouffineau]() (ESAD Grenoble, France), "Before Personal Computers, a Smart Letraset Graphical Implementation"
 
 - [[Laura Sánchez Gómez]] (Complutense U. Madrid, Spain), "Mapping Spanish E-lit: Networks, Readings and Communities"
-- [[Mark Sample]] (Davidson College, USA), "Massive E-Lit: Teaching Digital Literature to Thousands"
+- [[Mark L. Sample]] (Davidson College, USA), "Massive E-Lit: Teaching Digital Literature to Thousands"
 - [[Damon Loren Baker]] (York U., Canada), "Web Native Technologies for Electronic Literature: York University AR Lab Technical Report 17-07"
 - [[Ryan House]] (Washington State U., USA), "A Game by Any Other Name: An Examination of Film and Game Design Theory in Virginia"
 - [[Roderick Coover]] (Temple U., USA)
@@ -235,7 +235,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 - [[Jon Amakawa]]*
 - [[Mauro Carassai]] (California State U. Northridge, USA), "Reading E-literature and the Un-coded Model of Meaning"
 
-- [[Nuno Neves]] (U. Coimbra, Portugal), "Voice: Code Speaks Louder Than Words"
+- [[Nuno Miguel Neves]] (U. Coimbra, Portugal), "Voice: Code Speaks Louder Than Words"
 - [[Tiago Schwäbl]] (U. Coimbra, Portugal), "Voice of Sound Poetry: Ample, Amplified, Samplified"
 - [[Anna Nacher]] (Jagiellonian U., Poland), "Vocalization: Ephemerality and Meaning"
 [[Monika Górska-Olesińska]] (U. Opole, Poland), "Voice-based Performances"
@@ -243,7 +243,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 - [[David Thomas Henry Wright]] (Murdoch U., Australia), "'Writing for' with Authority: Theorising an Electronic Edition of Shahriar Mandanipour’s ‘Censoring an Iranian Love Story’"
 -[[Luís Lucas Pereira]] (U. Coimbra, Portugal) and [[Manuel Portela]] (U. Coimbra, Portugal), "’Machines of Disquiet’: Textual Experience in the LdoD Archive"
 - [[Philippe Bootz]] (U. Paris 8, France), [[Hermes Salceda]] (U. Vigo, Spain), and [[María Inés Laitano]]*, "Generated Animated Remediation of ‘Nouvelles Impressions d’Afrique’ by Raymond Roussel"
-- [[Ana Machado]] (U. Coimbra, Portugal), [[Andy Campbell]] (UK), [[Ana Aguilar]] (U. Coimbra, Portugal), [[Ian Harper]]* and [[António Oliveira]]*, "’Inanimate Alice’ - The Story of the Series and its Impact in Portugal"
+- [[Ana Maria Silva Machado]] (U. Coimbra, Portugal), [[Andy Campbell]] (UK), [[Ana Sofia Albuquerque e Aguilar]] (U. Coimbra, Portugal), [[Ian Harper]]* and [[António Oliveira]]*, "’Inanimate Alice’ - The Story of the Series and its Impact in Portugal"
 - [[Laura Santini]] (U. Genoa, Italy), "Re-mediation and Code-switching in Contemporary E-literature and Codex Book Novels"
 
 - [[Lívia Bertges]] (Federal U. Mato Grosso, Brazil) and Vinícius Pereira (Federal U. of Mato Grosso, Brazil), "An Analysis of Arnaldo Antunes' GIF Poems"

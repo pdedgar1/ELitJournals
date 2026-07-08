@@ -336,7 +336,7 @@ CELL Member  : French-language E-lit
 | [[Serge Destalle-Larkske]]                               |
 | [[Jordan Diaz-Brosseau]]                                 |
 | [[Jay Dillemuth]]                                        |
-| [[Claire Allan Dinsmore]]                                |
+| [[Claire Allen Dinsmore]]                                |
 | [[Boris Dionne]]                                         |
 | [[Reinhard Döhl]]                                        |
 | [[Nuria Rubio Domingo]]                                  |
@@ -489,7 +489,7 @@ CELL Member  : French-language E-lit
 | [[Jenn Guitart]]                                         |
 | [[Brent Gustafson]]                                      |
 | [[Pello Gutiérrez Peñalba]]                              |
-| [[Juan B. Gutierrez]]                                    |
+| [[Juan B. Gutiérrez]]                                    |
 | [[Michael Joyce]]                                        |
 | [[Stuart Moulthrop]]                                     |
 | [[Guykayser]]                                            |
@@ -647,7 +647,7 @@ CELL Member  : French-language E-lit
 | [[Pär Lannerö]]                                          |
 | [[Jean-Pierre Lapointe]]                                 |
 | [[Tina LaPorta]]                                         |
-| [[Deena Larsen]]                                         |
+| [[Denise+Deena Larsen]]                                         |
 | [[Matthieu Laurette]]                                    |
 | [[Dorianne Laux]]                                        |
 | [[Hugo Lavallée]]                                        |
@@ -739,7 +739,7 @@ CELL Member  : French-language E-lit
 | [[Garry Newman]]                                         |
 | [[Charles Marsolais-Ricard]]                             |
 | [[Lisa Tronca]]                                          |
-| [[Alexandra L Martin]]                                   |
+| [[Alexandra L. Martin]]                                   |
 | [[Hilary Martin]]                                        |
 | [[Juliet Ann Martin]]                                    |
 | [[Tony Martin]]                                          |
@@ -1135,7 +1135,7 @@ CELL Member  : French-language E-lit
 | [[Gabe Tycho]]                                           |
 | [[Louis Ucciani]]                                        |
 | [[Ralph Ueltzhoeffer]]                                   |
-| [[Gregory Ulmer]]                                        |
+| [[Gregory L. Ulmer]]                                        |
 | Universidad de Navarra]]                                 |
 | [[Ana María Uribe]]                                      |
 | [[Andrea Urlberger]]                                     |

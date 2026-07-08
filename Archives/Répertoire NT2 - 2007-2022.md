@@ -348,7 +348,7 @@ CELL Member  : French-language E-lit
 | [[Pierre-Luc Lapointe]]               |
 | [[Manu Larcenet]]                     |
 | [[Lucas LaRochelle]]                  |
-| [[Deena Larsen]]                      |
+| [[Denise+Deena Larsen]]                      |
 | [[Sophie Latouche]]                   |
 | [[Sam Lavigne]]                       |
 | [[Antoine Le Bos]]                    |
@@ -513,7 +513,7 @@ CELL Member  : French-language E-lit
 | [[Alexandra Saemmer]]                 |
 | [[Carlos Sáez]]                       |
 | [[Dan Salvato]]                       |
-| [[Mark Sample]]                       |
+| [[Mark L. Sample]]                       |
 | [[Christian Sandvig]]                 |
 | [[Christy Sheffield Sanford]]         |
 | [[Gordan Savicic]]                    |

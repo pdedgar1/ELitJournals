@@ -15,7 +15,7 @@ Proceedings introduction
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Hannah Ackermans]]                                                            |
-| [[Deena Larsen]]                                                                |
+| [[Denise+Deena Larsen]]                                                                |
 | [[R. Lyle Skains]]                                                              |
 | [[Richard Snyder]]                                                              |
 | [[Samya Brata Roy]]                                                             |
@@ -42,7 +42,7 @@ Proceedings introduction
 | [[Derek Gladwin]]                                                               |
 | [[Giorgio Magnanensi]]                                                          |
 | [[Yuya Takeda]]                                                                 |
-| [[Rachel Horst]]                                                                |
+| [[Rachel S. Horst]]                                                                |
 | [[Christine Wilks]]                                                             |
 | [[Astrid Ensslin]]                                                              |
 | [[Stephanie Strickland]], [[Lai-Tze Fan]], [[Alan Liu]], & [[Stuart Moulthrop]] |
@@ -92,14 +92,14 @@ Proceedings introduction
 | [[Erica Coles]]                                                                 |
 | [[Harsh Shah]]                                                                  |
 | [[Ferroudja Belkessa]]                                                          |
-| [[Vinicius Carvalho Pereira]],                                                  |
+| [[Vinícius Carvalho Pereira]],                                                  |
 | [[Andréa Catropa da Silva]]                                                     |
 | [[Verónica Paula Gómez]]                                                        |
 | [[Leonardo Flores]]                                                             |
 | [[Prakruti K. Bhatt]]                                                           |
 | [[Judith A. Pintar]]                                                            |
 | [[Suzanne V. Rigdon]]                                                           |
-| [[Deena Larsen]]                                                         |
+| [[Denise+Deena Larsen]]                                                         |
 | [[R. Lyle Skains]]                                                              |
 | [[Mark C. Marino]]                                                              |
 | [[Dene Grigar]]                                                                 |

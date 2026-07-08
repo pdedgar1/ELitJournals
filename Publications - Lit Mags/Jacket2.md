@@ -475,7 +475,7 @@ Founder [[John Tranter]]
 | [[Susan Holbrook]]              |
 | [[Swati Rana]]                  |
 | [[Syrus Marcus Ware]]           |
-| [[Tanya Clement]]               |
+| [[Tanya E. Clement]]               |
 | [[Ted Pearson]]                 |
 | [[Teresa Carmody]]              |
 | [[Thom Donovan]]                |

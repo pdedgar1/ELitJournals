@@ -6,7 +6,7 @@ Board :
 [[David Cornelson]]
 [[Leena van Deventer]]
 [[Kofi Oduro]]
-[[Mark Sample]]
+[[Mark L. Sample]]
 
 Officers : 
 [[Justin Bortnick]]
@@ -27,7 +27,7 @@ Advisory Board:
 [[Brian Moriarty]]
 [[Jim Munroe]]
 [[Graham Nelson]]
-[[Judith Pintar]]
+[[Judith A. Pintar]]
 [[Michael J. Roberts]]
 [[Dietrich Squinkifer]]
 [[Kent Tessman]]

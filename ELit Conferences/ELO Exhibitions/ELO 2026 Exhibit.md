@@ -9,7 +9,7 @@
 | [[Diamond E. Beverly-Porter]] |
 | [[Jolene L. Armstrong]]       |
 | [[Zeroichi Arakawa]]          |
-| [[Mark Sample]]               |
+| [[Mark L. Sample]]               |
 | [[Justin Bortnick]]           |
 | [[Shyla E. Nuxol]]            |
 | [[Xie Licheng]]               |
@@ -30,7 +30,7 @@
 | [[Nicole Patino]]             |
 | [[Yan St-Onge]]               |
 | [[Caleb Sour]]                |
-| [[Mark Marino]]               |
+| [[Mark C. Marino]]               |
 | [[Carolijn Guytonbeck]]       |
 | [[Jingjie Zhang]]             |
 | [[Michael A. Cabrera]]        |

@@ -41,6 +41,6 @@ online folio:
 [[Halim Madi]]
 [[Seth McKelvey]]
 [[Austen Osworth]]
-[[Mark Sample]]
+[[Mark L. Sample]]
 [[Sasha Stiles]]
 [[Holly Zhou]]

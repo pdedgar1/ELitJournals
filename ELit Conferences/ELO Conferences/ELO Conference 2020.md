@@ -10,8 +10,8 @@
 | [[Allison Parrish]]                                           |
 | [[Amira Hanafi]]                                              |
 | [[Ana Albuquerque e Aguilar]]                                 |
-| [[Ana Maria Machado]]                                         |
-| [[Andrew Demirjian]]                                          |
+| [[Ana Maria Silva Machado]]                                         |
+| [[Andrew Haik Demirjian]]                                          |
 | [[Andrew Ferguson]]                                           |
 | [[Anne Sullivan]]                                             |
 | [[Bonnie Cross]]                                              |
@@ -24,7 +24,7 @@
 | [[Jack Murray]]                                               |
 | [[Jeremy Douglass]]                                           |
 | [[Jesse R. Vigil]], University of Southern California]]       |
-| [[Johannah Rodgers]], Independent Artist/Scholar]]            |
+| [[Johanna Rodgers]], Independent Artist/Scholar]]            |
 | [[Júlia Zuza Andrade]], University of Coimbra]]               |
 | [[Karen Lowry]], SAE Institute]]                              |
 | [[Kedrick James]], University of British Columbia]]           |
@@ -55,7 +55,7 @@
 [[Lai-Tze Fan]], [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Caitlin Fisher]], [[Jennifer Dellner]]
 [[Lai-Tze Fan]], [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Daniel Punday]],[[Neha Ravella]], [[Will Luers]]
 [[Michael Hurtado]], [[Pamela Medina]], [[Enrique García Alcalá]], [[Michael Prado]]
-[[Vinícius Carvalho Pereira]], [[Tina Escaja]]
+[[Vinícius Carvalho Pereira]], [[Tina Escaja aka Alm@ Pérez]]
 
 ## workshops 
 [[Brent Bailey]]
@@ -71,7 +71,7 @@
 
 ## Roundtables 
 [[Søren Bro Pold]][[Anna Nacher]][[Scott Rettberg]]
-[[Annie Abrahams]], [[Deena Larsen]] [[Roderick Coover]], [[Anna Nacher]], [[Eugenio Tisselli]], [[Kirill Azernyi]] [[Renee Carmichael]], [[Johannah Rodgers]]
+[[Annie Abrahams]], [[Denise+Deena Larsen]] [[Roderick Coover]], [[Anna Nacher]], [[Eugenio Tisselli]], [[Kirill Azernyi]] [[Renee Carmichael]], [[Johanna Rodgers]]
 [[Caleb Andrew Milligan]], [[Sarah Whitcomb Laiola]], [[Erin Kathleen Bahl]], [[Élika Ortega]]
 [[María Goicoechea de Jorge]] [[Ana Albuquerque e Aguilar]] [[Mark C. Marino]], [[Laura Sánchez Gómez]]
 [[Patrick Jagoda]], [[Heidi Coleman]], [[Marc Downie]], [[Ashlyn Sparrow]], [[Kristen Schilt]]
@@ -80,7 +80,7 @@
 
 ## events 
 [[Hannah Ackermans]]
-[[Deena Larsen]][[Lee Tusman]], [[Sarah Whitcomb Laiola]], [[Deena Larsen]]
+[[Denise+Deena Larsen]][[Lee Tusman]], [[Sarah Whitcomb Laiola]], [[Denise+Deena Larsen]]
 [[Mark C. Marino]], [[Rob Wittig]], [[Scott Rettberg]], [[Talan Memmott]]
 
 
@@ -99,7 +99,7 @@
 [[Judd Morrissey]]
 [[Ava Aviva Avnisan]]
 [[Mark Jeffery]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[Ian Hatcher]]
 [[Matthew Nichols]]
 [[Michael Thomas]]

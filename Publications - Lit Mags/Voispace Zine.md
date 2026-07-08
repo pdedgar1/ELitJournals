@@ -39,7 +39,7 @@
 [[Halim Madi]]
 [[Negin Ehtesabian Lichty]]
 [[Sameen Shakya]]
-[[Mark Sample]]
+[[Mark L. Sample]]
 [[Jen Schneider]]
 [[Chrystal Taylor]]
 ### Voidspace 12

@@ -38,7 +38,7 @@
 | [[Danny Elfanbaum]]               |
 | [[Daria Koshkina]]                |
 | [[David Lo]]                      |
-| [[David Rieder]]                  |
+| [[David M. Rieder]]                  |
 | [[Dorothy R. Santos]]             |
 | [[Doug Stark]]                    |
 | [[Dzidzor Azaglo]]                |
@@ -88,7 +88,7 @@
 | [[Manuel Schmalstieg]]            |
 | [[Marija Solarevic]]              |
 | [[Mark Olson]]                    |
-| [[Mark Sample]]                   |
+| [[Mark L. Sample]]                   |
 | [[Megan McKissack]]               |
 | [[Mike Panciera]]                 |
 | [[monét cooper]]                  |

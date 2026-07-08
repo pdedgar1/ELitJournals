@@ -74,7 +74,7 @@
 |[[Sofía Ferro]] >> mc-txt >> pit0nisa|
 |[[Soraya Braz]], Fabio Fon]] >> Deletério|
 |[[Soraya Roberta]] >> Poesia Compilada [fusión de las obras Manifesto Poesia Compilada + Print("Meu primeiro print")]|
-|[[Tina Escaja]], [[Leonardo Flores]], [[Anthony Cody]], [[Loss Pequeño Glazier]], [[Urayoán Noel]] y [[J. [[Michael Martinez]] >> LAR Latinx Digital Poetics: An Electronic Literature Folio|
+|[[Tina Escaja aka Alm@ Pérez]], [[Leonardo Flores]], [[Anthony Cody]], [[Loss Pequeño Glazier]], [[Urayoán Noel]] y [[J. [[Michael Martinez]] >> LAR Latinx Digital Poetics: An Electronic Literature Folio|
 |[[Urayoán Noel]] >> Modular Hervor|
 |[[Valeria Mussio]]. En cada libro se aclaran los artistas involucrados y los autores de los textos >> Matrerita|
 |[[Viviana Álvarez Chomón]] >> Metadécimas sobre el dispositivo|

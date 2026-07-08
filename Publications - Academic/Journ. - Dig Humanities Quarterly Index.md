@@ -256,7 +256,7 @@
 | [[Joseph Chazalon]]                              |
 | [[Anna Chen]]                                    |
 | [[Han Chen]]                                     |
-| [[Jing Chen]]                                    |
+| [[Jing Chen (CJ Chen)]]                                    |
 | [[Tianxiang Chen]]                               |
 | [[Richard Chenhall]]                             |
 | [[Amelia Chesley]]                               |
@@ -273,7 +273,7 @@
 | [[Arianna Ciula]]                                |
 | [[Sage Clausen]]                                 |
 | [[Frédéric Clavert]]                             |
-| [[Tanya Clement]]                                |
+| [[Tanya E. Clement]]                                |
 | [[Patricia Clements]]                            |
 | [[Thibault Clérice]]                             |
 | [[Claire Clivaz]]                                |
@@ -765,7 +765,7 @@
 | [[Thomas Kirchmair]]                             |
 | [[David Kirk]]                                   |
 | [[Suphan Kirmizialtin]]                          |
-| [[Matthew Kirschenbaum]]                         |
+| [[Matthew G. Kirschenbaum]]                         |
 | [[Travis Kirton]]                                |
 | [[Jaime Lee Kirtz]]                              |
 | [[Rabea Kleymann]]                               |
@@ -1254,7 +1254,7 @@
 | [[Pietro Santachiara]]                           |
 | [[Clodomir Santana]]                             |
 | [[Fernando Sanz-Lázaro]]                         |
-| [[Craig Saper]]                                  |
+| [[Craig J. Saper]]                                  |
 | [[Stephanie Sapienza]]                           |
 | [[Sucharita Sarkar]]                             |
 | [[Michael Satlow]]                               |

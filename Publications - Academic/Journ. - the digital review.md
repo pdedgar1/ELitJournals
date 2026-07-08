@@ -84,7 +84,7 @@
 [[Sunnyside Middle Schoolers]], [[Graham Baechler]], [[Lai-Tze Fan]], and [[Tatum Weicker]]
 
 [[Dene Grigar]] and [[Holly Slocum]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 
 
 ### Issue 05 — [[Jentery Sayers]]

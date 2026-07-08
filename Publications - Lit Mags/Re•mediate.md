@@ -78,10 +78,12 @@
 
 ## Issue 6 guest edited by [[Benjamín Escalonilla]]
 
-
-
-
-
+[[Leonardo Flores]]
+[[Justin Gallant]]
+[[Audrey Coble]]
+[[Mehulkumar Desai]] and [[Denise+Deena Larsen]]
+[[Collier Nogues]]
+[[Sean Carroll]]
 
 
 

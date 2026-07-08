@@ -10,7 +10,7 @@
 
 ### Vol 2
 [[Kathryn Cramer]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[Richard Holeton]]
 [[Tim McLaughlin]]
 [[Stephanie Strickland]]
@@ -25,7 +25,7 @@
 ### Vol 4
 [[Eric Steinhart]]
 [[Michael Joyce]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[Carolyn Guyer]]
 [[Mark Bernstein]] & [[Erin Sweeney]]
 [[Robert DiChiarra]]

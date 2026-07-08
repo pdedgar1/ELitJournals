@@ -3,7 +3,7 @@
 # 2026
 
 [[Kurt Heintz]]
-[[N. Katherine Hayles]] and [[Deena Larsen]]
+[[N. Katherine Hayles]] and [[Denise+Deena Larsen]]
 # 2025
 
 [[Cecily Raynor]]
@@ -24,7 +24,7 @@
 [[Davin Heckman]]
 [[Reham Hosny]]
 [[Alexandra L. Martin]]
-[[Christian Ulrik Andersen]], [[Malthe Stavning Erslev]], [[Pablo Velasco]], [[Søren Bro Pold]]
+[[Christian Ulrik Andersen]], [[Malthe Stavning Erslev]], [[Pablo R. Velasco]], [[Søren Bro Pold]]
 [[Mujie Li]]
 [[Roberta Iadevaia]]
 [[Joy Wallace]]
@@ -97,7 +97,7 @@
 [[Eugenio Tisselli]], [[Rui Torres]]
 [[Alex Saum-Pascual]]
 [[Annie Abrahams]]
-[[Tina Escaja]]
+[[Tina Escaja aka Alm@ Pérez]]
 [[Corey Sparks]]
 [[Christelle Proulx]]
 [[Dan Rockmore]], [[Kyle Booten]]
@@ -149,7 +149,7 @@
 [[Anne Karhio]]
 [[Ana Marques da Silva]]
 [[Jeneen Naji]]
-[[Robert P Fletcher]]
+[[Robert P. Fletcher]]
 [[Luciana Gattass]], [[Roberto Simanowski]]
 [[John Cayley]]
 [[Élika Ortega]]

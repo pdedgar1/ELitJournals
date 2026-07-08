@@ -53,7 +53,7 @@
 | [[Mia Zamora]] [[Maha Bali]] |
 | [[Amy Collier]]              |
 | [[Michael Roy]]              |
-| [[Mark Sample]]              |
+| [[Mark L. Sample]]              |
 | [[Chuck Rybak]]              |
 | [[Bethany Nowviskie]]        |
 | [[Jeremy Boggs]]             |

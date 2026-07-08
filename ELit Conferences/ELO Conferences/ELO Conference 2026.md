@@ -49,7 +49,7 @@
 | [[Mihai Bacaran]]               |
 | [[Jesse M. Ward]]               |
 | [[David Thomas Henry Wright]]   |
-| [[Mark Sample]]                 |
+| [[Mark L. Sample]]                 |
 | [[zhijing wang]]                |
 | [[Mumtaz Mazumdar]]             |
 | [[Alex Saum-Pascual]]           |
@@ -68,7 +68,7 @@
 | [[Mehulkumar Desai]]            |
 | [[Robert Arellano]]             |
 | [[Davin Heckman]]               |
-| [[Denise Larsen]]               |
+| [[Denise+Deena Larsen]]               |
 | [[Monica Storss]]               |
 | [[Kavisha D. Alagiya]]          |
 | [[patrick lichty]]              |
@@ -82,7 +82,7 @@
 | [[Halim Madi]]                  |
 | [[Xiang Yu]]                    |
 | [[Jeremy Andriano]]             |
-| [[Emily Johnson]]               |
+| [[Emily K. Johnson]]               |
 | [[Yolanda De Gregorio]]         |
 | [[Glenn S. Ritchey III]]        |
 | [[Emery Beckman]]               |

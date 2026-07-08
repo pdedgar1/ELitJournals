@@ -657,7 +657,125 @@
 | [[Ouyang Yu]]              |
 
 ### # 10
+**
 
+|   |
+|---|
+|[[Diana Adams]]|
+|[[Kim Addonizio]]|
+|[[Lindsay Ahl]]|
+|[[Dilruba Ahmed]]|
+|[[Adam Aitken]]|
+|[[Maureen Alsop]]|
+|[[James Autio]]|
+|[[Christopher Bakken]]|
+|[[Lucas Bernhardt]]|
+|[[Dianne Bilyak]]|
+|[[Nicole Broadhurst]]|
+|[[Trina Burke]]|
+|[[Christopher Cessac]]|
+|[[Alex Cigale]]|
+|[[Ava C. Cipri]]|
+|[[Jan Clausen]]|
+|[[Matthew Cooperman]]|
+|[[Chris Crittenden]]|
+|[[Stephen Cushman]]|
+|[[Garrick Davis]]|
+|[[William Delman]]|
+|[[Shira Dentz]]|
+|[[Kathryn Douglas]]|
+|[[Jehanne Dubrow]]|
+|[[William Frawley]]|
+|[[Cal Freeman]]|
+|[[Amy Gerstler]]|
+|[[Heather Gibbons]]|
+|[[Robert Gibbons]]|
+|[[Dusan Gojkov]]|
+|[[Rebecca Gopoian]]|
+|[[Michael Gregory]]|
+|[[Paul Grimstad]]|
+|[[David Hadbawnik]]|
+|[[Carol V. Hamilton]]|
+|[[Nathalie Handal]]|
+|[[Evan Hansen]]|
+|[[James Harms]]|
+|[[Jessica Harkins]]|
+|[[Kenneth Harrison]]|
+|[[Heather Hartley]]|
+|[[Derek Henderson]]|
+|[[Brenda Hillman]]|
+|[[Jane Hirshfield]]|
+|[[Eva Hooker]]|
+|[[Philip Jenks]]|
+|[[Athena Kildegaard]]|
+|[[Sora Kim-Russell]]|
+|[[Steve Kistulentz]]|
+|[[Caroline Berry Klocksiem]]|
+|[[Stephen Knauth]]|
+|[[Rachel Kubie]]|
+|[[Nancy Kuhl]]|
+|[[Bonnie Kwong]]|
+|[[Lily Ladewig]]|
+|[[Gregory Lawless]]|
+|[[Gareth Lee]]|
+|[[Paul Legault]]|
+|[[Harriet Levin]]|
+|[[Eric Linsker]]|
+|[[Matthew Lippman]]|
+|[[Chip Livingston]]|
+|[[Stephen Longfellow]]|
+|[[Dawn Lonsinger]]|
+|[[John Loughlin]]|
+|[[Jami Macarty]]|
+|[[Robert McLean]]|
+|[[Kevin McLellan]]|
+|[[Laura Modigliani]]|
+|[[Jonathan Monroe]]|
+|[[Simone Muench]]|
+|[[Christopher Mulrooney]]|
+|[[David Mura]]|
+|[[Steve Myers]]|
+|[[Eileen Myles]]|
+|[[Cami Nelson]]|
+|[[Marilyn Nelson]]|
+|[[David O'Connell]]|
+|[[January O'Neil]]|
+|[[Robert Ostrom]]|
+|[[Amy Pence]]|
+|[[Holly Pettit]]|
+|[[J. E. Pitts]]|
+|[[John Rambo]]|
+|[[Michael Rerick]]|
+|[[Arthur Rimbaud]]|
+|[[Hayden Saunier]]|
+|[[Andrea Scarpino]]|
+|[[Zanni Schauffler]]|
+|[[Lauren Shapiro]]|
+|[[Julie Sheehan]]|
+|[[Kim Gek Lin Short]]|
+|[[John Slater]]|
+|[[Gary Sloboda]]|
+|[[Theresa Sotto]]|
+|[[Ellie Stanford]]|
+|[[Adam Strauss]]|
+|[[Marcela Sulak]]|
+|[[Matt Terhune]]|
+|[[Mara Vahratian]]|
+|[[Astrid Van Baalen]]|
+|[[Florencia Varela]]|
+|[[Reetika Vazirani]]|
+|[[Adam Vines]]|
+|[[Julie Wade]]|
+|[[Thom Ward]]|
+|[[Donald Wellman]]|
+|[[Jennifer Whitaker]]|
+|[[Jerry Williams]]|
+|[[Elizabeth Willis]]|
+|[[Joseph Wood]]|
+|[[Corey Zeller]]|
+
+  
+**
 ### # 11
 
 ### # 12
@@ -687,41 +805,4 @@
 ### # 24
 
 ### # 25
-
-
-## Born digital issue 
-[[Emily d'Achiardi]]
-[[Sasha Stiles]]
-[[Annapurna Kumar]]
-[[Peter Burr]]
-[[Sarah Rothberg]]
-[[Naomi Sam]]
-[[Jenna Caravello]]
-[[Ashley Zelinskie]]
-[[Vinny Roca]]
-[[Arroyo-Kreimes]]
-
-[[A. K. Ramanujan]]
-
-[[Rikardo Arregi]]
-[[Amaia Gabantxo]]
-[[Alina Kostenko]]
-[[Ahmed Hmeedat]]
-[[Mohamed Harb]]
-[[Ebrahim Alipoor]]
-[[Savas Boyraz]]
-[[Shadi Harouni]]
-[[Walid siti]]
-[[Gaiutra Bahadur]]
-[[Tabish Khair]]
-[[Tenzin Gyurmey Dorjee]]
-[[Tenzin Tsundue]]
-[[Tenzing Sonam]]
-[[Rashid Abdelhamed]]
-[[Tsering Wangmo Dhompa]]
-[[Jacque Njeri]]
-[[Muyesser Abdul'ehed]]
-[[Tahir Izgil]]
-[[Joshua Freeman]]
-[[Ka Vang]]
 

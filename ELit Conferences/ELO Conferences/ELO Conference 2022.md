@@ -91,7 +91,7 @@ Elit as Digital Humanities
 
 Chair: [[Mark C. Marino]]
 
-[[Judith Pintar]]
+[[Judith A. Pintar]]
 
 If Else: Interactive Narrative Thinking as a
 
@@ -251,7 +251,7 @@ detective and digital comics' new literacy
 
 Coding Education
 
-[[Ana Maria Machado]], [[Cecília Magalhães]],
+[[Ana Maria Silva Machado]], [[Cecília Magalhães]],
 
 [[Ana Albuquerque e Aguilar]] and
 
@@ -297,7 +297,7 @@ Context, and Themes
 
 -Education beyond the (E)book
 
-Chair: [[Perla Sasson-Henry]]
+Chair: [[Perla B. Sassón-Henry]]
 
 [[María Mencía]]
 
@@ -519,7 +519,7 @@ AI rchive and UXpoetry
 
 The Community and the Algorithm:
 
-Chair: [[Christian Andersen]]
+Chair: [[Christian Ulrik Andersen]]
 
 [[Monique Tschofen]], [[Angela Joosse]], [[Kari Maaren]], [[Izabella Pruska-Oldenhof]],
 
@@ -539,7 +539,7 @@ About It? (lightning talk)
 
 -
 
-[[Svetlana Kuchina]]
+[[Svetlana Anatolevna Kuchina]]
 
 Electronic literature as teaching tools:
 
@@ -671,7 +671,7 @@ literature
 
 Epractitioning
 
-[[Verónica Paula Gómez]], [[Carolina Gainza Cortés]], [[Rejane C. Rocha]], [[Manaíra Aires Athayde]] and [[Claudia Kozak]]
+[[Verónica Paula Gómez]], [[Carolina Gainza]], [[Rejane C. Rocha]], [[Manaíra Aires Athayde]] and [[Claudia Kozak]]
 
 La (falta de) institucionalización de la
 
@@ -737,7 +737,7 @@ Autoethnography in Miro Board
 
 Education on diversity and sustainability
 
-Chair: [[Alexandra Martin]]
+Chair: [[Alexandra L. Martin]]
 
 [[Andrew Kalaidjian]]:
 
@@ -797,7 +797,7 @@ Pedagogies of Electronic Literature
 
 Education on diversity and sustainability
 
-[[Perla Sasson-Henry]], [[Angélica Huizar]],
+[[Perla B. Sassón-Henry]], [[Angélica Huizar]],
 
 [[Milton Laüfer]] and [[Rodolfo Mata]]
 
@@ -865,7 +865,7 @@ researchers and technologists can co-
 
 create the future of literature
 
-[[Dene Grigar]], [[Deena Larsen]], [[Judy Malloy]], [[R. Lyle Skains]], [[Astrid Ensslin]] and [[M. D. Coverley aka Marjorie C. Luesebrink]]
+[[Dene Grigar]], [[Denise+Deena Larsen]], [[Judy Malloy]], [[R. Lyle Skains]], [[Astrid Ensslin]] and [[M. D. Coverley aka Marjorie C. Luesebrink]]
 
 Legends, Myths and Magic of Electronic
 
@@ -897,7 +897,7 @@ study on digital fiction readers
 
 ELit as Digital Humanities
 
-[[Leonardo Flores]], [[Amanda Hodes]], [[James Ryan]], [[Nick Montfort]], [[Angela Chang]], [[Milton Läufer]], [[Andrew Demirjian]] and [[Sarah Whitcomb Laiola]]
+[[Leonardo Flores]], [[Amanda Hodes]], [[James Ryan]], [[Nick Montfort]], [[Angela Chang]], [[Milton Läufer]], [[Andrew Haik Demirjian]] and [[Sarah Whitcomb Laiola]]
 
 Lightning talks on Electronic Literature
 
@@ -915,7 +915,7 @@ the Study of Contemporary Imagination
 
 AIrchive and UXpoetry
 
-[[Deena Larsen]], [[Jules Chatelain]], [[Amira Hanafi]] [[Samya Brata Roy]] and [[R. Lyle Skains]]
+[[Denise+Deena Larsen]], [[Jules Chatelain]], [[Amira Hanafi]] [[Samya Brata Roy]] and [[R. Lyle Skains]]
 
 How do we Engage and Save the World-An
 
@@ -1068,7 +1068,7 @@ opened.
 
 Educationbeyond the (e)book
 
-[[Michael Hurtado Enríquez]], [[Pamela Medina Garcia]], [[José Ignacio López Ramírez-Gastón]] and [[Lee López Castro]]
+[[Michael Hurtado]], [[Pamela Medina Garcia]], [[José Ignacio López Ramírez-Gastón]] and [[Lee López Castro]]
 
 The e-lit in the pedagogical space 2.0:
 
@@ -1118,7 +1118,7 @@ Le STEAM al centro. Laboratorio di coding, meccatronica e realtà
 
 aumentata/virtuale
 
-[[Deena Larsen]], [[Jules Chatelain]], [[Amira Hanafi]], [[Samya Brata Roy]] and [[R. Lyle Skains]]
+[[Denise+Deena Larsen]], [[Jules Chatelain]], [[Amira Hanafi]], [[Samya Brata Roy]] and [[R. Lyle Skains]]
 
 Let’s Engage the World--A Reading/Writing Workshop online and in
 

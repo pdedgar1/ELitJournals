@@ -31,7 +31,7 @@ Edited by [[Annette Vee]], [[Tim Laquintano]], [[Carly Schnitzler]]
 | [[Nathan Murray]]           |
 | [[Juan Pablo Pardo-Guerra]] |
 | [[Nupoor Ranade]]           |
-| [[Mark Sample]]             |
+| [[Mark L. Sample]]             |
 | [[Jentery Sayers]]          |
 | [[Carly Schnitzler]]        |
 | [[John Silvestro]]          |

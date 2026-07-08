@@ -9,7 +9,7 @@
 | [[Alan Bigelow ]]                 |
 | [[Alex Mitchell]]                 |
 | [[Alex Saum-Pascual]]             |
-| [[Alexandra Martin]]              |
+| [[Alexandra L. Martin]]              |
 | [[Alicia Guo]]                    |
 | [[Alinta Krauth]]                 |
 | [[Alison Humphrey]]               |
@@ -18,7 +18,7 @@
 | [[Ambika Athreya]]                |
 | [[Anastasia Salter]]              |
 | [[Andrés Isaza-Giraldo]]          |
-| [[Andrew Demirjian]]              |
+| [[Andrew Haik Demirjian]]              |
 | [[Angela Chang]]                  |
 | [[Angela Joosse]]                 |
 | [[Angeliki Malakasioti]]          |
@@ -56,7 +56,7 @@
 | [[David Meurer]]                  |
 | [[David R. Lincoln]]              |
 | [[Davin Heckman]]                 |
-| [[Deena Larsen]]                  |
+| [[Denise+Deena Larsen]]                  |
 | [[Dene Grigar]]                   |
 | [[Désirée Nore Duchesne]]         |
 | [[Dolleen Tisawii’ashii Manning]] |
@@ -141,7 +141,7 @@
 | [[María Goicoechea de Jorge]]              |
 | [[Mariel Martinez]]               |
 | [[Mark C. Marino]]                |
-| [[Mark Sample]]                   |
+| [[Mark L. Sample]]                   |
 | [[Mary Bunch]]                    |
 | [[Matthew Griffin]]               |
 | [[Maureen Engel]]                 |
@@ -194,7 +194,7 @@
 | [[Terhi Marttila]]                |
 | [[Thai Hwang-Judiesch]]           |
 | [[Theo Ellin Ballew]]             |
-| [[Tina Escaja]]                   |
+| [[Tina Escaja aka Alm@ Pérez]]                   |
 | [[Vandana Govindani]]             |
 | [[Vegard Fotland]]                |
 | [[Vicky Karanika]]                |

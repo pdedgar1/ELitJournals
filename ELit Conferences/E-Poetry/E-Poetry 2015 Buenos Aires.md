@@ -124,7 +124,7 @@ as Critique: [[Carolina Gainza]] (Chair), [[Luis Correa-Díaz]],
 
 18.30. CIERRE E-POETRY / E-POETRY CLOSING
 
-15:15 ([[Angelica Huizar]]). 16:45 ([[Giovanna di Rosario]]). 18:00/18:30 ([[Ethan Hayden]]). Panels to be moderated
+15:15 ([[Angelica J. Huizar]]). 16:45 ([[Giovanna di Rosario]]). 18:00/18:30 ([[Ethan Hayden]]). Panels to be moderated
 
 by Chairs / Los paneles serán moderados por su propio organizador.
 

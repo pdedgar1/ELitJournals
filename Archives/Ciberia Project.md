@@ -27,8 +27,8 @@
 | [[jorge dragon]]               |
 | [[ainara echaniz olaizola]]    |
 | [[santiago echeverry]]         |
-| [[Tina Escaja]]                |
-| [[Tina Escaja]]                |
+| [[Tina Escaja aka Alm@ Pérez]]                |
+| [[Tina Escaja aka Alm@ Pérez]]                |
 | [[Benjamín Escalonilla]]       |
 | [[santiago eximeno]]           |
 | [[joan fontcuberta]]           |
@@ -106,7 +106,7 @@
 
 
 ## LOREM BITSUM Collection 
-[[José Aburto]], [[José Luis Alexanco]], [[Antonio Alvarado]], [[José Ballesteros]], [[Joan Brossa]], [[José Luis Castillejo]], [[Mikaël Cixous]], [[Doménico Chiappe]], [[Alexandre Dupuis]], [[Tina Escaja]], [[Benjamín Escalonilla]], [[Belén Gache]], [[Belén García Nieto]], [[Dora García]], [[Marisa González]], [[Juan B. Gutiérrez]], [[Marla Jacarilla]], [[Antonio Labella]], [[María Cuevas]], [[Salvador Sancha]], [[Juan Carlos López Sánchez]], [[Mark C. Marino]], [[María Mencía]], [[Fernando Millán]], [[Claudio Molinari Dassatti]], [[Inigo Orduña]], [[Gustavo Romano]], [[Ana María Uribe]], [[Isidoro Valcárcel Medina]], [[David Wiesner]].
+[[José Aburto]], [[José Luis Alexanco]], [[Antonio Alvarado]], [[José Ballesteros]], [[Joan Brossa]], [[José Luis Castillejo]], [[Mikaël Cixous]], [[Doménico Chiappe]], [[Alexandre Dupuis]], [[Tina Escaja aka Alm@ Pérez]], [[Benjamín Escalonilla]], [[Belén Gache]], [[Belén García Nieto]], [[Dora García]], [[Marisa González]], [[Juan B. Gutiérrez]], [[Marla Jacarilla]], [[Antonio Labella]], [[María Cuevas]], [[Salvador Sancha]], [[Juan Carlos López Sánchez]], [[Mark C. Marino]], [[María Mencía]], [[Fernando Millán]], [[Claudio Molinari Dassatti]], [[Inigo Orduña]], [[Gustavo Romano]], [[Ana María Uribe]], [[Isidoro Valcárcel Medina]], [[David Wiesner]].
 
 - ﻿﻿de los poemas de [[Joan Brossa]]. Fundación Joan Brossa, VEGAP, 2018.
 - ﻿﻿de los poemas de [[José Luis Castillejo]] Y [[Fernado Millán]]. Archivo Lafuente.

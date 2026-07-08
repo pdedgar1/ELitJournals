@@ -19,7 +19,7 @@ University of Canberra Center for Writing
 ### Vol 2
 [[Camille Bacos]]
 [[Miekal And]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[Christina McPhee]]
 [[Pauline Masurel aka Mazzy]]
 [[Randy Nehila]]

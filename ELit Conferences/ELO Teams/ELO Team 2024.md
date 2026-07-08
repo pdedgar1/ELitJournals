@@ -36,12 +36,12 @@
 [[Lauren Rouse]], University of Central Florida
 [[Erik Loyer]], University of Southern California
 [[Carina Seagrave]], University of Central Florida
-[[Johannah Rodgers]], City University of New York
+[[Johanna Rodgers]], City University of New York
 [[Samya Brata Roy]], IIT Jodhpur
 [[Emily K. Johnson]], University of Central Florida
 [[Maria Cecilia Reyes]], Universidad del Norte
 [[Kirk Lundblade]], University of Central Florida
-[[Deena Larsen]], Washington State University Vancouver
+[[Denise+Deena Larsen]], Washington State University Vancouver
 [[Mike Shier]], University of Central Florida
 
 ### Artistic Committee

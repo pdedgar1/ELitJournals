@@ -23,7 +23,7 @@
 | [[Mark Poole]]                                                                                                             |
 | [[Kevin Healey]]                                                                                                           |
 | [[Ami Clarke]]                                                                                                             |
-| [[Richard A Carter]]                                                                                                       |
+| [[Richard A. Carter]]                                                                                                       |
 | [[Ada Hao]]                                                                                                                |
 | [[Mikey Georgeson]]                                                                                                        |
 | [[Harry Meadows]]                                                                                                          |
@@ -70,7 +70,7 @@
 | [[Frédéric Dubois]]                                                                                                        |
 | [[Monika Jaeckel]]                                                                                                         |
 | [[Bethany Rose Lamont]]                                                                                                    |
-| [[Patrick Dolan]] , [[Andrew Bailey]]                                                                                      |
+| [[Patrick R. Dolan]] , [[Andrew Bailey]]                                                                                      |
 | [[Patryk Wasiak]], [[Marcin Cabak]]                                                                                        |
 | [[Lara López Millán]]                                                                                                      |
 | [[Jon Heggestad]]                                                                                                          |

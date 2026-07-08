@@ -42,7 +42,7 @@ Chair: [[Alex Mitchell]], National University of Singapore
 
 Chair: [[Robert Glick]], Rochester Institute of Technology
 
-- “Generative Poems by Maria Mencia,” [[Angelica Huizar]], Old Dominion University
+- “Generative Poems by Maria Mencia,” [[Angelica J. Huizar]], Old Dominion University
 - “Inhabitation: Johanna Drucker: “no file is ever self-identical,” [[Joel Kateinikoff]], University of Alberta
 - “The Great Monster: Ulises Carrión as E-Lit Theorist,” [[Élika Ortega]], University of Kansas
 - “Pedagogic Strategies for Electronic Literature,” [[Mia Zamora]], Kean University
@@ -55,7 +55,7 @@ Chair: [[Robert Glick]], Rochester Institute of Technology
 - “– O True Apothecary!, by [[Kyle Booten]],” UC Berkeley, Center for New Media
 - “Life Experience through Digital Simulation Narratives,” [[David Núñez Ruiz]], Neotipo
 - “Building Stories,” [[Kate Palermini]], Washington State University Vancouver
-- “Help Wanted and Skills Offered,” by [[Deena Larsen]], Independent Artist; [[Julianne Chatelain]], U.S. Bureau of Reclamation
+- “Help Wanted and Skills Offered,” by [[Denise+Deena Larsen]], Independent Artist; [[Julianne Chatelain]], U.S. Bureau of Reclamation
 - “Beyond Original E-Lit: Deconstructing Austen Cybertexts,” [[Meredith Dabek]], Maynooth University
 - Arabic E-Lit. (AEL) Project, [[Reham Hosny]], Rochester Institute of Technology/Minia University
 - “Poetic Machines,” [[Sidse Rubens LeFevre]], University of Copenhagen
@@ -84,7 +84,7 @@ Chair: [[James O'Sullivan]], University of Sheffield
 Chair: [[Mia Zamora]], Kean University
 
 - “Transmediation,” Kedrick James, University of British Columbia; [[Ernesto Peña]], University of British Columbia
-- “The Closed World, Databased Narrative, and Network Effect,” [[Mark Sample]], Davidson College
+- “The Closed World, Databased Narrative, and Network Effect,” [[Mark L. Sample]], Davidson College
 - “The Cyborg of the House,” [[María Goicoechea de Jorge]], Universidad Complutense de Madrid
 
 Chair: [[Andrew Klobucar]], New Jersey Institute of Technology
@@ -175,7 +175,7 @@ Chair: [[Robert Glick]], Rochester Institute of Technology
 - “Cinematic Turns,” [[Elizabeth Losh]], College of William and Mary
 - “Mario Mods and Ludic Seriality,” [[Shane Denson]], Duke University
 
-Chair: [[Deena Larsen]], Independent Artist
+Chair: [[Denise+Deena Larsen]], Independent Artist
 
 - “How E-Literary Is My E-Literature?,” by [[Leonardo Flores]], University of Puerto Rico Mayagüez Campus
 - “Overcoming the Locative Interface Fallacy,” by [[Lauren Burr]], University of Waterloo

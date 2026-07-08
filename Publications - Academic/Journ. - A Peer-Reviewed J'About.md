@@ -41,7 +41,7 @@ Reviewers :
 | [[Nicolas Malevé]]               |     |
 | [[Nora O Murchú]]                |     |
 | [[Olga Goriunova]]               |     |
-| [[Pablo Velasco]]                |     |
+| [[Pablo R. Velasco]]                |     |
 | [[Pierre Depaz]]                 |     |
 | [[Søren Bro Pold]]               |     |
 | [[Stevphen Shukaitis]]           |     |
@@ -82,6 +82,6 @@ contributions by [[Camille Crichlow]], [[Teodora Sinziana Fartan]], [[Susanne F�
 ## issue 13 - 2024
 contributions by [[Manetta Berends]] & [[Simon Browne]], [[Denise Helene Sumi]], [[Kendal Beynon]], [[Bilyana Palankasova]], [[Edoardo Biscossi]], [[Luca Cacini]], [[Pierre Depaz]], [[Asker Bryld Staunæs]] & [[Maja Bak Herrie]], [[Marie Naja Lauritzen Dias]], [[Esther Rizo-Casado]], and [[Mateus Domingos]], edited by [[Christian Ulrik Andersen]] & [[Geoff Cox]].
 ## issue 14 - 2025
-contributions by [[Megan Phipps]], [[Nico Daleman]], [[Katya Sivers]], [[Christoffer Koch Andersen]], [[Daria Iuriichuk]], and [[Sami P. Itävuori]]. Editors of this journal issue are [[Magda Tyżlik-Carver]] and [[Pablo Velasco]]
+contributions by [[Megan Phipps]], [[Nico Daleman]], [[Katya Sivers]], [[Christoffer Koch Andersen]], [[Daria Iuriichuk]], and [[Sami P. Itävuori]]. Editors of this journal issue are [[Magda Tyżlik-Carver]] and [[Pablo R. Velasco]]
 ## issue 15 - 2026
 

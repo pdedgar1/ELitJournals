@@ -31,7 +31,7 @@ Last updated June 11 2001
 [[Eduardo Kac]]
 [[Robert Kendall]]
 [[Judith Kerman]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[Kathy Mac]]
 [[Judy Malloy]]
 [[Michael van Mantgem]]

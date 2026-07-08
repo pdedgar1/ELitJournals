@@ -18,7 +18,7 @@ Amélie Vallières, Pierre Gabriel Dumoulin, Emmanuelle Lescouet
 
 #### Issue 1 ed. [[Daniela Côrtes Maduro]], [[Paulo Silva Pereira]]
 [[Amira Hanafi]]
-[[Tina Escaja]]
+[[Tina Escaja aka Alm@ Pérez]]
 [[Terhi Marttila]]
 [[Jolene L. Armstrong]], [[Monique Tschofen]], [[Izabella Pruska-Oldenhof]], [[Kari Maaren]], [[Angela Joosse]]
 Craig Saper, Lynn Tomlinson
@@ -37,7 +37,7 @@ reviews: [[Diego Giménez]], [[Mafalda Lalanda]], [[Jordan Eason]]
 [[Jordan Eason]]
 [[Luciana Salazar Salgado]]
 [[Joshua Alma Enslen]], [[Jocelyn R. Bell]]
-[[Vinicius Carvalho Pereira]]
+[[Vinícius Carvalho Pereira]]
 [[Alejandra Josiowicz]]
 [[Taiane de Oliveira Volcan]], [[Suzana Guedes Cardoso]], [[Franceli Couto Jorge]], [[Fernanda Perez Mendonça]]
 [[Ingrid Lara de Araújo Utzig]]
@@ -73,7 +73,7 @@ Nair Renata Amâncio
 | [[Ricardo Namora]]                                                  |
 | [[Francisco Silveira]]                                              |
 | [[Ricardo Namora]]                                                  |
-| [[Ana Marques]]                                                     |
+| [[Ana Carolina dos Santos Marques]]                                                     |
 | [[Liliana Vasques]],                                                |
 | [[Ana Sabino]]                                                      |
 | [[Bruno Ministro]]                                                  |
@@ -81,7 +81,7 @@ Nair Renata Amâncio
 
 ## 2020
 
-#### Issue 1 ed. [[Ana Maria Machado]], [[Ana Albuquerque e Aguilar]]
+#### Issue 1 ed. [[Ana Maria Silva Machado]], [[Ana Albuquerque e Aguilar]]
 
 |                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -96,13 +96,13 @@ Nair Renata Amâncio
 | [[José Carlos Dias]]                                                                                                                                                                                                                                                                                                                                   |
 | [[Larissa Andrioli]]                                                                                                                                                                                                                                                                                                                                   |
 | [[Ian Harper]]                                                                                                                                                                                                                                                                                                                                         |
-| [[Ana Maria Machado]], [[Ana Albuquerque e Aguilar]]                                                                                                                                                                                                                                                                                                   |
+| [[Ana Maria Silva Machado]], [[Ana Albuquerque e Aguilar]]                                                                                                                                                                                                                                                                                                   |
 | [[Rui Afonso Mateus]]                                                                                                                                                                                                                                                                                                                                  |
 | [[Svetlana Anatolevna Kuchina]]                                                                                                                                                                                                                                                                                                                        |
-| [[Ana Marques]], [[Manuel Portela]]                                                                                                                                                                                                                                                                                                                    |
+| [[Ana Carolina dos Santos Marques]], [[Manuel Portela]]                                                                                                                                                                                                                                                                                                                    |
 | [[Diana Santos]], [[Daniel Alves]], [[Raquel Amaro]], [[Isabel Araújo Branco]], [[Olivia Fialho]], [[Cláudia Freitas]], [[Suemi Higuchi]], [[Marcia Langfeldt]], [[João Marques Lopes]], [[Alckmar Luís dos Santos]], [[Emanoel Pires]], [[Barbara Ramos]], [[Danielle Sanches]], [[Rebeca Schumacher Fuão]], [[Paulo Silva Pereira]], [[Paula Terra]] |
 | [[Patrícia Reina]]                                                                                                                                                                                                                                                                                                                                     |
-| [[Ana Marques]]                                                                                                                                                                                                                                                                                                                                        |
+| [[Ana Carolina dos Santos Marques]]                                                                                                                                                                                                                                                                                                                                        |
 | [[Rui Silva]]                                                                                                                                                                                                                                                                                                                                          |
 | [[Joana Rua]]                                                                                                                                                                                                                                                                                                                                          |
 |                                                                                                                                                                                                                                                                                                                                                        |
@@ -148,9 +148,9 @@ Nair Renata Amâncio
 | [[Philippe Bootz]], [[María Inés Laitano]], [[Hermes Salceda]]                                                |
 | [[Susie Cronin]]                                                                                              |
 | [[Luís Lucas Pereira]], [[Manuel Portela]], [[Licínio Roque]]                                                 |
-| [[Ana Marques]]                                                                                               |
+| [[Ana Carolina dos Santos Marques]]                                                                                               |
 | [[David Thomas Henry Wright]]                                                                                 |
-| [[Ana Maria Machado]], [[Andy Campbell]], [[Ian Harper]], [[Ana Albuquerque e Aguilar]], [[António Oliveira]] |
+| [[Ana Maria Silva Machado]], [[Andy Campbell]], [[Ian Harper]], [[Ana Albuquerque e Aguilar]], [[António Oliveira]] |
 | [[Donna Leishman]]                                                                                            |
 | [[Vladimira Velički]], [[Damir Velički]]                                                                      |
 | [[Carla Viana Coscarelli]], [[Ana Elisa Ribeiro]]                                                             |
@@ -178,7 +178,7 @@ Nair Renata Amâncio
 | [[Margaret Simon]], [[Helen J. Burgess]]                                                                    |
 | [[D. Fox Harrell]], [[Pablo Ortiz]], [[Peter Downs]], [[Maya Wagoner]], [[Elizabeth Carré]], [[Annie Wang]] |
 | [[Álvaro Andrade Garcia]], [[Lucas Santos Junqueira]]                                                       |
-| [[Alckmar Luiz dos Santos]]                                                                                 |
+| [[Alckmar Luís dos Santos]]                                                                                 |
 
 #### Issue 1 ed. [[Rui Torres]], [[Manuel Portela]]
 
@@ -199,7 +199,7 @@ Nair Renata Amâncio
 | [[Luis Leite]], [[Rui Torres]], [[Luis Aly]]                                  |
 | [[Stephanie Tripp]]                                                           |
 | [[Thomas Mantzaris]]                                                          |
-| [[Ana Marques]]                                                               |
+| [[Ana Carolina dos Santos Marques]]                                                               |
 | [[Tiago Schwäbl]]                                                             |
 
 ## 2017

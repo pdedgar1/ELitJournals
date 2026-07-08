@@ -8,24 +8,10 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Anthologies  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701269
-      }
-    },
-    {
       "query": "path:Archives  ",
       "color": {
         "a": 1,
         "rgb": 10965728
-      }
-    },
-    {
-      "query": "path:Awards  ",
-      "color": {
-        "a": 1,
-        "rgb": 16743168
       }
     },
     {
@@ -36,24 +22,31 @@
       }
     },
     {
+      "query": "path:People  ",
+      "color": {
+        "a": 1,
+        "rgb": 263292
+      }
+    },
+    {
       "query": "path:Organizations  ",
       "color": {
         "a": 1,
-        "rgb": 126879
+        "rgb": 48456
       }
     },
     {
       "query": "path:\"Publications - Academic\"  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 4046591
       }
     },
     {
-      "query": "path:People  ",
+      "query": "path:Anthologies  ",
       "color": {
         "a": 1,
-        "rgb": 131725
+        "rgb": 5601455
       }
     },
     {
@@ -88,7 +81,7 @@
       "query": "path:\"ELit Conferences/E-Poetry\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14219669
       }
     },
     {
@@ -111,6 +104,13 @@
         "a": 1,
         "rgb": 16769397
       }
+    },
+    {
+      "query": "path:Awards  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
     }
   ],
   "collapse-display": true,
@@ -121,8 +121,8 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.800086805555556,
+  "linkStrength": 0.849913194444445,
   "linkDistance": 500,
-  "scale": 0.031114851908821062,
-  "close": false
+  "scale": 0.042459124702023884,
+  "close": true
 }

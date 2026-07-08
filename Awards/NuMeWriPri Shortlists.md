@@ -33,7 +33,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Nikhil Chawdhary]]                                                                                                                                        |
 | [[Rory Gillen]]                                                                                                                                             |
 | [[Bernadine Mattson]]                                                                                                                                       |
-| [[Deena Larsen]]                                                                                                                                            |
+| [[Denise+Deena Larsen]]                                                                                                                                            |
 | [[David Thomas Henry Wright]]                                                                                                                               |
 | [[Kavya Benara]]                                                                                                                                            |
 | [[Chen Ji]]                                                                                                                                                 |
@@ -49,7 +49,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Angeliki Malakasioti]]                                                                                                                                    |
 | [[Maria Oluwabukola Oni]]                                                                                                                                   |
 | [[Alex Saum-Pascual]]                                                                                                                                       |
-| [[Richard A Carter]]                                                                                                                                        |
+| [[Richard A. Carter]]                                                                                                                                        |
 | [[Nelito Hilário Manuel]]                                                                                                                                   |
 | [[Jerald Lim]]                                                                                                                                              |
 | [[Sam Burns]]                                                                                                                                               |
@@ -201,7 +201,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 [[Halim Madi]]
 
 [[Kavya Benara]]
-[[Prakruti Bhatt]] and [[Deena Larsen]]
+[[Prakruti Bhatt]] and [[Denise+Deena Larsen]]
 [[Rakshitha R]]
 [[Shanmugapriya T]]
 [[Nikhil Chawdhary]]

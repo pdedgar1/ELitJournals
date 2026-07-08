@@ -22,7 +22,7 @@
 [[Reham Hosny]]
 [[Roberta Iadevaia]]
 [[Rodolfo Mata]]
-[[Vinicius Carvalho Pereira]]
+[[Vinícius Carvalho Pereira]]
 [[Terhi Marttila]]
 [[Eyal Gruss]]
 [[Abhirami Ajith]]

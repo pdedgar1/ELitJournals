@@ -1,4 +1,4 @@
-[[Deena Larsen]] Keynote
+[[Denise+Deena Larsen]] Keynote
 [[Joannes Truyens]] 
 
 [[Nancy Sendler]]
@@ -6,7 +6,7 @@
 [[Franci Greyling]]
 [[xtine burrough]]
 [[Joannes Truyens]]
-[[Richard Snyder]], [[Dene Grigar]], [[Hannah Ackermans]], [[Deena Larsen]]
+[[Richard Snyder]], [[Dene Grigar]], [[Hannah Ackermans]], [[Denise+Deena Larsen]]
 [[Christine Wilks]]
 [[Lee Tusman]]
 [[Nancy Sendler]]
@@ -19,4 +19,4 @@
 [[Mark C. Marino]], [[Rob Wittig]]
 [[Mark C. Marino]], [[John T. Murray]]
 [[Yohanna Joseph Waliya]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]

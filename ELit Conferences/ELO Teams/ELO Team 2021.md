@@ -61,7 +61,7 @@ Global Coordinator [[Caitlin Fisher]]
 | [[Jason Nelson]]                  |
 | [[Jason Nelson]]                  |
 | [[Jill Walker Rettberg]]          |
-| [[Johannah Rodgers]]              |
+| [[Johanna Rodgers]]              |
 | [[John Cayley]]                   |
 | [[John T. Murray]]                   |
 | [[Joseph Tabbi]]                  |

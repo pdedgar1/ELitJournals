@@ -86,7 +86,7 @@
 |[[Stéphane Degoutin]]|
 |[[Stuart Moulthrop]]|
 |[[Ted Warnell]]|
-|[[Tina Escaja]]|
+|[[Tina Escaja aka Alm@ Pérez]]|
 |[[Tom Abba]]|
 |[[Tony Vieira]]|
 |[[Will Luers]]|

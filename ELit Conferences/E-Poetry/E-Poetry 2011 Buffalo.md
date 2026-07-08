@@ -34,7 +34,7 @@ An International digital Poetry Festival
 | [[Claire Donato]] & [[Jeff T. Johnson]]                       |     |
 | [[John Levack Drever]]                                        |     |
 | [[Lori Emerson]]                                              |     |
-| [[Mara Engberg]]                                              |     |
+| [[Maria Engberg]]                                             |     |
 | [[Angela Ferriaolo]]                                          |     |
 | [[Jerome Fletcher]]                                           |     |
 | [[Penny Florence]]                                            |     |
@@ -48,7 +48,7 @@ An International digital Poetry Festival
 | [[Shelley Hain]]                                              |     |
 | [[Ian Hatcher]]                                               |     |
 | [[Sandra Huber]]                                              |     |
-| [[Angelica Huizar]]                                           |     |
+| [[Angelica J. Huizar]]                                        |     |
 | [[Mark Jeffery]]                                              |     |
 | [[david jhave johnston]]                                      |     |
 | [[Andrew Klobucar]]                                           |     |

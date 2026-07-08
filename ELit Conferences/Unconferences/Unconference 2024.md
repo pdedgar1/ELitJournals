@@ -1,5 +1,5 @@
 [[R. Lyle Skains]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[Ken Alba]]
 
 [[Alan Sondheim]]

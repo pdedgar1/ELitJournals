@@ -31,7 +31,7 @@ Unviersity Minnesota Press
 | [[Sue-Ellen Case]]                                          |
 | [[Gary Hall]]                                               |
 | [[Grant Wythoff]]                                           |
-| [[Gregory Ulmer]]                                           |
+| [[Gregory L. Ulmer]]                                           |
 | [[Harmony Bench]]                                           |
 | [[Hugo Gernsback]]                                          |
 | [[Ian Bogost]]                                              |

@@ -263,7 +263,7 @@
 | [[Hannah Ackermans]]              |     |
 | [[Abby Adams]]                    |     |
 | [[Enrico Agostini Marchese]]      |     |
-| [[Ana Sofia Aguilar]]             |     |
+| [[Ana Sofia Albuquerque e Aguilar]]             |     |
 | [[Karmel Allison]]                |     |
 | [[Christian Ulrik Andersen]]      |     |
 | [[Josephine Anstey]]              |     |
@@ -320,7 +320,7 @@
 | [[Sylvain David]]                 |     |
 | [[Stéphane Degoutin]]             |     |
 | [[Jennifer Dellner]]              |     |
-| [[Andrew Demirjian]]              |     |
+| [[Andrew Haik Demirjian]]              |     |
 | [[Jules Deslandes]]               |     |
 | [[Steve Dipaola]]                 |     |
 | [[Anna Dot]]                      |     |
@@ -331,7 +331,7 @@
 | [[Rebekah Edwards]]               |     |
 | [[Astrid Ensslin]]                |     |
 | [[João Enxuto]]                   |     |
-| [[Tina Escaja]]                   |     |
+| [[Tina Escaja aka Alm@ Pérez]]                   |     |
 |                                   |     |
 | [[Lai-Tze Fan]]                   |     |
 | [[Nola Farman]]                   |     |
@@ -353,7 +353,7 @@
 | [[Mehitabel Glenhaber]]           |     |
 | [[David Gochfeld]]                |     |
 | [[María Goicoechea de Jorge]]     |     |
-| [[Veronica Gomez]]                |     |
+| [[Verónica Paula Gomez]]                |     |
 | [[Risa Gorelick]]                 |     |
 | [[Monika Górska-Olesińska]]       |     |
 | [[Brian Greenspan]]               |     |
@@ -372,7 +372,7 @@
 | [[Richard Holeton]]               |     |
 | [[Lissa Holloway-Attaway]]        |     |
 | [[Ryan House]]                    |     |
-| [[Angelica Huizar]]               |     |
+| [[Angelica J. Huizar]]               |     |
 | [[Theresa Hunt]]                  |     |
 |                                   |     |
 | [[Kedrick James]]                 |     |
@@ -392,7 +392,7 @@
 | [[Cal LaFountain]]                |     |
 | [[Corentin Lahouste]]             |     |
 | [[Joanne Lalonde]]                |     |
-| [[Deena Larsen]]                  |     |
+| [[Denise+Deena Larsen]]                  |     |
 | [[Marion Lata]]                   |     |
 | [[Sophie Latouche Artiste]]       |     |
 | [[Milton Läufer]]                 |     |
@@ -408,7 +408,7 @@
 | [[David Lum]]                     |     |
 | [[Tina Lumbis]]                   |     |
 |                                   |     |
-| [[Ana Machado]]                   |     |
+| [[Ana Maria Silva Machado]]                   |     |
 | [[Gabriella Colombo Machado]]     |     |
 | [[Aurelea Mahood]]                |     |
 | [[Judy Malloy]]                   |     |
@@ -467,7 +467,7 @@
 | [[Scott Rettberg]]                |     |
 | [[Moniques Richard]]              |     |
 | [[Joellyn Rock]]                  |     |
-| [[Johannah Rodgers]]              |     |
+| [[Johanna Rodgers]]              |     |
 | [[Jessica Arianne Rodríguez]]     |     |
 | [[Guizar Rolass]]                 |     |
 | [[Rebecca Rouse]]                 |     |
@@ -481,7 +481,7 @@
 | [[April Salchert]]                |     |
 | [[Anastasia Salter]]              |     |
 | [[Christy Sheffield Sanford]]     |     |
-| [[Perla Sasson-Henry]]            |     |
+| [[Perla B. Sassón-Henry]]            |     |
 | [[Alex Saum-Pascual]]             |     |
 | [[Nicolas Sauret]]                |     |
 | [[Ariane Savoie]]                 |     |

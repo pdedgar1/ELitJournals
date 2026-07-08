@@ -11,7 +11,7 @@
 [[Robert Lestón]]
 [[Gregory L. Ulmer]]
 [[Joseph Tabbi]], [[Scott Rettberg]]
-[[Johannah Rodgers]]
+[[Johanna Rodgers]]
 [[Kieran Smith]]
 [[Ralph Clare]]
 [[Henry S. Turner]]

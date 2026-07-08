@@ -37,7 +37,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Erik Radio]]                             |
 | [[Nina Mamikunian]]                        |
 | [[Michael Hurtado]]                        |
-| [[Johannah Rodgers]]                       |
+| [[Johanna Rodgers]]                       |
 | [[Margot Mellet]]                          |
 | [[Tyechia Thompson]]                       |
 | [[Cyrus Khalatbari]]                       |
@@ -62,7 +62,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Terhi Marttila]]                         |
 | [[J. R. Carpenter]]                        |
 | [[Jules Rawlinson]]                        |
-| [[Deena Larsen]]                           |
+| [[Denise+Deena Larsen]]                           |
 | [[Celeste Pedro]]                          |
 | [[Terhi Marttila]]                         |
 | [[Kathi Inman Berens]]                     |
@@ -101,7 +101,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Patrick Lichty]]                         |
 | [[Scott Rettberg]]                         |
 | [[Talan Memmott]]                          |
-| [[Ana Maria Machado]]                      |
+| [[Ana Maria Silva Machado]]                      |
 | [[Ana Albuquerque e Aguilar]]             |
 | [[Jaqueline Conte]]                        |
 | [[Craig J. Saper]]                            |
@@ -127,7 +127,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[John Cayley]]                            |
 | [[Lillian-Yvonne Bertram]]                 |
 | [[Jaqueline Conte]]                        |
-| [[Ana Maria Machado]]                      |
+| [[Ana Maria Silva Machado]]                      |
 | [[Edgar Roberto Kirchof]]                  |
 | [[Carolina Martins]]                       |
 | [[Cecília Magalhães]]                      |
@@ -137,7 +137,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Sally Morfill]]                          |
 | [[Roger Dean]]                             |
 | [[María Mencía]]                           |
-| [[Tina Escaja]]                            |
+| [[Tina Escaja aka Alm@ Pérez]]                            |
 | [[Joel Ong]]                               |
 | [[Emanuel Santos]]                         |
 | [[Daniele Giampà]]                         |
@@ -169,7 +169,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Isabelle Cros]]                          |
 | [[Erika Fülöp]]                            |
 | [[Joseph Tabbi]]                           |
-| [[Tina Escaja]]                            |
+| [[Tina Escaja aka Alm@ Pérez]]                            |
 | [[Christian Bök]]                          |
 | [[Sasha Stiles]]                           |
 | [[Ana María Caballero]]                    |
@@ -198,13 +198,13 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Karla Fernández-de-Gamboa-Vázquez]]      |
 | [[Loreto Espallargas]]                     |
 | [[Andréa Catrópa]]                         |
-| [[Vinícius C. Pereira]]                    |
+| [[Vinícius Carvalho Pereira]]                    |
 | [[Manaíra Aires Athayde]]                     |
 | [[Rejane C. Rocha]]                           |
 | [[Anna Nacher]]                            |
 | [[Andrew Klobucar]]                        |
 | [[Joellyn Rock]]                           |
-| [[Johannah Rodgers]]                       |
+| [[Johanna Rodgers]]                       |
 | [[Rob Wittig]]                             |
 | [[John Cayley]]                            |
 | [[Léa Martin]]                             |

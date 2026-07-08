@@ -1,20 +1,20 @@
 https://darc.au.dk/publications/peer-reviewed-newspaper
 
 ## 14.1
-Edited by [[Christian Ulrik Andersen]], [[Søren Bro Pold]], [[Nicolas Malevé]], [[Magdalena Tyżlik-Carver]], [[Pablo Velasco]], [[Jussi Parikka]], [[Ruben van de Ven]], [[Megan Phipps]], [[Christoffer Koch Andersen]], [[Sami Itavuori]], [[Matīss Groskaufmanis]], [[Maja Funke]], [[Katya Sivers]], [[Daria Iuriichuk]], [[Kola Heyward-Rotimi]], [[Nico Daleman]],[[ Paul V. Schmidt]], [[Maya Erin Masuda]].
+Edited by [[Christian Ulrik Andersen]], [[Søren Bro Pold]], [[Nicolas Malevé]], [[Magdalena Tyżlik-Carver]], [[Pablo R. Velasco]], [[Jussi Parikka]], [[Ruben van de Ven]], [[Megan Phipps]], [[Christoffer Koch Andersen]], [[Sami Itavuori]], [[Matīss Groskaufmanis]], [[Maja Funke]], [[Katya Sivers]], [[Daria Iuriichuk]], [[Kola Heyward-Rotimi]], [[Nico Daleman]],[[ Paul V. Schmidt]], [[Maya Erin Masuda]].
 
-Design: [[Pablo Velasco]]  
-Web-to-print: [[Pablo Velasco]], Nicolas, Malevé, [[Christian Ulrik Andersen]]
+Design: [[Pablo R. Velasco]]  
+Web-to-print: [[Pablo R. Velasco]], Nicolas, Malevé, [[Christian Ulrik Andersen]]
 
 ## 13.1
-[[Christian Ulrik Andersen]], [[Rebecca Aston]], [[Kendal Beynon]], [[Manetta Berends]], [[Simon Browne]], [[Luca Cacini]], [[Esther Rizo Casado]], [[Emilie Sin Yi Choi]], [[Geoff Cox]], [[Pierre Depaz]], [[Mateus Domingos]], [[Rachel Falconer]], [[Marie Naja Lauritzen Dias]], [[Martyna Marciniak]], [[ooooo]], [[Bilyana Palankasova]], [[Duncan Paterson]], [[Søren Bro Pold]], [[Mariana Marangoni]], [[Anya Shchetvina]], [[George Simms]], [[Winnie Soon]], [[Asker Bryld Staunæs]], [[Denise Sumi]]], [[Katie Tindle]], [[Pablo Velasco]]
+[[Christian Ulrik Andersen]], [[Rebecca Aston]], [[Kendal Beynon]], [[Manetta Berends]], [[Simon Browne]], [[Luca Cacini]], [[Esther Rizo Casado]], [[Emilie Sin Yi Choi]], [[Geoff Cox]], [[Pierre Depaz]], [[Mateus Domingos]], [[Rachel Falconer]], [[Marie Naja Lauritzen Dias]], [[Martyna Marciniak]], [[ooooo]], [[Bilyana Palankasova]], [[Duncan Paterson]], [[Søren Bro Pold]], [[Mariana Marangoni]], [[Anya Shchetvina]], [[George Simms]], [[Winnie Soon]], [[Asker Bryld Staunæs]], [[Denise Sumi]]], [[Katie Tindle]], [[Pablo R. Velasco]]
 Design & wiki4print infrastructure: [[Manetta Berends]] and [[Simon Browne]]
 ## 12.1
 Edited by [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Camille Crichlow]], [[Mateus Domingos]], Feminist Servers ([[mara karagianni]] & [[nate wessalowski]]), [[Teodora Sinziana Fartan]], [[Susanne Förster]], [[Inte Gloerich]], [[Daniel Chávez Heras]], [[Macon Holt]], [[Jung-Ah Kim]], [[Edoardo Lomi]], [[Inga Luchs]], [[Gabriel Menotti]], [[Alasdair Milne]], [[Anna Mladentseva]], [[Shusha Niederberger]], [[Søren Bro Pold]], [[Roel Roscam Abbing]], [[Winnie Soon]], [[Magdalena Tyżlik-Carver]], [[Varia]], [[Jack Wilson]], xenodata co-operative ([[Yasemin Keskintepe]] & [[Alexandra (Sasha) Anikina]]), [[Sandy Di Yu]], [[Freja Kir]]
 
 Design & Production: Manetta Berends and Simon Browne
 ## 11.1
-Edited by [[Alexandra Anikina]], [[Christian Ulrik Andersen]], [[Vítor Blanco-Fernández]], [[Yasmine Boudiaf]], [[Geoff Cox]], [[Malthe Stavning Erslev]], [[Rachel Falconer]], [[Hanna Grześkiewicz]], [[Clareese Hill]] & [[Elly Clarke]], [[Lee Tzu Tung]], [[Kyveli Mavrokordopoulou]] & [[Agnès Villette]], One Research Collective ([[Andrea Macias-Yañez]], [[Séverine Chapelle]], [[Caterina Selva]], [[Giovanna Reder]], [[Sanjana Varghese]]), [[Søren Bro Pold]], The Re:Source Project ([[Anne Lee Steele]] & [[Miriam Matthiessen]]), [[Winnie Soon]], [[Pablo Velasco]], [[Ruben van de Ven]], [[Sheung Yiu]]
+Edited by [[Alexandra Anikina]], [[Christian Ulrik Andersen]], [[Vítor Blanco-Fernández]], [[Yasmine Boudiaf]], [[Geoff Cox]], [[Malthe Stavning Erslev]], [[Rachel Falconer]], [[Hanna Grześkiewicz]], [[Clareese Hill]] & [[Elly Clarke]], [[Lee Tzu Tung]], [[Kyveli Mavrokordopoulou]] & [[Agnès Villette]], One Research Collective ([[Andrea Macias-Yañez]], [[Séverine Chapelle]], [[Caterina Selva]], [[Giovanna Reder]], [[Sanjana Varghese]]), [[Søren Bro Pold]], The Re:Source Project ([[Anne Lee Steele]] & [[Miriam Matthiessen]]), [[Winnie Soon]], [[Pablo R. Velasco]], [[Ruben van de Ven]], [[Sheung Yiu]]
 
 Design & Production: [[Nicolas Storck]], [[Julien Duterte]], and students at École de recherche graphique, Bruxelles
 ## 10.1

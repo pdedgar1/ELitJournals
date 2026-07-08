@@ -19,13 +19,13 @@ This could be sooooo chopped : check the
 
 Vancouver) 29 [[Domingo Sánchez-Mesa]] (University of Granada), [[Nieves Rosendo Sánchez]] (University of Granada) and [[Rui Torres]] (University Fernando Pessoa) 29 [[Leonardo Flores]] (University of Puerto Rico), [[M. D. Coverley aka Marjorie C. Luesebrink]] (ELO), [[Stephanie Strickland]] (ELO) and [[Rui Torres]] (University Fernando Pessoa) 30 [[Roderick Coover]] (Temple University), [[Sandy Baldwin]] (West Virgina University), [[Dene Grigar]] (Washington State University Vancouver) and [[Mia Zamora]] (Kean University) 31 
 
-[[Sandy Baldwin]] (West Virginia University), [[Maria Angel]] (University of Western Sydney), [[Leonardo Flores]] (University of Puerto Rico), [[Anna Gibbs]] (University of Western Sydney), [[María Goicoechea de Jorge]] (Complutense University of Madrid), [[Robert Kalman]] (University of Siegen), [[Eric Dean Rasmussen]] (University of Stavanger), [[Johannah Rodgers]] (The City University of New York), [[Patricia Tomaszek]] (University of Bergen) and [[Rui Torres]] (University Fernando Pessoa) 31 
+[[Sandy Baldwin]] (West Virginia University), [[Maria Angel]] (University of Western Sydney), [[Leonardo Flores]] (University of Puerto Rico), [[Anna Gibbs]] (University of Western Sydney), [[María Goicoechea de Jorge]] (Complutense University of Madrid), [[Robert Kalman]] (University of Siegen), [[Eric Dean Rasmussen]] (University of Stavanger), [[Johanna Rodgers]] (The City University of New York), [[Patricia Tomaszek]] (University of Bergen) and [[Rui Torres]] (University Fernando Pessoa) 31 
 
-33 [[Steven Wingate]] (South Dakota State University) 35 [[Leonardo Flores]] (University of Puerto Rico) 35 [[Xiana Sotelo]] (Francisco de Vitoria University of Madrid) 36 [[Mark Sample]] (Davidson College) 36 [[José Molina]] (University of Tuebingen) 36 [[Natalia Fedorova]] and [[Daria Petrova]] (Saint Petersburg State University) 37 
+33 [[Steven Wingate]] (South Dakota State University) 35 [[Leonardo Flores]] (University of Puerto Rico) 35 [[Xiana Sotelo]] (Francisco de Vitoria University of Madrid) 36 [[Mark L. Sample]] (Davidson College) 36 [[José Molina]] (University of Tuebingen) 36 [[Natalia Fedorova]] and [[Daria Petrova]] (Saint Petersburg State University) 37 
 
 [[Judd Morrissey]] (School of the Art Institute Chicago) 37 [[José Aburto]] (Independent) 38 vi 
 
-[[Andrew Klobucar]] (New Jersey Institute of Technology) 38 [[David Clark]] (NSCAD University) 39 [[Damon Baker]] (Independent) 39 
+[[Andrew Klobucar]] (New Jersey Institute of Technology) 38 [[David Clark]] (NSCAD University) 39 [[Damon Loren Baker]] (Independent) 39 
 
 41 [[Ayoe Quist Henkel]] (Aarhus University) 43 [[Kristin Ørjasæter]] (The Norwegian Institute for Children’s Books) 44 [[Ture Schwebs]] (Bergen University College) 45 [[Nolwenn Tréhondart]] and [[Émilie Barbier]] (Université Paris 8) 46 [[Lucas Ramada Prieto]] (Universitat Autònoma de 
 
@@ -35,7 +35,7 @@ Barcelona) 47 [[Kamil Kamysz]] (Jan Matejko Academy of Fine Arts in Krakow, Facu
 
 vii 
 
-[[Davin Heckman]] (Winona State University) 56 [[Kaja Puto]] (Korporacja Ha!art) and [[Martyna Nowicka]] (Jagiellonian University) 57 [[Mark Sample]] (Davidson College) 58 [[Robert Fletcher]] (West Chester University) 58 [[David M. Meurer]] (York University) 60 [[Daniel Punday]] (Purdue University Calumet) 61 [[Eric Dean Rasmussen]] (University of Stavanger) 62 [[Sandy Baldwin]] (West Virginia University) 63 [[Rob Wittig]] (University of Minnesota—Duluth) 64 [[Mark C. Marino]] (University of Southern California) 64 Proposed Panel 65 [[Mario Aquilina]] (Univeristy of Malta) 66 [[Ivan Callus]] (University of Malta) 67 [[Gordon Calleja]] (University of Malta) 68 [[Jim Brown]] (Rutgers University—Camden) 70 [[Odile Farge]] (Université Paris 8) 71
+[[Davin Heckman]] (Winona State University) 56 [[Kaja Puto]] (Korporacja Ha!art) and [[Martyna Nowicka]] (Jagiellonian University) 57 [[Mark L. Sample]] (Davidson College) 58 [[Robert P. Fletcher]] (West Chester University) 58 [[David M. Meurer]] (York University) 60 [[Daniel Punday]] (Purdue University Calumet) 61 [[Eric Dean Rasmussen]] (University of Stavanger) 62 [[Sandy Baldwin]] (West Virginia University) 63 [[Rob Wittig]] (University of Minnesota—Duluth) 64 [[Mark C. Marino]] (University of Southern California) 64 Proposed Panel 65 [[Mario Aquilina]] (Univeristy of Malta) 66 [[Ivan Callus]] (University of Malta) 67 [[Gordon Calleja]] (University of Malta) 68 [[Jim Brown]] (Rutgers University—Camden) 70 [[Odile Farge]] (Université Paris 8) 71
 
 viii 
 
@@ -43,7 +43,7 @@ viii 
 
 ix 
 
-[[María Mencía]] (Kingston University) 88 [[Renato Nicassio]] (Università di Bologna/ Università degli studi dell’Aquila) 89 [[Marius Pisarski]] (Warsaw University) 90 [[Kate Pullinger]] (Bath Spa University) 91 [[Heiko Zimmermann]] (University of Trier) 92 [[Jonathan Baillehache]] (University of Georgia) 94 [[Chris Rodley]] (University of Sydney) 95 [[Mia Zamora]] (Kean University) 96 Melissa Lucas (Scandinavian Language Institute) 97 [[Patricia Tomaszek]] and [[Aud Gjersdal]] (University of Bergen) 98 [[Nick Montfort]] (Massachusetts Institute of Technology) 99 [[Aleksandra Małecka]] (Korporacja Ha!art) and [[Piotr Małecki]] (Jagiellonian University, Korporacja Ha!art) 100 [[José Molina]] (University of Tuebingen) 101 [[Maria Angel]] and [[Anna Gibbs]] (University of Western Sydney) 102 [[María Goicoechea de Jorge]] and [[Laura Sanchez]] (Universidad Complutense de 
+[[María Mencía]] (Kingston University) 88 [[Renato Nicassio]] (Università di Bologna/ Università degli studi dell’Aquila) 89 [[Mariusz Pisarski]] (Warsaw University) 90 [[Kate Pullinger]] (Bath Spa University) 91 [[Heiko Zimmermann]] (University of Trier) 92 [[Jonathan Baillehache]] (University of Georgia) 94 [[Chris Rodley]] (University of Sydney) 95 [[Mia Zamora]] (Kean University) 96 Melissa Lucas (Scandinavian Language Institute) 97 [[Patricia Tomaszek]] and [[Aud Gjersdal]] (University of Bergen) 98 [[Nick Montfort]] (Massachusetts Institute of Technology) 99 [[Aleksandra Małecka]] (Korporacja Ha!art) and [[Piotr Małecki]] (Jagiellonian University, Korporacja Ha!art) 100 [[José Molina]] (University of Tuebingen) 101 [[Maria Angel]] and [[Anna Gibbs]] (University of Western Sydney) 102 [[María Goicoechea de Jorge]] and [[Laura Sanchez]] (Universidad Complutense de 
 
 x 
 
@@ -53,7 +53,7 @@ Madrid) 103 Proposed Panel 104 [[Anne Karhio]] (National University of Ireland, 
 
 [[Rachael Katz]] (University at Buffalo) 134 [[David Devanny]] (Falmouth University) 135 [[Simone Murray]] (Monash University) 136 [[R. Lyle Skains]] (School of Creative Studies and Media, Bangor University) 137 
 
-[[Donna Leishman]] (Dundee University) 138 [[Johannah Rodgers]] (The City University of New York) 139 [[Markku Eskelinen]] (University of Jyväskylä) 140 Proposed Panel 
+[[Donna Leishman]] (Dundee University) 138 [[Johanna Rodgers]] (The City University of New York) 139 [[Markku Eskelinen]] (University of Jyväskylä) 140 Proposed Panel 
 
 Friday, August 7 • 11:00 - 12:30 (Sydneshaugen skole: Auditorium R) 141 [[Sandra Bettencourt]] (CLP (FLUC-UC)) 141 [[Diogo Marques]] (CLP (FLUC-UC)) 143 [[Ana Marques da Silva]] (CLP (FLUC-UC)) 144 [[Jason Edward Lewis]] (Concordia University, Canada) 145 
 
@@ -63,7 +63,7 @@ Friday, August 7 • 11:00 - 12:30 (Sydneshaugen skole: Auditorium R) 141 [[Sand
 
 xiii 
 
-[[Penny Florence]] (Slade School of Fine Art, University College London, UK) and [[Paolo Totaro]] (Independent, Australia) 160 [[Stuart Moulthrop]] (University of Wisconsin-Milwaukee, USA) 162 [[Jason Edward Lewis]] (Obx Labs / Concordia University, Canada) 164 [[Jörg Piringer]] (Independent, Austria) 165 [[Leonardo Flores]] (University of Puerto Rico, Mayaguez, Puerto Rico) and [[Mark Sample]] (Davidson College, USA) 166 [[Kristian Pedersen]] and [[Audun Lindholm]] (Gasspedal Animert, Norway) 166 
+[[Penny Florence]] (Slade School of Fine Art, University College London, UK) and [[Paolo Totaro]] (Independent, Australia) 160 [[Stuart Moulthrop]] (University of Wisconsin-Milwaukee, USA) 162 [[Jason Edward Lewis]] (Obx Labs / Concordia University, Canada) 164 [[Jörg Piringer]] (Independent, Austria) 165 [[Leonardo Flores]] (University of Puerto Rico, Mayaguez, Puerto Rico) and [[Mark L. Sample]] (Davidson College, USA) 166 [[Kristian Pedersen]] and [[Audun Lindholm]] (Gasspedal Animert, Norway) 166 
 
 [[Samantha Gorman]] (USC, Tender Claws, USA) and [[Danny Cannizzaro]] (Tender Claws, USA) 167 [[David Jhave Johnston]] (City University of Hong Kong, Hong Kong) 168 [[Judy Malloy ]](Princeton University, USA) 169 [[Dene Grigar]] and [[Greg Philbrook]] (Washington State University Vancouver, USA) 170 [[John Cayley]] (Brown University, USA) 171 [[Zenon Fajfer]] (independent poet; Ha!art Foundation, Poland) and [[Katarzyna Bazarnik]] (Jagiellonian University; Ha!art Foundation, Poland) 171 
 

@@ -143,7 +143,7 @@ Prezentacje
 Gry dzieciństwa - ankieta / Childchood games - Q & A
 
 [[Urszula Pawlicka]] o "Czarnych jagodach" [[Susan Gibb]]
-[[Dorota Sikora]] o "popołudniu, pewnej historii" [[Michaela Joyce]]'a
+[[Dorota Sikora]] o "popołudniu, pewnej historii" [[Michael Joyce]]'a
 Recenzje
 
 [[Don Scott]] Cyfrowa Dorosłość

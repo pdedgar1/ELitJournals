@@ -11,7 +11,7 @@
 [[James Brown]]
 [[Joellyn Rock]]
 [[Lisa Swanstrom]]
-[[Johannah Rodgers]]
+[[Johanna Rodgers]]
 [[Alice van der Klei]]
 [[Kathi Inman Berens]]
 [[Steven Wingate]]
@@ -24,7 +24,7 @@ Coordinator [[Alex Saum-Pascual]]
 | [[Alice Van Der Klei]]                     |
 | [[Anastasia Salter]]                       |
 | [[Christopher T. Funkhouser]]                       |
-| [[Damon Baker]]                            |
+| [[Damon Loren Baker]]                            |
 | [[Daniela Côrtes Maduro]]                  |
 | [[Davin Heckman]]                          |
 | [[Dene Grigar]]                            |
@@ -34,7 +34,7 @@ Coordinator [[Alex Saum-Pascual]]
 | [[Jim O’Laughlin]]                         |
 | [[Joellyn Rock]]                           |
 | [[Joseph Tabbi]]                           |
-| [[Johannah Rodgers]]                       |
+| [[Johanna Rodgers]]                       |
 | [[John T. Murray]]                            |
 | [[Kathi Inman Berens]]                     |
 | [[Lisa Swanstrom]]                         |

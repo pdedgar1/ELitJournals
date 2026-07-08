@@ -15,7 +15,7 @@
 |[[Paula Perissinotto ]]|
 |[[Sergio Venancio ]]|
 |[[Silvia Laurentiz]]|
-|[[Alckmar Luiz dos Santos ]]|
+|[[Alckmar Luís dos Santos]]|
 |[[Rafael Duarte ]]|
 |[[Vinícius Rutes Henning]]|
 |[[Andrea Catrópa]]|

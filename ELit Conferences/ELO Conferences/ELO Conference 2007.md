@@ -5,7 +5,7 @@
 [[Kenneth Thibodeau]]
 
 [[Robert Kendall]], [[Talan Memmott]], [[Nick Montfort]], [[Scott Rettberg]], [[Stephanie Strickland]], [[Noah Wardrip-Fruin]]
-[[Sandy Baldwin]]. [[Laura Borràs Castanyer]], [[Bertrand Gervais]], [[Juan B. Gutierrez]], [[Mark C. Marino]], [[Jill Walker Rettberg]], 
+[[Sandy Baldwin]]. [[Laura Borràs Castanyer]], [[Bertrand Gervais]], [[Juan B. Gutiérrez]], [[Mark C. Marino]], [[Jill Walker Rettberg]], 
 [[N. Katherine Hayles]]. [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Thom Swiss]], [[Kenneth Thibodeau]], [[Emily Warn]], [[Josh Weiner]]
 ### Attendees
 - [[Joan Elies Adell Pitarch]] (University of Catalonia)
@@ -43,7 +43,7 @@
 - [[Maura E. Elford]] (University of Maryland)
 - [[Kippi Fagerlund]] (University of Maryland)
 - [[Jerry A. Fails]] (University of Maryland)
-- [[Robert P Fletcher]] (West Chester University)
+- [[Robert P. Fletcher]] (West Chester University)
 - [[Leonardo Flores]] (University of Maryland)
 - [[Michael L. Forstrom]] (Yale University)
 - [[Bertrand Gervais]] (University of Quebec at Montreal)

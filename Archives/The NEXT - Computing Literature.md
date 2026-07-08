@@ -84,7 +84,7 @@
 [[Maya Zalbildea]] Paniagua
 [[Dene Grigar]]
 [[Judy Malloy]]
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Stephanie Strickland]]
 [[Amaranth Borsuk]]

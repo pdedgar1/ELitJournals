@@ -19,6 +19,6 @@
 ## Accessible Bits
 
 [[Hannah Ackermans]] 
-[[Deena Larsen]]
+[[Denise+Deena Larsen]]
 [[Richard Snyder]]
 [[Caitlin Fisher]]

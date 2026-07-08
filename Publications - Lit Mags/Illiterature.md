@@ -102,7 +102,7 @@ Interview [[Ashot Akhverdyan]]
 [[Kirill Azernyi]] with [[Alan Sondheim]]
 [[Lello Masucci]]
 [[Jeremy Hight]]
-[[Deena Larsen]] and [[Jon Saklofske]]
+[[Denise+Deena Larsen]] and [[Jon Saklofske]]
 [[Jim Andrews]]
 [[Michael Hurtado]]
 [[Mez Breeze]] (Our Cupidity Coda)
