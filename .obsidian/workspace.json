@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c1eacaeb122d2be",
+        "id": "0e47879c48b65d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "3288ad54d45f8a53",
+            "id": "f08e378246a7a512",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -178,8 +178,20 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "3288ad54d45f8a53",
+  "active": "f08e378246a7a512",
   "lastOpenFiles": [
+    "Publications - Lit Mags/Drunken Boat 2012-2026.md",
+    "Publications - Lit Mags/Drunken Boat 2000-2012.md",
+    "Organizations/Drunken Boat Staff.md",
+    "Victoria Lynne McCoy.md",
+    "Awards/Lumen Prize.md",
+    "Awards/Prix Ars Electronica - Golden Nica Winners.md",
+    "Publications - Lit Mags/Re•mediate.md",
+    "Publications - Lit Mags/AltSalt Publishing + ScrollCinema.md",
+    "Awards/ELO AWARDS.md",
+    "People/Benjamín Escalonilla.md",
+    "Textile.md",
+    "Publications - Lit Mags/The New River 2018- present.md",
     "Emily K. Johnson.md",
     "Alexandra L. Martin.md",
     "Alckmar Luís dos Santos.md",
@@ -193,18 +205,6 @@
     "Publications - Academic/Blog - I <3 E-Poetry.md",
     "ELit Conferences/E-Poetry/E-Poetry 2011 Buffalo.md",
     "Publications - Academic/Journ. - Techsty.md",
-    "correction.md",
-    "Untitled.md",
-    "James Brown.md",
-    "Rogério Barbosa da Silva.md",
-    "Svetlana Anatolevna Kuchina.md",
-    "Verónica Paula Gomez.md",
-    "Jing Chen (CJ Chen).md",
-    "Judith A. Pintar.md",
-    "Patrik BO Svensson.md",
-    "Ana Carolina dos Santos Marques.md",
-    "Luís Lucas Pereira.md",
-    "Claire Allen Dinsmore.md",
-    "Angelica J. Huizar.md"
+    "correction.md"
   ]
 }

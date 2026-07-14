@@ -70,7 +70,7 @@
 [[James Attlee]]
 [[Jordan Magnuson]]
 [[Lucy English]]
-[[AltSalt Publishing]], [[Ricardo Morales]]
+[[AltSalt Publishing + ScrollCinema]], [[Ricardo Morales]]
 [[Natalia Theodoridou]]
 [[Amira Hanafi]]
 #### 2018

@@ -8,121 +8,114 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Archives  ",
-      "color": {
-        "a": 1,
-        "rgb": 10965728
-      }
-    },
-    {
-      "query": "path:Programs  ",
-      "color": {
-        "a": 1,
-        "rgb": 3801470
-      }
-    },
-    {
-      "query": "path:People  ",
-      "color": {
-        "a": 1,
-        "rgb": 263292
-      }
-    },
-    {
-      "query": "path:Organizations  ",
-      "color": {
-        "a": 1,
-        "rgb": 48456
-      }
-    },
-    {
-      "query": "path:\"Publications - Academic\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 4046591
-      }
-    },
-    {
-      "query": "path:Anthologies  ",
-      "color": {
-        "a": 1,
-        "rgb": 5601455
-      }
-    },
-    {
-      "query": "path:\"ELit Conferences/Unconferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 13688914
-      }
-    },
-    {
-      "query": "path:\"Publications - Art Mags\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15750773
-      }
-    },
-    {
       "query": "path:\"Publications - Lit Mags\"  ",
       "color": {
         "a": 1,
-        "rgb": 16724787
+        "rgb": 16711680
       }
     },
     {
       "query": "path:\"ELit Conferences/ELO Exhibitions\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"ELit Conferences/E-Poetry\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14219669
-      }
-    },
-    {
-      "query": "path:\"ELit Conferences/ELO Teams\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"ELit Conferences/ELO Conferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16766208
+        "rgb": 14069084
       }
     },
     {
       "query": "path:\"ELit Conferences/MIX Conferences\"  ",
       "color": {
         "a": 1,
-        "rgb": 16769397
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"Publications - Academic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6082262
+      }
+    },
+    {
+      "query": "path:Anthologies  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:People  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:Archives  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:\"Publications - Art Mags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences/ELO Conferences\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14075484
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences/E-Poetry\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences/ELO Teams\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences/Unconferences\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13162076
       }
     },
     {
       "query": "path:Awards  ",
       "color": {
         "a": 1,
-        "rgb": 16743168
+        "rgb": 16753152
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.78105729166667,
-  "lineSizeMultiplier": 0.636150173611111,
+  "nodeSizeMultiplier": 1.50045572916667,
+  "lineSizeMultiplier": 0.487703993055556,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.849913194444445,
-  "linkDistance": 500,
-  "scale": 0.042459124702023884,
+  "linkStrength": 0.849131944444444,
+  "linkDistance": 30,
+  "scale": 0.0078125,
   "close": true
 }

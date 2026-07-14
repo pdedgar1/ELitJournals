@@ -56,7 +56,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Siobhan O'Flynn]]                                                                                                                                         |
 | [[Hadeel Arja]]                                                                                                                                             |
 | [[Horia Ștefănescu]]                                                                                                                                        |
-| [[Benjamin Escalonilla Godayol]]                                                                                                                            |
+| [[Benjamín Escalonilla]]                                                                                                                            |
 | [[Jody Zellen]]                                                                                                                                             |
 | [[Florence Walker]]                                                                                                                                         |
 | [[Krish Raghav]]                                                                                                                                            |

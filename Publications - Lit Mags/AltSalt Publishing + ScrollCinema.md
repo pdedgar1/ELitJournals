@@ -1,0 +1,43 @@
+### Alternative Worlds 
+[[Adina Farinango]]
+[[Analisa Freitas]]
+[[Alda Yuan]]
+[[Alejandro Fernandez]]
+[[Artemio Morales]]
+[[Artmayu]]
+[[Angela DelosReyes]]
+[[Elena Soledad]]
+[[Jamie San Andres]]
+[[Jessica Tin]]
+[[Layqa Nuna Yawar]]
+[[Lia Coleman]]
+[[Marisol Silva]]
+[[Charles Huang]]
+[[Rimay Raiz]]
+[[Sandy Enriquez]]
+[[Stephanie Barreto-Lastra]]
+[[Jessica Kahn]]
+[[Yvette Ramirez]]
+##### Andean 
+[[Alan Poma]]
+[[Penelope Durand]]
+[[Carlos Villareal Kwasek]]
+
+#### Pub Catalog
+[[xtine burrough]]
+[[Mez Breeze]]
+[[Halim Madi]]
+[[Jody Zellen]]
+[[Artmayu]]
+[[Kevin Cadena]]
+[[Alda Yuan]]
+[[Emily Zullo]]
+[[Lichen Ritual]]
+[[Full Circle]]
+[[LabSynthE]]
+[[Brian Walker]]
+[[Bum Lee]]
+[[Shirley Man-Kin Leung]]
+
+
+

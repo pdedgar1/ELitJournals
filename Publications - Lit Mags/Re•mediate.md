@@ -77,16 +77,15 @@
 [[Kevin G. Smith]]
 
 ## Issue 6 guest edited by [[Benjamín Escalonilla]]
-
 [[Leonardo Flores]]
 [[Justin Gallant]]
 [[Audrey Coble]]
 [[Mehulkumar Desai]] and [[Denise+Deena Larsen]]
 [[Collier Nogues]]
 [[Sean Carroll]]
-
-
-
+[[Aaron El Sabrout]]
+[[Mark C. Marino]], [[Tina Escaja aka Alm@ Pérez]], [[Benjamín Escalonilla]], [[Victoria Clarckson]], [[María Garay Arriba]], [[David Ciccoricco]], [[AltSalt Publishing + ScrollCinema]],
+[[Nicolás Gerardi Rousset]]
 
 ### letters by 
 [[max]]
