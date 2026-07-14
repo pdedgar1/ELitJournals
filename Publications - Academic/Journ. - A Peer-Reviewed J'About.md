@@ -1,5 +1,5 @@
 #academicJournal 
-**APRJA** is an open-access research journal that addresses the ever-shifting thematic frameworks of digital culture.
+**APRJA** is an open-access research journal that addresses the ever-shifting thematic frameworks of digital culture.
 
 Editorial Team :
 [[Christian Ulrik Andersen]] and [[Geoff Cox]] at Aarhus Univ. 

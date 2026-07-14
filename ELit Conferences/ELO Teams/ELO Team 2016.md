@@ -27,7 +27,7 @@ Coordinator [[Alex Saum-Pascual]]
 | [[Damon Loren Baker]]                            |
 | [[Daniela Côrtes Maduro]]                  |
 | [[Davin Heckman]]                          |
-| [[Dene Grigar]]                            |
+| [[Dene Grigar]]                            |
 | [[Élika Ortega]]                           |
 | [[Helen J. Burgess]]                          |
 | [[Jeneen Naji]]                            |

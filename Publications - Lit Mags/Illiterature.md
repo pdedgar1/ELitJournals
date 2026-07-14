@@ -12,7 +12,7 @@ Interview [[Ashot Akhverdyan]]
 [[Timofey Usikov]]
 [[Marc Veyrat]]
 [[Kirill Azernyi]]
-**[[Galina Bliekh]],** **[[Lev Manovich]], [[Eugeny Nikitin]], [[Kirill Azernyi]], Moderated by [[Daria Kesler]]**
+**[[Galina Bliekh]],** **[[Lev Manovich]], [[Eugeny Nikitin]], [[Kirill Azernyi]], Moderated by [[Daria Kesler]]**
 [[Ali Aliyev]]
 [[Ted Warnell]] and [[Kirill Azernyi]]
 [[Jim Andrews]] and [[Kirill Azernyi]]

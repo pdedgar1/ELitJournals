@@ -119,8 +119,8 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Astri Moksnes Barbala]]            |
 | [[Atara Frenkel]]                    |
 | [[Ausma Bernot]]                     |
-| [[Available access  ]]               |
-| [[Available accessEditorial  ]]      |
+| [[Available access  ]]               |
+| [[Available accessEditorial  ]]      |
 | [[Avishek Ray]]                      |
 | [[Aya Yadlin-Segal]]                 |
 | [[Ayelet Kohn]]                      |
@@ -142,7 +142,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Bo Kampmann Walther]]              |
 | [[Boel McAteer]]                     |
 | [[Bonnie ‘Bo’ Ruberg]]               |
-| [[Book review  ]]                    |
+| [[Book review  ]]                    |
 | [[Bouziane Zaid]]                    |
 | [[Boyi Huang]]                       |
 | [[Brana Jianu]]                      |
@@ -302,7 +302,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Eddy Borges-Rey]]                  |
 | [[Edgar Gómez-Cruz]]                 |
 | [[Edgar Simpson]]                    |
-| [[Editorial  ]]                      |
+| [[Editorial  ]]                      |
 | [[Ediz Ozelkan]]                     |
 | [[Edward Hurcombe]]                  |
 | [[Edward Summers]]                   |
@@ -800,7 +800,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Orlando Woods]]                    |
 | [[Òscar Coromina]]                   |
 | [[Osnat Roth-Cohen]]                 |
-| [[Other  ]]                          |
+| [[Other  ]]                          |
 | [[Oxana Mikhaylova]]                 |
 | [[Pablo R. Velasco]]                  |
 | [[Pam Briggs]]                       |
@@ -856,8 +856,8 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Rebekah Willett]]                  |
 | [[Reinald Besalú]]                   |
 | [[Renan Petersen-Wagner]]            |
-| [[Restricted accessBook review  ]]   |
-| [[Restricted accessOther  ]]         |
+| [[Restricted accessBook review  ]]   |
+| [[Restricted accessOther  ]]         |
 | [[Rex Martin]]                       |
 | [[Rhiannon Bury]]                    |
 | [[Rhys Comissiong]]                  |

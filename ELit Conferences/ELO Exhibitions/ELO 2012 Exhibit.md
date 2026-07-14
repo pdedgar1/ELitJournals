@@ -1,6 +1,6 @@
 #anthology 
 
-“Electrifying Literature:  Affordances and Constraints”––The ELO 2012 Media Art Show––features 55 artists from Australia, Belgium, Canada, France, Korea, Norway, Switzerland, the US, and the UK and their work.  Five artists are honored with a retrospective:  [[Alan Bigelow]], [[J. R. Carpenter]], [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Judy Malloy]],  and [[Jason Nelson]].  Five artists are awarded the first-ever Jury’s Choice Award for the excellence of their work:  [[Caitlin Fisher]], [[Jason Nelson]], [[Jason Edward Lewis]], and [[Greg J. Smith]] & [[Erik Loyer]].  Below is the complete list of artists, their works, and the venues at which their work can be found. 
+“Electrifying Literature:  Affordances and Constraints”––The ELO 2012 Media Art Show––features 55 artists from Australia, Belgium, Canada, France, Korea, Norway, Switzerland, the US, and the UK and their work.  Five artists are honored with a retrospective:  [[Alan Bigelow]], [[J. R. Carpenter]], [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Judy Malloy]],  and [[Jason Nelson]].  Five artists are awarded the first-ever Jury’s Choice Award for the excellence of their work:  [[Caitlin Fisher]], [[Jason Nelson]], [[Jason Edward Lewis]], and [[Greg J. Smith]] & [[Erik Loyer]].  Below is the complete list of artists, their works, and the venues at which their work can be found. 
 ### curators [[Dene Grigar]], [[Kathi Inman Berens]], [[Lori Emerson]]
 
 [[Sepand Ansari]] & [[Raschin Fatemi]]
@@ -48,11 +48,11 @@
 [[Sally Rodgers]] & [[Steve Jones]]
 [[Alexandra Saemmer]]
 [[Mark L. Sample]]
-[[Greg J. Smith]] & [[Erik Loyer]]      
+[[Greg J. Smith]] & [[Erik Loyer]]      
 
-[[Alan Sondheim]]   
+[[Alan Sondheim]]   
 [[Steve Tomasula]]
-[[Graeme Truslove]]     
+[[Graeme Truslove]]     
 [[Christine Wilks]]
 [[Laura Zaylea]]
 [[Jody Zellen]]

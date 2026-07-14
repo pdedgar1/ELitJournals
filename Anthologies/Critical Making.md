@@ -2,13 +2,13 @@ by [[Garnet Hertz]]
 #anthology 
 #printanthology 
 
-- **Critical Making - Introduction**: 14 pages. 
+- **Critical Making - Introduction**: 14 pages. 
     - [[Garnet Hertz]] - Making Critical Making ([CriticalMaking2012Hertz-Introduction-pp01to10-Hertz-MakingCriticalMaking.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Introduction-pp01to10-Hertz-MakingCriticalMaking.pdf))
     - [[Garnet Hertz]] - Acknowledgements ([CriticalMaking2012Hertz-Introduction-pp11to12-Hertz-Acknowledgements.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Introduction-pp11to12-Hertz-Acknowledgements.pdf))
     - [[Garnet Hertz]] - How To Cite This Work ([CriticalMaking2012Hertz-Introduction-pp13to14-Hertz-HowToCiteThisWork.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Introduction-pp13to14-Hertz-HowToCiteThisWork.pdf))
 - **Critical Making - Manifestos**: 48 pages.
     - [[Daniel Charny]] - Power of Making ([CriticalMaking2012Hertz-Manifestos-pp01to06-Charny-PowerOfMaking.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp01to06-Charny-PowerOfMaking.pdf))
-    - [[Anne Burdick]] - To Make is to Know (Release Date: 29 April 2014)
+    - [[Anne Burdick]] - To Make is to Know (Release Date: 29 April 2014)
     - [[Norman White]] - A Summary of My Work Modes and Objectives ([CriticalMaking2012Hertz-Manifestos-pp09to12-White-ASummaryOfMyWorkModesAndObjectives.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp09to12-White-ASummaryOfMyWorkModesAndObjectives.pdf))
     - [[Garnet Hertz]] on [[John Maeda]] - All I Want To Be ([CriticalMaking2012Hertz-Manifestos-pp13to14-HertzOnMaeda-AllIWantToBe.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp13to14-HertzOnMaeda-AllIWantToBe.pdf))
     - [[Michael Dieter]] / [[Geert Lovink]] - Theses on Making in the Digital Age ([CriticalMaking2012Hertz-Manifestos-pp15to20-DieterLovink-ThesesOnMaking.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Manifestos-pp15to20-DieterLovink-ThesesOnMaking.pdf))
@@ -48,7 +48,7 @@ by [[Garnet Hertz]]
     - Garnet Hertz - Interview with [[Alex Galloway]] ([CriticalMaking2012Hertz-Conversations-pp17to24-Hertz-GallowayInterview.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Conversations-pp17to24-Hertz-GallowayInterview.pdf))
     - Garnet Hertz - Interview with [[Phoebe Sengers]] ([CriticalMaking2012Hertz-Conversations-pp25to34-Hertz-SengersInterview.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Conversations-pp25to34-Hertz-SengersInterview.pdf))
 - **Critical Making - Places**: 44 pages.
-    - [[McKenzie Wark]] - Making New York [CriticalMaking2012Hertz-Places-pp00to07-Wark-MakingNewYork.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Places-pp00to07-Wark-MakingNewYork.pdf)
+    - [[McKenzie Wark]] - Making New York [CriticalMaking2012Hertz-Places-pp00to07-Wark-MakingNewYork.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Places-pp00to07-Wark-MakingNewYork.pdf)
     - [[Cheryl L'Hirondelle]] - Cree++ ([CriticalMaking2012Hertz-Places-pp08to10-LHirondelle-Cree++.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Places-pp08to10-LHirondelle-Cree++.pdf))
     - [[Esben Hardenberg]] - Kaere Hacker ([CriticalMaking2012Hertz-Places-pp11to12-Hardenberg-KaereHacker.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Places-pp11to12-Hardenberg-KaereHacker.pdf))
     - [[William James Hollaway]] / [[Helen Myers]] / [[Henry Jackson]] - Real Rydaz Lowrider Bike Club ([CriticalMaking2012Hertz-Places-pp13to18-HollawayMyersJackson-RealRydazLowriderBikeClub.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Places-pp13to18-HollawayMyersJackson-RealRydazLowriderBikeClub.pdf))
@@ -60,9 +60,9 @@ by [[Garnet Hertz]]
 - **Critical Making - Science**: 20 pages.
     - [[Denisa Kera]] - Ontological Disobedience in the Age of Tinkering: Crowdsourcing Data or Hacking Hardware? ([CriticalMaking2012Hertz-Science-pp01to04-Kera-OntologicalDisobedienceInTheAgeOfTinkering.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Science-pp01to04-Kera-OntologicalDisobedienceInTheAgeOfTinkering.pdf))
     - [[Paul Dourish]] - The Politics of Information and Participation: Digital Citizenship and Public Science ([CriticalMaking2012Hertz-Science-pp05to12-Dourish-ThePoliticsOfInformationAndParticipation.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Science-pp05to12-Dourish-ThePoliticsOfInformationAndParticipation.pdf))
-    - [[Stacey Kuznetsov]] / [[Alex S. Taylor]] / [[Tim Regan]] / [[Nicolas Villar]] / [[Eric Paulos]] - At the Seams: DIYbio and Public Engagement with Science [CriticalMaking2012Hertz-Science-pp13to14-KuznetsovTaylorReganVillarPaulos-AtTheSeams.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Science-pp13to14-KuznetsovTaylorReganVillarPaulos-AtTheSeams.pdf))
+    - [[Stacey Kuznetsov]] / [[Alex S. Taylor]] / [[Tim Regan]] / [[Nicolas Villar]] / [[Eric Paulos]] - At the Seams: DIYbio and Public Engagement with Science [CriticalMaking2012Hertz-Science-pp13to14-KuznetsovTaylorReganVillarPaulos-AtTheSeams.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Science-pp13to14-KuznetsovTaylorReganVillarPaulos-AtTheSeams.pdf))
 - **Critical Making - Make**: 24 pages.
-    - [[Mitch Altman]] - Do Funding Sources Matter? Why I Chose to Stop Helping at Maker Faire After They Received Military Funding (For a Good Cause) [CriticalMaking2012Hertz-Make-pp01to10-Altman-DoFundingSourcesMatter.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Make-pp01to10-Altman-DoFundingSourcesMatter.pdf))
+    - [[Mitch Altman]] - Do Funding Sources Matter? Why I Chose to Stop Helping at Maker Faire After They Received Military Funding (For a Good Cause) [CriticalMaking2012Hertz-Make-pp01to10-Altman-DoFundingSourcesMatter.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Make-pp01to10-Altman-DoFundingSourcesMatter.pdf))
     - [[Dale Dougherty]] - Makerspaces in Education and DARPA ([CriticalMaking2012Hertz-Make-pp11to16-Dougherty-MakerspacesInEducationAndDARPA.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Make-pp11to16-Dougherty-MakerspacesInEducationAndDARPA.pdf))
     - [[Mark Pauline]] / [[Karen Marcelo]] - SRL is Banned ([CriticalMaking2012Hertz-Make-pp17to18-PaulineMarcelo-SRLisBanned.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Make-pp17to18-PaulineMarcelo-SRLisBanned.pdf))
 - **Critical Making - Childhood**: 16 pages.
@@ -70,7 +70,7 @@ by [[Garnet Hertz]]
     - [[Rebecca Niederlander]] - The Necessity of Authentic Boredom: Caine's Arcade ([CriticalMaking2012Hertz-Childhood-pp05to06-Niederlander-TheNecessityofAuthenticBoredom.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Childhood-pp05to06-Niederlander-TheNecessityofAuthenticBoredom.pdf))
     - [[Reed Ghazala]] - Bend or Make? ([CriticalMaking2012Hertz-Childhood-pp07to08-Ghazala-BendOrMake.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Childhood-pp07to08-Ghazala-BendOrMake.pdf))
     - [[Elizabeth Losh]] - Badges ([CriticalMaking2012Hertz-Childhood-pp09to10-Losh-Badges.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Childhood-pp09to10-Losh-Badges.pdf))
-    - [[Marie Bjerede]] - Make: A Place for Genders to Intersect? ([CriticalMaking2012Hertz-Childhood-pp11-Bjerede-Make.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Childhood-pp11-Bjerede-Make.pdf)) 
+    - [[Marie Bjerede]] - Make: A Place for Genders to Intersect? ([CriticalMaking2012Hertz-Childhood-pp11-Bjerede-Make.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Childhood-pp11-Bjerede-Make.pdf)) 
 - **Critical Making - History**: 24 pages.
     - [[Roger Malina]] - Informant Number 11: 100 Years of Scientific Making in Celebration of Frank Malina ([CriticalMaking2012Hertz-History-pp01to06-Malina-InformantNumber11.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-History-pp01to06-Malina-InformantNumber11.pdf))
     - [[Make It Yourself]] - 1927 ([CriticalMaking2012Hertz-History-pp07to14-MakeItYourself-1927.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-History-pp07to14-MakeItYourself-1927.pdf))
@@ -78,6 +78,6 @@ by [[Garnet Hertz]]
 - **Envelope**: 4 items.
     - [[Brian Kane]] - System Upgrade Now (vinyl sticker) ([CriticalMaking2012Hertz-Envelope-Kane-SystemUpgradeNow-VinylSticker.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Envelope-Kane-SystemUpgradeNow-VinylSticker.pdf))
     - [[RideSouthLA]] - Watts Ride (folding map) ([CriticalMaking2012Hertz-Envelope-RideSouthLA-WattsRide-FoldingMap.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Envelope-RideSouthLA-WattsRide-FoldingMap.pdf))
-    - [[Garnet Hertz]] - Made: Technology on Affluent Leisure Time (vinyl sticker) ([CriticalMaking2012Hertz-Envelope-Hertz-Made-VinylSticker.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Envelope-Hertz-Made-VinylSticker.pdf)) 
+    - [[Garnet Hertz]] - Made: Technology on Affluent Leisure Time (vinyl sticker) ([CriticalMaking2012Hertz-Envelope-Hertz-Made-VinylSticker.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Envelope-Hertz-Made-VinylSticker.pdf)) 
     - [[Garnet Hertz]] - Critical Making (hand-stamped paper sticker) ([CriticalMaking2012Hertz-Envelope-Hertz-CriticalMaking-PaperSticker.pdf](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Envelope-Hertz-CriticalMaking-PaperSticker.pdf))
 - Acknowlegments: The term 'Critical Making': [[Matt Ratto]]. Funding: [[Paul Dourish]], [[Gillian Hayes]], NSF. Transcription: [[Amelia Guimarin]], [[Jessica Kao]], [[Maroof Moral]], [[Sarah Choukam]]. Booklet labor: [[Amelia Guimarin]], [[Jessica Kao]], [[Max Hertz]], [[Emma Hertz]], [[Kohl Hertz]], [[Dahlia Hegab]], [[Vahan Hartooni]], [[Rachel Rose Ulgado]]. Hacked photocopier courtesy of: [[Jason Cleaver]], [[Jim Doyle]]. Facilities: Department of Informatics at UC Irvine. Inspiration: [[Mitch Altman]] vs. [[Tim O'Reilly]]

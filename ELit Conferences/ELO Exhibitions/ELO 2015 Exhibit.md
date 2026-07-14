@@ -128,7 +128,7 @@ Liberdade
 
 [[Francisco Marinho]] (Federal University of Minas Gerais, Brazil) and
 
-[[Alckmar Luís dos Santos]] (Federal University of Santa Catarina, Brazil)  243
+[[Alckmar Luís dos Santos]] (Federal University of Santa Catarina, Brazil)  243
 
 Labyrinth…
 
@@ -188,7 +188,7 @@ xviii[[E. M. de Melo e Castro]] 251
 
 Sintext-W (1999)
 
-[[Pedro Barbosa]]  252
+[[Pedro Barbosa]]  252
 
 Computer Poetry (1983)
 
@@ -224,11 +224,11 @@ Przemówienia / Speeches (1993)
 
 Poeta /Poet (2003)
 
-[[Michał Rudolf]]  258
+[[Michał Rudolf]]  258
 
 Fifth Demo (1990)
 
-[[Kaz]]  258
+[[Kaz]]  258
 
 Złe słowa (2013)
 

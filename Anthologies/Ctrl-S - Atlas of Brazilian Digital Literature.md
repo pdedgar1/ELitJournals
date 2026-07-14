@@ -2,34 +2,34 @@
 |---|
 |[[Arthur Moura Campos]]|
 |[[Flavio Komatsu]]|
-|[[Bruna Mayer ]]|
-|[[Clayton Policarpo ]]|
-|[[Dario Vargas ]]|
-|[[Felipe Mamone ]]|
-|[[Reality Group ]]|
-|[[Letícia Brazil ]]|
-|[[Livia Gabbai ]]|
-|[[Loren Bergantini ]]|
-|[[Luca Ribeiro ]]|
-|[[Miguel Alonso ]]|
-|[[Paula Perissinotto ]]|
-|[[Sergio Venancio ]]|
+|[[Bruna Mayer ]]|
+|[[Clayton Policarpo ]]|
+|[[Dario Vargas ]]|
+|[[Felipe Mamone ]]|
+|[[Reality Group ]]|
+|[[Letícia Brazil ]]|
+|[[Livia Gabbai ]]|
+|[[Loren Bergantini ]]|
+|[[Luca Ribeiro ]]|
+|[[Miguel Alonso ]]|
+|[[Paula Perissinotto ]]|
+|[[Sergio Venancio ]]|
 |[[Silvia Laurentiz]]|
 |[[Alckmar Luís dos Santos]]|
-|[[Rafael Duarte ]]|
+|[[Rafael Duarte ]]|
 |[[Vinícius Rutes Henning]]|
 |[[Andrea Catrópa]]|
-|[[Andréa Catrópa ]]|
+|[[Andréa Catrópa ]]|
 |[[Felipe Mariani]]|
 |[[Eduardo Kac]]|
 |[[Augusto de Campos]]|
 |[[André Vallias]]|
 |[[Marinho boy]]|
-|[[Fernando Tangi ]]|
+|[[Fernando Tangi ]]|
 |[[Samira Almeida]]|
 |[[Paulo Fehlauer]]|
 |[[Erthos Albino de Souza]]|
-|[[Philadelpho Menezes ]]|
+|[[Philadelpho Menezes ]]|
 |[[Wilton Azevedo]]|
 |[[Zéluiz Valero]]|
 |[[Villari Herrmann]]|
@@ -40,13 +40,13 @@
 |[[Ronaldo Azeredo]]|
 |[[Roland Fields]]|
 |[[Regina Silveira]]|
-|[[Guilherme Ranoya ]]|
+|[[Guilherme Ranoya ]]|
 |[[Thiago R]]|
 |[[Priscilla Davanzo]]|
 |[[Peter de Brito]]|
 |[[Pedro Shisto]]|
 |[[Paulo Miranda.]]|
-|[[Gongora ]]|
+|[[Gongora ]]|
 |[[Omar Khouri]]|
 |[[Omar Guedes.]]|
 |[[Lúcio Agra]]|
@@ -56,10 +56,10 @@
 |[[Júlio Mendonça]]|
 |[[Josiel Vieira]]|
 |[[José Lino Grünewald]]|
-|[[Jorge Luis Antônio ]]|
+|[[Jorge Luis Antônio ]]|
 |[[Regina Célia Pinto]]|
 |[[Inês Raphaelian]]|
-|[[Haroldo de Campos ]]|
+|[[Haroldo de Campos ]]|
 |[[Safo]]|
 |[[Gregrório Graziosi]]|
 |[[Glauco Mattoso]]|
@@ -67,30 +67,30 @@
 |[[Felipe Páros]]|
 |[[Fabio Oliveira Nunes]]|
 |[[Ziraldo]]|
-|[[Denise Vieira ]]|
-|[[Edinei Tavares ]]|
-|[[Fernanda Souza ]]|
-|[[Karen Caroline ]]|
+|[[Denise Vieira ]]|
+|[[Edinei Tavares ]]|
+|[[Fernanda Souza ]]|
+|[[Karen Caroline ]]|
 |[[Veronica Stigger]]|
 |[[Gilbertto Prado]]|
-|[[Décio Pignatari ]]|
+|[[Décio Pignatari ]]|
 |[[Elson Fróes]]|
 |[[Edgard Braga]]|
-|[[Diniz Antônio Gonçalves Jr. ]]|
+|[[Diniz Antônio Gonçalves Jr. ]]|
 |[[Decio Pignatari]]|
 |[[Daniele Gomes]]|
 |[[Celia Mello]]|
-|[[Leandro Vieira ]]|
+|[[Leandro Vieira ]]|
 |[[Mariana Meloni]]|
 |[[Arnaldo Antunes]]|
 |[[Alexandre Azeredo]]|
-|[[André Vallias ]]|
-|[[Augusto de Campos ]]|
+|[[André Vallias ]]|
+|[[Augusto de Campos ]]|
 |[[Ricardo Aleixo]]|
 |[[Joesér Alvarez]]|
-|[[Binho ]]|
-|[[Carlos Moreira ]]|
-|[[Bruno Vianna ]]|
+|[[Binho ]]|
+|[[Carlos Moreira ]]|
+|[[Bruno Vianna ]]|
 |[[Gab Marcondes]]|
 |[[Marcelo Spalding]]|
 |[[Maurem Kayna]]|
@@ -111,17 +111,17 @@
 |[[Eucanaã Ferraz]]|
 |[[Claudia Grechi Steiner]]|
 |[[Carlos Adriano]]|
-|[[Ana Gruszynski ]]|
+|[[Ana Gruszynski ]]|
 |[[Sergio Capparelli]]|
-|[[Daniel Quevedo ]]|
+|[[Daniel Quevedo ]]|
 |[[Sérgio Capparelli]]|
 |[[Álvaro Andrade Garcia]]|
-|[[Alberto Lins Caldas ]]|
+|[[Alberto Lins Caldas ]]|
 |[[Oak Age]]|
 |[[Adriana Calcanhoto]]|
-|[[Débora de Deus ]]|
-|[[Fabio Pena ]]|
-|[[Leonardo Magliano ]]|
-|[[Mario Guilherme ]]|
-|[[Michel Lima ]]|
+|[[Débora de Deus ]]|
+|[[Fabio Pena ]]|
+|[[Leonardo Magliano ]]|
+|[[Mario Guilherme ]]|
+|[[Michel Lima ]]|
 |[[Rodrigo Alves]]|

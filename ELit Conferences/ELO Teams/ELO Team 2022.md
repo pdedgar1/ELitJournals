@@ -17,19 +17,19 @@
 - [[Salvatore Zingale]] (Politecnico di Milano)
 - [[Canek Zapata]] (CCD México City)
 - [[Doreen A. Rios]] (CCD México City)
-- [[Mariana Delgado]] (CCD México City
+- [[Mariana Delgado]] (CCD México City
 
 ### scientific committee
 - [[Ángela Celis]] (Universidad de Castilla-La Mancha)
 - [[Perla B. Sassón-Henry]] (United States Naval Academy)
 - [[Oreto Doménech]] (HStudies Research Group)
-- [[Asun López-Varela]]  (Universidad Complutense de Madrid)
+- [[Asun López-Varela]]  (Universidad Complutense de Madrid)
 - [[Serge Bouchardon]] (Université de Compiègne-La Sorbonne)
 - [[Rodolfo Mata]] (Universidad Nacional Autónoma de México)
 - [[Claudia Kozak]] (Universidad de Buenos Aires)
 - [[Rogério Barbosa da Silva]] (Centro Federal de Educação Tecnológica de Minas Gerais)
 - [[Natalia Fedorova]] (St.Petersburg State University/Bard College)
-- [[Dene Grigar]] (Washington State University Vancouver
+- [[Dene Grigar]] (Washington State University Vancouver
 
 ## artistic committee
 - [[Rui Torres]] (Universidade Fernando Pessoa)
@@ -40,4 +40,4 @@
 - [[Erika Fülöp]] (Lancaster University)
 - [[Caitlin Fisher]] (York University)
 - [[María Goicoechea de Jorge]] (Universidad Complutense de Madrid)
-- [[Jason Nelson]] (University of Bergen
+- [[Jason Nelson]] (University of Bergen

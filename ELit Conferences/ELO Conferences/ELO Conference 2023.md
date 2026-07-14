@@ -53,7 +53,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Ottar Ormstad]]                          |
 | [[Daria Petrova]]                          |
 | [[Mark C. Marino]]                         |
-| [[Ryan Veeder ]]                           |
+| [[Ryan Veeder ]]                           |
 | [[Caitlin Fisher]]                         |
 | [[Roderick Coover]]                        |
 | [[Adam Vidiksis]]                          |
@@ -149,7 +149,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Aidan Walker]]                           |
 | [[R. Lyle Skains]]                         |
 | [[Bruno Ministro]]                         |
-| [[Thomas Ernst ]]                          |
+| [[Thomas Ernst ]]                          |
 | [[Morten Søndergaard]]                     |
 | [[Mark Wolff]]                             |
 | [[Leonardo Flores]]                        |

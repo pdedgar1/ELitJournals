@@ -8,7 +8,7 @@
 [[Sylee Gore]]
 [[Harry Man]]
 [[Joshua Calladine-Jones]]
-[[Karólína Rós Ólafsdóttir]]
+[[Karólína Rós Ólafsdóttir]]
 [[Tom Jenks]]
 
 ## Issue 2
@@ -61,7 +61,7 @@
 ## Issue 6
 [[Richard A. Carter]]  
 [[NJ Stallard]]  
-[[Toby Anonymous]]   
+[[Toby Anonymous]]   
 [[Fannah Palmer]]  
 [[Paige Jones]]  
 [[Mike Ferguson]]  

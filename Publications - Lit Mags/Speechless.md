@@ -1,4 +1,4 @@
-Edited by [[Derek Beaulieu]], Speechless is dedicated to the dissemination and distribution of visual and concrete poetry. Each issue juxtaposes historical work with contemporary poetry and criticism.   
+Edited by [[Derek Beaulieu]], Speechless is dedicated to the dissemination and distribution of visual and concrete poetry. Each issue juxtaposes historical work with contemporary poetry and criticism.   
   
 The most recent of beaulieu's editing projects over the last dozen years, Speechless is (until now) only available directly from the editor. Epitomizing micro-press production, each issue is printed with desktop techology and then assembled, folded, trimmed and sewn by beaulieu. Speechless is quite often out of print the same day as it is produced.
 

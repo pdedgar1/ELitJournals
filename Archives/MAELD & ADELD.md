@@ -165,7 +165,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Rachid Benharrousse]]                                             |
 | [[Joel 'Kachi Benson]]                                              |
 | [[John Maxwell Coetzee]]                                            |
-| [[Labiba Al-Khemar]]                                                |
+| [[Labiba Al-Khemar]]                                                |
 
   
 **

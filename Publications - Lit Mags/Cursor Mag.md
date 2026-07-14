@@ -68,7 +68,7 @@ team
 team
 Aditi Peyush  
 Iza Jablonska  
-Maïwenn Blunat   
+Maïwenn Blunat   
 Nata Aguilar
 pieces
 [[Eleni Maragkou]]

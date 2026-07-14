@@ -49,7 +49,7 @@
 | [[Eyal Gruss]]                    |
 | [[farrell]]                       |
 | [[Fereshteh Toosi]]               |
-| [[Fi ]]                           |
+| [[Fi ]]                           |
 | [[Francesca Tripodi]]             |
 | [[Fred L Joiner]]                 |
 | [[Freia Lobo]]                    |
@@ -66,7 +66,7 @@
 | [[Jon Stapleton]]                 |
 | [[Jonathan W. Y. Gray]]           |
 | [[Josh Grams]]                    |
-| [[Kate Alexandrite (Guillen) ]]   |
+| [[Kate Alexandrite (Guillen) ]]   |
 | [[Katelin Ten/geya]]              |
 | [[Katherine Diemert]]             |
 | [[Katherine Yang]]                |
@@ -102,7 +102,7 @@
 | [[Omayeli Arenyeka]]              |
 | [[Priya Chandrasegaram]]          |
 | [[Randy Lubin]]                   |
-| [[Rebecca Uliasz ]]               |
+| [[Rebecca Uliasz ]]               |
 | [[Rebekkah Leigh LaBlue]]         |
 | [[remmah]]                        |
 | [[Roberta Iadevaia]]              |

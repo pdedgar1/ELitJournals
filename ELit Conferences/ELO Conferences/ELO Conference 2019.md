@@ -36,7 +36,7 @@
 | [[John F. Barber]]                                                                                      |
 | [[Justin Tonra]]                                                                                        |
 | [[Brian Davis]]                                                                                         |
-| [[David Kelly ]]                                                                                        |
+| [[David Kelly ]]                                                                                        |
 | [[Waqas Khawaja]]                                                                                       |
 | [[Elizabeth Losh]]                                                                                      |
 | [[Davin Heckman]]                                                                                       |
@@ -119,7 +119,7 @@
 | [[Jordan Magnusson]]                                                                                    |
 | [[Justin Tonra]]                                                                                        |
 | [[Brian Davis]]                                                                                         |
-| [[David Kelly ]]                                                                                        |
+| [[David Kelly ]]                                                                                        |
 | [[Waqas Khawaja]]                                                                                       |
 | [[Davin Heckman]]                                                                                       |
 | [[Dene Grigar]]                                                                                         |
@@ -233,7 +233,7 @@
 | [[Ann Steiner]]                                                                                         |
 | [[Annie Abrahams]]                                                                                      |
 | [[Diogo Marques]]                                                                                       |
-| [[Shawn Day ]]                                                                                          |
+| [[Shawn Day ]]                                                                                          |
 | [[Megan Wilson]]                                                                                        |
 | [[Andrew Wenaus]]                                                                                       |
 | [[David Meurer]]                                                                                        |
@@ -258,9 +258,9 @@
 | [[Dashiel Carrera]] (Virginia Tech)]]                                                                   |
 | [[Daniel Punday]]                                                                                       |
 | [[David Hall]] (Independent Artist)]]                                                                   |
-| [[Caitlin Fisher ]]                                                                                     |
+| [[Caitlin Fisher ]]                                                                                     |
 | [[Jason Nelson]] (Griffith University]]                                                                 |
-| [[Vincent Cellucci ]]                                                                                   |
+| [[Vincent Cellucci ]]                                                                                   |
 | [[Marianne Gunderson]]                                                                                  |
 | [[Valerie Shinas]]                                                                                      |
 | [[Amanda Hovious]]                                                                                      |
@@ -318,7 +318,7 @@
 | [[Talan Memmott]]                                                                                       |
 | [[Vinicius Marquet]]                                                                                    |
 | [[David Alonzo]]                                                                                        |
-| [[Caitlin Fisher ]]                                                                                     |
+| [[Caitlin Fisher ]]                                                                                     |
 | [[Damon Loren Baker]]                                                                                   |
 | [[Scott Rettberg]]                                                                                      |
 | [[Claudia Kozak]]                                                                                       |

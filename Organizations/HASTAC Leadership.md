@@ -10,7 +10,7 @@
 
 [[Anne Balsamo]],[[Simone Browne]][[Daniel Chamberlain]][[Cathy N. Davidson]][[Caitlin Fisher]][[David Theo Goldberg]][[Daniel Herwitz]][[Tara McPherson]][[Timothy Murray]][[Jentery Sayers]][[Jacqueline Wernimont]][[Kathleen Woodward]]
 
-### Steering Committee 
+### Steering Committee 
 
 [[Moya Bailey]][[Fiona Barnett]][[Julian Chambliss]][[Anita Say Chan]][[Marcia Chatelain]][[The Colored Conventions Project Team]][[Jim Casey]][[Gabrielle Foreman]][[Anne Cong-Huyen]][[Tressie McMillan Cottom]][[T.L. Cowan]][[Alex Gil]][[Sheryl Grant]][[Stefka Hristova]][[Bruce Janz]][[Purdom Lindblad]][[Marisa Parham]][[Miriam Posner]][[Karyn Recollet]][[Dean Rehberger]][[Anastasia Salter]][[Danica Savonick]][[Michael Simeone]][[Victoria Szabo]][[T.L. Taylor]][[Stephanie E. Vasko]][[Kalle Westerling]][[Zac Zimmer]]
 

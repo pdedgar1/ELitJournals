@@ -1080,7 +1080,7 @@ university education
 
 [[Mark C. Marino]] and [[María Goicoechea de Jorge]]
 
-“Mentor and Mentoring” 
+“Mentor and Mentoring” 
 
 [[Arianna Reiche]] and [[Andrea Holck]] (8.30-11.30)
 

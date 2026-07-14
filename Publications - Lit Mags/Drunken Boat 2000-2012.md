@@ -213,33 +213,33 @@
 ### # 7 
 
 ##### Feature: Canadian Strange 
- [[Sina Queyras]]  
- [[Elizabeth Bachinsky]]
- [[John Barton]]
- [[Derek Beaulieu]]
- [[Nicole Brossard]]
- [[John Paul Fiorentino]]
- [[Joelle Hann]]
- [[Ken Howe]]
- [[Ray Hsu]]
- [[Jeanette Lynes]]
- [[Erin Mouré]]
- [[Trish Salah]]
- [[Jordan Scott]]
- [[Nathalie Stephens]]
- [[Todd Swift]]
- [[Rachel Zolf]]
- [[Shawn Micallef]]
- [[Lisa Robertson]]
- [[Catherine Kidd]]
- [[Karen Connelly]]
- [[Sheila Heti]]
- [[Alayna Munce]]
- [[Sarah Selecky]]
- [[Martha Eleen]]
- [[Adeena Karasick]]
- [[Allyson Clay]]
- [[Gabor Szilasi]]
+ [[Sina Queyras]]  
+ [[Elizabeth Bachinsky]]
+ [[John Barton]]
+ [[Derek Beaulieu]]
+ [[Nicole Brossard]]
+ [[John Paul Fiorentino]]
+ [[Joelle Hann]]
+ [[Ken Howe]]
+ [[Ray Hsu]]
+ [[Jeanette Lynes]]
+ [[Erin Mouré]]
+ [[Trish Salah]]
+ [[Jordan Scott]]
+ [[Nathalie Stephens]]
+ [[Todd Swift]]
+ [[Rachel Zolf]]
+ [[Shawn Micallef]]
+ [[Lisa Robertson]]
+ [[Catherine Kidd]]
+ [[Karen Connelly]]
+ [[Sheila Heti]]
+ [[Alayna Munce]]
+ [[Sarah Selecky]]
+ [[Martha Eleen]]
+ [[Adeena Karasick]]
+ [[Allyson Clay]]
+ [[Gabor Szilasi]]
 ##### Feature: Oulipo 
 **Curator**
 [[jean-jacques poucel]]
@@ -485,7 +485,7 @@
 #### Mistranslation feature
 | edited by [[jean-jacques poucel]], [[Sina Queyras]] and [[Ravi Shankar]] |
 | ------------------------------------------------------------------------ |
-| W O R K S ]]                                                             |
+| W O R K S ]]                                                             |
 | [[]]                                                                     |
 | [[Sandra Alland]]                                                        |
 | [[Brother Anthony]]                                                      |
@@ -510,7 +510,7 @@
 | [[Laird Hunt]]                                                           |
 | [[Adriana X. Jacobs]]                                                    |
 |                                                                          |
-| W O R K S ]]                                                             |
+| W O R K S ]]                                                             |
 |                                                                          |
 | [[Fady Joudah]]                                                          |
 | [[Lucas Klein]]                                                          |
@@ -539,18 +539,18 @@
 | [[Paula Bohince]]                                                                                                                                                                                                                                                                                                                             |
 | [[Geoffrey Brock]]                                                                                                                                                                                                                                                                                                                            |
 | [[Oni Buchanan]]                                                                                                                                                                                                                                                                                                                              |
-| [[Priya Sarukkai Chabria]]                                                                                                                                                                                                                                                                                                                    |
+| [[Priya Sarukkai Chabria]]                                                                                                                                                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                                                                                                                               |
 | [[Tina Chang]]                                                                                                                                                                                                                                                                                                                                |
 | [[Jim Daniels]]                                                                                                                                                                                                                                                                                                                               |
 | [[Kyle Dargan]]                                                                                                                                                                                                                                                                                                                               |
 | [[Chad Davidson]]                                                                                                                                                                                                                                                                                                                             |
 | [[Sean Thomas Dougherty]]                                                                                                                                                                                                                                                                                                                     |
-| [[  ]]                                                                                                                                                                                                                                                                                                                                        |
+| [[  ]]                                                                                                                                                                                                                                                                                                                                        |
 | [[Camille Dungy]]                                                                                                                                                                                                                                                                                                                             |
 | [[Cornelius Eady]]                                                                                                                                                                                                                                                                                                                            |
 | [[Gabriel Fried]]                                                                                                                                                                                                                                                                                                                             |
-| [[Alena Hairston ]]                                                                                                                                                                                                                                                                                                                           |
+| [[Alena Hairston ]]                                                                                                                                                                                                                                                                                                                           |
 | [[Brian Johnson]]                                                                                                                                                                                                                                                                                                                             |
 | [[Sharon Kraus]]                                                                                                                                                                                                                                                                                                                              |
 | [[Steve Langan]]                                                                                                                                                                                                                                                                                                                              |
@@ -584,7 +584,7 @@
 |                            |
 | -------------------------- |
 | P O E T R Y]]              |
-| judge:  ]]                 |
+| judge:  ]]                 |
 | [[Annie Finch]]            |
 | FINALISTS:]]               |
 | [[Clay Matthews]]          |
@@ -596,7 +596,7 @@
 | [[John Vincent]]           |
 | [[Donna Weaver]]           |
 | F I C T I O N]]            |
-| judge:  ]]                 |
+| judge:  ]]                 |
 | [[Sabina Murray]]          |
 | FINALISTS:]]               |
 | [[Thomas Hodge]]           |
@@ -606,8 +606,8 @@
 | [[Liana Scalettar]]        |
 | [[Gretchen Van Lente]]     |
 |                            |
-| W E B  A R T ]]            |
-| judge:  ]]                 |
+| W E B  A R T ]]            |
+| judge:  ]]                 |
 | [[Talan Memmott]]          |
 | FINALISTS:]]               |
 | [[Travis Alber]]           |
@@ -618,7 +618,7 @@
 |                            |
 |                            |
 | S O U N D]]                |
-| judge:  ]]                 |
+| judge:  ]]                 |
 | [[Paul D. Miller]]         |
 | FINALISTS:]]               |
 | [[Abinadi Meza]]           |
@@ -626,7 +626,7 @@
 | [[Doug Theriault]]         |
 | [[Peter Yumi]]             |
 | P H O T O]]                |
-| judge:  ]]                 |
+| judge:  ]]                 |
 | [[David Hall]]             |
 | FINALISTS:]]               |
 | [[Floris Andrea]]          |
@@ -637,7 +637,7 @@
 | [[Dede Norungolo]]         |
 |                            |
 | V I D E O]]                |
-| judge:  ]]                 |
+| judge:  ]]                 |
 | [[David Hall ]]            |
 | FINALISTS:]]               |
 | [[David Bernard Ambrose]]  |

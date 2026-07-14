@@ -13,14 +13,14 @@ Chair: [[Alex Saum-Pascual]], UC Berkeley
 - [[Anastasia Salter]], University of Central Florida
 - [[Elizabeth Losh]], College of William and Mary
 - [[Diane K. Jakacki]], Bucknell University
-- [[Stephanie Boluk]], UC Davis
+- [[Stephanie Boluk]], UC Davis
 
 - [[Dene Grigar]], Washington State University Vancouver
 - [[Stuart Moulthrop]], University of Wisconsin Milwaukee
 - [[Matthew G. Kirschenbaum]], University of Maryland College Park
-- [[Judy Malloy]], Independent Artist
+- [[Judy Malloy]], Independent Artist
 
-Chair: [[Rui Torres]], University Fernando Pessoa
+Chair: [[Rui Torres]], University Fernando Pessoa
 
 - “From eLit to pLit,” [[Heiko Zimmerman]], University of Trier
 - “Generations of Meaning,” [[Hannah Ackermans]], Utrecht University
@@ -30,7 +30,7 @@ Chair: [[Rui Torres]], University Fernando Pessoa
 - “Peering through the Window,” [[Philippe Brand]], Lewis & Clark College
 - “(E-)re-writing Well-Known Works,” [[Agnieszka Przybyszewska]], University of Lodz
 
-Chair: [[Alex Mitchell]], National University of Singapore
+Chair: [[Alex Mitchell]], National University of Singapore
 
 - “Twine Games,” [[Alanna Bartolini]], UC Santa Barbara
 - “Whose Game Is It Anyway?,” [[Ryan House]], Washington State University Vancouver
@@ -44,7 +44,7 @@ Chair: [[Robert Glick]], Rochester Institute of Technology
 
 - “Generative Poems by Maria Mencia,” [[Angelica J. Huizar]], Old Dominion University
 - “Inhabitation: Johanna Drucker: “no file is ever self-identical,” [[Joel Kateinikoff]], University of Alberta
-- “The Great Monster: Ulises Carrión as E-Lit Theorist,” [[Élika Ortega]], University of Kansas
+- “The Great Monster: Ulises Carrión as E-Lit Theorist,” [[Élika Ortega]], University of Kansas
 - “Pedagogic Strategies for Electronic Literature,” [[Mia Zamora]], Kean University
 
 - Digital Preservation, by [[Nicholas Schiller]], Washington State University Vancouver; [[Zach Coble]], NYU
@@ -73,7 +73,7 @@ Chair: [[James O'Sullivan]], University of Sheffield
 - “Poetic Machines,” [[Sidse Rubens LeFevre]], University of Copenhagen
 - “Really Really Long Works,” [[Aden Evens]], Dartmouth University
 - “UnWrapping the E-Reader,” [[David S. Roh]], University of Utah
-- “Social Media for E-Lit Artists,” [[Michael Rabby]]
+- “Social Media for E-Lit Artists,” [[Michael Rabby]]
 
 [[Brian Ganter]], Capilano University
 
@@ -93,7 +93,7 @@ Chair: [[Andrew Klobucar]], New Jersey Institute of Technology
 - “The Old in the Arms of the New,” [[Gary Barwin]], Independent Scholar
 - “Space as a Meaningful Dimension,” [[Luciane Maria Fadel]], Simon Fraser University
 
-Chair: [[Leonardo Flores]], University of Puerto Rico, Mayagüez
+Chair: [[Leonardo Flores]], University of Puerto Rico, Mayagüez
 
 - [[Allison Parrish]], Fordham University
 - [[Matt Schneider]], University of Toronto
@@ -115,9 +115,9 @@ Co-Chairs: [[Philippe Bootz]], Université Paris 8; Riham Hosny, Rochester Insti
 
 - [[Sandy Baldwin]], Rochester Institute of Technology
 - [[María Goicoechea de Jorge]], Universidad Complutense de Madrid
-- [[Odile Farge]], UNESCO Chair ITEN, Foundation MSH/University of Paris8.
+- [[Odile Farge]], UNESCO Chair ITEN, Foundation MSH/University of Paris8.
 
-Chair: [[Rui Torres]], University Fernando Pessoa
+Chair: [[Rui Torres]], University Fernando Pessoa
 
 - “Creative GREP Works,” [[Kristopher Purzycki]], University of Wisconsin Milwaukee
 - “Using Theme to Author Hypertext Fiction,” [[Alex Mitchell]], National University at Singapore
@@ -134,9 +134,9 @@ Chair: [[David S. Roh]], University of Utah
 - [[Jessica Pressman]], San Diego State University
 
 - “The Plastic Space of E-loops and Loopholes: the Figural Dynamics of Reading,” [[Gwen Le Cor]], Université Paris 8
-- “Beyond the Cybernetic Loop: Redrawing the Boundaries of E-Lit Translation,” [[Arnaud Regnauld]], Université Paris 8
-- “E-Loops: The Possible and Variable Figure of a Contemporary Aesthetic,” [[Ariane Savoie]], Université du Québec à Montréal and Université Catholique de Louvain
-- “Relocating the Digital,” Stéphane Vanderhaeghe, Université Paris 8
+- “Beyond the Cybernetic Loop: Redrawing the Boundaries of E-Lit Translation,” [[Arnaud Regnauld]], Université Paris 8
+- “E-Loops: The Possible and Variable Figure of a Contemporary Aesthetic,” [[Ariane Savoie]], Université du Québec à Montréal and Université Catholique de Louvain
+- “Relocating the Digital,” Stéphane Vanderhaeghe, Université Paris 8
 
 Chair: [[Alex Saum-Pascual]], UC Berkeley
 
@@ -145,7 +145,7 @@ Chair: [[Alex Saum-Pascual]], UC Berkeley
 
 - [[Leonardo Flores]], University of Puerto Rico Mayagüez Campus
 - [[Chris Rodley]], University of Sydney
-- [[Élika Ortega]], University of Kansas
+- [[Élika Ortega]], University of Kansas
 - [[Everest Pipkin]], Carnegie Mellon
 
 - “Bots,” [[Zach Whalen]], University of Mary Washington
@@ -171,7 +171,7 @@ Chair: [[Robert Glick]], Rochester Institute of Technology
 
 [[Alex Saum-Pascual]], UC Berkeley
 
-- “_Seasons II_:  a case study in Ambient Video, Generative Art, and Audiovisual Experience,” [[Jim Bizzocchi]], Simon Fraser University; [[Arne Eigenfeldt]], Simon Fraser University; [[Philippe Pasquier]], Simon Fraser University; [[Miles Thorogood]], University of British Columbia Okanagan
+- “_Seasons II_:  a case study in Ambient Video, Generative Art, and Audiovisual Experience,” [[Jim Bizzocchi]], Simon Fraser University; [[Arne Eigenfeldt]], Simon Fraser University; [[Philippe Pasquier]], Simon Fraser University; [[Miles Thorogood]], University of British Columbia Okanagan
 - “Cinematic Turns,” [[Elizabeth Losh]], College of William and Mary
 - “Mario Mods and Ludic Seriality,” [[Shane Denson]], Duke University
 
@@ -189,11 +189,11 @@ Chair: [[Denise+Deena Larsen]], Independent Artist
 - ELMCIP, [[Allison Parrish]], Fordham University; [[Scott Rettberg]], University of Bergen; [[David Nunez Ruiz]], Neotipo; [[Hannah Ackermans]], Utrecht University
 - Wikipedia-A-Thon, [[Elizabeth Losh]], College of William and Mary
 
-Chair: [[Davin Heckman]], Winona State University
+Chair: [[Davin Heckman]], Winona State University
 
 - “Just for the Cameras,” [[Flourish Klink]], Independent Artist
-- “Lulu Sweet,” [[Deanne Achong]] and [[Faith Moosang]], Independent Artists
-- “Drone Pilot,” [[Ian Hatcher]], Independent Artist [[Artist Site]](https://dtc-wsuv.org/projects/elo2016site/ian-hatcher.html)
+- “Lulu Sweet,” [[Deanne Achong]] and [[Faith Moosang]], Independent Artists
+- “Drone Pilot,” [[Ian Hatcher]], Independent Artist [[Artist Site]](https://dtc-wsuv.org/projects/elo2016site/ian-hatcher.html)
 - “AVATAR/MOCAP,” [[Alan Sondheim]], Independent Artist
 
 Chair: [[Michael Rabby]], Washington State University Vancouver

@@ -1,6 +1,6 @@
 #Litmag 
 SCANDINAVIAN
-#### tidskrift för visuell/experimentell /digital poesi
+#### tidskrift för visuell/experimentell /digital poesi
 [[Hanna Ylöstalo]]
  in Finland/Norway/Sweden
 Founded [[Hilda Forss]] and [[Jolin Slotte]]

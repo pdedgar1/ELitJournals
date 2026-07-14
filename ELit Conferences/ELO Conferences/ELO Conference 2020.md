@@ -23,30 +23,30 @@
 | [[Hannah Ackermans]]                                          |
 | [[Jack Murray]]                                               |
 | [[Jeremy Douglass]]                                           |
-| [[Jesse R. Vigil]], University of Southern California]]       |
-| [[Johanna Rodgers]], Independent Artist/Scholar]]            |
-| [[Júlia Zuza Andrade]], University of Coimbra]]               |
-| [[Karen Lowry]], SAE Institute]]                              |
-| [[Kedrick James]], University of British Columbia]]           |
-| [[Ken Alba]], Boston University]]                          |
-| [[Kirk M. Lundblade]], University of Central Florida]]        |
-| [[Korine Powers]], Boston University]]                        |
-| [[Kristine Kelly]], Case Western Reserve University]]         |
-| [[Lauren Rouse]], University of Central Florida]]             |
-| [[Luís Lucas Pereira]], University of Coimbra]]               |
+| [[Jesse R. Vigil]], University of Southern California]]       |
+| [[Johanna Rodgers]], Independent Artist/Scholar]]            |
+| [[Júlia Zuza Andrade]], University of Coimbra]]               |
+| [[Karen Lowry]], SAE Institute]]                              |
+| [[Kedrick James]], University of British Columbia]]           |
+| [[Ken Alba]], Boston University]]                          |
+| [[Kirk M. Lundblade]], University of Central Florida]]        |
+| [[Korine Powers]], Boston University]]                        |
+| [[Kristine Kelly]], Case Western Reserve University]]         |
+| [[Lauren Rouse]], University of Central Florida]]             |
+| [[Luís Lucas Pereira]], University of Coimbra]]               |
 | [[R. Lyle Skains]]                                               |
-| [[Mark C. Marino]], University of Southern California]]       |
-| [[Martzi Campos]], University of Southern California]]        |
-| [[Martzi Campos]], University of Southern California]]        |
-| [[Mauro Carassai]], California State University, Northridge]] |
+| [[Mark C. Marino]], University of Southern California]]       |
+| [[Martzi Campos]], University of Southern California]]        |
+| [[Martzi Campos]], University of Southern California]]        |
+| [[Mauro Carassai]], California State University, Northridge]] |
 | [[Qianxun Chen]]                                              |
-| [[Rachel S. Horst]], University of British Columbia]]         |
-| [[Rob Wittig]], University of Minnesota - Duluth]]            |
-| [[Rui Torres]], University Fernando Pessoa]]                  |
-| [[Sean B. Bloom]], University of Southern California]]        |
-| [[Thales Estefani]], University of Coimbra]]                  |
-| [[Yue-Jin Ho]], The Open University of Hong Kong]]            |
-| [[Yuya Takeda]], University of British Columbia]]             |
+| [[Rachel S. Horst]], University of British Columbia]]         |
+| [[Rob Wittig]], University of Minnesota - Duluth]]            |
+| [[Rui Torres]], University Fernando Pessoa]]                  |
+| [[Sean B. Bloom]], University of Southern California]]        |
+| [[Thales Estefani]], University of Coimbra]]                  |
+| [[Yue-Jin Ho]], The Open University of Hong Kong]]            |
+| [[Yuya Takeda]], University of British Columbia]]             |
 ## panels 
 
 [[Dene Grigar]] and [[Richard Snyder]]

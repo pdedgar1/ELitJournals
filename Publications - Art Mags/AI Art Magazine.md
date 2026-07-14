@@ -81,26 +81,26 @@ Articles
 [[Christoph Grünberger]]
 [[Ameesia Marold]] + [[Kristi Coronado]]
 [[Anika Meier]],
-**[[Catherine Mason]]_,_** 
-[[Auronda Scalera]] & Dr. [[Alfredo Cramerotti]],** 
-**[[Sasha Stiles]],** 
-**[[Sofia Bastidas Vivar]], [[MAD Arts]],** 
+**[[Catherine Mason]]_,_** 
+[[Auronda Scalera]] & Dr. [[Alfredo Cramerotti]],** 
+**[[Sasha Stiles]],** 
+**[[Sofia Bastidas Vivar]], [[MAD Arts]],** 
 **[[Josue Ibáñez]],
 **[[Jason Scuderi]]
-**[[Christoph Grünberger]],** 
-**[[Tonoptik]],** _Instinkt_
-**[[Nadine Khalil]] + [[Ulrich Schrauth]], [[Art Dubai Digital]],** Interview with [[Isaac Sullivan]], [[Ila Colombo]], [[Rachel Rossin]], [[Moreshin Allahyari]] and [[Soliman Lopez]]
-**[[Angela Ferraiolo]],** 
-**[[Sofia Mart]],** 
-**[[Merzmensch]],** 
-**[[Stephan Breuer]],** 
-**[[Eva Simone Lihotzky]],** 
-**[[Thomas Trail]],** _Ha
-**[[Taketo Muroi]],** _
-**[[Mihai Grecu]],** _Mel
+**[[Christoph Grünberger]],** 
+**[[Tonoptik]],** _Instinkt_
+**[[Nadine Khalil]] + [[Ulrich Schrauth]], [[Art Dubai Digital]],** Interview with [[Isaac Sullivan]], [[Ila Colombo]], [[Rachel Rossin]], [[Moreshin Allahyari]] and [[Soliman Lopez]]
+**[[Angela Ferraiolo]],** 
+**[[Sofia Mart]],** 
+**[[Merzmensch]],** 
+**[[Stephan Breuer]],** 
+**[[Eva Simone Lihotzky]],** 
+**[[Thomas Trail]],** _Ha
+**[[Taketo Muroi]],** _
+**[[Mihai Grecu]],** _Mel
 **[[Damn True]],
-**[[Alex May]],** 
-**[[Tito Melega]],** _
+**[[Alex May]],** 
+**[[Tito Melega]],** _
 ##### Jury 
 [[Adriana Mora]]
 [[Aïda Muluneh]]

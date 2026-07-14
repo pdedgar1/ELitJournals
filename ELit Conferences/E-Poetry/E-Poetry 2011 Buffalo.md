@@ -82,7 +82,7 @@ An International digital Poetry Festival
 | [[Eugenio Tisselli]]                                          |     |
 | [[Patricia Tomaszek]]                                         |     |
 | [[Mette-Marie Zacher Sørensen]]                               |     |
-| [[Scott Weintraub ]]                                          |     |
+| [[Scott Weintraub ]]                                          |     |
 | ## VIA ELMCIP                                                 |     |
 | [[Wilton Azevedo]]                                            |     |
 | [[David Jhave Johnston]]                                      |     |

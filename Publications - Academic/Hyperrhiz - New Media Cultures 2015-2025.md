@@ -26,7 +26,7 @@ Advisory editors
 |[[Alan Sondheim]]|
 |[[Darren Tofts]]|
 |[[James Yékú]]|
-|[[Sherman Young ]]|
+|[[Sherman Young ]]|
 ### 14 - end of Elit - summer 2016 [[Roderick Coover]] and [[Scott Rettberg]]
 [[Kathi Inman Berens]]
 [[Davin Heckman]]
