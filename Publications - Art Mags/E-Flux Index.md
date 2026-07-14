@@ -71,7 +71,7 @@
 | [[Ives Maes]] & [[Andrea Fraser]]                                  |
 | [[Marina Vishmidt]]                                                |
 | [[Caroline Elbaor]]                                                |
-| [[Franco “Bifo” Berardi]]                                          |
+| [[Franco "Bifo" Berardi]]                                          |
 | [[Babette Mangolte]]                                               |
 | [[Almudena Escobar López]]                                         |
 | [[Jhordan Channer]] & [[Dorraine Duncan]]                          |
@@ -137,7 +137,7 @@
 | [[Isabel Ling]]                                                    |
 | [[Murtaza Vali]]                                                   |
 | [[Marianna Janowicz]]                                              |
-| [[Sean O’Toole]] & [[Lucia Rebolino]]                              |
+| [[Sean O'Toole]] & [[Lucia Rebolino]]                              |
 | [[Erin McElroy]]                                                   |
 | [[Francisco Nunes]]                                                |
 | [[Liara Roux]]                                                     |
@@ -296,7 +296,7 @@
 | [[Nicole Starosielski]]                                            |
 | [[Iago Bojczuk]]                                                   |
 | [[Nkule Mabaso]]                                                   |
-| [[Sonia D’Alto]] & [[Jennifer Piejko]]                             |
+| [[Sonia D'Alto]] & [[Jennifer Piejko]]                             |
 | [[Sami Khatib]]                                                    |
 | [[Oxana Timofeeva]]                                                |
 | [[Sandra Neugärtner]] & [[Novuyo Moyo]]                            |

@@ -370,7 +370,7 @@ Founder [[John Tranter]]
 | [[Nerys Williams]]              |
 | [[Nguyễn-Hoàng Quyên]]          |
 | [[Nhã Thuyên]]                  |
-| [[Niamh O’mahony]]              |
+| [[Niamh O'mahony]]              |
 | [[Nick Moudry]]                 |
 | [[Nick Sturm]]                  |
 | [[Nico Peck]]                   |

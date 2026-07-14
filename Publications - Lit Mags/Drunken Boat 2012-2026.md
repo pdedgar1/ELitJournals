@@ -78,7 +78,7 @@
 #### Poetry
 [[Gerry LaFemina]], [[V.V. Ganeshananthan]], [[Philip Metres]] & [[Tatiana Tulchinsky]] (trans. [[Lev Rubinstein]]), [[Mộng-Lan]], [[Peter Mishler]], [[Denise Duhamel]], [[Christopher Brunt]], [[Mia Ayumi Malhotra]], [[Meg Day]], [[Liz Robbins]], [[Marcelo Castillo]], [[Jan Clausen]], [[J. Scott Brownlee]], [[Jessica Smith]], [[Collier Nogues]], [[Janine Joseph]], [[Sho Sugita]], [[sam sax]], [[Lisa Sewell]], [[Kamilah Aisha Moon]], [[Loren Kleinman]], [[E.G. Cunningham]], [[Anna Claire Hodge]], [[Aaron Belz]]
 #### Digital Poetry
-[[Amaranth Borsuk]], [[Kate Durbin]] & [[Ian Hatcher]], [[Nick Canty]] & [[Hynninen]], [[J. R. Carpenter]], [[Christopher T. Funkhouser]], [[Zuzana Husárova]], [[Heldén]] & [[Jonson]], [[Daniel C. Howe]], [[Jason Edward Lewis]], [[Louise Marois]], [[Nick Montfort]] & [[Stephanie Strickland]], [[Smith]], [[Will Luers]] & [[Roger Dean]], [[Brian Kim Stefans]], [[Steve Tomasula]], [[Braxton Soderman]], [[Michael Coppola]], [[Qianxun Chen]], [[David Jhave Johnston]]
+[[Amaranth Borsuk]], [[Kate Durbin]] & [[Ian Hatcher]], [[Nick Canty]] & [[Hynninen]], [[J. R. Carpenter]], [[Christopher T. Funkhouser]], [[Zuzana Husárová]], [[Heldén]] & [[Jonson]], [[Daniel C. Howe]], [[Jason Edward Lewis]], [[Louise Marois]], [[Nick Montfort]] & [[Stephanie Strickland]], [[Smith]], [[Will Luers]] & [[Roger Dean]], [[Brian Kim Stefans]], [[Steve Tomasula]], [[Braxton Soderman]], [[Michael Coppola]], [[Qianxun Chen]], [[David Jhave Johnston]]
 
 # Issue 21
 

@@ -31,7 +31,7 @@ Coordinator [[Alex Saum-Pascual]]
 | [[Élika Ortega]]                           |
 | [[Helen J. Burgess]]                          |
 | [[Jeneen Naji]]                            |
-| [[Jim O’Laughlin]]                         |
+| [[Jim O'Laughlin]]                         |
 | [[Joellyn Rock]]                           |
 | [[Joseph Tabbi]]                           |
 | [[Johanna Rodgers]]                       |

@@ -30,7 +30,7 @@
 | [[Arvind Narayanan]]                                                        |
 | [[Christopher Newfield]]                                                    |
 | [[Safiya Umoja Noble]]                                                      |
-| [[Kristin O’Brassill-Kulfan]]                                               |
+| [[Kristin O'Brassill-Kulfan]]                                               |
 | [[Holly Okonkwo]]                                                           |
 | [[Baden Pailthorpe]]                                                        |
 | [[Britt S. Paris]]                                                          |
@@ -61,7 +61,7 @@
 | [[Vukosi Marivate]]                                                         |
 | [[Milagros Miceli]]                                                         |
 | [[Margaret Mitchell]]                                                       |
-| [[Cathy O’Neil]]                                                            |
+| [[Cathy O'Neil]]                                                            |
 | [[Frank Pasquale]]                                                          |
 | [[Rodrigo Ochigame]]                                                        |
 | [[Rita Raley]]                                                              |

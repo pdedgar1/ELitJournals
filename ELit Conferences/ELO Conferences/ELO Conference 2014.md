@@ -18,7 +18,7 @@ Session 2B Collaborative Creativity in New Media (roundtable)–Curtin 175
 Chair:[[Joseph Tabbi]]
 ❏[[Joellyn Rock]], [[Scott Rettberg]], [[Jill Walker Rettberg]], [[Sandy Baldwin]], [[Roderick Coover]], [[Rob Wittig]]
 Catered Lunch –Golda Meir Library, Fourth Floor Conference Center
-[[Illya Szilak]], Keynote: “Learning to Throw Like Olympia—E-­‐lit and the Art of Failure”
+[[Illya Szilak]], Keynote: "Learning to Throw Like Olympia—E-­‐lit and the Art of Failure"
 Session 3A Collections in an International Context–Curtin 118
 Chair:[[Joseph Tabbi]]
 ❏[[Natalia Fedorova]], ❏[[Piotr Małecki]], ❏[[Álvaro Seiça]], Session 3B Artistic and Literary Bots in Social Media–Curtin 175
@@ -33,7 +33,7 @@ Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
 Chair:T.B.A.
 ❏[[Hazel Smith]], ❏[[Caitlin Fisher]], ❏[[John Garrison]], ❏[[Talan Memmott]],Pedestrionics:MemeCulture,AlienationCapital,andGesticPlay
 
-❏[[Stephanie Strickland]] & [[Ian Hatcher]], ❏[[Christian Ulrik Andersen]], [[Jonas Fritsch]] & [[Søren Bro Pold]], ❏[[Scott Rettberg]]& [[Rod Coover]], Session 5B Children’s E-­‐Lit–Curtin 118
+❏[[Stephanie Strickland]] & [[Ian Hatcher]], ❏[[Christian Ulrik Andersen]], [[Jonas Fritsch]] & [[Søren Bro Pold]], ❏[[Scott Rettberg]]& [[Rod Coover]], Session 5B Children's E-­‐Lit–Curtin 118
 Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
 ❏[[Leonardo Flores]], ❏[[Lucas Ramada Prieto]], ❏[[Jill Walker Rettberg]], Session 5C Media Arts Demo Session 2–Digital Humanities Lab, Golda Meir Library Second Floor❏[[Chris Rodley]], [[Nick Montfort]], [[Serge Bouchardon]]&[[Luc Dall'Armellina]]& [[Pierre Fourny]], [[Jim Rosenberg]], [[Natalia Fedorova]], [[Tully Hansen]], [[Mark C. Marino]], [[Mark C. Marino]] & [[Rob Wittig]], [[Jeff T. Johnson]] & [[Andrew Klobucar]], [[Stephen Wingate]], [[Joel Beeson]] & [[Dana Coester]],  [[Piotr Małecki]] and [[Aleksandra Małecka]],[[Alan Bigelow]]
 Break
@@ -50,9 +50,9 @@ Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
 Break
 Session 8A Philosophical Approaches–Curtin 118
 Chair:DavinHeckman
-❏[[Aden Evens]], ❏[[David Ciccoricco]], ❏[[Kent Aardse]], Session 8B Artists’ Talks–Curtin 175
+❏[[Aden Evens]], ❏[[David Ciccoricco]], ❏[[Kent Aardse]], Session 8B Artists' Talks–Curtin 175
 Chair:MarkMarino
-❏[[Jacob Garbe]] & [[Aaron A. Reed]], ❏[[Joel Beeson]] & [[Dana Coester]], ❏[[Claire Donato]], ‘Buses depart UWM for Doubletree
+❏[[Jacob Garbe]] & [[Aaron A. Reed]], ❏[[Joel Beeson]] & [[Dana Coester]], ❏[[Claire Donato]], 'Buses depart UWM for Doubletree
 Doubletree Hotel
 Banquet —Lane Hall, Keynote
 Evening Performancesat Doubletree

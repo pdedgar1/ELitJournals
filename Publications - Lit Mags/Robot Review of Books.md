@@ -4,7 +4,7 @@
 
 references [[Kyle Booten]]
 [[Stanislaw Lem]] [[Kazuo Ishiguro]]
-[[Fei-Fei Li]] [[Vilem Flusser]]
+[[Fei-Fei Li]] [[Vilém Flusser]]
 [[Cesar Aira]]
 
 1. - intro
@@ -37,13 +37,13 @@ It's an online audio-visual lit mag, but the reviews, well, they might be writte
 
 **RRB** [**#**](https://mastodon.social/tags/pr)**4** [[Matteo Pasquinelli]], _The Eye of the Master: A Social History of Artificial Intelligence_ (London: Verso, 2023).
 
-**RRB** [**#**](https://mastodon.social/tags/pr)**5** [[Lauren Oyler]], ‘[Ha ha! Ha ha!](https://www.lrb.co.uk/the-paper/v42/n02/lauren-oyler/ha-ha!-ha-ha)’, _London Review of Books,_ Volume 42, Number 2, January 23, 2020; [[Rachel Cooke]], [review of Lauren Oyler’s _No Judgement_](https://www.theguardian.com/books/2024/feb/19/no-judgement-by-lauren-oyler-review-modish-observations-from-a-rarefied-world), _Guardian_, February 19, 2024; [[Richard Joseph]], ‘[Everyone’s a Critic](https://lareviewofbooks.org/article/everyones-a-critic/)’, _Los Angeles Review of Books_, January 13 2022.
+**RRB** [**#**](https://mastodon.social/tags/pr)**5** [[Lauren Oyler]], '[Ha ha! Ha ha!](https://www.lrb.co.uk/the-paper/v42/n02/lauren-oyler/ha-ha!-ha-ha)', _London Review of Books,_ Volume 42, Number 2, January 23, 2020; [[Rachel Cooke]], [review of Lauren Oyler's _No Judgement_](https://www.theguardian.com/books/2024/feb/19/no-judgement-by-lauren-oyler-review-modish-observations-from-a-rarefied-world), _Guardian_, February 19, 2024; [[Richard Joseph]], '[Everyone's a Critic](https://lareviewofbooks.org/article/everyones-a-critic/)', _Los Angeles Review of Books_, January 13 2022.
 
-**RRB** [**#**](https://mastodon.social/tags/pr)**6** [[Natalie Fenton]], [[Des Freedman]], [[Gholam Khiabany]] and [[Milly Williamson]], ‘[Critiquing the Vocabularies of the Marketized University](https://journalcontent.mediatheoryjournal.org/index.php/mt/article/view/887)’, _Media Theory,_ Volume 7, Number 1, 2023.
+**RRB** [**#**](https://mastodon.social/tags/pr)**6** [[Natalie Fenton]], [[Des Freedman]], [[Gholam Khiabany]] and [[Milly Williamson]], '[Critiquing the Vocabularies of the Marketized University](https://journalcontent.mediatheoryjournal.org/index.php/mt/article/view/887)', _Media Theory,_ Volume 7, Number 1, 2023.
 
-**RRB 7** [[Monica Ali]], ‘[Bookpocalypse: AI and the Risks to Literature and Free Expression](https://pentransmissions.com/2023/12/01/bookpocalypse-ai-and-the-risks-to-literature-and-free-expression/)’, _PEN Transmissions_, December 1, 2023.
+**RRB 7** [[Monica Ali]], '[Bookpocalypse: AI and the Risks to Literature and Free Expression](https://pentransmissions.com/2023/12/01/bookpocalypse-ai-and-the-risks-to-literature-and-free-expression/)', _PEN Transmissions_, December 1, 2023.
 
-**RRB 8** ‘[How To Be A Pirate: An Interview with Alexandra Elbakyan and Gary Hall by Holger Briel’](https://www.liverpooluniversitypress.co.uk/pb-assets/OA%20chapters/Briel_9781802076622_ch5_OA-1687267442.pdf) in [_The Piracy Years: Internet File Sharing in a Global Context_](https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781802070545), edited by [[Michael High]], [[Markus Heidingsfelder]] and [[Holger Briel]] (Liverpool: Liverpool University Press, 2023).
+**RRB 8** '[How To Be A Pirate: An Interview with Alexandra Elbakyan and Gary Hall by Holger Briel'](https://www.liverpooluniversitypress.co.uk/pb-assets/OA%20chapters/Briel_9781802076622_ch5_OA-1687267442.pdf) in [_The Piracy Years: Internet File Sharing in a Global Context_](https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781802070545), edited by [[Michael High]], [[Markus Heidingsfelder]] and [[Holger Briel]] (Liverpool: Liverpool University Press, 2023).
 
 **RRB** [**#**](https://mastodon.social/tags/pr)**17** [[Ester Freider]], [_I'm Like a PDF but a Girl: Girlblogging as a Nomadic Pedagogy_](https://www.are.na/block/20684314) (2022/[2023](https://femmesocialpress.bigcartel.com/product/im-like-a-pdf-but-a-girl))
 

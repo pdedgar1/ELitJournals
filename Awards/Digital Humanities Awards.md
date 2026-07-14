@@ -11,9 +11,9 @@ Winner: Petitioning for Freedom:
 1st Runner Up: Film Programming in the USSR: A Case Study of Moscow Cinemas (1946–1955): 
 2nd Runner Up: Archaeological Artefact Database of Finland (AADA): 
 
-Winner: Mukherjee, P. and Menon, N. “Digital Migration Infrastructure in return-writing: visualizing the migration landscape of India”, Front. Sociol. 9:1450773: 
-1st Runner Up: Orekhov B. “You shall know a piece by the company it keeps. Chess plays as a data for word2vec models”, arXiv:2407.19600 [cs.CL]: 
-2nd Runner Up: Velasco Trujillo, R. “Cultural Ecologies of Memory”: 
+Winner: Mukherjee, P. and Menon, N. "Digital Migration Infrastructure in return-writing: visualizing the migration landscape of India", Front. Sociol. 9:1450773: 
+1st Runner Up: Orekhov B. "You shall know a piece by the company it keeps. Chess plays as a data for word2vec models", arXiv:2407.19600 [cs.CL]: 
+2nd Runner Up: Velasco Trujillo, R. "Cultural Ecologies of Memory": 
 
 Winner: Corpora: A Dataset Studio for the Digital Humanities: 
 1st Runner Up: Dédalo: 
@@ -21,7 +21,7 @@ Winner: Corpora: A Dataset Studio for the Digital Humanities:
 
 Winner: Play With Your Data: 
 1st Runner Up: Archaeological Data Query and Map Visualisation training material in R: 
-2nd Runner Up: Computer Text Analysis: HSE Master’s Degree Course ‘Digital Humanities’ (2024/2025): 
+2nd Runner Up: Computer Text Analysis: HSE Master's Degree Course 'Digital Humanities' (2024/2025): 
 
 Winner: Soils Museum of the Caribbean: 
 1st Runner Up: Yellow Nineties 2.0: 
@@ -43,7 +43,7 @@ Winner: LACLI – Latin American, Caribbean, Latinx, and Iberian Free Online Res
 
 Winner: Digital History Lab – 
 1st Runners Up (joint):  A DIY Guide to Teaching DH in the Humanities – Special Issues of Reviews in Digital Humanities from the Global DH Symposium – and 
-2nd Runner Up: Reverse Engineering the Gendered Design of Amazon’s Alexa: Methods in Testing Closed-Source Code in Grey and Black Box Systems – 
+2nd Runner Up: Reverse Engineering the Gendered Design of Amazon's Alexa: Methods in Testing Closed-Source Code in Grey and Black Box Systems – 
 
 Winner: NormaTEI – 
 1st Runner Up: Digital Ecologies. The use of digital tool Juncture in Modern Greek Poetry of 19th-20th ce. – 
@@ -63,7 +63,7 @@ Winner: Memory Eternal –
 
 ## 2022
 Winner: TravellersMap – 
-1st Runner Up: Virtual St Paul’s Cathedral Project – 
+1st Runner Up: Virtual St Paul's Cathedral Project – 
 2nd Runner Up: Mmmonk – IIIF annotation demo on the medieval Liber Floridus manuscript – 
 
 Winner: TravelTrails – 
@@ -79,7 +79,7 @@ Winner: Story Map Building and Visualising Tool (SMBVT) –
 2nd Runner Up: Saving Ukrainian Cultural Heritage Online – 
 
 Winner: The Programming Historian – 
-1st Runner Up: Mmmonk Workshop ‘Reuse of IIIF images in education and research’ – 
+1st Runner Up: Mmmonk Workshop 'Reuse of IIIF images in education and research' – 
 2nd Runner Up: Cinema and the Digital Humanities – 
 
 Winner: Hidden Cities Apps – 
@@ -88,15 +88,15 @@ Winner: Hidden Cities Apps –
 
 2021
 
-Winner: “DH and the Climate Crisis” Manifesto 1st Runner Up: “Are We There Yet? Diversity and Mobility in the Digital Humanities.” by Nabeel Siddiqui 
-2nd Runner Up: “When to Kill Your Darlings” by Abby Mullen 
+Winner: "DH and the Climate Crisis" Manifesto 1st Runner Up: "Are We There Yet? Diversity and Mobility in the Digital Humanities." by Nabeel Siddiqui 
+2nd Runner Up: "When to Kill Your Darlings" by Abby Mullen 
 
 Winner: The Battle of Hong Kong 1941: A Spatial History Project 
-1st Runner Up: Kitchener’s Survey of Cyprus 1878-1883. A web-based interactive historical map 
+1st Runner Up: Kitchener's Survey of Cyprus 1878-1883. A web-based interactive historical map 
 2nd Runner Up: Cartografía de la Literatura Digital Latinoamericana
 
  Winner: Colorscape : Worldbuilding Thru Color, Senses and the World Around Us 
-1st Runner Up: Rigas’ Charta AR application 
+1st Runner Up: Rigas' Charta AR application 
 2nd Runner Up: Civil War Twin 
 
 Winner: Catalogo del Cuento Mexicano 
@@ -135,7 +135,7 @@ Winner: Newspaper Navigator Dataset
 
 Winner: Documentos y colecciones especiales – Red de bibliotecas del Banco de la República 
 1st Runner Up: Old English Online 
-2nd Runner Up: A Humanist’s Cookbook For Natural Language Processing In Python 
+2nd Runner Up: A Humanist's Cookbook For Natural Language Processing In Python 
 
 Winner: History, Digitized 
 1st Runner Up: Fading Away… The challenge of sustainability in digital studies 
@@ -150,13 +150,13 @@ Winner: Climatophosis by Yohanna Joseph Waliya
 2nd Runner Up: Cork LGBT Archive Interactive LGBT History Tour
 
  Winner: Digital Pedagogy in the Humanities 
-1st Runner Up: Twitter Conference “DH in the Time of Virus” 
+1st Runner Up: Twitter Conference "DH in the Time of Virus" 
 2nd Runner Up: Point of Equilibrity 
 
 ## 2019
 
 Winner: Failing Gloriously and other essays ([[Shawn Graham]]) 
-1st Runner Up: Il Lavandino Johnny: or, how word2vec could have worked on the novels of Beppe Fenoglio but did not, or, why your corpus better be in English and large enough if you’re going to use word2vec! ([[Antonio Lenzo]]) 
+1st Runner Up: Il Lavandino Johnny: or, how word2vec could have worked on the novels of Beppe Fenoglio but did not, or, why your corpus better be in English and large enough if you're going to use word2vec! ([[Antonio Lenzo]]) 
 
 Joint Winners (alphabetically): 
 The Data-Sitters Club The Digital Ghost Hunt 
@@ -177,7 +177,7 @@ Winner: Online Coptic Dictionary
 
 Winner: The Shiloh Project 
 1st Runner Up: 01Lab (零壹Lab)
- Joint 2nd Runners Up (alphabetically): Center for Digital Humanities at Princeton Updates Lost Treasures, the destruction of works of human genius by intolerance and greed The Data Sitters Club ‘Books’ 
+ Joint 2nd Runners Up (alphabetically): Center for Digital Humanities at Princeton Updates Lost Treasures, the destruction of works of human genius by intolerance and greed The Data Sitters Club 'Books' 
 
 Winner: Representations of Cyprus 
 1st Runner Up: American Religious Sounds Project 
@@ -199,7 +199,7 @@ Winner: Recogito
 1st Runner Up: Gale Digital Scholar Lab  
 2nd Runner Up: Civil War Photo Sleuth   
 
-Winner: The British Library’s Digital Scholarship blog   
+Winner: The British Library's Digital Scholarship blog   
 1st Runner Up: OpenMethods 
  2nd Runner Up: The Digital Orientalist 
 
@@ -233,10 +233,10 @@ Winner:  The Programming Historian en español
 ## 2016
 
 Winner: A Generator of Socratic Dialogues: 
-1st Runner Up: [[Alan Bigelow]]’s How to Rob a Bank: 
+1st Runner Up: [[Alan Bigelow]]'s How to Rob a Bank: 
 
 Winner: Peripleo – A search prototype by Pelagios Commons: 
-1st Runner Up: Livingstone’s 1870 Field Diary: A Multispectral Critical Edition: 
+1st Runner Up: Livingstone's 1870 Field Diary: A Multispectral Critical Edition: 
 2nd Runner Up: A catalogue of digital editions: 
 
 Winner: ToposText: 
@@ -248,7 +248,7 @@ Winner: EAGLE MediaWiki:
  2nd Runner Up: MARKUS: 
 
 Winner: The Programming Historian:
- 1st Runner Up: A Macro-Etymological Analysis of Milton’s Paradise Lost:
+ 1st Runner Up: A Macro-Etymological Analysis of Milton's Paradise Lost:
  2nd Runner Up: Visionary Cross: 
 
 ## 2015
@@ -259,7 +259,7 @@ Winner: PAGANS (Playful Art: a GAme oN Similarity)
 
 Winner: Mapping Metaphor with the Historical Thesaurus: Metaphor Map of English**
 1st Runner Up:** Centre for Australian Art: Australian Prints + Printmaking**
-2nd Runner Up:** [[Martin Grandjean]]: Network visualization: mapping Shakespeare’s tragedies
+2nd Runner Up:** [[Martin Grandjean]]: Network visualization: mapping Shakespeare's tragedies
 
 Winner:  Alchimia di Jackson Pollock / Jackson Pollock: Alchemy in 3D**
 1st Runner Up:** Digital Codex Mendoza**
@@ -277,14 +277,14 @@ Winner:** AWOL: The Ancient World Online Blog**
 
 Winner: Academia Obscura
 Runner Up: Romans go home! Apps
-Second Runner Up: “Perfect Motion” data animation video
+Second Runner Up: "Perfect Motion" data animation video
 
 Winner: [[Melissa Terras]]: Reuse of Digitised Content
-Runner Up: [[Quinn Dombrowski]], “What Ever Happened to Project Bamboo?”
+Runner Up: [[Quinn Dombrowski]], "What Ever Happened to Project Bamboo?"
 Second Runner Up: [[Michelle Moravec]]: #writinginpublic
 
-Winner: The Virtual Paul’s Cross Project
-Runner Up: Touch History / Toucher l’histoire
+Winner: The Virtual Paul's Cross Project
+Runner Up: Touch History / Toucher l'histoire
 Second Runner Up: Signs@40: Feminist Scholarship through Four Decades
 
 Winner: The American Yawp
@@ -293,7 +293,7 @@ Second Runner Up: 1914-1918-online. Encyclopedia of the First World War
 
 Winner: SHEBANQ (System for HEBrew Text: ANnotations for Queries and Markup)
 Runner Up: The Buddhist Canons Research Database
-Second Runner Up: The digital lab of “crunched books”: explore and annotate the classics
+Second Runner Up: The digital lab of "crunched books": explore and annotate the classics
 
 Winner: Six Degrees of Spaghetti Monsters
 Runner Up: Cork LGBT History
@@ -316,11 +316,11 @@ Second Runner Up: Kindred Britain
 
 Winner: Commons In A Box
 First Runner Up: Augmented Notes
-Second Runner Up: UNC Digital Innovation Lab’s DH Press
+Second Runner Up: UNC Digital Innovation Lab's DH Press
 
-Winner: “‘Psychopower’ of Cultural Diplomacy in the Information Age” by [[Natalia Grincheva]]
-First Runner Up: “Digital Literary Pedagogy: An Experiment in Process-Oriented Pedagogy” by [[Roger Whitson]], [[Kimon Keramidas]], and [[Amanda Licastro]]
-Second Runner Up: “The Digital Humanities Is about Breaking Stuff” by [[Jesse Stommel]]
+Winner: "'Psychopower' of Cultural Diplomacy in the Information Age" by [[Natalia Grincheva]]
+First Runner Up: "Digital Literary Pedagogy: An Experiment in Process-Oriented Pedagogy" by [[Roger Whitson]], [[Kimon Keramidas]], and [[Amanda Licastro]]
+Second Runner Up: "The Digital Humanities Is about Breaking Stuff" by [[Jesse Stommel]]
 
 Winner: Our Marathon: The Boston Bombing Digital Archive
 First Runner Up: I ♥ E-Poetry
@@ -333,15 +333,15 @@ Winner: Omeka
 2nd Runner Up: Isidore
 
  Winner: Digital Humanities Now 
-1st Runner Up: [[Leonardo Flores]]: “I ♥ E-Poetry” 
-2nd Runner Up: [[Will Self]] (et al.): “‘Kafka’s Wound’: Re-imagining the Literary Essay for the Digital Age” 
+1st Runner Up: [[Leonardo Flores]]: "I ♥ E-Poetry" 
+2nd Runner Up: [[Will Self]] (et al.): "'Kafka's Wound': Re-imagining the Literary Essay for the Digital Age" 
 
 Winner: A Thousand Words: Advanced Visualization for the Humanities 
 1st Runner Up: e-Diasporas Atlas 
 2nd Runner Up: ORBIS: The Stanford Geospatial Network Model of the Roman World 
 
 Winner: Digital Humanities Tool Box 
-1st Runner Up: Livingstone’s 1871 Field Diary: A Multispectral Critical Edition: Project History, pages starting from 
+1st Runner Up: Livingstone's 1871 Field Diary: A Multispectral Critical Edition: Project History, pages starting from 
  2nd Runner Up: Bamboo DiRT 
 
 Winner: CEISMIC: Canterbury Earthquake Digital Archive

@@ -41,7 +41,7 @@ An International digital Poetry Festival
 | [[Leonardo Flores]]                                           |     |
 | [[Chris Forstall]]                                            |     |
 | [[Christopher T. Funkhouser]]                                 |     |
-| [[Belen Gache]]                                               |     |
+| [[Belén Gache]]                                               |     |
 | [[Anna Gibbs]]                                                |     |
 | [[Loss Pequeño Glazier]]                                      |     |
 | [[Samantha Gorman]]                                           |     |

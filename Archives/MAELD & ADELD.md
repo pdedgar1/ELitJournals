@@ -88,7 +88,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Neil Maritz]]                                                     |
 | [[Michelle McGrane]]                                                |
 | [[Eku McGred]]                                                      |
-| [[Zanoxolo “Ishmael” Mthengi]]                                      |
+| [[Zanoxolo "Ishmael" Mthengi]]                                      |
 | [[Richard Ali A Mutu]]                                              |
 | [[Ifunga Ndana]]                                                    |
 | [[Thuthukani Ndlovu]]                                               |

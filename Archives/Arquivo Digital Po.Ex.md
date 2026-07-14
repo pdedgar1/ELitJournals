@@ -57,7 +57,7 @@ CELL member : Portuguese Language E-lit
 |Textos/obras destes autores >|
 |[[Abílio Cavalheiro]]|
 |[[Alberto Pimenta]]|
-|[[Alexandre O’Neill]]|
+|[[Alexandre O'Neill]]|
 |[[Álvaro Lapa]]|
 |[[António Areal]]|
 |[[António Ramos Rosa]]|
@@ -105,7 +105,7 @@ CELL member : Portuguese Language E-lit
 |[[Alberto da Costa e Silva]]|
 |[[Albuquerque Mendes]]|
 |[[Alexandra Antunes]]|
-|[[Alexandre O’Neill]]|
+|[[Alexandre O'Neill]]|
 |[[Alex Bodea]]|
 |[[Almeida e Sousa]]|
 |[[Amador Ribeiro Neto]]|

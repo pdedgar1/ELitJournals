@@ -17,8 +17,8 @@
 | [[paulo carvajal]]             |
 | [[paco chavinet]]              |
 | [[edith checa]]                |
-| [[domenico chiappe]]           |
-| [[domenico chiappe]]           |
+| [[doménico chiappe]]           |
+| [[doménico chiappe]]           |
 | [[rogelio consuegra arenas]]   |
 | [[]]                           |
 | [[]]                           |
@@ -112,7 +112,7 @@
 - ﻿﻿de los poemas de [[José Luis Castillejo]] Y [[Fernado Millán]]. Archivo Lafuente.
 - ﻿﻿de las imágenes de [[Isidoro Valcárcel Medina]], Fundación Juan March.
 
-Curadores: [[Maria Goicoechea de Jorge]], [[Laura Sánchez Gómez]]
+Curadores: [[María Goicoechea de Jorge]], [[Laura Sánchez Gómez]]
 
 Textos: [[Pepe Ballesteros]], [[Silviano Carrasco]], Maria Goicoechea Y Laura Sánchez Gómez
 

@@ -43,7 +43,7 @@ Global Coordinator [[Caitlin Fisher]]
 | [[Dene Grigar]]                   |
 | [[Dene Grigar]]                   |
 | [[Eamon O'Kane]]                  |
-| [[Eamon O’Kane]]                  |
+| [[Eamon O'Kane]]                  |
 | [[Emma Marie Kongsbak Bertelsen]] |
 | [[Erik Loyer]]                    |
 | [[Erik Loyer]]                    |

@@ -116,7 +116,7 @@ This issue includes work by [[Serge Bouchardon]], a collaboration between [[Mart
 
 ## FALL 2009—  Editors: [[Josette Torres]] and [[Amy Vance]]
 
-This issue includes work by [[Salvador Barajas]], [[Roxanne Carter]], [[Susan M. Gibb]], [[A.J. Patrick Liszkiewicz]], [[Megan Moriarty]], and [[Jason Nelson]].
+This issue includes work by [[Salvador Barajas]], [[Roxanne Carter]], [[Susan M. Gibb]], [[A. J. Patrick Liszkiewicz]], [[Megan Moriarty]], and [[Jason Nelson]].
 
 ## SPRING 2009— Managing Editor: [[Robert Walker]]
 

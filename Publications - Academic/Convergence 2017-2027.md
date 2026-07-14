@@ -141,7 +141,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Bjørn Nansen]]                     |
 | [[Bo Kampmann Walther]]              |
 | [[Boel McAteer]]                     |
-| [[Bonnie ‘Bo’ Ruberg]]               |
+| [[Bonnie 'Bo' Ruberg]]               |
 | [[Book review  ]]                    |
 | [[Bouziane Zaid]]                    |
 | [[Boyi Huang]]                       |
@@ -259,7 +259,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Daniela van Geenen]]               |
 | [[Daniela Zuzunaga Zegarra]]         |
 | [[Daniele Cargnelutti]]              |
-| [[Danielle Barrios-O’Neill]]         |
+| [[Danielle Barrios-O'Neill]]         |
 | [[Daniëlle Flonk]]                   |
 | [[Darina Nikolova]]                  |
 | [[Dario Lolli]]                      |
@@ -368,7 +368,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Fern Conaghan]]                    |
 | [[Fernanda Pires]]                   |
 | [[Fernando N van der Vlist]]         |
-| [[Fiona O’Rourke]]                   |
+| [[Fiona O'Rourke]]                   |
 | [[Florian Lefebvre]]                 |
 | [[Florian Sprenger]]                 |
 | [[Fouad Hassan]]                     |
@@ -473,7 +473,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[James Manning]]                    |
 | [[James N Gilmore]]                  |
 | [[James Newman]]                     |
-| [[James O’Sullivan]]                 |
+| [[James O'Sullivan]]                 |
 | [[James P Walsh]]                    |
 | [[James Thompson]]                   |
 | [[Jameson Hayes]]                    |
@@ -542,10 +542,10 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[John Mills]]                       |
 | [[Jolynna Sinanan]]                  |
 | [[Jon Swords]]                       |
-| [[Jonathan D’Angelo]]                |
+| [[Jonathan D'Angelo]]                |
 | [[Jonathan Hook]]                    |
 | [[Jonathan Roberge]]                 |
-| [[Jonathan WY Gray]]                 |
+| [[Jonathan W. Y. Gray]]                 |
 | [[Jonathon Hutchinson]]              |
 | [[Joon Yeon Choeh]]                  |
 | [[Joost de Bruin]]                   |
@@ -559,7 +559,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Joseph Kohlburn]]                  |
 | [[Joseph Seering]]                   |
 | [[Josie Barnard]]                    |
-| [[JR Carpenter]]                     |
+| [[J. R. Carpenter]]                     |
 | [[Judith Fathallah]]                 |
 | [[Judy Malloy]]                      |
 | [[Juho Kahila]]                      |

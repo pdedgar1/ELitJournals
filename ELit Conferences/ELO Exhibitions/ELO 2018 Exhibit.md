@@ -13,7 +13,7 @@
 |[[Eva Quintas]]|
 |[[Guillaume Verguin]]|
 |[[Gwenola Wagon]]|
-|[[Héloïse d’Almeida]]|
+|[[Héloïse d'Almeida]]|
 |[[João Enxuto]]|
 |[[Justine Bizzocchi]]|
 |[[Lucas Baisch]]|

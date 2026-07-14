@@ -112,7 +112,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[EstPiedrahita]]                                                                                                                                           |
 | [[Ruben Gandus]], [[Lorenzo Micozzi]], [[Lorenzo Pandolfi]], [[Livia Chiriatti]], [[Filippo Rabottini]]                                                     |
 | [[Haroro]]                                                                                                                                                  |
-| [[Isra’ Saleh]]                                                                                                                                             |
+| [[Isra' Saleh]]                                                                                                                                             |
 | [[Everest Pipkin]]                                                                                                                                          |
 | [[Rachel Helps]]                                                                                                                                            |
 | [[Kuda Rice]]                                                                                                                                               |
@@ -134,7 +134,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Frankie Kavakich]]                                                                                                                                        |
 | [[Adina Brodkin]]                                                                                                                                           |
 | [[Manon (manonamora)]]                                                                                                                                      |
-| [[Briana “Bri” Craig]]                                                                                                                                      |
+| [[Briana "Bri" Craig]]                                                                                                                                      |
 | [[Diogo Cardoso]], [[Rafaela Cortez]], [[José Magro]]                                                                                                       |
 | [[Xiaofan Jiang]]                                                                                                                                           |
 | [[Omi Zola Gupta]]                                                                                                                                          |

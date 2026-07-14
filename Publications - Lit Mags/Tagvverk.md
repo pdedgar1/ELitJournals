@@ -134,7 +134,7 @@
 | [[Laura A Warman]]                                                        |
 | [[Leena Joshi]]                                                           |
 | [[Leif Haven]]                                                            |
-| [[Liam O’Brien]]                                                          |
+| [[Liam O'Brien]]                                                          |
 | [[Lily Scherlis]] & [[Reed McConnell]]                                    |
 | [[Lindsey Pannor]]                                                        |
 | [[Lindsey Webb]]                                                          |

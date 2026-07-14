@@ -37,6 +37,22 @@ for dirpath, dirnames, filenames in os.walk(VAULT):
             if target:
                 usage[target][rel] += 1
 
+# --- merge case-only variants: Obsidian links are case-insensitive, so
+# [[mez breeze]] and [[Mez Breeze]] resolve to the same note. Fold them into
+# the most-used surface form before comparing.
+by_case = {}
+for n in usage:
+    by_case.setdefault(n.casefold(), []).append(n)
+merged = {}
+for variants in by_case.values():
+    canonical = max(variants, key=lambda v: sum(usage[v].values()))
+    files = {}
+    for v in variants:
+        for f, c in usage[v].items():
+            files[f] = files.get(f, 0) + c
+    merged[canonical] = files
+usage = merged
+
 names = sorted(usage)
 
 # --- tier 1: identical squashed keys ---

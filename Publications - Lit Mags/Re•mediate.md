@@ -66,7 +66,7 @@
 | [[P.D. Edgar]]           |
 ## Issue 5
 
-[[Jonathan W.Y. Gray]]
+[[Jonathan W. Y. Gray]]
 [[jiaoyang]]
 [[Vee Kennedy]]
 [[Wendy Schaffer]]
@@ -76,7 +76,7 @@
 [[Arden Schager]]
 [[Kevin G. Smith]]
 
-## Issue 6 guest edited by [[Benjamín Escalonilla]]
+## Issue 6 guest edited by [[Benjamín Escalonilla]] of [[las quince letras]]
 [[Leonardo Flores]]
 [[Justin Gallant]]
 [[Audrey Coble]]

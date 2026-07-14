@@ -91,7 +91,7 @@ ed by [[Cary Wolfe]]
 | Translated by [[Brett Buchanan]]                              |
 | Translated by [[Christopher John Müller]]                     |
 | Translated by [[Geoffrey Bennington]] and [[David Wills]]     |
-| Translated by [[Joseph D O’Neil]]                             |
+| Translated by [[Joseph D O'Neil]]                             |
 | Translated by [[Lauren K Wolfe]]                              |
 | Translated by [[Louise Burchill]]                             |
 | Translated by [[Mark William Epstein]]                        |

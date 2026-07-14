@@ -85,7 +85,7 @@ Colaboradores
 | [[Maximiliano Valentín López]]                               |
 | [[Medialabmx]]                                               |
 | [[Miguel Ángel Ángeles]]                                     |
-| [[Milton Laüfer]]                                            |
+| [[Milton Läufer]]                                            |
 | [[Mónica Medina]]                                            |
 | [[Mónica Nepote]]                                            |
 | [[Mónico Nepote]]                                            |

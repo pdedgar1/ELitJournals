@@ -3,7 +3,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | --- |
 | [[Szymon Szul]][[DAVID ROSENTHAL]][[JACK LOWE]].                                                                                  |     |
 | [[]]                                                                                                                              |     |
-| [[RACHEL HAMILTON]][[Jane Glennie]][[Rachel Pownall]][[HELEN SCARLETT O’NEILL]]                                                   |     |
+| [[RACHEL HAMILTON]][[Jane Glennie]][[Rachel Pownall]][[HELEN SCARLETT O'NEILL]]                                                   |     |
 | [[]]                                                                                                                              |     |
 | [[SARAH IMMEL]][[DAVID SLOLY]][[Anna Zaluczkowska]][[KRISHNA STOTT]]                                                              |     |
 | [[]]                                                                                                                              |     |

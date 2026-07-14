@@ -55,7 +55,7 @@ Digital Art Magazine Post-2020
 |[[Carla Gannis]]|
 |[[Carla Rapoport]]|
 |[[Carlos Marcial]] and [[Richard Entrup]]|
-|[[Caroline Csuri]] and [[Elaine O’Hanrahan]] reflect on two pioneering generative artists with [[Douglas Dodds]] and [[Leslie Jones]]|
+|[[Caroline Csuri]] and [[Elaine O'Hanrahan]] reflect on two pioneering generative artists with [[Douglas Dodds]] and [[Leslie Jones]]|
 |[[Charlotte Kent]]|
 |[[Charlotte Kent]]|
 |[[Charlotte Kent]]|
@@ -65,7 +65,7 @@ Digital Art Magazine Post-2020
 |[[Cody Edison]]|
 |[[Corinna Kirsch]]|
 |[[Cory Doctorow]]|
-|[[Cozomo de’ Medici]]|
+|[[Cozomo de' Medici]]|
 |[[Dajana Krüger]] speaks with Alex Estorick about how NFTs can rehumanize the digital condition]]|
 |[[Danielle Ezzo]]|
 |[[Danielle Ezzo]]|
@@ -200,7 +200,7 @@ Digital Art Magazine Post-2020
 |[[Nina Knaack]]|
 |[[Nina Knaack]]|
 |[[Noelia Gamallo]]|
-|[[Nora O’ Murchú]]|
+|[[Nora O' Murchú]]|
 |[[Noriaki Nakata]]|
 |[[Paul Cohen]]|
 |[[Paul Cohen]]|

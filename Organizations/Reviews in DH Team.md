@@ -56,7 +56,7 @@ Trans and Gender Studies
 [[Ricardo L. Punzalan]], University of Michigan, USA
 [[Dibyadyuti Roy]], University of Leeds, UK
 [[Roxanne Shirazi]], CUNY Graduate Center, USA
-[[James Smithies]], King’s Digital Lab, King’s College London, UK
+[[James Smithies]], King's Digital Lab, King's College London, UK
 [[Juan Steyn]], South African Center for Digital Languages, North-West University, South Africa
 [[Dhanashree Thorat]], Mississippi State University, USA
 [[Laura Wexler]], Yale University, USA 

@@ -118,7 +118,7 @@
 | [[Rahul Bhargava]]                               |
 | [[Sayan Bhattacharyya]]                          |
 | [[Eugenio Biagini]]                              |
-| [[Jamie “Skye” Bianco]]                          |
+| [[Jamie "Skye" Bianco]]                          |
 | [[Mehrdad Qayyoomi Bidhendi]]                    |
 | [[Bernadette Biedermann]]                        |
 | [[Antonis Bikakis]]                              |
@@ -1032,7 +1032,7 @@
 | [[Julianne Nyhan]]                               |
 | [[Victoria Nyst]]                                |
 | [[Alexandra Odom]]                               |
-| [[Daniel Paul O’Donnell]]                        |
+| [[Daniel Paul O'Donnell]]                        |
 | [[James O'Donnell]]                              |
 | [[Patrick Oesterling]]                           |
 | [[Mitsunori Ogihara]]                            |

@@ -619,7 +619,7 @@
 | [[Jane Prophet]]                            |
 | [[proT]]                                    |
 | [[Wolfgang Przibilla]]                      |
-| [[Walid Ra’ad]]                             |
+| [[Walid Ra'ad]]                             |
 | [[Sherrie Rabinowitz]]                      |
 | [[Rabotnik TV]]                             |
 | [[Melinda Rackham]]                         |

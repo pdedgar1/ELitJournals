@@ -103,7 +103,7 @@ Scandinavian E-Lit :: CELL Member
 | [[Mustafa Stitou]]                                       |
 | [[Nanne van der Leer]]                                   |
 | [[Nick J. Swarth]]                                       |
-| [[Niels ‘t Hooft]]                                       |
+| [[Niels 't Hooft]]                                       |
 | [[Nils Mühlenbruch]]                                     |
 | [[Niña Weijers]]                                         |
 | [[Olax (alias)]]                                         |

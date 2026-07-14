@@ -314,7 +314,7 @@
 | [[Cristiane Costa]]               |     |
 | [[Benoît Côté]]                   |     |
 |                                   |     |
-| [[Héloïse d’Almeida]]             |     |
+| [[Héloïse d'Almeida]]             |     |
 | [[Yves Daoust]]                   |     |
 | [[Marcio Felipe da Silva]]        |     |
 | [[Sylvain David]]                 |     |

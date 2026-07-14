@@ -63,7 +63,7 @@ Chair: [[Serge Bouchardon]]
 
 [[Gabriel Tremblay-Gaudette]]
 
-Apprendre l’hypertextualité dans un
+Apprendre l'hypertextualité dans un
 
 hypertexte: le Twine de formation à Twine
 
@@ -105,7 +105,7 @@ Producing Meaning through E-Literature
 
 and digital practices in Foreign Language
 
-Teachers’ Education: An interdisciplinary
+Teachers' Education: An interdisciplinary
 
 project based on the Pedagogy of
 
@@ -149,9 +149,9 @@ Chair: [[Samya Brata Roy]]
 
 E-lit as bridges of understanding. The
 
-case of “The Winnipeg: The Poem that
+case of "The Winnipeg: The Poem that
 
-Crossed the Atlantic”.
+Crossed the Atlantic".
 
 -
 
@@ -291,7 +291,7 @@ Graphic Poetry to Cyberliterature
 
 [[Angelica Calhoun]]
 
-Creating “Between the Lines”: the Design,
+Creating "Between the Lines": the Design,
 
 Context, and Themes
 
@@ -383,7 +383,7 @@ La inmensa biblioteca Bibliotheca
 
 contenida en el envoltorio circular thecâ
 
-llamado “Coelum liliveldense” de Juan Caramuel y Lobkowitz
+llamado "Coelum liliveldense" de Juan Caramuel y Lobkowitz
 
 Digital Heterotopies
 
@@ -421,7 +421,7 @@ Learning About Literary Form Through
 
 Code: Oulipian Formalism and Paul
 
-Braffort’s USFAL
+Braffort's USFAL
 
 -
 
@@ -437,7 +437,7 @@ Pedagogical and Research Proposal
 
 Unintentional intimacies on the video call:
 
-Blast Theory’s Karen and personal space
+Blast Theory's Karen and personal space
 
 -
 
@@ -461,7 +461,7 @@ E-Poetry Readings
 
 [[Marcos De La Fuente]], [[Maria de Los Angeles Martinez Estevez]], [[Ismael Faro]] and [[Alec Ekvall]]
 
-Poetry 3.0 “The poet vs. The machine”Auditorium Epractitioning
+Poetry 3.0 "The poet vs. The machine"Auditorium Epractitioning
 
 Chair: [[Claudia Kozak]]
 
@@ -487,15 +487,15 @@ Israel
 
 On electronic adaptations of literary
 
-texts: “Dante’s Inferno” and Dante’s
+texts: "Dante's Inferno" and Dante's
 
-“Inferno”
+"Inferno"
 
 -
 
 [[Calvin Olsen]]
 
-“A Place Where Disparate Things Join”:
+"A Place Where Disparate Things Join":
 
 Sutured Authorship at the Intersection(s)
 
@@ -507,11 +507,11 @@ Humanities
 
 [[Lois Burke]]
 
-‘From Manuscript to Digital
+'From Manuscript to Digital
 
 Intertextuality: Tracing a History of Youth
 
-Fanfiction’
+Fanfiction'
 
 AI rchive and UXpoetry
 
@@ -549,7 +549,7 @@ structural and typological aspects
 
 [[Maya Zalbidea Paniagua]]
 
-Teaching Rupi Kaur’s Insta Poetry to Raise
+Teaching Rupi Kaur's Insta Poetry to Raise
 
 Awareness about Diversity, Gender and
 
@@ -747,7 +747,7 @@ the Anthropocene
 
 -
 
-[[Jose Aburto]] and [[Roberto Valdivia]]:
+[[José Aburto]] and [[Roberto Valdivia]]:
 
 Unanchay, In search of a de-idelogized
 
@@ -799,7 +799,7 @@ Education on diversity and sustainability
 
 [[Perla B. Sassón-Henry]], [[Angélica Huizar]],
 
-[[Milton Laüfer]] and [[Rodolfo Mata]]
+[[Milton Läufer]] and [[Rodolfo Mata]]
 
 E-lit: Its affordances for expression of
 
@@ -1007,7 +1007,7 @@ Literature
 
 Everything Old Is New Again: Black
 
-Healing in NourbeSe Philip’s Electronic
+Healing in NourbeSe Philip's Electronic
 
 Poetry
 
@@ -1080,7 +1080,7 @@ university education
 
 [[Mark C. Marino]] and [[María Goicoechea de Jorge]]
 
-“Mentor and Mentoring” 
+"Mentor and Mentoring" 
 
 [[Arianna Reiche]] and [[Andrea Holck]] (8.30-11.30)
 
@@ -1120,6 +1120,6 @@ aumentata/virtuale
 
 [[Denise+Deena Larsen]], [[Jules Chatelain]], [[Amira Hanafi]], [[Samya Brata Roy]] and [[R. Lyle Skains]]
 
-Let’s Engage the World--A Reading/Writing Workshop online and in
+Let's Engage the World--A Reading/Writing Workshop online and in
 
 person Linked with Panel

@@ -153,7 +153,7 @@ CELL Member  : French-language E-lit
 | [[crayzeefool]]                       |
 | [[Nelson Creative Writers of VT]]     |
 | [[Charles Cumming]]                   |
-| [[Julien d’Abrigeon]]                 |
+| [[Julien d'Abrigeon]]                 |
 | [[Luc Dall'Armellina]]                |
 | [[Astrid Dalmady]]                    |
 | [[Gérard Dalmon]]                     |
@@ -329,7 +329,7 @@ CELL Member  : French-language E-lit
 | [[Max Kowalewski]]                    |
 | [[Shane Koyczan]]                     |
 | [[Keetje Kuipers]]                    |
-| [[Sarah L’Hérault]]                   |
+| [[Sarah L'Hérault]]                   |
 | [[La Molleindustria]]                 |
 | [[Abendroth LAb[au]]]                 |
 | [[Balanescu Quartet LAb[au]]]         |
@@ -457,7 +457,7 @@ CELL Member  : French-language E-lit
 | [[Udo Noll]]                          |
 | [[Nadine Norman]]                     |
 | [[Jakob Nylund]]                      |
-| [[Nicholas O’Brien]]                  |
+| [[Nicholas O'Brien]]                  |
 | [[Alexander Ocias]]                   |
 | [[Jason Ockert]]                      |
 | [[Aaron Oldenburg]]                   |
@@ -496,7 +496,7 @@ CELL Member  : French-language E-lit
 | [[David Rees]]                        |
 | [[Scott Rettberg]]                    |
 | [[Rhizome]]                           |
-| [[Phil “Overman” Rice]]               |
+| [[Phil "Overman" Rice]]               |
 | [[Matt Richardson]]                   |
 | [[David M. Rieder]]                   |
 | [[Joellyn Rock]]                      |

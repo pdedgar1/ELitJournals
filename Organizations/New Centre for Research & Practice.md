@@ -190,7 +190,7 @@
 | [[Ross McElwain]]                                                                                                 |     |
 | [[Leonardo Dellanoce]]                                                                                            |     |
 | [[Matthew Donovan]]                                                                                               |     |
-| [[Francesco Degl’Innocenti]]                                                                                      |     |
+| [[Francesco Degl'Innocenti]]                                                                                      |     |
 | [[Will Scarlett]]                                                                                                 |     |
 | [[Joseph C. Russo]]                                                                                               |     |
 | [[Shiona Tregaskis]]                                                                                              |     |

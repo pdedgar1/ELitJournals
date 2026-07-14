@@ -28,7 +28,7 @@
 | [[David Kamp]]           |
 | [[Rob Leathern]]         |
 | [[Norm Meyrowitz]]       |
-| [[Eugene S. Robinson’s]] |
+| [[Eugene S. Robinson's]] |
 | [[Johnny Ryan]]          |
 | [[Jan Schiffman]]        |
 | [[Jason Scorza]]         |

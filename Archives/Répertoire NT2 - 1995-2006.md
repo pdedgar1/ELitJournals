@@ -275,7 +275,7 @@ CELL Member  : French-language E-lit
 | [[Martha Conway]]                                        |
 | [[Baily Corby]]                                          |
 | [[Steve Heimbecker]]                                     |
-| [[Cheryl L’Hirondelle-Waynohtew]]                        |
+| [[Cheryl L'Hirondelle-Waynohtew]]                        |
 | [[Ahasiw Maskegon-Iskwew]]                               |
 | [[Brian Kim Stefans]]                                    |
 | [[Martin S. Cossette]]                                   |
@@ -290,7 +290,7 @@ CELL Member  : French-language E-lit
 | Cult of Marms]]                                          |
 | [[Cassidy Curtis]]                                       |
 | [[Philippe Cyroulnik]]                                   |
-| [[Julien d’Abrigeon]]                                    |
+| [[Julien d'Abrigeon]]                                    |
 | [[Charles Pennequin]]                                    |
 | [[Francesca da Rimini]]                                  |
 | [[Philippe Dabasse]]                                     |
@@ -854,9 +854,9 @@ CELL Member  : French-language E-lit
 | [[Nadine Norman]]                                        |
 | [[Ryan North]]                                           |
 | [[Casimir Nozkowski]]                                    |
-| [[Aisling O’Beirn]]                                      |
-| [[Pat O’Neill]]                                          |
-| [[Karen O’Rourke]]                                       |
+| [[Aisling O'Beirn]]                                      |
+| [[Pat O'Neill]]                                          |
+| [[Karen O'Rourke]]                                       |
 | [[Mendi Obadike]]                                        |
 | [[J Oda]]                                                |
 | [[Dietmar Offenhuber]]                                   |
@@ -956,7 +956,7 @@ CELL Member  : French-language E-lit
 | [[Joellyn Rock]]                                         |
 | [[Donald Rodney]]                                        |
 | [[Tania Jimena Rodríguez García]]                        |
-| [[Jaime Alejandro Rodriguez]]                            |
+| [[Jaime Alejandro Rodríguez]]                            |
 | [[Thimothée Rolin]]                                      |
 | [[Gustavo Romano]]                                       |
 | [[Nicolas Rome]]                                         |
@@ -1106,7 +1106,7 @@ CELL Member  : French-language E-lit
 | [[Jo-Anne Green]]                                        |
 | [[Eric Schefter]]                                        |
 | [[Ainhoa Tilves]]                                        |
-| Time’s Up]]                                              |
+| Time's Up]]                                              |
 | [[Ernesto Timor]]                                        |
 | [[Mark Tinkler]]                                         |
 | [[Ainara Tirapu]]                                        |
@@ -1149,7 +1149,7 @@ CELL Member  : French-language E-lit
 | [[Ainhoa Ventura]]                                       |
 | [[Suzete Venturelli]]                                    |
 | [[Renaud Vercey]]                                        |
-| [[Aymeric Vergnon d’Alançon]]                            |
+| [[Aymeric Vergnon d'Alançon]]                            |
 | [[Jean-François Verreault]]                              |
 | [[Victoria Vesna]]                                       |
 | [[Gerrie Villon]]                                        |

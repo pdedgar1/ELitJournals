@@ -29,7 +29,7 @@
 [[Celine Wong Katzman]]
 
 # teachers fall 2013- fall 2019
-[[Jonathan W.Y. Gray]]
+[[Jonathan W. Y. Gray]]
 
 [[Achim Koh]]
 [[Adam Magyar]]

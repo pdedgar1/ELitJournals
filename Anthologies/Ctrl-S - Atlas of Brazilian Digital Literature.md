@@ -18,7 +18,7 @@
 |[[Alckmar Luís dos Santos]]|
 |[[Rafael Duarte ]]|
 |[[Vinícius Rutes Henning]]|
-|[[Andrea Catrópa]]|
+|[[Andréa Catrópa]]|
 |[[Andréa Catrópa ]]|
 |[[Felipe Mariani]]|
 |[[Eduardo Kac]]|

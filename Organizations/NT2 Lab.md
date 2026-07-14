@@ -8,15 +8,15 @@
 
 **Équipe médiatique :** [[Jérôme Vogel]], [[Grégory Fabre]], [[Kim Petit]], [[Carl Aksynczak]], [[Frédérique Dubé]], [[Robin Varenas]], [[Sylvain Aubé]], [[Ariane Guay]], [[Cédric Anderson]], [[John Boyle-Singfield]], [[Dany Viens]], [[Princesse Lamarche]], [[William Frazilien]]
 
-**Adjoint·e·s de recherche :** [[Jean-Michel Berthiaume]], [[Benoit Bordeleau]], [[Renée Bourassa]], [[Simon Brousseau]], [[Daphné Beaudoin Pilon]], [[Marianne Cloutier]], [[Jasmin Cormier]], [[Raphaelle Cormier]], [[Laurie Cotton Pigeon]], [[Aline Crédeville]], [[Lucille Crémier]], [[Fanie Demeule]], [[Elaine Després]], [[Sandra Dubé]], [[Yohann-Mickaël Fiset]], [[Maxime Galand]]. [[Sandrine Galand]], [[Joël Gauthier]], [[Anaïs Guilet]], [[Sarah Grenier-Millette]], [[Stéphan Hyronde]], [[Bronja Hildgen]], [[Margarita Molina Fernandéz]], [[Patric Jolicoeur-Mondou]], [[Paule Mackrous]], [[Charles Marsolais-Ricard]], [[Ariane Mayer]], [[Mathieu Mundviller]], [[Amélie Paquet]], [[Chantal T. Paris]], [[Laurence Perron]], [[François David Prud’homme]], [[Alexandra Tremblay]], [[Gabriel Tremblay-Gaudette]], [[Patrick Tillard]], [[Lisa Tronca]], [[Yan St-Onge]]
+**Adjoint·e·s de recherche :** [[Jean-Michel Berthiaume]], [[Benoit Bordeleau]], [[Renée Bourassa]], [[Simon Brousseau]], [[Daphné Beaudoin Pilon]], [[Marianne Cloutier]], [[Jasmin Cormier]], [[Raphaelle Cormier]], [[Laurie Cotton Pigeon]], [[Aline Crédeville]], [[Lucille Crémier]], [[Fanie Demeule]], [[Elaine Després]], [[Sandra Dubé]], [[Yohann-Mickaël Fiset]], [[Maxime Galand]]. [[Sandrine Galand]], [[Joël Gauthier]], [[Anaïs Guilet]], [[Sarah Grenier-Millette]], [[Stéphan Hyronde]], [[Bronja Hildgen]], [[Margarita Molina Fernandéz]], [[Patric Jolicoeur-Mondou]], [[Paule Mackrous]], [[Charles Marsolais-Ricard]], [[Ariane Mayer]], [[Mathieu Mundviller]], [[Amélie Paquet]], [[Chantal T. Paris]], [[Laurence Perron]], [[François David Prud'homme]], [[Alexandra Tremblay]], [[Gabriel Tremblay-Gaudette]], [[Patrick Tillard]], [[Lisa Tronca]], [[Yan St-Onge]]
 
 **Stagiaires :** [[Helena Van Praet]], [[Françoise Chambefort]], [[Allan Deneuville]], [[Ella Mingazova]], [[Emmanuelle Lescouet]], [[Gert-Jan Meyntjens]],[[ Claude Patricia Tardif]], [[Corentin Lahouste]], [[Gwendolyn Kergourlay]], [[Ariane Mayer]], [[Manon Picard]]
 
 **Chercheur·e·s :  
 **[[Bertrand Gervais]], directeur  
 [[Joanne Lalonde]], co-directrice  
-[[Sophie Marcotte]], directrice de l’antenne U. Concordia Figura-NT2  
-[[Nicolas Xanthos]], directeur de l’antenne UQAC Figura-NT2  
+[[Sophie Marcotte]], directrice de l'antenne U. Concordia Figura-NT2  
+[[Nicolas Xanthos]], directeur de l'antenne UQAC Figura-NT2  
 [[René Audet]] (U. Laval)  
 [[Jean-François Chassay]] (UQAM)  
 [[Ollivier Dyens]] (U. McGill)  

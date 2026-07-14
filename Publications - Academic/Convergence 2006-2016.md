@@ -67,7 +67,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Brenda Dervin]]               |
 | [[Brett Hutchins]]              |
 | [[Brian Creech]]                |
-| [[Brian O’Neill]]               |
+| [[Brian O'Neill]]               |
 | [[Brooke Barnett]]              |
 | [[Bruce Sterling]]              |
 | [[Bruno Lessard]]               |
@@ -129,7 +129,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Dimitra L Milioni]]           |
 | [[Dixi L. Strand]]              |
 | [[Don Heider]]                  |
-| [[Dónal P O’Mathúna]]           |
+| [[Dónal P O'Mathúna]]           |
 | [[Douglas A Ferguson]]          |
 | [[Edgar Gómez Cruz]]            |
 | [[Edgar Huang]]                 |
@@ -151,7 +151,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Eva Giraud]]                  |
 | [[Eva-Karin Olsson ]]           |
 | [[Evan Barba]]                  |
-| [[Evelien D’heer]]              |
+| [[Evelien D'heer]]              |
 | [[Evi Karathanasopoulou]]       |
 | [[Ewan Kirkland]]               |
 | [[Fan Dong]]                    |

@@ -8,15 +8,15 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Johanna Drucker]] (U. California Los Angeles, USA), "Amusements Electroniques"
 - [[Oscar Schwartz]] (Monash U., Australia), "The Aeolian Poetics: Computation as Metaphor for Poetic Invention in English Romanticism"
-- [[Johanna Rodgers]] (City U. New York, USA), "Plumbing the Depths of Print: John Peter’s ‘Artificial Versifying’ and the 17th c. Textual Machine in England"
-- [[Andy Simionato]] (RMIT U., Australia) and [[Karen Ann Donnachie]] (Australia), "Mallarmé’s Self-replicating Machine"
+- [[Johanna Rodgers]] (City U. New York, USA), "Plumbing the Depths of Print: John Peter's 'Artificial Versifying' and the 17th c. Textual Machine in England"
+- [[Andy Simionato]] (RMIT U., Australia) and [[Karen Ann Donnachie]] (Australia), "Mallarmé's Self-replicating Machine"
 - [[Agnieszka Przybyszewska]] (U. Lodz, Poland), "Milorad Pavić and Literary Interfaces for Non-linear Writing"
 
 - [[Vinícius Carvalho Pereira]] (Federal U. Mato Grosso, Brazil), "The Convergence between Print and Digital Literature in Blackout Poetry"
-- [[Alckmar Luís dos Santos]] (Federal U. Santa Catarina, Brazil), "’O Cosmonauta’, a Digital Creation)"
-- [[Joshua Alma Enslen]] (US Military Academy West Point, USA), "'As Aves que Aqui Twittam': New Media Variations of 'Canção do Exílio' and Brazil’s Twenty-First Century Socio-Cultural Landscape"
+- [[Alckmar Luís dos Santos]] (Federal U. Santa Catarina, Brazil), "'O Cosmonauta', a Digital Creation)"
+- [[Joshua Alma Enslen]] (US Military Academy West Point, USA), "'As Aves que Aqui Twittam': New Media Variations of 'Canção do Exílio' and Brazil's Twenty-First Century Socio-Cultural Landscape"
 - [[Yue-Jin Ho]] (Open U., Hong Kong), "The Battle of Simplified & Traditional: Chinese Text-based Interactive Installations and the French Lettrism"
-- [[Hartmut Koenitz]] (HKU U. of the Arts, Utrecht, Netherlands), "The SPP Model - Theorizing Frasca’s Narrativist Approach Towards Interactive Narrative"
+- [[Hartmut Koenitz]] (HKU U. of the Arts, Utrecht, Netherlands), "The SPP Model - Theorizing Frasca's Narrativist Approach Towards Interactive Narrative"
 
 - [[Dene Grigar]] (Washington State U. Vancouver, USA), "The Sappho Syndrome: Concerns in Preserving Works of Born-Digital Media"
 - [[Jörgen Schäfer]] (U. Siegen, Germany), "Passing the Calvino Test? Writing Machines and Literary Ghosts"
@@ -29,11 +29,11 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Thea Pitman]] (U. Leeds, UK), "Hypertext and Biculturality in the Early Work of Lucia Grossberger Morales and Jacalyn Lopez Garcia"
 - [[Nohelia Meza]] (U. Pompeu Fabra, Spain), "Voices and Figures: Towards a Digital Rhetoric of Latin American Works of Electronic Literature"
-- [[Jaime Alejandro Rodríguez Ruiz]] (Pontificia U. Javeriana, Colombia), "Virtuality and Intermediation in Hypermedia: ‘Memorias y caminos’"
+- [[Jaime Alejandro Rodríguez Ruiz]] (Pontificia U. Javeriana, Colombia), "Virtuality and Intermediation in Hypermedia: 'Memorias y caminos'"
 - [[Carolina Gainza]] (U. Diego Portales, Chile) "Textualities, Politics and Languages of the Digital: Poetics and Aesthetics in the Chilean Digital Literature"
 
 - [[Svetlana Anatolevna Kuchina]] (Novosibirsk State Technical U., Russia), "On Generative Poetry: Structural, Stylistic and Lexical Features"
-- [[Vladimira Velicki]] (U. Zagreb, Croatia) and Damir Velicki (U. Zagreb, Croatia), "Hyperfiction and Reading, with Examples of Electronic Processing of Grimms’ Fairy Tales"
+- [[Vladimira Velicki]] (U. Zagreb, Croatia) and Damir Velicki (U. Zagreb, Croatia), "Hyperfiction and Reading, with Examples of Electronic Processing of Grimms' Fairy Tales"
 - [[Gilles Rouffineau]] (ESAD Valence, France), "Is Literary Translation Really Useless in the Digital Field? MBCBFTW as a Case Study"
 - [[Agnieszka Przybyszewska]] (U. Lodz, Poland), "Liberacy in Context of Interfacial and Material Turn and What They Have in Common with E-literacy"
 - [[Robert P. Fletcher]] (West Chester U., USA), "All Lit Constantly Aspires Towards the Condition of Elit: Aestheticism and Augmented Reality"
@@ -41,19 +41,19 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Patrick Lichty]] (Zayed U., United Arab Emirates), "Virtual Narratology and the Notion of Literary Spatial Form"
 
 
-- [[Megan Heyward]] (U. Technology Sydney, Australia), "Locative Frictions: Locative Narrative post ‘Pokémon Go’"
+- [[Megan Heyward]] (U. Technology Sydney, Australia), "Locative Frictions: Locative Narrative post 'Pokémon Go'"
 - [[Lise Kloster Gram]] (Aarhus Public Library, Denmark), [[Sigrid Bredkjær]] (Albertslund Public Library, Denmark), and [[Thomas Glud]] (Vejle Public library, Denmark), "The Missing Link between Electronic Literature and Public Libraries"
 - [[Christian Roth]] (HKU U. of the Arts, Utrecht, Netherlands), "Beyond Geheimkunst: A Process to Verify Design Conventions for Digital Forms of Narration"
 - [[Daria Petrova]] (Russia), "The Social Media Poetry"
 - [[Tobi Hahn]] (Rensselaer Polytechnic Institute, USA) and [[August Polite]] (The New School, USA), "Memes and Myths: Performative Mythmaking in Online Meme Communities"
 - [[Mohsen Emadi]] (National Autonomous U., Mexico), "Folkloric Field-games and the New Horizons of Digital Poetry"
-- [[Grace Felstead]] (Australia), [[Megan Heyward]] (U. Technology Sydney, Australia), and [[Michael Finucan]]*, "The Alchemist’s Guide to the City"
+- [[Grace Felstead]] (Australia), [[Megan Heyward]] (U. Technology Sydney, Australia), and [[Michael Finucan]]*, "The Alchemist's Guide to the City"
 - [[Qianxun Chen]] (Hong Kong), "Morphosis"
 
 - [[David Jhave Johnston]] (City U., Hong Kong), "CURVED: Literature for Bilingual Immersive Multi-screen Environments"
 - [[Susana Sulic]] (ALAPAE, Argentina), "Mar Muerto"
 - [[Franci Greyling]] (North-West U., South Africa), [[Bernard Odendaal]] (North-West U., South Africa), and [[Gustaf Tempelhoff]] (North-West U., South Africa), "Byderhand Tuinverse (At Hand: Garden Poetry)"
-- [[Joshua Alma Enslen]] (US Military Academy West Point, USA) and [[Alaina Enslen]] (USA), "’As Aves que Aqui Twittam’: Visualizing the Influence of ‘Canção do Exílio’ in New Media"
+- [[Joshua Alma Enslen]] (US Military Academy West Point, USA) and [[Alaina Enslen]] (USA), "'As Aves que Aqui Twittam': Visualizing the Influence of 'Canção do Exílio' in New Media"
 - [[Joshua Unikel]] (Seneca Review, USA) and [[Zachary Kaiser]] (Michigan State U., USA), "As // If: Visual Poetry and Machine Translations"
 - [[Gustaf Tempelhoff]] (North-West U., South Africa), "Platform Design for Site-specific Digital Literature"
 - [[Jody Zellen]] (USA), "News Wheel and Other News Art Projects"
@@ -68,7 +68,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Julia Polyck-O'Neill]] (Brock U., Canada), "Nonspecific Mediums: Conceptualism, Electronic Literature, and (Digital) Text as Affective Object"
 - [[Matti Kangaskoski]] (U. Helsinki, Finland), "Push to Make: Automation and Pushing the Virtual Button in Electronic Literature"
-- [[Lydia Tuan]] (U. Cambridge, UK), "When Bots Author: Further Explorations in Generative Literature’s Computational Sublime"
+- [[Lydia Tuan]] (U. Cambridge, UK), "When Bots Author: Further Explorations in Generative Literature's Computational Sublime"
 - [[Liliana Vasques]] (U. Coimbra, Portugal), "Remixing and Textual Appropriation in Digital Poetry"
 - [[Piotr Małecki]] (Jagiellonian U., Poland) and [[Jan Argasiński]] (Jagiellonian U., Poland), "Internet of Things and Electronic Literature. Tadeusz Peiper's Spatially Blossoming Poem"
 
@@ -81,7 +81,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Amy Spencer]] (U. West of England, UK), "Literary Thresholds: Exploring the Edges of Ambient Literature"
 - [[Alexandra Saemmer]] (U. Paris 8, France) and Nolwenn Tréhondart (U. Paris 8, France), "Digital Poetry and Digital Industry: a Fatal Attraction?"
 - [[Jennifer J Dellner]] (Ocean County College, USA), "'These Memories Won't Last': Visual Representations of the Forgotten"
-- [[Amber Strother]] (Washington State U., USA), "Mary Shelley’s Hideous Progeny and the Reclaiming of the Monstrous Female Body in Shelley Jackson’s ‘Patchwork Girl’ and ‘Penny Dreadful’"
+- [[Amber Strother]] (Washington State U., USA), "Mary Shelley's Hideous Progeny and the Reclaiming of the Monstrous Female Body in Shelley Jackson's 'Patchwork Girl' and 'Penny Dreadful'"
 - [[Matteo d'Ambrosio]] (U. Naples Federico II, Italy), "The Early Computer Poetry and Concrete Poetry"
 
 - [[Rogério Barbosa da Silva]] (Federal Center of Technological Education Minas Gerais, Brazil), [[Caio Roberto Saldanha]] (Federal Center of Technological Education Minas Gerais, Brazil), and [[Amanda Rafaela Gomes Martins]] (Federal Center of Technological Education Minas Gerais, Brazil), "Poemaps: Perspectives for Creation and Circulation of Poetry in the Multimedia Context"
@@ -98,7 +98,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Odile Farge]] (UNESCO ITEN CHAIR/FMSH/UP8, France), "Communities, Hacking, and Open-source Software: When E-lit Meets Digital Humanism"
 - [[Bruno Ministro]] (U. Coimbra, Portugal), "'Electricity Invading the World of Typography': Copy Art and Electronic Literature"
 
-- [[Meredith Dabek]] (Maynooth U., Ireland), "’Hipster Darcy’ and ‘Crazy Mrs. Bennet’: Parody Twitter Accounts and Fan Engagement in ‘The Lizzie Bennet Diaries’"
+- [[Meredith Dabek]] (Maynooth U., Ireland), "'Hipster Darcy' and 'Crazy Mrs. Bennet': Parody Twitter Accounts and Fan Engagement in 'The Lizzie Bennet Diaries'"
 - [[Jill Walker Rettberg]] (U. Bergen, Norway), "A Narrative Analysis of the Use of Social Media in SKAM"
 - [[Trent Hergenrader]] (Rochester Institute of Technology, USA), "Collaborative Worldbuilding for Writers and Gamers"
 - [[Rob Wittig]] (Meanwhile Netprov Studio, USA), "Blending Collaborative Writing and Live Performance; New Fictions in Netprov, LARP and Playable Media"
@@ -116,7 +116,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Laura Borràs Castanyer]] (U. Barcelona, Spain), "'Be Water, My Friend': On Liquid Metaphors in Digital Poetry"
 - [[Giovanna Di Rosario]] (Catholic U. Louvain, Belgium), "Mapping Female Voices in Digital Literature"
-- [[Oreto Doménech]] (U. Barcelona, Spain), "Woman and Poetic Narration in Christine Wilks’ works"
+- [[Oreto Doménech]] (U. Barcelona, Spain), "Woman and Poetic Narration in Christine Wilks' works"
 - Perla Sasson-Henry*
 
 - [[Erika Fülöp]] (Lancaster U., UK), "From Network to Community: Mapping the Literary (on) YouTube"
@@ -131,9 +131,9 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Christian Roth]] (HKU U. of the Arts, Utrecht, Netherlands), [[Gabriele Ferri]] (Amsterdam U. Applied Sciences, Netherlands), and [[Mads Haahr]] (Trinity College Dublin, Ireland), "In-depth Analysis of Interactive Digital Narrative" @Auditório
 
 - [[Anna Gibbs]] (Western Sydney U., Australia) and [[Maria Angel]]*, "Cyberfeminism, Writing, and the Digital Ecology of Bodies"
-- [[Cláudia Silva]] (M-ITI/Madeira Interactive Technologies Institute, Portugal) and [[Valentina Nisi]] (M-ITI/Madeira Interactive Technologies Institute, Portugal), "‘I blamed this all on moving to Texas’: Fostering Sense of Place through Locative Literature among US Latina Girls"
+- [[Cláudia Silva]] (M-ITI/Madeira Interactive Technologies Institute, Portugal) and [[Valentina Nisi]] (M-ITI/Madeira Interactive Technologies Institute, Portugal), "'I blamed this all on moving to Texas': Fostering Sense of Place through Locative Literature among US Latina Girls"
 - [[Anne Karhio]] (National U. Galway, Ireland), "Acts of Opposition: Digital Aesthetics, Electronic Literature and Irish Cultural Institutions"
-- [[D. Fox Harrell]] (Massachusetts Institute of Technology, USA), [[Pablo Ortiz]]*, [[Peter Downs]]*, [[Elizabeth Carre]]*, [[Annie Wang]]* and [[Maya Wagoner]]*, "’Chimeria:Grayscale:’ An Interactive Narrative for Provoking Critical Reflection on Gender Discrimination"
+- [[D. Fox Harrell]] (Massachusetts Institute of Technology, USA), [[Pablo Ortiz]]*, [[Peter Downs]]*, [[Elizabeth Carre]]*, [[Annie Wang]]* and [[Maya Wagoner]]*, "'Chimeria:Grayscale:' An Interactive Narrative for Provoking Critical Reflection on Gender Discrimination"
 
 - [[Davin Heckman]] (Winona State U., USA), "'your visit will leave a permanent mark': Media Ecology, Media Economy, and Anthropocene Poetics in Eugenio Tisselli"
 - [[Robert Glick]] (Rochester Institute of Technology, USA), "J. R. Carpenter's Etheric Ocean, Depth Submersion/Subversion, and the Trans-Application Model"
@@ -167,7 +167,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Bernard Odendaal]] (North-West U., South Africa), "The Film-verse Project as a Significant Contribution to Digital Poetry Developments in South Africa"
 - [[Penny Florence]] (UK) and [[John Cayley]] (Brown U., USA), "Language Made Art"
 
-- [[Cosima Bruno]] (U. London, UK), "Translation and Digital Performativity in Hsia Yü’s ‘Pink Noise’"
+- [[Cosima Bruno]] (U. London, UK), "Translation and Digital Performativity in Hsia Yü's 'Pink Noise'"
 - [[Pedro Andrade]] (U. Minho, Portugal), "Digital Literature and Big Knowledge"
 - [[Oreto Doménech]] (U. Barcelona, Spain), "Translating the Translations: A Close and yet Constructed Reading"
 - [[Anne Royston]] (U. Utah, USA), "'Nothing is Hiding:' The Entropy of Mark C. Taylor's 'The Réal'"
@@ -176,7 +176,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 Digital Poiesis, Digital Poetics 3 [Chair: Caitlin Fisher]  
 - [[Simon Biggs]] (U. South Australia, Australia), "Dark Matter: Co­‐Reading as a Generative Ontology"
 - [[Christine Wilks]] (Bath Spa U., UK), "Translating the Digital Emotions of Interactive Fictional Characters"
-- [[Margaret Simon]] (North Carolina State U., USA) and [[Helen J. Burgess]] (North Carolina State U., USA), "A Kit for E-literature: ‘Intimate Fields’"
+- [[Margaret Simon]] (North Carolina State U., USA) and [[Helen J. Burgess]] (North Carolina State U., USA), "A Kit for E-literature: 'Intimate Fields'"
 - [[Kate Armstrong]] (Emily Carr U., Canada), "Path: A Generative Bookwork in 12 Volumes"
 
 Translations and Renderings [Chair: Rui Torres]  
@@ -240,14 +240,14 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 - [[Anna Nacher]] (Jagiellonian U., Poland), "Vocalization: Ephemerality and Meaning"
 [[Monika Górska-Olesińska]] (U. Opole, Poland), "Voice-based Performances"
 - [[John F. Barber]], "Test Pattern for Listening"
-- [[David Thomas Henry Wright]] (Murdoch U., Australia), "'Writing for' with Authority: Theorising an Electronic Edition of Shahriar Mandanipour’s ‘Censoring an Iranian Love Story’"
--[[Luís Lucas Pereira]] (U. Coimbra, Portugal) and [[Manuel Portela]] (U. Coimbra, Portugal), "’Machines of Disquiet’: Textual Experience in the LdoD Archive"
-- [[Philippe Bootz]] (U. Paris 8, France), [[Hermes Salceda]] (U. Vigo, Spain), and [[María Inés Laitano]]*, "Generated Animated Remediation of ‘Nouvelles Impressions d’Afrique’ by Raymond Roussel"
-- [[Ana Maria Silva Machado]] (U. Coimbra, Portugal), [[Andy Campbell]] (UK), [[Ana Sofia Albuquerque e Aguilar]] (U. Coimbra, Portugal), [[Ian Harper]]* and [[António Oliveira]]*, "’Inanimate Alice’ - The Story of the Series and its Impact in Portugal"
+- [[David Thomas Henry Wright]] (Murdoch U., Australia), "'Writing for' with Authority: Theorising an Electronic Edition of Shahriar Mandanipour's 'Censoring an Iranian Love Story'"
+-[[Luís Lucas Pereira]] (U. Coimbra, Portugal) and [[Manuel Portela]] (U. Coimbra, Portugal), "'Machines of Disquiet': Textual Experience in the LdoD Archive"
+- [[Philippe Bootz]] (U. Paris 8, France), [[Hermes Salceda]] (U. Vigo, Spain), and [[María Inés Laitano]]*, "Generated Animated Remediation of 'Nouvelles Impressions d'Afrique' by Raymond Roussel"
+- [[Ana Maria Silva Machado]] (U. Coimbra, Portugal), [[Andy Campbell]] (UK), [[Ana Sofia Albuquerque e Aguilar]] (U. Coimbra, Portugal), [[Ian Harper]]* and [[António Oliveira]]*, "'Inanimate Alice' - The Story of the Series and its Impact in Portugal"
 - [[Laura Santini]] (U. Genoa, Italy), "Re-mediation and Code-switching in Contemporary E-literature and Codex Book Novels"
 
 - [[Lívia Bertges]] (Federal U. Mato Grosso, Brazil) and Vinícius Pereira (Federal U. of Mato Grosso, Brazil), "An Analysis of Arnaldo Antunes' GIF Poems"
-- [[Søren Bro Pold]] (Aarhus U., Denmark) and Christian Ulrik Andersen*, "Reading Climate Change Through the Cloud: ‘Toxi*City’"
+- [[Søren Bro Pold]] (Aarhus U., Denmark) and Christian Ulrik Andersen*, "Reading Climate Change Through the Cloud: 'Toxi*City'"
 - [[Vega Sánchez Aparicio]] (U. Salamanca, Spain), "I Also Know How to Think the Way You Do: An Error's Aesthetic in Visual Writings"
 
 
@@ -262,16 +262,16 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 - [[Élika Ortega]] (Northeastern U., USA), "Diasporic Media Architectures: Digital Literature in Latin America at the Intersection of Print"
 
 
-- [[Anastasia Salter]] (U. Central Florida, USA), "You’re the Star of the Story? Adventure Games in Virtual Reality"
+- [[Anastasia Salter]] (U. Central Florida, USA), "You're the Star of the Story? Adventure Games in Virtual Reality"
 - [[John T. Murray]] (U. California Santa Cruz, USA), "What is Chosen: Rethinking Choice-based Narrative Games Traversals"
 - [[Anne Sullivan]] (U. Central Florida, USA), "Crafting Play: Creating Tangible Artifacts from Player Narrative"
  Keynote @Auditório [Presenter: [[M. D. Coverley aka Marjorie C. Luesebrink]]  
 [[Matthew G. Kirschenbaum]] (U. Maryland, USA), "ELO and the Electric Light Orchestra: Lessons for  [Host: [[Dene Grigar]]
 Retooling the Tools [Chair: [[David Jhave Johnston]]]]  
 
-- [[Pablo Gobira]] (State U. Minas Gerais, Brazil), [[Antônio Mozelli]]* and [[William Silva]]*, "Interactive Installation in Immersive Virtual Reality: ‘Look at yourself [Olhe para você]’"
+- [[Pablo Gobira]] (State U. Minas Gerais, Brazil), [[Antônio Mozelli]]* and [[William Silva]]*, "Interactive Installation in Immersive Virtual Reality: 'Look at yourself [Olhe para você]'"
 - [[Nickolas Procopi]] (Tufts U., USA), "Babel Babble"
-- [[Xiaosu Guan]] (State U. New York Buffalo, US [Germany]), "Multi-perspective Installation with AR Video Layers: ‘Not There There’"
+- [[Xiaosu Guan]] (State U. New York Buffalo, US [Germany]), "Multi-perspective Installation with AR Video Layers: 'Not There There'"
 - [[Alex Mitchell]] (National U., Singapore) & [[The Cloud Farmers]] (Meanwhile... netprov studio), "Monstrous Weather: Cross-platform Retellings of a Networked Improvisation"
 - [[Jakub Bogusław Jagiełło]] (Adam Mickiewicz U. Poznań, Poland), "Indeterminacy of Translation"
 
@@ -286,7 +286,7 @@ Digital Poiesis, Digital Poetics 4 [Chair: [[Eugenio Tisselli]]
 
 E-Lit for Children [Chair: Astrid Ensslin]  
 
-- [[Thales Estefani]] (Federal U. Juiz de Fora, Brazil) and [[João Queiroz]]*, "Children’s Picturebook Goes Digital: Implications on Cognition"
+- [[Thales Estefani]] (Federal U. Juiz de Fora, Brazil) and [[João Queiroz]]*, "Children's Picturebook Goes Digital: Implications on Cognition"
 - [[Hannah Ackermans]] (U. Utrecht, Netherlands), "Electronic Literature: A Coming-Of-Age Story"
 - [[Monica Daisy Vieira Araújo]] (Brazil) and [[Isabel Cristina Alves da Silva Frade]]*, "Digital Literary Reading Experiences by Young Readers"
 - [[Marina Gabelica]] (U. Zagreb, Croatia), "Electronic Children's Literature Criticism – Exploring Electronic Picture Books"

@@ -59,7 +59,7 @@
 | [[Denise+Deena Larsen]]                  |
 | [[Dene Grigar]]                   |
 | [[Désirée Nore Duchesne]]         |
-| [[Dolleen Tisawii’ashii Manning]] |
+| [[Dolleen Tisawii'ashii Manning]] |
 | [[Donna Leishman]]                |
 | [[Douglas Rosman]]                |
 | [[Élika Ortega]]                  |
@@ -149,7 +149,7 @@
 | [[Mez Breeze]]                    |
 | [[Misha Rabinovich]]              |
 | [[Mojde Kalantari]]               |
-| [[Monika Górska-Olesinska]]       |
+| [[Monika Górska-Olesińska]]       |
 | [[Negin Ehtesabian Lichty]]       |
 | [[Nick Montfort]]                 |
 | [[Nicolas Sauret]]                |

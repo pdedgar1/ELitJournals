@@ -38,7 +38,7 @@
 | [[Gamal Mahadany]]             | Iraq         |
 | [[Abdel-Noor Idris]]           | Morocco      |
 | [[Taha Adnan]]                 | Morocco      |
-| [[Mon’em Al-Azrak]]            | Morocco      |
+| [[Mon'em Al-Azrak]]            | Morocco      |
 | [[Abdel-Rahman Zeeb]]          | Saudi Arabia |
 | [[Yuosif Al-Balwy]]            | Saudi Arabia |
 | [[Abdelkader Amiche]]          | Algeria      |
