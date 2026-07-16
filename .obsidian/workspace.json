@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e47879c48b65d8b",
+        "id": "a869f6ba53a47514",
         "type": "tabs",
         "children": [
           {
-            "id": "f08e378246a7a512",
+            "id": "32ed20547bb3f573",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3558e22f65bf0dba",
@@ -177,10 +178,22 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "f08e378246a7a512",
+  "active": "32ed20547bb3f573",
   "lastOpenFiles": [
-    "Publications - Lit Mags/Re•mediate.md",
+    "Journ. - Instasociety Issues.md",
+    "DLC+ Keywords in Digital Literary Culture.md",
+    "People/Digital Literary Cultures+.md",
+    "People/Visionary Futures Collective.md",
     "Alias Report.md",
+    "midst.md",
+    "Lillian-Yvonne Bertram.md",
+    "People/Textile.md",
+    "Publications - Academic/Journ. - Culture Machine.md",
+    "Publications - Academic/Journ. - Critical AI.md",
+    "Publications - Lit Mags/Robot Review of Books.md",
+    "ELit People Tags.csv",
+    "ELit Network Metrics.html",
+    "Publications - Lit Mags/Re•mediate.md",
     "Anthologies/Lit E Lat 2.md",
     "Publications - Academic/Blog - I <3 E-Poetry.md",
     "CA Conrad.md",
@@ -195,17 +208,7 @@
     "David Núñez Ruiz.md",
     "doménico chiappe.md",
     "Belén Gache.md",
-    "Andréa Catrópa.md",
-    "Monika Górska-Olesińska.md",
-    "Zuzana Husárová.md",
     "normalize_chars.py",
-    "James O'Sullivan.md",
-    "Milton Läufer.md",
-    "José Aburto.md",
-    "María Goicoechea de Jorge.md",
-    "J. R. Carpenter.md",
-    "María Mencía.md",
-    "alias_scan.py",
-    "Publications - Lit Mags/Drunken Boat 2012-2026.md"
+    "alias_scan.py"
   ]
 }
