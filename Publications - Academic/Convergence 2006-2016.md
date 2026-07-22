@@ -60,7 +60,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Bernd Holznagel]]             |
 | [[Bethany Klein]]               |
 | [[Bjarke Liboriussen]]          |
-| [[Bjorn Nansen]]                |
+| [[Bjørn Nansen]]                |
 | [[Bjørnar Tessem]]              |
 | [[Blair MacIntyre]]             |
 | [[Bob Hughes]]                  |
@@ -114,7 +114,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[David Beer]]                  |
 | [[David Bessell]]               |
 | [[David Craig]]                 |
-| [[David Dowling]]               |
+| [[David O Dowling]]               |
 | [[David Fernández-Quijada]]     |
 | [[David Gurney]]                |
 | [[David Lee]]                   |
@@ -184,7 +184,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Harry Bouwman]]               |
 | [[Hauke Egermann]]              |
 | [[Hector Postigo]]              |
-| [[Helen Kennedy]]               |
+| [[Helen W. Kennedy]]               |
 | [[Helen Papagiannis]]           |
 | [[Helen Thornham]]              |
 | [[Helen W. Kennedy]]            |
@@ -217,7 +217,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Janine Mikosza]]              |
 | [[Jaroslav Švelch]]             |
 | [[Jason Jacobs]]                |
-| [[Jason Wilson]]                |
+| [[Jason A. Wilson]]                |
 | [[Jay David Bolter]]            |
 | [[Jeanette Steemers]]           |
 | [[Jeff Malpas]]                 |

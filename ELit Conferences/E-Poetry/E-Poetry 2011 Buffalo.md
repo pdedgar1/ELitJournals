@@ -36,7 +36,7 @@ An International digital Poetry Festival
 | [[Lori Emerson]]                                              |     |
 | [[Maria Engberg]]                                             |     |
 | [[Angela Ferriaolo]]                                          |     |
-| [[Jerome Fletcher]]                                           |     |
+| [[Jérôme Fletcher]]                                           |     |
 | [[Penny Florence]]                                            |     |
 | [[Leonardo Flores]]                                           |     |
 | [[Chris Forstall]]                                            |     |
@@ -64,7 +64,7 @@ An International digital Poetry Festival
 | [[Talan Memmott]]                                             |     |
 | [[María Mencía]]                                              |     |
 | [[Nick Montfort]]                                             |     |
-| [[Benjamín Moreno]]                                           |     |
+| [[Raul Benjamín Moreno]]                                           |     |
 | [[Dee Morris]]                                                |     |
 | [[Judd Morrissey]]                                            |     |
 | [[Alexander Mouton]]                                          |     |

@@ -15,7 +15,7 @@
 [[Jason Nelson]]
 [[Lynda Clark]]
 #### 2003
-[[Jerome Fletcher]], [[Geoffrey Olsen]]
+[[Jérôme Fletcher]], [[Geoffrey Olsen]]
 #### 2008
 [[Alan Bigelow]]
 [[Katharine Norman]]

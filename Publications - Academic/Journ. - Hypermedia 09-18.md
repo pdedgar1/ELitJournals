@@ -48,7 +48,7 @@
 ### Vol 16, Iss 1-2
 - [[Daniel Cunliffe]]
 - [[Douglas Tudhope]]
-- [[David Millard]]
+- [[David E. Millard]]
 - [[Weigang Wang]]
 - [[Angelo Di Iorio]]
 - [[Alberto Musetti]]
@@ -140,9 +140,9 @@
 - [[Klaus Obermayer]]
 - [[Yunjia Li]]
 - [[Mike Wald]]
-- [[Gary Wills]]
+- [[Gary B. Wills]]
 - [[Shakeel Khoja]]
-- [[David Millard]]
+- [[David E. Millard]]
 - [[Jiri Kajaba]]
 - [[Priyanka Singh]]
 - [[Lester Gilbert]]
@@ -499,7 +499,7 @@
 - [[Mickaël Coustaty]]
 - [[Nadeem Salamat]]
 - [[V. B. Surya Prasath]]
-- [[Ja-Ryoung Choi]]
+- [[Jayoung Choi]]
 - [[Soon-Bum Lim]]
 
 ### Vol 24, Iss 2

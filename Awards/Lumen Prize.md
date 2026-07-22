@@ -51,20 +51,20 @@
 - Nordic Award: [[Sophia Ioannou Gjerding]]
 - NFT Award: [[Aaron Penne]] x Boreta]]
 - Still Image Award: [[Dillon Marsh]]
-- HUA Award: [[Gong Yining & Sun Aijia]]
+- HUA Award: [[Gong Yining]] & [[Sun Aijia]]
 - Student Award: [[Maximilian Seeger]]
 - BCS Immersive Environment Award: [[Libby Heaney]]
 - Futures Award: [[Russell Perkins]]
 
 ### 2021 Award Winners
 
-- Gold Award: [[Nye Thompson & UBERMORGEN]]
+- Gold Award: [[Nye Thompson]] & [[UBERMORGEN]]
 - BCS Immersive Environment Award: [[Operator]]
 - Futures Award: [[Gottfried Haider]]
 - 3D/Interactive Award: [[Sarah Choo Jing]]
 - Global South Award: [[Minne Atairu]]
 - Moving Image Award: [[Juan Covelli]]
-- Nordic Award: [[Pontus Lidberg & Cecilie Waagner Falkenstrøm]]
+- Nordic Award: [[Pontus Lidberg]] & [[Cecilie Waagner Falkenstrøm]]
 - Still Image Award: [[Ziv Schneider]]
 - Student Award: [[Cezar Mocan]]
 
@@ -74,9 +74,9 @@
 - Photomonitor Student Award: [[Liu Wa]]
 - BCS A.I. Award: [[Christian Mio Loclair]]
 - 3D Interactive Award: [[Richard Vijgen]]
-- Moving Image Award: [[Casey Reas & Jan St. Werner]]
+- Moving Image Award: [[Casey Reas]] & [[Jan St. Werner]]
 - XR Award: [[Elyne Legarnisson]]
-- Global South Award: [[Tupac Martir & Satore Studio]]
+- Global South Award: [[Tupac Martir]] & [[Satore Studio]]
 - Still Image Award: [[Liliana Farber]]
 - Nordic Award: [[Søren Krag]]
 
@@ -85,10 +85,10 @@
 - Gold Award: [[Refik Anadol]]
 - Photomonitor Student Award: [[Cassie Suche]]
 - People's Choice Award: [[Stefan Gant]]
-- Rapoport Award for Women in Art & Tech: [[Alexandra Daisy Ginsberg, Dr Christina Agapakis/Ginkgo Bioworks & Sissel Tolaas]]
-- XR Award: [[Kristina Buozyte & Vitalijus Zukas]]
+- Rapoport Award for Women in Art & Tech: [[Alexandra Daisy Ginsberg]], [[Dr Christina Agapakis]]/[[Ginkgo Bioworks]] & [[Sissel Tolaas]]
+- XR Award: [[Kristina Buozyte]] & [[Vitalijus Zukas]]
 - 3D/Interactive Award: [[Maja Petric]]
-- BCS A.I. Award: [[Dave Murray-Rust & Rocio von Jungenfeld]]
+- BCS A.I. Award: [[Dave Murray-Rust]] & [[Rocio von Jungenfeld]]
 - Still Image Award: [[Sougwen Chung]]
 - Moving Image Award: [[Cassie McQuater]]
 
@@ -107,34 +107,34 @@
 ### 2017 Award Winners
 
 - Gold Award: [[Thijs Biersteker]]
-- Founder's Award: [[Nicole Ruggiero, Molly Soda & Refrakt]]
+- Founder's Award: [[Nicole Ruggiero]], [[Molly Soda]] & [[Refrakt]]
 - 3D/Sculpture Award: [[Lien-cheng, Wang]]
 - Moving Image Award: [[Isabelle Arvers]]
-- VR/AR Award: [[Michelle & Uri Kranot]]
+- VR/AR Award: [[Michelle Kranot]] & [[Uri Kranot]]
 - Web-Based Award: [[Fabio Dartizio]]
 - Still Image Award: [[Matthias Dorfelt]]
-- Placemaking Special Commendation Award: [[David Glicksman & Moses Journey]]
+- Placemaking Special Commendation Award: [[David Glicksman]] & [[Moses Journey]]
 - Meural Student Award: [[Tadej Droljc]]
 - BCS A.I. Award: [[Cecilie Waagner Falkenstrøm]]
 
 ### 2016 Award Winners
 
 - Founders Award: [[Carla Gannis]]
-- Gold Award: [[Fabio Giampietro & Alessio De Vecchi]]
+- Gold Award: [[Fabio Giampietro]] & [[Alessio De Vecchi]]
 - Moving Image Award: [[boredomresearch]]
-- 3D/Sculpture Award: [[Esther Rolinson and Sean Clark]]
+- 3D/Sculpture Award: [[Esther Rolinson]] and [[Sean Clark]]
 - Interactive Award: [[Seb Lee-Delisle]]
-- VR/AR Award: [[Matteo Zamagni, Ben Hur and David Li]]
+- VR/AR Award: [[Matteo Zamagni, Ben Hur]] and [[David Li]]
 - Still Image Award: [[Jon McCormack]]
 - Web-Based Award: [[Sylvia Grace Borda]]
 - Distinction for Games Award: [[Wengu Hu]]
-- People's Choice Award: [[Kim Chaeyeon, Gangneung]]
+- People's Choice Award: [[Kim Chaeyeon]], [[Gangneung]]
 
 ### 2015 Award Winners
 
 - Gold Award: [[Gibson/Martelli]]
 - Silver Award: [[Scenocosme]]
-- Bronze Award: [[Golan Levin, Kyle McDonald and Christine Sugrue]]
+- Bronze Award: [[Golan Levin]], [[Kyle McDonald]] and [[Christine Sugrue]]
 - VR/AR Award: [[Michael Takeo Magruder]]
 - Creative Coding Award: [[XCEED]]
 - WNO Performance Award: [[Lab212 Collective]]
@@ -148,7 +148,7 @@
 - Silver Award: [[Studio Chevalvert]]
 - Bronze Award: [[Patrick Tresset]]
 - Animate Award: [[Christine Hooper]]
-- Creative Coding Award: [[Merja Nieminen & James Andean]]
+- Creative Coding Award: [[Merja Nieminen]] & [[James Andean]]
 - People's Choice Gold Award: [[Alexandra Handal]]
 - People's Choice Silver Award: [[Alejandro Dávalos]]
 

@@ -102,7 +102,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Scott Rettberg]]                         |
 | [[Talan Memmott]]                          |
 | [[Ana Maria Silva Machado]]                      |
-| [[Ana Albuquerque e Aguilar]]             |
+| [[Ana Sofia Albuquerque e Aguilar]]             |
 | [[Jaqueline Conte]]                        |
 | [[Craig J. Saper]]                            |
 | [[Lynn Tomlinson]]                         |
@@ -131,7 +131,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Edgar Roberto Kirchof]]                  |
 | [[Carolina Martins]]                       |
 | [[Cecília Magalhães]]                      |
-| [[Ana Albuquerque e Aguilar]]              |
+| [[Ana Sofia Albuquerque e Aguilar]]              |
 | [[Andrew Klobucar]]                       |
 | [[Élika Ortega]]                           |
 | [[Sally Morfill]]                          |

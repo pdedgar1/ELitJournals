@@ -19,7 +19,7 @@
 2002 - [[Ted Pelton]]
 [[R. M. Berry]]
 [[Justin Haynes]]
-2001 - [[Jaishree Odin]]
+2001 - [[Jaishree K Odin]]
 2000 - [[Adrian Shaughnessy]]
 [[Paul Harris]]
 [[William ORourke]]

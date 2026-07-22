@@ -156,7 +156,7 @@ regular reviews
 [[Marta Carrasco]] and [[Sergi Selvas]]
 [[Caroline Gausden]] and [[Helen Smith]]
 
-[[Alys Longley]], [[James Hutchinson]], [[Charlotte Sunde]], [[Sasha Matthewman]], [[Karen Fisher]]
+[[Alys M. Longley]], [[James Hutchinson]], [[Charlotte Sunde]], [[Sasha Matthewman]], [[Karen Fisher]]
 [[Michelle Ferrier]]
 [[Craig J. Saper]] and [[Lynn Tomlinson]]
 

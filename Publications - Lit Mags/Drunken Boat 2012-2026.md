@@ -39,7 +39,7 @@
 #### Fiction
 [[Jeana Steele Burton]], [[Richard Hartshorn]], [[Virginia Konchan]], [[Susannah Maltz]], [[Kirk Nesset]], [[Kimarlee Nguyen]], [[Jesse Waters]]
 #### Librotraficante
-[[Lupe Mendez]], [[Beth Alvarado]], [[Steven Paul Alvarez]], [[Christopher Carmona]], [[Jennifer De Leon]], [[Tony Diaz]], [[Martín Espada]], [[Yovani Flores]], [[Rodney Gomez]], [[Roy Guzmán]], [[Kathleen Hellen]], [[Rosalie Morales Kearns]], [[Jane Lopez]], [[David Tomas Martinez]], [[Erika M. Martínez]], [[Michael McGuire]], [[Max Randolph]], [[John Rodriguez]], [[Carmen Giménez Smith]], [[Richard Vargas]], [[Christina Vega-Westhoff]]
+[[Lupe Mendez]], [[Beth Alvarado]], [[Steven Paul Alvarez]], [[Christopher Carmona]], [[Jennifer De Leon]], [[Tony Diaz]], [[Martín Espada]], [[Yovani Flores]], [[Rodney Gomez]], [[Roy Guzmán]], [[Kathleen Hellen]], [[Rosalie Morales Kearns]], [[Jane Lopez]], [[David Tomas Martínez]], [[Erika M. Martínez]], [[Michael McGuire]], [[Max Randolph]], [[John Rodriguez]], [[Carmen Giménez Smith]], [[Richard Vargas]], [[Christina Vega-Westhoff]]
 #### Ocean
 [[Aimee Nezhukumatathil]], [[Cassandra de Alba]], [[Fatimah Asghar]], [[Gala Mukomolova]], [[Hila Ratzabi]], [[Johanna C. Dominguez]], [[Joshua Bennett]], [[Keetje Kuipers]], [[Laura McCullough]], [[Marie-Elizabeth Mali]], [[Melissa Stein]], [[Rachel Wiley]], [[Robby Baier]], [[Robin Beth Schaer]], [[Roger Bonair-Agard]], [[Victoria Lynne McCoy]]
 #### Poetry
@@ -65,7 +65,7 @@
 # Issue 20
 
 #### Affrilachian Arts
-[[Jeremy Dae Paden]], [[Frank X Walker]], [[Shayla Lawson]], [[Steven Alvarez]], [[Charles A. Swanson]], [[Joy Priest]], [[Charter Weeks]] & [[Keith Flynn]], [[Autumn McClintock]], [[Colena Corbett]], [[Kenzie Allen]], [[Keith S. Wilson]], [[Ellen Hagan]], [[Bianca Spriggs]], [[Glenis Redmond]], [[Randall Horton]]
+[[Jeremy Dae Paden]], [[Frank X Walker]], [[Shayla Lawson]], [[Steven Paul Alvarez]], [[Charles A. Swanson]], [[Joy Priest]], [[Charter Weeks]] & [[Keith Flynn]], [[Autumn McClintock]], [[Colena Corbett]], [[Kenzie Allen]], [[Keith S. Wilson]], [[Ellen Hagan]], [[Bianca Spriggs]], [[Glenis Redmond]], [[Randall Horton]]
 #### Translation
 [[Tony Brinkley]] (trans. [[Arthur Rimbaud]]), [[Charlotte Mandell]] (trans. [[Arthur Rimbaud]]), [[Esther Allen]] (trans. [[Arthur Rimbaud]]), [[Marcella Durand]] (trans. [[Arthur Rimbaud]]), [[Judith Goldman]] (trans. [[Arthur Rimbaud]]), [[Jonathan C. Stalling]] (trans. [[Arthur Rimbaud]]), [[Ian Monk]] (trans. [[Arthur Rimbaud]]), [[Erín Moure]] (trans. [[Arthur Rimbaud]]), [[Chris Clarke]] (trans. [[Arthur Rimbaud]]), [[Rachel Galvin]] (trans. [[Arthur Rimbaud]]), [[Marie Buck]] (trans. [[Arthur Rimbaud]]), [[John Beer]] (trans. [[Arthur Rimbaud]]), [[Bob Perelman]] (trans. [[Arthur Rimbaud]]), [[Paul Legault]] (trans. [[Arthur Rimbaud]]), [[Laura Mullen]] (trans. [[Arthur Rimbaud]]), [[Sandra Simonds]] (trans. [[Arthur Rimbaud]]), [[Tom La Farge]] (trans. [[Arthur Rimbaud]]), [[Brandon Brown]] (trans. [[Arthur Rimbaud]])
 
@@ -116,7 +116,7 @@
 ## Glass House Shelter Project
 [[William Keller]], [[D.M. Aderibigbe]], [[Mark Norek]], [[Peter Nelson]], [[Zhulien Lambrev]], [[Darryl Lorenzo Wellington]], [[Andrea Semper]], [[Phe Needham]], [[Sarah Davis]], [[Mike Bayles]], [[Alan Asselin]], [[Ariana Rodriguez]], [[Eden LaMark]], [[Monica Raymond]], [[Shdiva Black]]
 ## Fiction
-[[Bonnie Chau]], [[Daniel Presley]], [[Erin Rogers]], [[Raul Benjamin Moreno]], [[Vic Sizemore]]
+[[Bonnie Chau]], [[Daniel Presley]], [[Erin Rogers]], [[Raul Benjamín Moreno]], [[Vic Sizemore]]
 ## Translation
 [[Adriana X. Jacobs]] (trans. [[Vaan Nguyen]]), [[Rachel Tapley]] (trans. [[Rachilde]]), [[Maria Nazos]] (trans. [[Dimitra Kotoula]]), [[Andrea Rosenberg]] (trans. [[Lina Meruane]]), [[Lizzie Davis]] (trans. [[Pilar Fraile Amador]]), [[Andrea Jurjević]] (trans. [[Olja Savičević Ivančević]]), [[Cheryl Clark Vermeulen]] (trans. [[Tedi López Mills]]), [[Michelle Gil-Montero]] (trans. [[María Negroni]])
 ## Sardinia
@@ -165,7 +165,7 @@
 ## Non-fiction
 [[Robert Isaacs]], [[Jabari Asim]], [[Tim Tomlinson]], [[Becca Stevenson]], [[Xu Xi]], [[Rachel Jamison Webster]], [[Claudia Excaret Santos]], [[Summer Maxwell]], [[Stephanie Sauer]], [[Layla Kennington]], [[Sybil Baker]]
 ## Poetry
-[[Zia Wang]], [[Lorraine Olaya]], [[Vinita Agrawal]], [[Sudeep Sen]], [[Samuel Haecker]], [[Brittany Perham]], [[Les Wicks]], [[Ellie Stanford]], [[Katherine Hollander]], [[Colin Pope]], [[Becca Klaver]], [[Frances Kai-Hwa Wang]], [[Sharon Dolin]], [[George Szirtes]], [[Khaled Mattawa]] (trans. [[Saadi Youssef]]), [[Rozanna Lilley]], [[Diane Mehta]], [[Andy Young]], [[Mags Webster]], [[Natania Rosenfeld]], [[Fernando Carrera]], [[Luis Francia]], [[Carine Harb]], [[Joseph Stanton]], [[Justin B. Wymer]], [[Darin Ciccotelli]], [[Andrea Applebee]], [[Daniel Browne]], [[Naomi Rhema Edwards]], [[Jodie Hollander]], [[Anand Thakore]], [[Arundhati Subramaniam]], [[Deepankar Khiwani]], [[Catherine Strisik]]
+[[Zia Wang]], [[Lorraine Olaya]], [[Vinita Agrawal]], [[Sudeep Sen]], [[Samuel Haecker]], [[Brittany Perham]], [[Les Wicks]], [[Ellie Stanford]], [[Katherine Hollander]], [[Colin Pope]], [[Becca Klaver]], [[Frances Kai-Hwa Wang]], [[Sharon Dolin]], [[George Szirtes]], [[Khaled Mattawa]] (trans. [[Saadi Youssef]]), [[Rozanna Lilley]], [[Diane Mehta]], [[Andy Young]], [[Mags Webster]], [[Natania Rosenfeld]], [[Fernando Carrera]], [[Luis Francia]], [[Carine Harb]], [[Joseph Stanton]], [[Justin B. Wymer]], [[Darin Ciccotelli]], [[Andrea Applebee]], [[Daniel Browne]], [[Naomi Rhema Edwards]], [[Jodie Hollander]], [[Anand Thakore]], [[Arundhathi Subramaniam]], [[Deepankar Khiwani]], [[Catherine Strisik]]
 ## Fiction
 [[Molly Gaudry]], [[Suzanne Dottino]], [[Amba Raghavan]], [[Rick Moody]], [[Mark Crimmins]], [[Dilruba Z. Ara]], [[Matthew Blasi]], [[Jerry Sticker]], [[Peter Zilahy]], [[Christy Sheffield Sanford]], [[Brenna Dixon]]
 ## Art

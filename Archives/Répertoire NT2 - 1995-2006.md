@@ -82,7 +82,7 @@ CELL Member  : French-language E-lit
 | [[Lew Baldwin]]                                          |
 | [[Sandy Baldwin]]                                        |
 | [[Amy Balkin]]                                           |
-| [[Cheryl Ball]]                                          |
+| [[Cheryl E. Ball]]                                          |
 | [[Jean-Pierre Balpe]]                                    |
 | [[Julien Clauss]]                                        |
 | [[Aurélien Bambagioni]]                                  |

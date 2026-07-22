@@ -45,7 +45,7 @@
 | [[Frederic Kaplan]]                                                       |
 | CHR Expanding the Toolkit: Large Language Models in Humanities Research]] |
 | [[Peter M. Nadel]]                                                        |
-| [[Gregory Crane]]                                                         |
+| [[Gregory R. Crane]]                                                         |
 | CHR Missing Data in the Humanities]]                                      |
 | [[Benjamin Henzel]]                                                       |
 | [[Meinard Müller]]                                                        |

@@ -230,5 +230,5 @@ Moderator: [[Anastasia Salter]], University of Central Florida
 Chairs: [[John Cayley]], Brown University; [[Dene Grigar]], President, ELO
 
 - "Platforms and Genres of Electronic Literature," [[Scott Rettberg]], University of Bergen
-- "Emergent Story Structures," [[David Meurer]]. York University
+- "Emergent Story Structures," [[David M. Meurer]]. York University
 - "We Must Go Deeper," [[Samantha Gorman]], USC; [[Milan Koerner-Safrata]], Recon Instruments

@@ -164,7 +164,7 @@ CELL member : Portuguese Language E-lit
 |[[Cidália Fachada]]|
 |[[Clara Almeida Santos]]|
 |[[Cláudia Madeira]]|
-|[[Cláudio Fajardo]]|
+|[[Luís Claudio Fajardo]]|
 |[[Cláudio Teixeira]]|
 |[[Craig Hill]]|
 |[[Christopher T. Funkhouser]]|
@@ -271,7 +271,7 @@ CELL member : Portuguese Language E-lit
 |[[Jorge Bacelar]]|
 |[[Jorge Leandro Rosa]]|
 |[[Jorge Listopad]]|
-|[[Jorge Luiz Antonio]]|
+|[[Jorge Luiz Antônio]]|
 |[[Jorge Pais de Sousa]]|
 |[[Jorge Peixinho]]|
 |[[José Alberto Ferreira]]|

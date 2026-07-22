@@ -70,7 +70,7 @@ Authors: [[Neal Thomas]], [[Paul Caplan]], [[Harry Halpin]], [[Eugenia Siapera]]
 
 # Vol. 15 (2014): Latin American Mediations
 Date: 2014
-Authors: [[Gabriela Méndez Cota]], [[Benjamín Mayer Foulkes]], [[Stefania Haritou]], [[Emilia Ismael Simental]], [[Nestor García Canclini]], [[Maritza Urteaga]], [[Euridice Cabañes]], [[María Rubio]], [[Benjamín Moreno]], [[Juan Pablo Anaya]], [[Alberto López Cuenca]], [[Beatriz Miranda]], [[Vivian Abenshushan]], [[Etelvina Bernal Méndez]], [[Néstor Braunstein]], [[Francisco Vergara Silva]]
+Authors: [[Gabriela Méndez Cota]], [[Benjamín Mayer Foulkes]], [[Stefania Haritou]], [[Emilia Ismael Simental]], [[Nestor García Canclini]], [[Maritza Urteaga]], [[Euridice Cabañes]], [[María Rubio]], [[Raul Benjamín Moreno]], [[Juan Pablo Anaya]], [[Alberto López Cuenca]], [[Beatriz Miranda]], [[Vivian Abenshushan]], [[Etelvina Bernal Méndez]], [[Néstor Braunstein]], [[Francisco Vergara Silva]]
 
 # Vol. 16 (2015): Drone Cultures
 Date: 2015

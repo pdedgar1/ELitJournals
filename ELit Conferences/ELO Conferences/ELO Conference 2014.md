@@ -66,7 +66,7 @@ Chair:[[Davin Heckman]]
 MEDIA ARTS SHOW CLOSES AT NOON
 Session 10A Models of Narrative–Curtin 175
 Chair:[[Jessica Pressman]]
-❏[[Natalie Funk]], ❏[[Serge Bouchardon]], ❏[[Aaron A. Reed]], ❏[[Daniela Cortes Maduro]], Session10B Troubadours of Information: Aesthetic Experiments in Sonification and Sound Technology–Curtin 118Chair:[[Lori Emerson]]
+❏[[Natalie Funk]], ❏[[Serge Bouchardon]], ❏[[Aaron A. Reed]], ❏[[Daniela Côrtes Maduro]], Session10B Troubadours of Information: Aesthetic Experiments in Sonification and Sound Technology–Curtin 118Chair:[[Lori Emerson]]
 ❏[[Andrew Klobucar]], ❏[[a rawlings]], ❏[[Jeffrey T. Johnson]], n❏[[Christopher Stroffolino]], Catered Lunch, Honoring Kate Hayles & presenting ELO Literary PrizesCatered Lunch–Golda Meir Library, Fourth Floor Conference Center
 Session 11A Surfaces, Virtualities–Curtin 118
 Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]

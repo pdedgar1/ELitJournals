@@ -9,7 +9,7 @@ https://the-next.eliterature.org/collections/29&pg=1&display=100&sort=date
 ### 2007
 [[Stuart Moulthrop]]
 [[Jason Nelson]]
-[[Jerome Fletcher]]
+[[Jérôme Fletcher]]
 ### 2008
 [[Grégory Chatonsky]]
 [[aya karpińska]]

@@ -98,7 +98,7 @@
 [[Dan Phiffer]]
 [[Dan Shiffman]]
 [[Daniel Gorelick]]
-[[Daniel Wilson]]
+[[Daniel C.S. Wilson]]
 [[Dannie Wei]]
 [[Danny Garfield]]
 [[David Nolen]]

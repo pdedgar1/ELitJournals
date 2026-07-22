@@ -76,8 +76,8 @@
 | [[Samya Brata Roy]]             |
 | [[Artemio Morales]]             |
 | [[Charles Danoff]]              |
-| [[Vinicius Marquet]]            |
-| [[Lyle Skains]]                 |
+| [[Augusto Vinicius Marquet]]            |
+| [[R. Lyle Skains]]                 |
 | [[Kateryna Shabelnyk]]          |
 | [[Halim Madi]]                  |
 | [[Xiang Yu]]                    |

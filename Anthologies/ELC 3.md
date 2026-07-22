@@ -86,7 +86,7 @@
 [[Piotr Małecki]]
 [[Chico Marinho]] with [[Alckmar Luís dos Santos]]
 [[Mark C. Marino]] with [[Rob Wittig]]
-[[Augusto Marquet]]
+[[Augusto Vinicius Marquet]]
 [[Alfred Marseille]]
 [[Talan Memmott]]
 [[Nick Montfort]] with [[Stephanie Strickland]]

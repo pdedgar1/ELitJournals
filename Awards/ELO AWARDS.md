@@ -19,6 +19,7 @@ fiction : [[Caitlin Fisher]]
 [[Everest Pipkin]], hon. ment. [[Decameron Collective]]
 [[Halim Madi]], runner-up. [[Margot Machado Knuth]], hon. ment. [[Lee Tusman]], [[Fernando Montes Vera]], [[Mark C. Marino]]
 [[Benjamín Escalonilla]], runner up [[Monique Tschofen]], hon. ment. [[David Ciccoricco]], [[Mez Breeze]], [[Marina Cone]], [[Judy Malloy]]
+[[Chris Joseph]] runner-up , [[Pau i au]], [[Mark L. Sample]] honorable mention , [[Gisela De Castro]], [[Vegard Fotland]], [[Collier Nogues]]
 
 
 ### [[N. Katherine Hayles]] Award for Criticism
@@ -37,7 +38,7 @@ fiction : [[Caitlin Fisher]]
 [[Hannes Bajohr]], runner-up [[Malthe Stavning Erslev]]
 hon. ment. [[Alessandro Ludovico]] and [[Simone Murray]]
 [[Karel Piorecky]] and [[Zuzana Husárová]], runner up [[Theo Ellin Ballew]] with honorable mention [[Lillian-Yvonne Bertram]] and [[Nick Montfort]]
-
+[[David Thomas Henry Wright]], [[Simone Murray]], [[Élika Ortega]]
 
 ### [[M. D. Coverley aka Marjorie C. Luesebrink]] Career Acheivement Award
 2016-present 
@@ -51,6 +52,7 @@ hon. ment. [[Alessandro Ludovico]] and [[Simone Murray]]
 [[Stephanie Strickland]]
 [[Dene Grigar]]
 [[Bertrand Gervais]]
+[[Joseph Tabbi]]
 
 ### Maverick Award 
 2021 to present 
@@ -59,3 +61,4 @@ hon. ment. [[Alessandro Ludovico]] and [[Simone Murray]]
 [[Denise+Deena Larsen]]
 [[Allison Parrish]]
 [[Jason Nelson]]
+[[Jim Andrews]]

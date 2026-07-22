@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a869f6ba53a47514",
+        "id": "c28ce5a4403c28cb",
         "type": "tabs",
         "children": [
           {
-            "id": "32ed20547bb3f573",
+            "id": "e38a9ab99071983e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "esther ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,34 +179,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "32ed20547bb3f573",
+  "active": "e38a9ab99071983e",
   "lastOpenFiles": [
-    "code lit.md",
-    "Publications - Lit Mags/Resen.md",
-    "Publications - Lit Mags/BackSlash Lit.md",
-    "Organizations/WordHack.md",
-    "Publications - Lit Mags/Bunk Magazine.md",
-    "Publications - Lit Mags/Syntax.md",
-    "Publications - Lit Mags/Low<-Tech Magazine.md",
-    "Publications - Lit Mags/Language Art Observer.md",
-    "Publications - Lit Mags/Telnet.md",
-    "ctrl + v.md",
-    "Publications - Academic/Journ. - Book 2.0 2021-2030.md",
-    "Publications - Academic/Journ. - Book 2.0 2011-2020.md",
-    "Publications - Academic/Journ. - Hypermedia 89-98.md",
-    "Publications - Academic/Journ. - Hypermedia 19-28.md",
-    "Paul De Bra.md",
-    "Publications - Academic/Journ. - Hypermedia 09-18.md",
-    "Publications - Academic/Journ. - Hypermedia 99-08.md",
-    "Publications - Academic/Journ. - Instasociety Issues.md",
-    "ELit Conferences/DLC+ Keywords in Digital Literary Culture.md",
-    "People/Digital Literary Cultures+.md",
-    "People/Visionary Futures Collective.md",
+    "Awards/Lumen Prize.md",
+    "Machine Zine.md",
     "Alias Report.md",
-    "Publications - Lit Mags/midst.md",
-    "Lillian-Yvonne Bertram.md",
-    "People/Textile.md",
-    "Publications - Academic/Journ. - Culture Machine.md",
+    "Victor J. Vitanza.md",
+    "Jason A. Wilson.md",
+    "Janez Fakin Janša.md",
+    "Jan K. Argasiński.md",
+    "James W. Malazita.md",
+    "James E. Dobson.md",
+    "Jakub Bogusław Jagiełło.md",
+    "Jaishree K Odin.md",
+    "Hong-An (Ann) Wu.md",
+    "Henry A. Giroux.md",
+    "Helen W. Kennedy.md",
+    "Gunn Sara Enli.md",
+    "Gregory R. Crane.md",
+    "Glenn S. Ritchey III.md",
+    "W. Gilbert Adair.md",
+    "Gary B. Wills.md",
+    "Gareth R. Schott.md",
+    "Friedrich A. Kittler.md",
+    "Faith Samuel Bassey.md",
+    "Archives/Répertoire NT2 - 2007-2022.md",
+    "Ephraim Hatfield.md",
+    "Emanuel Dimas de Melo Pimenta.md",
+    "Elizabeth A. Rodwell.md",
     "ELit People Tags.csv",
     "ELit Network Metrics.html",
     "normalize_chars.py",

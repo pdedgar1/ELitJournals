@@ -129,7 +129,7 @@ Colaboradores
 | [[Andrés Paniagua]]                                          |
 | [[Anuar Cichero]]                                            |
 | [[Belén Gache]]                                              |
-| [[Benjamín Moreno]]                                          |
+| [[Raul Benjamín Moreno]]                                          |
 | [[Bernardo Arroyo]]                                          |
 | [[Boriss Mejías]]                                            |
 | [[Boriss Mejías C]]                                          |
@@ -155,7 +155,7 @@ Colaboradores
 | [[Colectivo de Artes Integradas (CAIN)]]                     |
 | [[coño micky]]                                               |
 | [[David Losada]]                                             |
-| [[David Martínez]]                                           |
+| [[David Tomas Martínez]]                                           |
 | [[David Medina]]                                             |
 | [[Demian Schopf]]                                            |
 | [[Denise Audirac]]                                           |
@@ -236,7 +236,7 @@ Colaboradores
 | [[Tetjockeys]]                                               |
 | [[Textjockeys]]                                              |
 | [[Tilsa Otta]]                                               |
-| [[Vinicius Marquet]]                                         |
+| [[Augusto Vinicius Marquet]]                                         |
 | [[Vivian Abenshushan]]                                       |
 | [[Xitlálitl Rodríguez Mendoza]]                              |
 | [[Yolanda de la Torre]]                                      |

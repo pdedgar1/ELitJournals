@@ -253,7 +253,7 @@ Coding Education
 
 [[Ana Maria Silva Machado]], [[Cecília Magalhães]],
 
-[[Ana Albuquerque e Aguilar]] and
+[[Ana Sofia Albuquerque e Aguilar]] and
 
 [[Jaqueline Conte]]
 
@@ -797,7 +797,7 @@ Pedagogies of Electronic Literature
 
 Education on diversity and sustainability
 
-[[Perla B. Sassón-Henry]], [[Angélica Huizar]],
+[[Perla B. Sassón-Henry]], [[Angélica J. Huizar]],
 
 [[Milton Läufer]] and [[Rodolfo Mata]]
 
@@ -963,7 +963,7 @@ Girls while Flash is dying
 
 -
 
-[[Oreto Domenech]] and
+[[Oreto Doménech]] and
 
 [[Silvia Karina López]]
 

@@ -25,7 +25,7 @@
 **[[Geof Huth]]**
 **[[Andreas Jacobs]]**
 [[David Jhave Johnston]]
-[[Justin Katko]]
+[[Justin Katko aka jUStin!katKO]]
 **[[Orit Kruglanski]]**
 [[Erik Loyer]]
 **[[Bjørn Magnhildøen]]**

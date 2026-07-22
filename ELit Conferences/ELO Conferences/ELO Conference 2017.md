@@ -58,7 +58,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Gustaf Tempelhoff]] (North-West U., South Africa), "Platform Design for Site-specific Digital Literature"
 - [[Jody Zellen]] (USA), "News Wheel and Other News Art Projects"
 - [[Andy Simionato]] (RMIT U., Australia) and Karen Ann Donnachie (Curtin U., Australia), "The Trumpet of the Swan, 2017"
-- [[Jerome Fletcher]] (Falmouth U., UK)
+- [[Jérôme Fletcher]] (Falmouth U., UK)
 - [[J. R. Carpenter]] (UK)
 - [[David Devanny]] (Falmouth U., UK)
 
@@ -70,7 +70,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Matti Kangaskoski]] (U. Helsinki, Finland), "Push to Make: Automation and Pushing the Virtual Button in Electronic Literature"
 - [[Lydia Tuan]] (U. Cambridge, UK), "When Bots Author: Further Explorations in Generative Literature's Computational Sublime"
 - [[Liliana Vasques]] (U. Coimbra, Portugal), "Remixing and Textual Appropriation in Digital Poetry"
-- [[Piotr Małecki]] (Jagiellonian U., Poland) and [[Jan Argasiński]] (Jagiellonian U., Poland), "Internet of Things and Electronic Literature. Tadeusz Peiper's Spatially Blossoming Poem"
+- [[Piotr Małecki]] (Jagiellonian U., Poland) and [[Jan K. Argasiński]] (Jagiellonian U., Poland), "Internet of Things and Electronic Literature. Tadeusz Peiper's Spatially Blossoming Poem"
 
 - [[Salif Silva]] (U. Cape Verde), "Metafor[ma]: Metamorphoses of Cape Verdean Poetry"
 - [[Shanmugapriya T]] (Indian Institute of Technology Indore, India) and Nirmala Menon*, "Locating Literary Practices/Expressions in Indian Digital Spaces"
@@ -89,7 +89,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Álvaro Andrade Garcia]] (Ciclope, Brazil) and [[Lucas Junqueira]]*, "Toy Poems and Free Software Managana: Challenges of a Transmedia Publication"
 - [[Wagner Moreira]] (Federal Center of Technological Education Minas Gerais, Brazil), [[Andre Menezes]] (Studio Alfavaca, Brazil), and [[Cardes Amâncio]]*, "The Poetic Technical Image: to Think a Politics of the Look"
 - [[Francisco Marinho]]* and Álvaro Andrade Garcia (Ciclope, Brazil), "Computational Poetry: Processes of Collective Creation and Authorship between Men and Machines"
-- [[Carla Coscarelli]] (Federal U. Minas Gerais, Brazil) and [[Ana Elisa Ribeiro]] (Federal Center of Technological Education Minas Gerais, Brazil), "Literacy and Literature for the 21st Century"
+- [[Carla Viana Coscarelli]] (Federal U. Minas Gerais, Brazil) and [[Ana Elisa Ribeiro]] (Federal Center of Technological Education Minas Gerais, Brazil), "Literacy and Literature for the 21st Century"
 
 [[Eugenio Tisselli]] (Mexico/Spain), "The Heaviness of Light"  
   

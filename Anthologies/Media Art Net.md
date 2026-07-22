@@ -7,7 +7,7 @@
 | [[Vito Acconci]]                            |
 |                                             |
 | [[Robert Adrian X]]                         |
-| [[Marc Adrian]]                             |
+| [[Mark Adrian]]                             |
 | [[Eija-Liisa Ahtila]]                       |
 | [[Doug Aitken]]                             |
 | [[Chantal Akerman]]                         |

@@ -268,7 +268,7 @@ CELL Member  : French-language E-lit
 | [[Jonathan Harris]]                   |
 | [[Ian Harris]]                        |
 | [[Ian Hatcher]]                       |
-| [[Ephraim & Sadie Hatfield]]          |
+| [[Ephraim Hatfield]]                  |
 | [[Caroline Hayeur]]                   |
 | [[HBO]]                               |
 | [[Gabriel Helfenstein]]               |
@@ -308,8 +308,8 @@ CELL Member  : French-language E-lit
 | [[Maja Kalogera]]                     |
 | [[Natasha Kanapé-Fontaine]]           |
 | [[Caren Kaplan]]                      |
-| [[Aya Karpinska]]                     |
-| [[Justin Katko]]                      |
+| [[Aya Karpińska]]                     |
+| [[Justin Katko aka jUStin!katKO]]     |
 | [[Carolyn Kaufman]]                   |
 | [[Dina Kelberman]]                    |
 | [[Raegan Kelly]]                      |
@@ -348,7 +348,7 @@ CELL Member  : French-language E-lit
 | [[Pierre-Luc Lapointe]]               |
 | [[Manu Larcenet]]                     |
 | [[Lucas LaRochelle]]                  |
-| [[Denise+Deena Larsen]]                      |
+| [[Denise+Deena Larsen]]               |
 | [[Sophie Latouche]]                   |
 | [[Sam Lavigne]]                       |
 | [[Antoine Le Bos]]                    |
@@ -361,7 +361,7 @@ CELL Member  : French-language E-lit
 | [[Étienne Lemay]]                     |
 | [[Philipp Lenssen]]                   |
 | [[Les Liens Invisibles]]              |
-| [[Jason Edward Lewis]]                    |
+| [[Jason Edward Lewis]]                |
 | [[LIA]]                               |
 | [[Olia Lialina]]                      |
 | [[Maya Lin]]                          |
@@ -513,7 +513,7 @@ CELL Member  : French-language E-lit
 | [[Alexandra Saemmer]]                 |
 | [[Carlos Sáez]]                       |
 | [[Dan Salvato]]                       |
-| [[Mark L. Sample]]                       |
+| [[Mark L. Sample]]                    |
 | [[Christian Sandvig]]                 |
 | [[Christy Sheffield Sanford]]         |
 | [[Gordan Savicic]]                    |
@@ -553,18 +553,18 @@ CELL Member  : French-language E-lit
 | [[Joel Sugerman]]                     |
 | [[sumoto.iki]]                        |
 | [[Hugues Sweeney]]                    |
-| [[Thom Swiss]]                      |
+| [[Thom Swiss]]                        |
 | [[Illya Szilak]]                      |
 | [[Matthew Taranto]]                   |
 | [[Tom Taylor]]                        |
 | [[Naoki Terada]]                      |
-|                                       |
+| [[Sadie Hatfield]]                    |
 |                                       |
 | [[The Light Surgeons]]                |
 | [[The Panty Raiders]]                 |
 | [[The Wa-KOW! Collective]]            |
 | [[Geoffrey Thomas]]                   |
-| [[Andrei Thomaz]]                     |
+| [[Andrei R. Thomaz]]                  |
 | [[THUP]]                              |
 | [[Tiltfactor]]                        |
 | [[Andrej Tisma]]                      |

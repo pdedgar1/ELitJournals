@@ -118,7 +118,7 @@ Proceedings introduction
 | [[Annie Abrahams]]                                                                                        |
 | [[Austin Anderson]]                                                                                       |
 | [[Brett Halperin]]                                                                                        |
-| [[Chloe A. Milligan]]                                                                                     |
+| [[Chloe Anna Milligan]]                                                                                     |
 | [[Claudia Kozak]]                                                                                         |
 | [[Collier Nogues]]                                                                                        |
 | [[Dan Cox]]                                                                                               |

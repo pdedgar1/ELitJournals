@@ -180,7 +180,7 @@ Founder [[John Tranter]]
 | [[George Oppen]]                |
 | [[Georgina Colby]]              |
 | [[Germán Labrador Méndez]]      |
-| [[Gilbert Adair]]               |
+| [[W. Gilbert Adair]]               |
 | [[Gillian Osborne]]             |
 | [[Gregory Betts]]               |
 | [[Gregory Dunne]]               |

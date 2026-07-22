@@ -81,7 +81,7 @@ Nair Renata Amâncio
 
 ## 2020
 
-#### Issue 1 ed. [[Ana Maria Silva Machado]], [[Ana Albuquerque e Aguilar]]
+#### Issue 1 ed. [[Ana Maria Silva Machado]], [[Ana Sofia Albuquerque e Aguilar]]
 
 |                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -96,7 +96,7 @@ Nair Renata Amâncio
 | [[José Carlos Dias]]                                                                                                                                                                                                                                                                                                                                   |
 | [[Larissa Andrioli]]                                                                                                                                                                                                                                                                                                                                   |
 | [[Ian Harper]]                                                                                                                                                                                                                                                                                                                                         |
-| [[Ana Maria Silva Machado]], [[Ana Albuquerque e Aguilar]]                                                                                                                                                                                                                                                                                                   |
+| [[Ana Maria Silva Machado]], [[Ana Sofia Albuquerque e Aguilar]]                                                                                                                                                                                                                                                                                                   |
 | [[Rui Afonso Mateus]]                                                                                                                                                                                                                                                                                                                                  |
 | [[Svetlana Anatolevna Kuchina]]                                                                                                                                                                                                                                                                                                                        |
 | [[Ana Carolina dos Santos Marques]], [[Manuel Portela]]                                                                                                                                                                                                                                                                                                                    |
@@ -150,7 +150,7 @@ Nair Renata Amâncio
 | [[Luís Lucas Pereira]], [[Manuel Portela]], [[Licínio Roque]]                                                 |
 | [[Ana Carolina dos Santos Marques]]                                                                                               |
 | [[David Thomas Henry Wright]]                                                                                 |
-| [[Ana Maria Silva Machado]], [[Andy Campbell]], [[Ian Harper]], [[Ana Albuquerque e Aguilar]], [[António Oliveira]] |
+| [[Ana Maria Silva Machado]], [[Andy Campbell]], [[Ian Harper]], [[Ana Sofia Albuquerque e Aguilar]], [[António Oliveira]] |
 | [[Donna Leishman]]                                                                                            |
 | [[Vladimira Velički]], [[Damir Velički]]                                                                      |
 | [[Carla Viana Coscarelli]], [[Ana Elisa Ribeiro]]                                                             |
@@ -308,7 +308,7 @@ Nair Renata Amâncio
 | [[Débora Aita Gasparetto]]                         |
 | [[E. M. de Melo e Castro]]                          |
 | [[Silvestre Pestana]]                              |
-| [[Emanuel Dimas Pimenta]]                          |
+| [[Emanuel Dimas de Melo Pimenta]]                          |
 | [[Ana Marques da Silva]]                           |
 | [[Sandra Bettencourt]]                             |
 | [[Nuno Miguel Neves]]                              |

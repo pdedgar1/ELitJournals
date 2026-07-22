@@ -227,7 +227,7 @@
 ## 2007
 [[Lori Emerson]]
 [[Charles Bernstein]]
-[[Jaishree Odin]]
+[[Jaishree K Odin]]
 [[Marjorie Perloff]]
 [[Douglas Manson]]
 [[Douglas Barbour]]

@@ -114,7 +114,7 @@ Advisory editors
 [[Jeneen Naji]]
 [[Odile Farge]]
 [[Mark Leahy]]
-[[Chloe A. Milligan]]
+[[Chloe Anna Milligan]]
 [[Siobhan O'Flynn]] 
 
 ### 21 - Fall 2019 - Scholarship in Internet Vernacular - [[Anne Cong-Huyen]], [[Kim A. Brillante Knight]], [[Mark C. Marino]]

@@ -13,7 +13,7 @@
 | [[Carmen Amengual]]                                                |
 | [[Soyoung Yoon]]                                                   |
 | [[Dingxin Zhao]]                                                   |
-| [[Henry Giroux]]                                                   |
+| [[Henry A. Giroux]]                                                   |
 | [[Valeria Graziano]]                                               |
 | [[Marcell Mars]]                                                   |
 | [[Tomislav Medak]]                                                 |

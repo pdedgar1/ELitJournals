@@ -14,7 +14,7 @@ An International digital Poetry Festival
 | [[Gavin Stewart]]                                                         |
 | [[Janis Jefferies]]                                                       |
 | [[Jean-Pierre Balpe]]                                                     |
-| [[Jerome Fletcher]]                                                       |
+| [[Jérôme Fletcher]]                                                       |
 | [[Jim Rosenberg]]                                                         |
 | [[Jörg Piringer]]                                                         |
 | [[Jörg Piringer]]                                                         |
@@ -24,8 +24,8 @@ An International digital Poetry Festival
 | [[John Drever]] & [[Lawrence Upton]]                                      |
 | [[John Sparrow]]                                                          |
 | [[Judd Morrissey]]& [[Lori Talley]]                                       |
-| [[Justin Katko]]                                                          |
-| [[Justin Katko]] & [[Lawrence Upton]]                                     |
+| [[Justin Katko aka jUStin!katKO]]                                                          |
+| [[Justin Katko aka jUStin!katKO]] & [[Lawrence Upton]]                                     |
 | [[Kate Pullinger]]                                                        |
 | [[Keston Sutherland]]                                                     |
 | [[Kirsten Lavers]]                                                        |

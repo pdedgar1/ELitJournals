@@ -143,7 +143,7 @@
 | [[Roopika Risam]]               |
 | [[Sara Rodríguez]]             |
 | [[Lucía Egaña Rojas]]           |
-| [[Bonnie Ruberg]]               |
+| [[Bonnie 'Bo' Ruberg]]               |
 | [[Roxanne Samer]]               |
 | [[Selena Savić]]                |
 | [[Kim Sawchuck]]                |

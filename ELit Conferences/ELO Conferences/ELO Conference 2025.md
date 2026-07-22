@@ -37,7 +37,7 @@
 | [[Carly Schnitzler]]              |
 | [[Carmelia Daniel Dos Santos]]    |
 | [[Ceri Houlbrook]]                |
-| [[Chloe A. Milligan]]              |
+| [[Chloe Anna Milligan]]              |
 | [[Chloé Mauvais]]                 |
 | [[Chris Arnold]]                  |
 | [[Christina Dovolis]]             |
@@ -53,7 +53,7 @@
 | [[David M. Berry]]                   |
 | [[David Ciccoricco]]              |
 | [[David Devanny]]                 |
-| [[David Meurer]]                  |
+| [[David M. Meurer]]                  |
 | [[David R. Lincoln]]              |
 | [[Davin Heckman]]                 |
 | [[Denise+Deena Larsen]]                  |
@@ -70,7 +70,7 @@
 | [[Ewan Branda]]                   |
 | [[Faculty]]                       |
 | [[Giulia Ferretti]]               |
-| [[Glenn Ritchey III]]             |
+| [[Glenn S. Ritchey III]]             |
 | [[Griffen Horsley]]               |
 | [[Halim Madi]]                    |
 | [[Haocheng Liu]]                  |

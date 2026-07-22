@@ -5,7 +5,7 @@
 [[Leonardo Aranda Brito]]
 [[Andrew Campana]]
 [[Angela Chang]]
-[[Vinicius Marquet]]
+[[Augusto Vinicius Marquet]]
 [[Samya Brata Roy]]
 [[Christine Chong]]
 [[Omayeli Arenyeka]]

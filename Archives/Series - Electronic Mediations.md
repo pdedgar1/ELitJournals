@@ -5,7 +5,7 @@ Unviersity Minnesota Press
 | ------------------------------------------------------------------------------------------------------ |
 | [[Aaron Jaffe]], [[Michael F Miller]], [[Silvia Wagnermaier]] and [[Siegfried Zielinski]]              |
 | [[Byron Hawk]], [[David M. Rieder]] and [[Ollie Oviedo]]                                               |
-| [[Darin Barney]], [[Gabriella Coleman]], [[Christine Ross]], [[Jonathan Sterne]] and [[Tamar Tembeck]] |
+| [[Darin Barney]], [[E. Gabriella Coleman]], [[Christine Ross]], [[Jonathan Sterne]] and [[Tamar Tembeck]] |
 | [[Grant Wythoff]]                                                                                      |
 | [[Jussi Parikka]]                                                                                      |
 | [[N. Katherine Hayles]] and [[Jessica Pressman]]                                                       |
@@ -13,10 +13,10 @@ Unviersity Minnesota Press
 
 | Authors                                                     |
 | ----------------------------------------------------------- |
-| [[Aden Evens]] and [[Alexander R Galloway]]                 |
+| [[Aden Evens]] and [[Alexander R. Galloway]]                 |
 | [[Alenda Y Chang]]                                          |
-| [[Alexander R Galloway]]                                    |
-| [[Alexander R Galloway]] and [[Eugene Thacker]]             |
+| [[Alexander R. Galloway]]                                    |
+| [[Alexander R. Galloway]] and [[Eugene Thacker]]             |
 | [[Anke Finger]], [[Rainer Guldin]] and [[Gustavo Bernardo]] |
 | [[Ann Weinstone]]                                           |
 | [[Astrid Deuber-Mankowsky]]                                 |
@@ -60,7 +60,7 @@ Unviersity Minnesota Press
 | [[Peter Krapp]]                                             |
 | [[Philip Armstrong]]                                        |
 | [[Pierre Levy]]                                             |
-| Preface by [[Friedrich A Kittler]]                          |
+| Preface by [[Friedrich A. Kittler]]                          |
 | [[Rita Raley]]                                              |
 | [[RL Rutsky]]                                               |
 | [[Roberto Simanowski]]                                      |

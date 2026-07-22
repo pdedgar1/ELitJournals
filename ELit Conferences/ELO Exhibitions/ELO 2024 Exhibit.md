@@ -6,7 +6,7 @@
 [[Alan Bigelow]][[Alan Bigelow]][[Alan Bigelow]]
 [[Alan Perry]]
 [[Alexandra L. Martin]]
-[[Alys Longley]], [[Kate Stevenson]], [[Jeffrey Holdaway]]
+[[Alys M. Longley]], [[Kate Stevenson]], [[Jeffrey Holdaway]]
 [[Andamio]]
 [[Andréa Catrópa]]
 [[Angela Chang]] 

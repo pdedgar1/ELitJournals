@@ -34,7 +34,7 @@ Chacabuco 875 – CABA
 
 10.00-11.15. Presentaciones E-Poetry #WOMENTECHLIT
 
-[[María Mencía]] (Chair), [[Laura Shackelford]], [[Angélica Huizar]]
+[[María Mencía]] (Chair), [[Laura Shackelford]], [[Angélica J. Huizar]]
 
 [[Giovanna di Rosario]], [[Claudia Kozak]], [[Odile Farge]]
 
@@ -64,7 +64,7 @@ Chacabuco 875 – CABA
 
 **Viamonte 525 (esquina San Martín) piso 2**
 
-10.00-11.00. Presentaciones E-Poetry [[Claudia Kozak]], [[María Mencía]], [[Angélica Huizar]]
+10.00-11.00. Presentaciones E-Poetry [[Claudia Kozak]], [[María Mencía]], [[Angélica J. Huizar]]
 
 11:00-11:15. Performance E-Poetry [[Marcos Wasem]]
 

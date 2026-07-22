@@ -84,7 +84,7 @@ ed by [[Cary Wolfe]]
 | [[Susan McHugh]]                                              |
 | [[Ted Toadvine]]                                              |
 | [[Thierry Bardini]]                                           |
-| [[Timothy C Campbell]]                                        |
+| [[Timothy C. Campbell]]                                        |
 | [[Timothy Morton]]                                            |
 | [[Tom Tyler]]                                                 |
 | Translated by [[Alyosha Ruyer]]                               |
@@ -104,7 +104,7 @@ ed by [[Cary Wolfe]]
 | Translated by [[Taylor Adkins]]                               |
 | Translated by [[Taylor Adkins]]                               |
 | Translated by [[Thomas Lamarre]]                              |
-| Translated by [[Timothy Campbell]]                            |
+| Translated by [[Timothy C. Campbell]]                            |
 | Translated by [[Valentine A Pakis]]                           |
 | Translated by [[Will Bishop]]                                 |
 | [[Vilém Flusser]] and [[Louis Bec]]                           |

@@ -31,7 +31,7 @@ POLAND?
 [[Karol Lefer]]
 [[LeHu]]
 [[dr Muto]]
-[[Joanny Roszak]]
+[[Joanna Roszak]]
 
 
 ## 2

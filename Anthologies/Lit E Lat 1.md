@@ -8,7 +8,7 @@
 | [[Augusto de Campos]]                        |
 | B.                                           |
 | [[Belén Gache]]                              |
-| [[Benjamín Moreno]]                          |
+| [[Raul Benjamín Moreno]]                          |
 | C.                                           |
 | [[Camilo Giraldo Ángel]]                     |
 | [[Carlos Cociña]]                            |
@@ -67,7 +67,7 @@
 | T.                                           |
 | U.                                           |
 | V.                                           |
-| [[Vinicius Marquet]]                         |
+| [[Augusto Vinicius Marquet]]                         |
 | W.                                           |
 | [[Wilton Azevedo]]                           |
 | Z.                                           |

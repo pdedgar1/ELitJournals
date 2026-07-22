@@ -278,7 +278,7 @@
 | [[Francesca Philips]]               |
 | [[Gabrielle Morrissey]]             |
 | [[Gareth R. Schott]]                |
-| [[Gareth Schott]]                   |
+| [[Gareth R. Schott]]                   |
 | [[Geoffrey Nowell-Smith]]           |
 | [[Georges Teyssot]]                 |
 | [[Gillian Doyle]]                   |
@@ -301,7 +301,7 @@
 | [[Jamieson Schulte]]                |
 | [[Janey Gordon]]                    |
 | [[Jason A. Wilson]]                 |
-| [[Jason Wilson]]                    |
+| [[Jason A. Wilson]]                    |
 | [[Jay David Bolter]]                |
 | [[Jeanette Steemers]]               |
 | [[Jeffrey Smith]]                   |

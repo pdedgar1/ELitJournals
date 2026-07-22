@@ -20,7 +20,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Ahenk Yılmaz]]                     |
 | [[Ahmad Al Shami]]                   |
 | [[Aidan McGarry]]                    |
-| [[Aksel Tjora]]                      |
+| [[Aksel H. Tjora]]                      |
 | [[Alan Hook]]                        |
 | [[Alberto Romele]]                   |
 | [[Albi Nani]]                        |
@@ -70,7 +70,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Andreas Lieberoth]]                |
 | [[Andrew J Wilson]]                  |
 | [[Andrew Kirton]]                    |
-| [[Andrew Schrock]]                   |
+| [[Andrew R. Schrock]]                   |
 | [[Andrew Skuse]]                     |
 | [[Andrew West]]                      |
 | [[Aneta Podkalicka]]                 |
@@ -182,7 +182,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Catarina Navio]]                   |
 | [[Catherine Johnson]]                |
 | [[Catherine Talbot]]                 |
-| [[Cathrin Bengesser]]                |
+| [[Cathrin Helen Bengesser]]                |
 | [[Cathrin Helen Bengesser]]          |
 | [[Cecilia Chen]]                     |
 | [[Celina Strzelecka]]                |
@@ -320,7 +320,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Elina Koskinen]]                   |
 | [[Eliot Bates]]                      |
 | [[Elisa Serafinelli]]                |
-| [[Elizabeth A Rodwell]]              |
+| [[Elizabeth A. Rodwell]]              |
 | [[Elizabeth Anne Watkins]]           |
 | [[Elizabeth Fetterolf]]              |
 | [[Elizabeth Joan Kelly]]             |
@@ -402,7 +402,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Grace Xia]]                        |
 | [[Graham Hitchen]]                   |
 | [[Guillermo Echauri]]                |
-| [[Gunn Enli]]                        |
+| [[Gunn Sara Enli]]                        |
 | [[Guy Starkey]]                      |
 | [[Gwen Le Cor]]                      |
 | [[Håkan Johansson]]                  |
@@ -420,9 +420,9 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Heather A. Horst]]                 |
 |                                      |
 | [[Heidi Schulze]]                    |
-| [[Helen Kennedy]]                    |
+| [[Helen W. Kennedy]]                    |
 | [[Helen Thornham]]                   |
-| [[Helen W Kennedy]]                  |
+| [[Helen W. Kennedy]]                  |
 | [[Helen W. Kennedy]]                 |
 | [[Helena Atteneder]]                 |
 | [[Helton Levy]]                      |

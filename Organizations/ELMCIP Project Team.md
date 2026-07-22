@@ -36,7 +36,7 @@ The University of Ljubljana (SI)
 [[Raine Koskimaa]] [Principal Investigator]  
   
 ## University College Falmouth at Dartington (UK)
-[[Jerome Fletcher]] [Principal Investigator]  
+[[Jérôme Fletcher]] [Principal Investigator]  
 ## New Media Scotland (UK)
 [[Mark Daniels]] [Executive Director]  
 

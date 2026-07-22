@@ -1,7 +1,7 @@
 #anthology 
 # Curator  [[Brenda Grell]]
 [[Abrie]]
-[[Dianne Achong]] & [[Faith Moosang]]
+[[Deanne Achong]] & [[Faith Moosang]]
 [[Damon Loren Baker]] and [[Jeremy Hight]]
 [[Alan Bigelow]]
 [[Philippe Bootz]]

@@ -103,7 +103,7 @@ Global Coordinator [[Caitlin Fisher]]
 | [[Søren Bro Pold]]                    |
 | [[Stuart Moulthrop]]              |
 | [[Susan Cronin]]                  |
-| [[Vinicius Marquet]]              |
+| [[Augusto Vinicius Marquet]]              |
 | [[Winnie Soon]]                   |
 | [[Zach Whalen]]                   |
 

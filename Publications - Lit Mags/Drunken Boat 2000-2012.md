@@ -192,7 +192,7 @@
 [[Hoag Holmgren]]
 [[Eddy Seesing]]
 [[Daniel Simmons]]
-[[David Ambrose]]
+[[David Bernard Ambrose]]
 [[Nick Fox-Gieg]]
 [[Lila Yomtoob]]
 [[Mark O'Connell]]
@@ -460,7 +460,7 @@
 | FINALISTS                        |
 | [[Rosemary Bodolay]]             |
 | [[Joy Garnett]]                  |
-| [[Keith Tuma]]/ [[jUStin!katKO]] |
+| [[Keith Tuma]]/ [[Justin Katko aka jUStin!katKO]] |
 | [[Justyna Latek]]                |
 | [[Dene Grigar]]                  |
 | [[Steve Gibson]]                 |
@@ -1247,7 +1247,7 @@
 
 #### The Bernadette Mayer Folio
 [[Bernadette Mayer]]
-[[Steven Alvarez]]
+[[Steven Paul Alvarez]]
 [[Micah Ballard]]
 [[BRASH]] & [[Jim Manning]] & [[Patrick Leonard]]
 [[Lee Ann Brown]]

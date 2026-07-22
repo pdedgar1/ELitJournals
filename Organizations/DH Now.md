@@ -86,7 +86,7 @@ Advisory Board
 | [[Allan Johnson]]                   |
 | [[Allison Millward]]                |
 | [[Adriana Palmer]]                  |
-| [[Alyssa Fahringer]]                |
+| [[Alyssa Toby Fahringer]]                |
 | [[Alyssa Reil]]                     |
 | [[Amanda Asmus]]                    |
 | [[Amanda Fencl]]                    |
@@ -120,7 +120,7 @@ Advisory Board
 | [[Anna Kijas]]                      |
 | [[Anne Klammt]]                     |
 | [[Anne Ladyem McDivitt]]            |
-| [[Anne McGrail]]                    |
+| [[Anne B. McGrail]]                    |
 | [[Anne Shelley]]                    |
 | [[Annemarie Perez]]                 |
 | [[Annet Turner]]                    |
@@ -146,7 +146,7 @@ Advisory Board
 | [[Bethany Qualls]]                  |
 | [[Bissan Rafe Duz]]                 |
 | [[Blyth McManus]]                   |
-| [[Bobby Smiley]]                    |
+| [[Bobby L. Smiley]]                    |
 | [[Brandon Walsh]]                   |
 | [[Brian Croxall]]                   |
 | [[Brian Hamilton]]                  |

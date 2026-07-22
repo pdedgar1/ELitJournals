@@ -227,7 +227,7 @@
 | [[Kyle Booten]]                                                                                         |
 | [[Dan Rockmore]]                                                                                        |
 | [[Elizabeth Losh]]                                                                                      |
-| [[Ana Albuquerque e Aguilar]]                                                                             |
+| [[Ana Sofia Albuquerque e Aguilar]]                                                                             |
 | [[Guadalupe Echegoyen]]                                                                                 |
 | [[Vasiliki Karanika]]                                                                                   |
 | [[Ann Steiner]]                                                                                         |
@@ -236,7 +236,7 @@
 | [[Shawn Day ]]                                                                                          |
 | [[Megan Wilson]]                                                                                        |
 | [[Andrew Wenaus]]                                                                                       |
-| [[David Meurer]]                                                                                        |
+| [[David M. Meurer]]                                                                                        |
 | [[Erika Fülöp]]                                                                                         |
 | [[Anastasia Salter]]                                                                                    |
 | [[Laura Santini]]                                                                                       |
@@ -316,7 +316,7 @@
 | [[Leonardo Flores]]                                                                                     |
 | [[Scott Rettberg]]                                                                                      |
 | [[Talan Memmott]]                                                                                       |
-| [[Vinicius Marquet]]                                                                                    |
+| [[Augusto Vinicius Marquet]]                                                                                    |
 | [[David Alonzo]]                                                                                        |
 | [[Caitlin Fisher ]]                                                                                     |
 | [[Damon Loren Baker]]                                                                                   |

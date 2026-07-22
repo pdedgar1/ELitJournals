@@ -132,7 +132,7 @@ Liberdade
 
 Labyrinth…
 
-[[Jakub Jagiełło]] and [[Laura Lech]] (Independent, Poland) "This Is Not a Utopia"—Collection of Russian Electronic Literature
+[[Jakub Bogusław Jagiełło]] and [[Laura Lech]] (Independent, Poland) "This Is Not a Utopia"—Collection of Russian Electronic Literature
 
 Curators: [[Natalia Fedorova]] (Saint Petersburg State University, Russia)
 

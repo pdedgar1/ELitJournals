@@ -17,7 +17,7 @@
 | Associate Editors:]]                                                        |
 | [[Atif Akin]]                                                               |
 | [[Dwaipayan Banerjee]]                                                      |
-| [[Alan Blackwell]]                                                          |
+| [[Alan F. Blackwell]]                                                          |
 | [[Emily M. Bender]]                                                         |
 | [[Katherine Bode]]                                                          |
 | [[Meredith Broussard]]                                                      |
@@ -70,6 +70,6 @@
 | [[Mark Sammons]]                                                            |
 | [[Martha Nell Smith]]                                                       |
 | [[Sophia Stamatopoulo-Robbins]]                                             |
-| [[Dennis Tenen]]                                                            |
+| [[Dennis Yi Tenen]]                                                            |
 | [[Themistoklis Tzimas]]                                                     |
 | [[Annette Vee]]                                                             |

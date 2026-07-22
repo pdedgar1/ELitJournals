@@ -58,7 +58,7 @@ https://the-next.eliterature.org/collections/15&pg=1&display=100&sort=date
 [[Lehan Ramsay]]
 [[Pauline Masurel aka Mazzy]]
 [[Loki93c]]
-[[Victor Vitanza]]
+[[Victor J. Vitanza]]
 [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Mez Breeze]]
 [[M. D. Coverley aka Marjorie C. Luesebrink]]

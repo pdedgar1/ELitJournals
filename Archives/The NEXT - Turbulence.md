@@ -15,7 +15,7 @@ https://the-next.eliterature.org/collections/17
 ## 2014
 [[Steve Klis]]
 [[Anna Pinkas]]
-[[Andrew Lyman]]
+[[Andrew T. Lyman]]
 [[Ben Dean]]
 [[Dane Watkins]]
 [[Jason Freeman]]
@@ -158,7 +158,7 @@ https://the-next.eliterature.org/collections/17
 [[Brooke Singer]]
 [[Carmin Karasic]]
 [[Dan Phiffer]]
-[[Douglas Repetto]]
+[[Douglas Irving Repetto]]
 [[John Roach]]
 [[Martin Wattenberg]]
 [[Roberto Osorio-Goenaga]]

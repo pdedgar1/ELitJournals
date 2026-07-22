@@ -17,7 +17,7 @@ https://thelaob.com/about.html
 | [[Allison Parrish]]      |
 | [[Caroline Bergvall]]    |
 | [[Clement Valla]]        |
-| [[Daniel Howe]]          |
+| [[Daniel C. Howe]]          |
 | [[Eugenio Tisselli]]     |
 | [[Ian Hatcher]]          |
 | [[John Cayley]]          |

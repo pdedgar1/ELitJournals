@@ -17,7 +17,7 @@
 |[[John Durham Peters]], [[Florian Sprenger]] and [[Christina Vagt]]|
 |[[Joshua Neves]], [[Aleena Chia]], [[Susanna Paasonen]] and [[Ravi Sundaram]]|
 |[[Leonardo Impett]] and [[Fabian Offert]]|
-|[[M  Beatrice Fazi]], [[Alexander R  Galloway]], [[Matthew Handelman]] and [[Leif Weatherby]]|
+|[[M  Beatrice Fazi]], [[Alexander R. Galloway]], [[Matthew Handelman]] and [[Leif Weatherby]]|
 |[[Paula Bialski]], [[Finn Brunton]] and [[Mercedes Bunz]]|
 |[[Ranjodh Singh Dhaliwal]], [[Théo LePage Richer]] and [[Lucy Suchman]]|
 |[[Rutvica Andrijasevic]], [[Melissa Gregg]], [[Marc Steinberg]] and [[Julie Yujie Chen]]|

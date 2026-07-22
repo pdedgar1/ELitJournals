@@ -9,7 +9,7 @@
 | [[Alan Sondheim]]                                             |
 | [[Allison Parrish]]                                           |
 | [[Amira Hanafi]]                                              |
-| [[Ana Albuquerque e Aguilar]]                                 |
+| [[Ana Sofia Albuquerque e Aguilar]]                                 |
 | [[Ana Maria Silva Machado]]                                         |
 | [[Andrew Haik Demirjian]]                                          |
 | [[Andrew Ferguson]]                                           |
@@ -73,7 +73,7 @@
 [[Søren Bro Pold]][[Anna Nacher]][[Scott Rettberg]]
 [[Annie Abrahams]], [[Denise+Deena Larsen]] [[Roderick Coover]], [[Anna Nacher]], [[Eugenio Tisselli]], [[Kirill Azernyi]] [[Renee Carmichael]], [[Johanna Rodgers]]
 [[Caleb Andrew Milligan]], [[Sarah Whitcomb Laiola]], [[Erin Kathleen Bahl]], [[Élika Ortega]]
-[[María Goicoechea de Jorge]] [[Ana Albuquerque e Aguilar]] [[Mark C. Marino]], [[Laura Sánchez Gómez]]
+[[María Goicoechea de Jorge]] [[Ana Sofia Albuquerque e Aguilar]] [[Mark C. Marino]], [[Laura Sánchez Gómez]]
 [[Patrick Jagoda]], [[Heidi Coleman]], [[Marc Downie]], [[Ashlyn Sparrow]], [[Kristen Schilt]]
 [[Astrid Ensslin]], [[R. Lyle Skains]], [[Christine Wilks]], [[Franci Greyling]], [[Gustaf Tempelhoff]]
 [[Sarah Ciston]], [[Katy Ilonka Gero]], [[Annette Vee]], [[Kyle Booten]], [[Brian Kim Stefans]]

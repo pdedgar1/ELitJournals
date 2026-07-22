@@ -1,4 +1,4 @@
-[[Lyle Skains]]
+[[R. Lyle Skains]]
 [[Trent Hergenrader]]
 [[Astrid Ensslin]]
 [[Scott Rettberg]]

@@ -150,7 +150,7 @@
 [[Tiare Ribeaux]]
 # 10 - 2019
 [[Astra Taylor]]
-[[Matt Goerzen]], [[Gabriella Coleman]]
+[[Matt Goerzen]], [[E. Gabriella Coleman]]
 [[Veena Dubal]]
 [[Emma Weil]]
 [[Joyce S. Lee]]

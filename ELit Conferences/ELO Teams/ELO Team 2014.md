@@ -13,7 +13,7 @@ Jurors
 [[Jim Brown]]
 [[Odile Farge]]
 [[Caitlin Fisher]]
-[[Jerome Fletcher]]
+[[Jérôme Fletcher]]
 [[Leonardo Flores]]
 [[Jacob Garbe]]
 [[Susan Garfinkel]]

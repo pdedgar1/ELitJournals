@@ -419,7 +419,7 @@
 | [[Alice Atsuko Matsuda]]          |     |
 | [[Talan Memmott]]                 |     |
 | [[María Mencía]]                  |     |
-| [[David Meurer]]                  |     |
+| [[David M. Meurer]]                  |     |
 | [[Alex Mitchell]]                 |     |
 | [[Servanne Monjour]]              |     |
 | [[Nick Montfort]]                 |     |

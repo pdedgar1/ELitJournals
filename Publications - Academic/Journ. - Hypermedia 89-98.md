@@ -149,7 +149,7 @@
 - [[P. Wright]]
 - [[D. Black]]
 - [[K. Norman]]
-- [[David Dowling]]
+- [[David O Dowling]]
 - [[G.A. Hutchings]]
 - [[L.A. Carr]]
 - [[W. Hall]]

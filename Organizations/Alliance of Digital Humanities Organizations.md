@@ -38,7 +38,7 @@ Committee Chairs
 
 Journal Editors
 [[Julia Flanders]]
-[[Daniel O'Donnell]]
+[[Daniel Paul O'Donnell]]
 [[Edward Vanhoutte]]
 [[Aurélien Berra]]
 

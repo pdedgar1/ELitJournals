@@ -43,7 +43,7 @@
 [[Jen Schneider]]
 [[Chrystal Taylor]]
 ### Voidspace 12
-[[Dawn Sueoka]]
+[[Dawn Akemi Sueoka]]
 [[Tristan B Willis]]
 [[Rudy Johnson]]
 [[SuperBiasedGary]]

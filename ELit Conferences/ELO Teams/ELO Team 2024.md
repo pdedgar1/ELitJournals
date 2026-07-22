@@ -52,7 +52,7 @@
 [[Mez Breeze]], Independent Artist
 [[Dan Cox]], University of Central Florida
 [[John T. Murray]], University of Central Florida
-[[Chloe A. Milligan]], Pennsylvania State University, Berks College
+[[Chloe Anna Milligan]], Pennsylvania State University, Berks College
 [[Nikki Barnes]], University of Central Florida
 [[Jocelyn Ibarra]], The Time Travel Agency
 [[Rui Torres]], University Fernando Pessoa

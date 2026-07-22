@@ -118,7 +118,7 @@
 | [[Rahul Bhargava]]                               |
 | [[Sayan Bhattacharyya]]                          |
 | [[Eugenio Biagini]]                              |
-| [[Jamie "Skye" Bianco]]                          |
+| [[Jasmine "Skye" Bianco]]                          |
 | [[Mehrdad Qayyoomi Bidhendi]]                    |
 | [[Bernadette Biedermann]]                        |
 | [[Antonis Bikakis]]                              |
@@ -360,7 +360,7 @@
 | [[Melanie Dickinson]]                            |
 | [[Anya Dietrich]]                                |
 | [[Catherine D'Ignazio]]                          |
-| [[James Dobson]]                                 |
+| [[James E. Dobson]]                                 |
 | [[Teresa M. Dobson]]                             |
 | [[Janey Dodd]]                                   |
 | [[Peter Sheridan Dodds]]                         |
@@ -372,7 +372,7 @@
 | [[Michelle Doran]]                               |
 | [[Marian Dörk]]                                  |
 | [[Jeremy Douglass]]                              |
-| [[David Dowling]]                                |
+| [[David O Dowling]]                                |
 | [[Nicole Dresselhaus]]                           |
 | [[Johanna Drucker]]                              |
 | [[Keli Du]]                                      |
@@ -388,7 +388,7 @@
 | [[Quinn DuPont]]                                 |
 | [[Jina DuVernay]]                                |
 | [[Eric Dye]]                                     |
-| [[Amy Earhart]]                                  |
+| [[Amy E. Earhart]]                                  |
 | [[Scott East]]                                   |
 | [[Morris Eaves]]                                 |
 | [[Mary Ebbott]]                                  |
@@ -653,7 +653,7 @@
 | [[Marcelo Hong]]                                 |
 | [[Tuuli Hongisto]]                               |
 | [[Maarten Hoogerwerf]]                           |
-| [[David Hoover]]                                 |
+| [[David L. Hoover]]                                 |
 | [[Diana Hope Polley]]                            |
 | [[Matthew S. Hopper]]                            |
 | [[Jan Horstmann]]                                |
@@ -721,7 +721,7 @@
 | [[Huw Jones]]                                    |
 | [[Madison Percy Jones]]                          |
 | [[Steven Jones]]                                 |
-| [[Annette Joseph-Gabriel]]                       |
+| [[Annette K. Joseph-Gabriel]]                       |
 | [[Michael J. Junokas]]                           |
 | [[Eric Kaltman]]                                 |
 | [[Joel Kalvesmaki]]                              |
@@ -1203,7 +1203,7 @@
 | [[Paul Rodriguez]]                               |
 | [[Rolando Rodriguez]]                            |
 | [[Omar Rodriguez-Arenas]]                        |
-| [[Elizabeth Rodwell]]                            |
+| [[Elizabeth A. Rodwell]]                            |
 | [[Glenn Roe]]                                    |
 | [[Katina Rogers]]                                |
 | [[David S. Roh]]                                 |
