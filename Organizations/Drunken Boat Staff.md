@@ -69,7 +69,7 @@
 [[Mags Webster]] — Editorial Assistant (18)
 [[Marco Maisto]] — Contributing Editor (16, 17, 18); Poetry Comix & Animation Folio Editor (20)
 [[Marie-Elizabeth Mali]] — Contributing Editor, Ocean folio (18)
-[[María José Gimenez]] — Production Team / Translation Reader (19, 20, 21); Assistant Translation Editor (21, 22)
+[[María José Giménez]] — Production Team / Translation Reader (19, 20, 21); Assistant Translation Editor (21, 22)
 [[Mary-Kim Arnold]] — Director of Community Outreach (18)
 [[Matthew Hamilton]] — Poetry Reader (20, 21, 22, 23)
 [[Michael Chaney]] — Poetry Comix & Animation Folio Editor (20)

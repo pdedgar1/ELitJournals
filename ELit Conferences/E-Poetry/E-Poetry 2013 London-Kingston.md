@@ -8,7 +8,7 @@ An International digital Poetry Festival
 | [[Laura Shackelford]]      |
 | [[Giovanna di Rosario]]    |
 | [[ ]]                      |
-| [[benjamin moreno]]        |
+| [[benjamín moreno]]        |
 | [[Nick Montfort]]          |
 | [[Jeneen Naji]]            |
 | [[ ]]                      |
@@ -72,7 +72,7 @@ An International digital Poetry Festival
 | [[Jason Nelson]]           |
 | [[Katharine Norman]]       |
 | [[Ottar Ormstad]]          |
-| [[Lubomír Panák]]          |
+| [[Ľubomír Panák]]          |
 | [[Taras Mashtalir]]        |
 | [[Thea Pitman]]            |
 | [[Kate Pullinger]]         |

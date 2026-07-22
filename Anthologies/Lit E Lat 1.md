@@ -16,7 +16,7 @@
 | [[Clemente Padín]]                           |
 | D.                                           |
 | [[David Medina]]                             |
-| [[Decio Pignatari]]                          |
+| [[Décio Pignatari]]                          |
 | [[Diego Bonilla]]                            |
 | [[Doménico Chiappe]]                         |
 | [[Eduardo Darino]]                           |

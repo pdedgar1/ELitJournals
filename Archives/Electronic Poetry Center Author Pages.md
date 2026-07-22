@@ -22,7 +22,7 @@
 | [[Nicole Brossard]]         |
 | [[Lee Ann Brown]]           |
 | [[Basil Bunting]]           |
-| [[William Burroughs]]       |
+| [[William S. Burroughs]]       |
 | [[John Cage]]               |
 | [[cris cheek]]              |
 | [[Maxine Chernoff]]         |
@@ -38,7 +38,7 @@
 | [[Johanna Drucker]]         |
 | [[Robert Duncan]]           |
 | [[Rachel Blau DuPlessis]]   |
-| [[Patrick Durgin]]          |
+| [[Patrick F. Durgin]]          |
 | [[Larry Eigner]]            |
 | [[Clayton Eshleman]]        |
 | [[Raymond Federman]]        |

@@ -269,7 +269,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Kate Jacques]]                |
 | [[Katherine Harrison]]          |
 | [[Kati Fargo Ahern]]            |
-| [[Keith M Johnston]]            |
+| [[Keith M. Johnston]]            |
 | [[Keith M. Johnston]]           |
 | [[Keith Massie]]                |
 | [[Kelly Bergstrom]]             |

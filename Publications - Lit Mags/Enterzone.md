@@ -26,7 +26,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Martha Conway]]      |
 | [[Nick Meriwether]]    |
 | [[Obsidian Wind]]      |
-| [[Peter Crumlish]]     |
+| [[Peter Gannon Crumlish]]     |
 | [[Steve Seebol]]       |
 | [[Tabitha Rasa]]       |
 | [[Ted Nadeau]]         |
@@ -123,7 +123,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 |                             |
 | [[Martha Conway]]           |
 |                             |
-| [[Meg Stein]]               |
+| [[Meg Wise-Lawrence Stein]]               |
 |                             |
 | [[Mitch Goldman]]           |
 |                             |
@@ -166,7 +166,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Malcolm Humes]]           |
 | [[]]                        |
 | [[Mark Napier]]             |
-| [[Meg Stein]]               |
+| [[Meg Wise-Lawrence Stein]]               |
 | [[]]                        |
 | [[Melanie Lewis]]           |
 | [[]]                        |
@@ -431,7 +431,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Martha Conway]]             |
 | [[Arthur E Crumlish]]         |
 | [[Christian Crumlish]]        |
-| [[Peter Crumlish]]            |
+| [[Peter Gannon Crumlish]]            |
 | [[Cort Day]]                  |
 | [[Andrew Dugas]]              |
 | [[Steve Emerson]]             |
@@ -492,7 +492,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Alison Seevak]]             |
 | [[Steve Silberman]]           |
 | [[Art Simon]]                 |
-| [[John F. Simon, Jr.]]        |
+| [[John F. Simon Jr.]]        |
 | [[GATEFOLD SLEEVE]]           |
 | [[Ro y Sniffen]]              |
 | [[Lisa Solod]]                |

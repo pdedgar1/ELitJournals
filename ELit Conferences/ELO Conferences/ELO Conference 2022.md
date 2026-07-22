@@ -643,7 +643,7 @@ AIrchive and UXPoetry
 
 Chair: [[Oreto Doménech]]
 
-[[Margarita Molina Fernandez]]
+[[Margarita Molina Fernández]]
 
 Describing, classifying, and analyzing
 
@@ -887,7 +887,7 @@ Chronology as a Portal to Interactive Space
 
 -
 
-[[Cristina Loi]], [[Astrid Ensslin]], [[Moniek Kuijpers]] and [[Gerhard Lauer]]
+[[Cristina Loi]], [[Astrid Ensslin]], [[Moniek M. Kuijpers]] and [[Gerhard Lauer]]
 
 Motivations for reading, genre preferences
 

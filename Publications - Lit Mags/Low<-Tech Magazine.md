@@ -153,7 +153,7 @@
 [[Angela Lluch]]
 [[Claudia Siesquén Deza]]
 [[Colectivo Disonancia]]
-[[Jose Vera]]
+[[José Vera]]
 [[María Lapeña]]
 [[Nacho Postigo]]
 [[Nekane López Azurmendi]]

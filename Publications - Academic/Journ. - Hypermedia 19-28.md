@@ -95,7 +95,7 @@
 - [[Isaac Alpizar-Chacon]]
 - [[Sergey Sosnovsky]]
 - [[Claus Atzenbeck]]
-- [[Peter Nürnberg]]
+- [[Peter J. Nürnberg]]
 - [[Daniel Roßner]]
 
 ### Vol 27, Iss 3
@@ -190,7 +190,7 @@
 - [[Tegan Pyke]]
 - [[Florence Smith Nicholls]]
 - [[Fabienne Silberstein-Bamford]]
-- [[Gustavo Gomez-Mejia]]
+- [[Gustavo Gómez-Mejía]]
 
 ### Vol 30, Iss 3-4
 - [[Bunty Avieson]]

@@ -31,7 +31,7 @@ Proceedings introduction
 | [[Chelsea Russell]]                                                             |
 | [[R. Lyle Skains]]                                                              |
 | [[Milton Läufer]]                                                               |
-| [[Mario Guzman]]                                                                |
+| [[Mario Guzmán]]                                                                |
 | [[Leonardo Solaas]]                                                             |
 | [[Alejandro Brianza]]                                                           |
 | [[Rolando Rodriguez]]                                                           |

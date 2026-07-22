@@ -216,7 +216,7 @@ Advisory Board
 | [[Dana Milstein]]                   |
 | [[Danae Tapia]]                     |
 | [[Daniah Almalaki]]                 |
-| [[Daniel Chavez Heras]]             |
+| [[Daniel Chávez Heras]]             |
 | [[Daniel Griffin]]                  |
 | [[Daniel Lynds]]                    |
 | [[Daniel Petry]]                    |
@@ -471,7 +471,7 @@ Advisory Board
 | [[Maryam Nobakht]]                  |
 | [[Matt Bernico]]                    |
 | [[Matthew Heston]]                  |
-| [[Matthew Hannah]]                  |
+| [[Matthew N. Hannah]]                  |
 | [[Matthew Lavin]]                   |
 | [[Matthew Lincoln]]                 |
 | [[Matthew Williamson]]              |
@@ -499,7 +499,7 @@ Advisory Board
 | [[Min Jiang]]                       |
 | [[Miranda Nesler]]                  |
 | [[Mo Moulton]]                      |
-| [[Molly Hardy]]                     |
+| [[Molly O'Hagan Hardy]]                     |
 | [[Monica Meadows]]                  |
 | [[Monica Mercado]]                  |
 | [[Monica Molina]]                   |

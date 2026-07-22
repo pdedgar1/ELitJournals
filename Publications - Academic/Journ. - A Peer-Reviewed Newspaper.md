@@ -22,9 +22,9 @@ Edited by [[Bucles]], [[Bad Bitch Link Up]], CSNI, DARC, GOVERNANCE, Logistical 
 
 Design:  [[Gijs de Heij]]
 ## 9.1
-Edited by [[Christian Ulrik Andersen]], [[Clemens Apprich]], [[Sudipto Basu]], [[Wenhao Bi]], [[Nicola Bozzi]], [[Geoff Cox]], [[Maria Dada]], [[Iuliia Glushneva]], [[Naja Grundtmann]], [[Rebecca Holt]], [[Ozgun Eylul Iscen]], [[Linda Kronman]], [[Wing Ki Lee]], [[Joshua Neves]], [[Rodrigo Ochigame]], [[Juan Pablo Pacheco Bejarano]], [[Søren Bro Pold]], [[Cristina T. Ribas]], [[Maximilian Schlüter]], [[Tatjana Seitz]], [[Winnie Soon]], [[Magda Tyżlik-Carver]], [[Giseli Vasconcelos]], [[Tatiana Wells]].
+Edited by [[Christian Ulrik Andersen]], [[Clemens Apprich]], [[Sudipto Basu]], [[Wenhao Bi]], [[Nicola Bozzi]], [[Geoff Cox]], [[Maria Dada]], [[Iuliia Glushneva]], [[Naja Grundtmann]], [[Rebecca Holt]], [[Özgün Eylül İşcen]], [[Linda Kronman]], [[Wing Ki Lee]], [[Joshua Neves]], [[Rodrigo Ochigame]], [[Juan Pablo Pacheco Bejarano]], [[Søren Bro Pold]], [[Cristina T. Ribas]], [[Maximilian Schlüter]], [[Tatjana Seitz]], [[Winnie Soon]], [[Magda Tyżlik-Carver]], [[Giseli Vasconcelos]], [[Tatiana Wells]].
 ## 8.1
-Edited by [[Christian Ulrik Andersen]],  [[Anne Alexander]], [[Mitra Azar]], [[Alan F. Blackwell]], [[Anja Breljak]], [[Geoff Cox]], [[Michela De Carlo]], [[Maria Dada]], [[Iain Emsley]], [[Malthe Stavning Erslev]], [[Jennifer Gabrys]], [[Daniel Chavez Heras]], [[Kristoffer Gansing]], [[Tomasz Hollanek]], [[Leonardo Impett]], [[Maike Klein]], [[Rosemary Lee]], [[Carleigh Morgan]], [[Carman Ng]], [[Matteo Pasquinelli]], [[Sascha Pohflepp]], [[Søren Bro Pold]], [[Irina Raskin]], [[Tiara Roxanne]], [[Winnie Soon]], [[Magda Tyżlik-Carver]], [[Rebecca Uliasz]], [[Tanja Wiehn]], [[Martin Zeilinger]], [[Brett Zehner]]
+Edited by [[Christian Ulrik Andersen]],  [[Anne Alexander]], [[Mitra Azar]], [[Alan F. Blackwell]], [[Anja Breljak]], [[Geoff Cox]], [[Michela De Carlo]], [[Maria Dada]], [[Iain Emsley]], [[Malthe Stavning Erslev]], [[Jennifer Gabrys]], [[Daniel Chávez Heras]], [[Kristoffer Gansing]], [[Tomasz Hollanek]], [[Leonardo Impett]], [[Maike Klein]], [[Rosemary Lee]], [[Carleigh Morgan]], [[Carman Ng]], [[Matteo Pasquinelli]], [[Sascha Pohflepp]], [[Søren Bro Pold]], [[Irina Raskin]], [[Tiara Roxanne]], [[Winnie Soon]], [[Magda Tyżlik-Carver]], [[Rebecca Uliasz]], [[Tanja Wiehn]], [[Martin Zeilinger]], [[Brett Zehner]]
 
 Design:  The Laboratory of Manuel Bürger: [[Simon Schindele]], [[Bárbara Acevedo Strange]], [[Manuel Bürger]]
 ## 7.1
@@ -32,13 +32,13 @@ Edited by [[Christian Ulrik Andersen]], [[César Escudero Andaluz]], [[Emanuele 
 
 Design: [[Sarah Garcin]] & [[Angeline Ostinelli]]
 ## 6.1
-Edited by [[Roel Roscam Abbing]], [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Maya Ganesh]], [[Abelardo Gil-Fournier]], [[Maja Bak Herrie]], [[John Hill]], [[Brian House]], [[Nathan Jones]], [[Nicolas Malevé]], [[Rosa Menkman]], [[An Mertens]], [[Martino Morandi]],  [[Michael Murtaugh]], [Søren Bro Pold], [[Søren Rasmussen]], [[Renée Ridgway]], [[Jara Rocha]], [[Sam Skinner]], [[Femke Snelting]]
+Edited by [[Roel Roscam Abbing]], [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Maya Indira Ganesh]], [[Abelardo Gil-Fournier]], [[Maja Bak Herrie]], [[John Hill]], [[Brian House]], [[Nathan Jones]], [[Nicolas Malevé]], [[Rosa Menkman]], [[An Mertens]], [[Martino Morandi]],  [[Michael Murtaugh]], [Søren Bro Pold], [[Søren Rasmussen]], [[Renée Ridgway]], [[Jara Rocha]], [[Sam Skinner]], [[Femke Snelting]]
 
 Design: [[Sarah Garcin]] & [[Angeline Ostinelli]]
 ## 5.1
 Edited by [[Christian Ulrik Andersen]] & [[Geoff Cox]].
 
-[[Christian Ulrik Andersen]], [[Mitra Azar]], [[Elisavet Christou]], [[Geoff Cox]], [[Aideen Doran]], Kristoffer Gansing, [[Pablo Velasco Gonzalez]], [[Lone Koefoed hansen]], [[Nathan Jones]], [[Joasia Krysa]], [[Graziele Lautenschlaeger]], [[Lyndsay Mann]], [[Cornelia Sollfrank]], [[Wolfgang sützl]], [[Marie Louise Juul Søndergaard]], [[Cansu Topaloglu]], [[Scott Wark]], [[Tessa Zettel]]
+[[Christian Ulrik Andersen]], [[Mitra Azar]], [[Elisavet Christou]], [[Geoff Cox]], [[Aideen Doran]], Kristoffer Gansing, [[Pablo R. Velasco González]], [[Lone Koefoed hansen]], [[Nathan Jones]], [[Joasia Krysa]], [[Graziele Lautenschlaeger]], [[Lyndsay Mann]], [[Cornelia Sollfrank]], [[Wolfgang sützl]], [[Marie Louise Juul Søndergaard]], [[Cansu Topaloglu]], [[Scott Wark]], [[Tessa Zettel]]
 
 Design: The Laboratory of [[Manuel Bürger]], Manuel Bürger & [[Hendrike Nagel]]
 ## 4.1

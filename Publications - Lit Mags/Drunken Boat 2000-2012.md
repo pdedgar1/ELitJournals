@@ -223,7 +223,7 @@
  [[Ken Howe]]
  [[Ray Hsu]]
  [[Jeanette Lynes]]
- [[Erin Mouré]]
+ [[Erín Moure]]
  [[Trish Salah]]
  [[Jordan Scott]]
  [[Nathalie Stephens]]
@@ -515,7 +515,7 @@
 | [[Fady Joudah]]                                                          |
 | [[Lucas Klein]]                                                          |
 | [[Robert Majzels]]                                                       |
-| [[Erin Moure]]                                                           |
+| [[Erín Moure]]                                                           |
 | [[Wong Phui Nam]]                                                        |
 | [[Michelle Noteboom]]                                                    |
 | [[Craig Perez]]                                                          |
@@ -815,7 +815,7 @@
 [[Aki Onda]]
 [[steve roden]]
 [[Ryan Scammell]]
-[[Paul Toth]]
+[[Paul A. Toth]]
 [[Aaron Ximm]]
 [[Peter Yumi]] & [[Kate Greenstreet]]
 
@@ -1045,7 +1045,7 @@
 [[Robin Messing]]
 [[Angie Pelekidis]]
 [[Tyler Peterson]]
-[[Mayumi Poe]]
+[[Mayumi Shimose Poe]]
 [[Adania Shibli]]
 [[Diane Simmons]]
 [[Michael Stein]]

@@ -206,7 +206,7 @@ Digital Art Magazine Post-2020
 |[[Paul Cohen]]|
 |[[Paul Cohen]]|
 |[[Paul Goguel Masson]]|
-|[[Paul Schmidt]]|
+|[[Paul V. Schmidt]]|
 |[[Peter Bauman]]|
 |[[Peter Bauman]]|
 |[[Phoebe Forster]]|

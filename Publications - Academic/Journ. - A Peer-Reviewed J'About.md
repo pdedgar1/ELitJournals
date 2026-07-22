@@ -67,7 +67,7 @@ Reviewers :
 ## issue 7 - 2018
 [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Pip Thornton]], [[Luke Munn]], [[Mitra Azar]], [[Lea Laura N. Michelsen]], [[Francis Hunger]], [[César Escudero Andaluz]], [[Martín Nadal]], [[Maria Eriksson]], [[Dionysia Mylonaki]], [[Panagiotis Tigas]], [[Marc Garrett]], [[Ashley Lee Wong]], [[Konstanze Scheidt]], [[Calum Bowden]], [[Tega Brain]]
 ## issue 8 - 2019
-contributions by [[Mitra Azar]], [[Michela De Carlo]], [[Maria Dada]], [[Iain Emsley]], [[Malthe Stavning Erslev]], [[Daniel Chavez Heras]], [[Tomasz Hollanek]], [[Maike Klein]], [[Rosemary Lee]], [[Carleigh Morgan]], [[Carman Ng]], [[Irina Raskin]], [[Tiara Roxanne]], [[Rebecca Uliasz]], [[Tanja Wiehn]], [[Brett Zehner]], and edited by [[Christian Ulrik Andersen]] and [[Geoff Cox]].
+contributions by [[Mitra Azar]], [[Michela De Carlo]], [[Maria Dada]], [[Iain Emsley]], [[Malthe Stavning Erslev]], [[Daniel Chávez Heras]], [[Tomasz Hollanek]], [[Maike Klein]], [[Rosemary Lee]], [[Carleigh Morgan]], [[Carman Ng]], [[Irina Raskin]], [[Tiara Roxanne]], [[Rebecca Uliasz]], [[Tanja Wiehn]], [[Brett Zehner]], and edited by [[Christian Ulrik Andersen]] and [[Geoff Cox]].
 ## issue 9 - 2020
 [[Christian Ulrik Andersen]]., [[Geoff Cox]], [[Sudipto Basu]], [[Özgün Eylül İşcen]], [[Juan Pablo Pacheco Bejarano]], [[Linda Kronman]], [[Nicola Bozzi]], [[Giseli Vasconcelos]], [[Tatiana Wells]], [[Cristina T. Ribas]], [[Iuliia Glushneva]], [[Wenhao Bi]], [[Rebecca Holt]], [[Wing Ki Lee]], 
 ## issue 10 - 2021

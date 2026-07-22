@@ -360,7 +360,7 @@
 | [[Dene Grigar]]                   |     |
 | [[Julie B. Gudmundsson]]          |     |
 | [[Béatrice Guéna]]                |     |
-| [[Anais Guilet]]                  |     |
+| [[Anaïs Guilet]]                  |     |
 | [[Luis Guzmanz]]                  |     |
 |                                   |     |
 | [[Julian Hanna]]                  |     |
@@ -525,7 +525,7 @@
 | [[Marcelina Wellmer]]             |     |
 | [[Zach Whalen]]                   |     |
 | [[Greg Whistance-Smith]]          |     |
-| [[Melinda White]]                 |     |
+| [[Melinda M. White]]                 |     |
 | [[Rob Wittig]]                    |     |
 | [[Mark Wolff]]                    |     |
 |                                   |     |

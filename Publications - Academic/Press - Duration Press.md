@@ -93,7 +93,7 @@
 | [[Noah Eli Gordon]]                                                                                                                                                                                           |
 | [[Norma Cole]]                                                                                                                                                                                                |
 | [[Pam Rehm]]                                                                                                                                                                                                  |
-| [[Patrick Durgin]]                                                                                                                                                                                            |
+| [[Patrick F. Durgin]]                                                                                                                                                                                            |
 | [[Pattie McCarthy]]                                                                                                                                                                                           |
 | [[Peter Ganick]]                                                                                                                                                                                              |
 | [[Pierre Joris]]                                                                                                                                                                                              |

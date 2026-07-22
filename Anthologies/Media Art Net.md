@@ -425,7 +425,7 @@
 | [[Rassim Krastev]]                          |
 | [[Richard Kriesche]]                        |
 | [[Matthias Krohn]]                          |
-| [[Myron Krueger]]                           |
+| [[Myron W. Krueger]]                           |
 | [[Barbara Kruger]]                          |
 | [[Alexej Krutschonych]]                     |
 | [[Mischa Kuball]]                           |

@@ -1,7 +1,7 @@
 #anthology 
 ### Editorial: [[Vinícius Carvalho Pereira]], [[Aline Federico]], [[Verónica Paula Gómez]], [[Michael Hurtado]] with [[Carlos Kobra]], [[Fernanda Mugica]]
 
-[[Álvaro Andrade Garcia]]
+[[Álvaro Andrade García]]
 [[Ángel Alberto Sesma]]
 [[Agustina Regueiro]]
 [[Alejandro Brianza]]

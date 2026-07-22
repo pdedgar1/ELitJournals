@@ -114,7 +114,7 @@ as Critique: [[Carolina Gainza]] (Chair), [[Luis Correa-Díaz]],
 
 [[Agustina Woodgate]]
 
-[[Alvaro Andrade García]], [[Rogério Barbosa da Silva]], [[Mónica Nepote]]
+[[Álvaro Andrade García]], [[Rogério Barbosa da Silva]], [[Mónica Nepote]]
 
 15.15 -16.30. Presentaciones E-Poetry 16.30-16.45. CAFÉ
 

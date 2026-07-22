@@ -200,7 +200,7 @@ Colaboradores
 | [[Lorena Pose Rivero]]                                       |
 | [[Luciano Salerno]]                                          |
 | [[Luis Bravo]]                                               |
-| [[Luis Correa Díaz]]                                         |
+| [[Luis Correa-Díaz]]                                         |
 | [[Manuel Guerrero]]                                          |
 | [[María Mencía]]                                             |
 | [[Marianne Teixido]], [[Emilio Ocelotl]]                     |

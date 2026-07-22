@@ -398,7 +398,7 @@
 | [[Peter B. White]]                  |
 | [[Peter Dean]]                      |
 | [[Peter Humphreys]]                 |
-| [[Peter Thomas]]                    |
+| [[Peter J. Thomas]]                    |
 | [[Peter Valsomis]]                  |
 | [[Petr Szczepanik]]                 |
 | [[Petros Iosifidis]]                |

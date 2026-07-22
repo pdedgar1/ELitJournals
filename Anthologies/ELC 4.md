@@ -115,7 +115,7 @@
 [[Malthe Stavning Erslev]], [[Søren Bro Pold]], [[Martin Campostrini]]
 [[Marcelo Spalding]]
 [[María Mencía]]
-[[Mario Guzman]]
+[[Mario Guzmán]]
 [[Marisa Parham]]
 [[Mariusz Pisarski]]
 [[Mark C. Marino]]

@@ -94,7 +94,7 @@ Advisory editors
 [[Jichen Zhu]] and [[D. Fox Harrell]]
 [[Christine Wilks]]
 [[Hazel Smith]] and [[Roger Dean]]
-[[Whitney Trettien]]
+[[Whitney Anne Trettien]]
 [[Marvin E. Hobson]]
 
 ### 09 - 2012

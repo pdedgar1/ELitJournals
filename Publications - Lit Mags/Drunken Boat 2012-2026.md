@@ -3,7 +3,7 @@
 # Issue 16
 
 #### Art
-[[Alex Chechile]], [[Cracked Ray Tube]], [[Jodi Darby]], [[Linda Aubry Bullock]], [[Phillip Stearns]], [[Seth Cluett]], [[Terri Witek]] & [[Cyriaco Lopes]]
+[[Alex Chechile]], [[Cracked Ray Tube]], [[Jodi Darby]], [[Linda Aubry Bullock]], [[Phillip David Stearns]], [[Seth Cluett]], [[Terri Witek]] & [[Cyriaco Lopes]]
 #### Barry Hannah
 [[Anna Baker]], [[Barry Hannah]], [[Brett Puryear]], [[Darlin' Neal]], [[Grantley Rushing]], [[Jeffrey Stayton]], [[M.O. Walsh]], [[Phyllis Nobles]], [[klipschutz]], [[Andy Davidson]]
 #### Exploration
@@ -15,7 +15,7 @@
 #### Sound Art/Dissonance
 [[Big Daddy Mugglestone]], [[Carlo Simoni]], [[Christopher Burns]], [[Elio Martusciello]], [[Gregory Moore]], [[James Fei]], [[Ma++ Ingalls]], [[Micah Silver]], [[Nathan Davis]], [[Ramón Sender Barayón]], [[Theresa Wong]]
 #### Speculative
-[[Casey Alt]], [[Christopher O'Leary]], [[Claudia Salamanca]], [[Jeff Cain]], [[Micha Cardenas]] & [[Elle Mehrmand]], [[Michael Kontopoulos]], [[Pinar Yoldas]], [[Xarene Eskandar]], [[Zach Blas]]
+[[Casey Alt]], [[Christopher O'Leary]], [[Claudia Salamanca]], [[Jeff Cain]], [[Micha Cárdenas]] & [[Elle Mehrmand]], [[Michael Kontopoulos]], [[Pinar Yoldas]], [[Xarene Eskandar]], [[Zach Blas]]
 #### Trance Poetics
 [[Sarah Boothroyd]], [[Ambrose Bye]], [[Brian Lucas]], [[Edwin Torres]], [[Jared Schickling]], [[j/j hastain]], [[Felicia Shenker]] & [[Marie Béland]], [[Marjorie Tesser]], [[Zachary Wollard]], [[Abou Farman]], [[Adrienne Rosenberg]], [[Geoffrey Olsen]], [[Holly Melgard]], [[Jesse Patrick Ferguson]], [[John Sims]], [[Laynie Browne]], [[Michael Bradburn-Ruster]], [[Michael Peters]], [[Brenda Hillman]], [[Emil DeAndreis]], [[Faizal Deen]], [[Megan Burns]], [[Tyrone Williams]], [[Carlos Hernández Peña]], [[Chelsea R. G. Kachman]], [[Christopher Warner]], [[Jamie Townsend]], [[Marco Maisto]] & [[Caroline DeVane]], [[Susan Berger-Jones]], [[Eléna Rivera]], [[Jennifer Firestone]], [[Kyle Vaughn]], [[Seldon Yuan]], [[Shanita Bigelow]], [[Stacy Szymaszek]], [[Alexis Myre]], [[Esfand Pourmand]] & [[Kristin Prevallet]], [[Hannah Fries]], [[Leah Givens]], [[Tony Trigilio]], [[Candy Shue]], [[Eric McKinley]], [[Hugh Behm-Steinberg]], [[John Overdurf]], [[Michael Ruby]], [[Shelley Marlow]], [[Toni Simon]]
 
@@ -67,7 +67,7 @@
 #### Affrilachian Arts
 [[Jeremy Dae Paden]], [[Frank X Walker]], [[Shayla Lawson]], [[Steven Paul Alvarez]], [[Charles A. Swanson]], [[Joy Priest]], [[Charter Weeks]] & [[Keith Flynn]], [[Autumn McClintock]], [[Colena Corbett]], [[Kenzie Allen]], [[Keith S. Wilson]], [[Ellen Hagan]], [[Bianca Spriggs]], [[Glenis Redmond]], [[Randall Horton]]
 #### Translation
-[[Tony Brinkley]] (trans. [[Arthur Rimbaud]]), [[Charlotte Mandell]] (trans. [[Arthur Rimbaud]]), [[Esther Allen]] (trans. [[Arthur Rimbaud]]), [[Marcella Durand]] (trans. [[Arthur Rimbaud]]), [[Judith Goldman]] (trans. [[Arthur Rimbaud]]), [[Jonathan C. Stalling]] (trans. [[Arthur Rimbaud]]), [[Ian Monk]] (trans. [[Arthur Rimbaud]]), [[Erín Moure]] (trans. [[Arthur Rimbaud]]), [[Chris Clarke]] (trans. [[Arthur Rimbaud]]), [[Rachel Galvin]] (trans. [[Arthur Rimbaud]]), [[Marie Buck]] (trans. [[Arthur Rimbaud]]), [[John Beer]] (trans. [[Arthur Rimbaud]]), [[Bob Perelman]] (trans. [[Arthur Rimbaud]]), [[Paul Legault]] (trans. [[Arthur Rimbaud]]), [[Laura Mullen]] (trans. [[Arthur Rimbaud]]), [[Sandra Simonds]] (trans. [[Arthur Rimbaud]]), [[Tom La Farge]] (trans. [[Arthur Rimbaud]]), [[Brandon Brown]] (trans. [[Arthur Rimbaud]])
+[[Tony Brinkley]] (trans. [[Arthur Rimbaud]]), [[Charlotte Mandell]] (trans. [[Arthur Rimbaud]]), [[Esther Allen]] (trans. [[Arthur Rimbaud]]), [[Marcella Durand]] (trans. [[Arthur Rimbaud]]), [[Judith Goldman]] (trans. [[Arthur Rimbaud]]), [[Jonathan C. Stalling]] (trans. [[Arthur Rimbaud]]), [[Ian Monk]] (trans. [[Arthur Rimbaud]]), [[Erín Moure]] (trans. [[Arthur Rimbaud]]), [[Chris Clarke]] (trans. [[Arthur Rimbaud]]), [[Rachel Galvin]] (trans. [[Arthur Rimbaud]]), [[Marie Buck]] (trans. [[Arthur Rimbaud]]), [[John Beer]] (trans. [[Arthur Rimbaud]]), [[Bob Perelman]] (trans. [[Arthur Rimbaud]]), [[Paul Legault]] (trans. [[Arthur Rimbaud]]), [[Laura Mullen]] (trans. [[Arthur Rimbaud]]), [[Sandra Simonds]] (trans. [[Arthur Rimbaud]]), [[Tom LaFarge]] (trans. [[Arthur Rimbaud]]), [[Brandon Brown]] (trans. [[Arthur Rimbaud]])
 
 #### Poetry Comix & Animation
 [[Paul K. Tunis]], [[John Dermot Woods]], [[Laurel Lynn Leake]], [[Nate Pritts]], [[Lydia Conklin]], [[Kimball Anderson]], [[Tamryn Bennett]], [[Matthew Rotando]], [[Dianne Kornberg]] & [[Celia Bland]], [[Derik Badman]], [[Julie Fiveash]], [[Dash Shaw]], [[Adrienne Celt]], [[sven staelens]], [[Aram Saroyan]], [[Alexander Rothman]], [[Jessy Randall]], [[Margaret Galey]] & [[Marco Maisto]], [[Allison Campbell]], [[Jennifer H. Fortin]], [[Panpan Yang]]
@@ -143,7 +143,7 @@
 ## Eclipse
 [[A. Anupama]], [[Anita R. Ratnam]], [[Arshia Sattar]], [[Arundhathi Subramaniam]], [[David Need]], [[Ellen Kombiyil]], [[Menka Shivdasani]], [[Naveen Kishore]], [[rizio yohannan raj]], [[Sumana Roy]]
 ## Fiction
-[[YZ Chin]], [[Camille Wanliss]], [[Naheed Patel]], [[Jennifer Lee]], [[Andi Boyd]], [[Stacy Hardy]], [[Serena W. Lin]], [[Larry Menlove]]
+[[YZ Chin]], [[Camille Wanliss]], [[Naheed Phiroze Patel]], [[Jennifer Lee]], [[Andi Boyd]], [[Stacy Hardy]], [[Serena W. Lin]], [[Larry Menlove]]
 ## Himalayan Arts
 [[Arun Budhathoki]], [[Bhupi Sherchan]], [[Bimal Nibha]], [[Bishwa Sigdel]], [[Buddhi Sagar Chepain]], [[Chetnath Dhamala]], [[Chunky Shrestha]], [[Gopal Prasad Rimal]], [[Hari Adhikari]], [[Hari Khadka]], [[Jeevan Rajopadhyay]], [[Keshab Silwal]], [[Kiran Manandhar]], [[Krishna Bhakta Shrestha]], [[Lal Kaji Lama]], [[Mani Lohani]], [[N B Gurung]], [[Nakul Silwal]], [[Naresh Saiju]], [[Nem Bahadur Gole]], [[Padam Gautam]], [[Pramod Snehi]], [[Punya Gautam 'Bishwas']], [[Purna Infada]], [[Purna Viram]], [[R. M. Dongol]], [[Ragini Upadhayay Grela]], [[Ratna Kaji Shakya]], [[Ramesh Khanal]], [[Shailendra Sakar]], [[Shashi Shaha]], [[Shayamal]], [[Shreejana Bhandari]], [[Shyam Rimal]], [[Tanka Uprety]], [[Tek Bir Mukhya]], [[Yuyutsu Sharma]]
 ## Nonfiction

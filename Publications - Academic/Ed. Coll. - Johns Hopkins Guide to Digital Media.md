@@ -1,4 +1,4 @@
-Edited by [[Marie Laure Ryan]], [[Lori Emerson]], [[Benjamin J. Robertson]]
+Edited by [[Marie-Laure Ryan]], [[Lori Emerson]], [[Benjamin J. Robertson]]
 
 [[Bethany Nowviskie]]
 [[Nicole Labitzke]]

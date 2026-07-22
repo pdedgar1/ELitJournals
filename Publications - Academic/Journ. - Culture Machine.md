@@ -1,7 +1,7 @@
 # Vol. 1 (1999): Taking Risks With the Future
 Date: 1999
 Editors: [[Gary Hall]], [[Dave Boothroyd]]
-Authors: [[Timothy Clark]], [[Simon Wortham]], [[Dave Boothroyd]], [[Johan Fornas]], [[Lawrence Grossberg]], [[Tadeusz Slawek]], [[Kenneth Surin]], [[Jan Campbell]], [[Michael Naas]], [[Adrian MacKenzie]], [[Sue Golding]], [[Joanna Zylinska]]
+Authors: [[Timothy Clark]], [[Simon Wortham]], [[Dave Boothroyd]], [[Johan Fornäs]], [[Lawrence Grossberg]], [[Tadeusz Slawek]], [[Kenneth Surin]], [[Jan Campbell]], [[Michael Naas]], [[Adrian MacKenzie]], [[Sue Golding]], [[Joanna Zylinska]]
 
 # Vol. 2 (2000): The University Culture Machine
 Date: 2000
@@ -75,7 +75,7 @@ Authors: [[Gabriela Méndez Cota]], [[Benjamín Mayer Foulkes]], [[Stefania Hari
 # Vol. 16 (2015): Drone Cultures
 Date: 2015
 Editors: [[Rob Coley]], [[Dean Lockwood]]
-Authors: [[Benjamin Noys]], [[Alexander Baker]], [[Naief Yehya]], [[Ramon Bloomberg]], [[Anthony McCosker]], [[Cormac Deane]], [[Maximilian Jablonowski]], [[Brad Bolman]], [[Eva Parra Iñesta]], [[Mike Neary]], [[Dane Sutherland]], [[Dan Mellamphy]], [[Nandita Biswas Mellamphy]], [[David Burrows]], [[Mark Jackson]], [[Simon O'Sullivan]], [[Stuart Tait]]
+Authors: [[Benjamin Noys]], [[Alexander Baker]], [[Naief Yehya]], [[Ramon Bloomberg]], [[Anthony McCosker]], [[Cormac Deane]], [[Maximilian Jablonowski]], [[Brad Bolman]], [[Eva Parra Iñesta]], [[Mike Neary]], [[Dane Sutherland]], [[Dan Mellamphy]], [[Nandita Biswas-Mellamphy]], [[David Burrows]], [[Mark Jackson]], [[Simon O'Sullivan]], [[Stuart Tait]]
 
 # Vol. 17 (2018): Thermal Objects
 Date: 2018

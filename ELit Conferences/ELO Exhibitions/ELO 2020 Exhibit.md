@@ -17,7 +17,7 @@
 [[Rachel Donley]]
 [[Brent Cox]]
 [[Kavi Duvvoori]]
-[[Mario Guzman]]
+[[Mario Guzmán]]
 [[Daniele Giampà]]
 [[Amira Hanafi]]
 [[Tina Escaja aka Alm@ Pérez]]

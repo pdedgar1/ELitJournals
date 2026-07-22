@@ -14,7 +14,7 @@ Unviersity Minnesota Press
 | Authors                                                     |
 | ----------------------------------------------------------- |
 | [[Aden Evens]] and [[Alexander R. Galloway]]                 |
-| [[Alenda Y Chang]]                                          |
+| [[Alenda Y. Chang]]                                          |
 | [[Alexander R. Galloway]]                                    |
 | [[Alexander R. Galloway]] and [[Eugene Thacker]]             |
 | [[Anke Finger]], [[Rainer Guldin]] and [[Gustavo Bernardo]] |
@@ -70,7 +70,7 @@ Unviersity Minnesota Press
 | [[Steven Shaviro]]                                          |
 | [[Terry Harpold]]                                           |
 | [[Thomas Foster]]                                           |
-| [[Timothy J Welsh]]                                         |
+| [[Timothy J. Welsh]]                                         |
 | [[Timothy Murray]]                                          |
 | [[Ulises Ali Mejias]]                                       |
 | [[Vilém Flusser]]                                           |

@@ -17,7 +17,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Judy Malloy]]                                                                                                                                             |
 | [[Rakshitha R]]                                                                                                                                             |
 | [[Nanette Wylde]]                                                                                                                                           |
-| [[Prakruti Bhatt]]                                                                                                                                          |
+| [[Prakruti K. Bhatt]]                                                                                                                                          |
 | [[Annie Grosshans]]                                                                                                                                         |
 | [[Babatunde Onabajo]]                                                                                                                                       |
 | [[Alan Bigelow]]                                                                                                                                            |
@@ -201,7 +201,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 [[Halim Madi]]
 
 [[Kavya Benara]]
-[[Prakruti Bhatt]] and [[Denise+Deena Larsen]]
+[[Prakruti K. Bhatt]] and [[Denise+Deena Larsen]]
 [[Rakshitha R]]
 [[Shanmugapriya T]]
 [[Nikhil Chawdhary]]

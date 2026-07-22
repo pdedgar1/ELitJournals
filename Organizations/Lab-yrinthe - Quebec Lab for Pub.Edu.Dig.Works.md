@@ -37,7 +37,7 @@
 | [[Marie-France Gendron]]                        |
 | [[Eve Gladu]]                                   |
 | [[Plume Lieutier]]                              |
-| [[Margarita Molina Fernandez]]                  |
+| [[Margarita Molina Fernández]]                  |
 | [[Josiane Parent]]                              |
 | [[Véronique Stahn]]                             |
 | [[Emilie St-Amand]]                             |

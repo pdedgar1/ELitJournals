@@ -220,7 +220,7 @@ CELL Member  : French-language E-lit
 | Chaos Computer Club]]                                    |
 | [[Wes Chapman]]                                          |
 | [[Sophie Charrier]]                                      |
-| [[Julie Chateauvert]]                                    |
+| [[Julie Châteauvert]]                                    |
 | [[Marianne Cloutier]]                                    |
 | [[Vuk Cosic]]                                            |
 | [[Ricardo Dominguez]]                                    |
@@ -294,7 +294,7 @@ CELL Member  : French-language E-lit
 | [[Charles Pennequin]]                                    |
 | [[Francesca da Rimini]]                                  |
 | [[Philippe Dabasse]]                                     |
-| [[Julien Dabrigeon]]                                     |
+| [[Julien d'abrigeon]]                                     |
 | [[Mark Dagget]]                                          |
 | [[Mark Daggett]]                                         |
 | [[Kathleen Dale]]                                        |
@@ -782,10 +782,10 @@ CELL Member  : French-language E-lit
 | [[Jean-Paul Meunier]]                                    |
 | [[Wesley Thomas Meyer]]                                  |
 | [[Abinadi Meza]]                                         |
-| [[K Michel]]                                             |
+| [[K. Michel]]                                             |
 | [[Cinader Miekal And]]                                   |
 | [[Rob Mikuriya]]                                         |
-| [[Matthew Miller]]                                       |
+| [[Matthew Thomas Miller]]                                       |
 | [[Wayne Miller]]                                         |
 | [[Stéphane Million]]                                     |
 | [[Graham Milton]]                                        |
@@ -797,7 +797,7 @@ CELL Member  : French-language E-lit
 | [[Patric Mondou]]                                        |
 | [[Ander Monson]]                                         |
 | [[Jeremy Thorp]]                                         |
-| [[Monica Montes]]                                        |
+| [[Mónica Montes]]                                        |
 | [[Scott Rettberg]]                                       |
 | [[Janire Morales]]                                       |
 | [[Volker Morawe]]                                        |
@@ -810,7 +810,7 @@ CELL Member  : French-language E-lit
 | [[Jackie Moss]]                                          |
 | [[Thylias Moss]]                                         |
 | [[Alexander Mouton]]                                     |
-| [[Nils Muhlenbruch]]                                     |
+| [[Nils Mühlenbruch]]                                     |
 | [[Rick Mullarky]]                                        |
 | [[Andreas Müller]]                                       |
 | [[Markus Müller]]                                        |
@@ -820,7 +820,7 @@ CELL Member  : French-language E-lit
 | [[Robbin Murphy]]                                        |
 | [[Amaya Muruzabal]]                                      |
 | [[Maitena Muruzabal]]                                    |
-| [[Ciro Museres]]                                         |
+| [[Ciro Múseres]]                                         |
 | [[Marye Musset]]                                         |
 | [[Bruno Nadeau]]                                         |
 | [[Motomichi Nakamura]]                                   |
@@ -883,7 +883,7 @@ CELL Member  : French-language E-lit
 | [[James Paterson]]                                       |
 | [[Simon Patterson]]                                      |
 | [[Milorad Pavic]]                                        |
-| [[K.M. Payne]]                                           |
+| [[K. M. Payne]]                                           |
 | [[Alan Peacok]]                                          |
 | [[Daniel Pearce]]                                        |
 | [[Derek Pearcy]]                                         |

@@ -27,7 +27,7 @@ Network
 | [[Jay David Bolter]]             |     |
 | [[John Cayley]]                  |     |
 | [[Laura Borràs Castanyer]]       |     |
-| [[Marie Laure Ryan]]             |     |
+| [[Marie-Laure Ryan]]             |     |
 | [[Frank Furtwängler]]            |     |
 | [[Markku Eskelinen]]             |     |
 | [[Raine Koskimaa]]               |     |

@@ -51,7 +51,7 @@
 [[Angela Chang]]
 [[Leonardo Flores]] 
 [[Katy Ilonka Gero]]
-[[Mario Guzman]]
+[[Mario Guzmán]]
 [[Julie Hsieh]]
 [[Hannah Jenkins]]
 [[Milton Läufer]]

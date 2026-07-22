@@ -4,103 +4,6 @@ Vault: ELitJournals — 23700 distinct link targets
 ## Strong candidates (identical after normalizing punctuation/spacing/accents): 135
 
 
-- **Isaías Herrero ≈ isaias herrero**
-  - `[[Isaías Herrero]]` — 5 use(s) in 4 file(s), e.g. Anthologies/ELC 2.md, Publications - Academic/Blog - I <3 E-Poetry.md, ELit Conferences/E-Poetry/E-Poetry 2009 Barcelona.md
-  - `[[isaias herrero]]` — 2 use(s) in 1 file(s), e.g. Archives/Ciberia Project.md
-
-
-
-- **Benjamín Moreno ≈ benjamin moreno**
-  - `[[Benjamín Moreno]]` — 4 use(s) in 4 file(s), e.g. Anthologies/Lit E Lat 1.md, Publications - Academic/Journ. - Culture Machine.md, ELit Conferences/E-Poetry/E-Poetry 2011 Buffalo.md
-  - `[[benjamin moreno]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/E-Poetry/E-Poetry 2013 London-Kingston.md, Archives/Ciberia Project.md
-
-- **Gustavo Gomez-Mejia ≈ Gustavo Gómez-Mejía**
-  - `[[Gustavo Gomez-Mejia]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Hypermedia 19-28.md
-  - `[[Gustavo Gómez-Mejía]]` — 5 use(s) in 2 file(s), e.g. Publications - Lit Mags/Taper Zine.md, Publications - Lit Mags/AI Lit Rev.md
-
-- **Marie Laure Ryan ≈ Marie-Laure Ryan**
-  - `[[Marie Laure Ryan]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Ed. Coll. - Johns Hopkins Guide to Digital Media.md, Archives/Litnet - Netzliteratur.md
-  - `[[Marie-Laure Ryan]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/EBR Image + Narrative.md, Publications - Academic/EBR Electropoetics.md, Publications - Academic/EBR First Person.md
-
-- **Nolwenn Trehondart ≈ Nolwenn Tréhondart**
-  - `[[Nolwenn Trehondart]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2016.md
-  - `[[Nolwenn Tréhondart]]` — 5 use(s) in 5 file(s), e.g. Organizations/NT2 Lab.md, ELit Conferences/ELO Conferences/ELO Conference 2022.md, ELit Conferences/ELO Conferences/ELO Conference 2017.md
-
-- **Alvaro Andrade García ≈ Álvaro Andrade Garcia**
-  - `[[Alvaro Andrade García]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/E-Poetry/E-Poetry 2015 Buenos Aires.md
-  - `[[Álvaro Andrade Garcia]]` — 4 use(s) in 4 file(s), e.g. Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md, Anthologies/Lit E Lat 2.md, Publications - Academic/Journ. - Materialities of Literature (MATLIT).md
-
-
-
-- **Daniel Chavez Heras ≈ Daniel Chávez Heras**
-  - `[[Daniel Chavez Heras]]` — 3 use(s) in 3 file(s), e.g. Organizations/DH Now.md, Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md, Publications - Academic/Journ. - A Peer-Reviewed J'About.md
-  - `[[Daniel Chávez Heras]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md, Publications - Academic/Convergence 2017-2027.md
-
-- **Gregory Chatonsky ≈ Grégory Chatonsky**
-  - `[[Gregory Chatonsky]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
-  - `[[Grégory Chatonsky]]` — 4 use(s) in 4 file(s), e.g. Archives/Répertoire NT2 - 1950s-1995.md, Archives/Répertoire NT2 - 1995-2006.md, Archives/The NEXT - bleuOrange.md
-
-- **Lucy English ≈ Lucyenglish**
-  - `[[Lucy English]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Convergence 1995-2005.md, ELit Conferences/MIX Conferences/Mix 2017.md, ELit Conferences/MIX Conferences/Mix 2015.md
-  - `[[Lucyenglish]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/MIX Conferences/Mix 2021.md
-
-- **Mario Guzman ≈ Mario Guzmán**
-  - `[[Mario Guzman]]` — 4 use(s) in 4 file(s), e.g. Anthologies/ELC 4.md, ELit Conferences/ELO Conferences/ELO Conference 2024.md, ELit Conferences/ELO Exhibitions/ELO 2020 Exhibit.md
-  - `[[Mario Guzmán]]` — 1 use(s) in 1 file(s), e.g. Archives/Cartografía Digital.md
-
-- **Micha Cardenas ≈ Micha Cárdenas**
-  - `[[Micha Cardenas]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
-  - `[[Micha Cárdenas]]` — 4 use(s) in 4 file(s), e.g. Organizations/FemTechNet Advisory Board.md, Anthologies/ELC 3.md, Publications - Academic/Journ. - ADA J'of Gender, New Media, Tech.md
-
-- **Alenda Y Chang ≈ Alenda Y. Chang**
-  - `[[Alenda Y Chang]]` — 1 use(s) in 1 file(s), e.g. Archives/Series - Electronic Mediations.md
-  - `[[Alenda Y. Chang]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/EBR Critical Ecologies.md, Publications - Academic/Journ. - Shift Space.md
-
-- **Anais Guilet ≈ Anaïs Guilet**
-  - `[[Anais Guilet]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2018.md
-  - `[[Anaïs Guilet]]` — 3 use(s) in 2 file(s), e.g. Organizations/NT2 Lab.md, Archives/Répertoire NT2 - 1950s-1995.md
-
-- **Ciro Museres ≈ Ciro Múseres**
-  - `[[Ciro Museres]]` — 3 use(s) in 3 file(s), e.g. Archives/Ciberia Project.md, Archives/Répertoire NT2 - 1995-2006.md, Archives/Répertoire NT2 - 2007-2022.md
-  - `[[Ciro Múseres]]` — 1 use(s) in 1 file(s), e.g. Archives/Cartografía Digital.md
-
-- **Decio Pignatari ≈ Décio Pignatari**
-  - `[[Decio Pignatari]]` — 2 use(s) in 2 file(s), e.g. Anthologies/Lit E Lat 1.md, Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md
-  - `[[Décio Pignatari]]` — 2 use(s) in 2 file(s), e.g. Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md, Archives/Arquivo Digital Po.Ex.md
-
-- **Erin Moure ≈ Erin Mouré ≈ Erín Moure**
-  - `[[Erin Moure]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
-  - `[[Erin Mouré]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
-  - `[[Erín Moure]]` — 2 use(s) in 2 file(s), e.g. Anthologies/OUTPUT.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
-
-- **Jaka Zeleznikar ≈ Jaka Železnikar**
-  - `[[Jaka Zeleznikar]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md
-  - `[[Jaka Železnikar]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Hyperrhiz - New Media Cultures 2005-2015.md, ELit Conferences/Unconferences/Unconference 2023.md, Publications - Lit Mags/The New River 2007-2017.md
-
-- **Julie Chateauvert ≈ Julie Châteauvert**
-  - `[[Julie Chateauvert]]` — 3 use(s) in 3 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2017.md, Archives/Répertoire NT2 - 1995-2006.md, Archives/Répertoire NT2 - 2007-2022.md
-  - `[[Julie Châteauvert]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/E-Poetry/E-Poetry 2015 Buenos Aires.md
-
-- **Julien Dabrigeon ≈ Julien d'Abrigeon**
-  - `[[Julien Dabrigeon]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-  - `[[Julien d'Abrigeon]]` — 3 use(s) in 3 file(s), e.g. Archives/Ubuweb "Contemporary".md, Archives/Répertoire NT2 - 1995-2006.md, Archives/Répertoire NT2 - 2007-2022.md
-
-- **K Michel ≈ K. Michel**
-  - `[[K Michel]]` — 2 use(s) in 2 file(s), e.g. Anthologies/ELC 2.md, Archives/Répertoire NT2 - 1995-2006.md
-  - `[[K. Michel]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Blog - I <3 E-Poetry.md, Archives/Digitale Literatuur Databank.md
-
-- **Lubomír Panák ≈ Ľubomír Panák**
-  - `[[Lubomír Panák]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/E-Poetry/E-Poetry 2013 London-Kingston.md
-  - `[[Ľubomír Panák]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 4.md, Publications - Academic/Blog - I <3 E-Poetry.md, ELit Conferences/E-Poetry/E-Poetry 2013 London-Kingston.md
-
-- **Margarita Molina Fernandez ≈ Margarita Molina Fernandéz ≈ Margarita Molina Fernández**
-  - `[[Margarita Molina Fernandez]]` — 2 use(s) in 2 file(s), e.g. Organizations/Lab-yrinthe - Quebec Lab for Pub.Edu.Dig.Works.md, ELit Conferences/ELO Conferences/ELO Conference 2022.md
-  - `[[Margarita Molina Fernandéz]]` — 1 use(s) in 1 file(s), e.g. Organizations/NT2 Lab.md
-  - `[[Margarita Molina Fernández]]` — 1 use(s) in 1 file(s), e.g. Organizations/Lab-yrinthe - Quebec Lab for Pub.Edu.Dig.Works.md
-
-- **Maya Chowdhry ≈ Mayachowdhry**
-  - `[[Maya Chowdhry]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Convergence 1995-2005.md, ELit Conferences/MIX Conferences/Mix 2021.md, ELit Conferences/MIX Conferences/Mix 2015.md
-  - `[[Mayachowdhry]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/MIX Conferences/Mix 2021.md
 
 - **Nora O Murchú ≈ Nora O' Murchú ≈ Nóra Ó Murchú**
   - `[[Nora O Murchú]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md, Publications - Academic/Journ. - A Peer-Reviewed J'About.md
@@ -372,26 +275,6 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Jean-François Lyotard]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Media Art Net.md
   - `[[Jean‑François Lyotard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Book - Experimental Poetics to Creative Legacies.md
 
-- **Joan  Elies Adell ≈ Joan Elies Adell**
-  - `[[Joan  Elies Adell]]` ⚠️ double space — 1 use(s) in 1 file(s), e.g. ELit Conferences/E-Poetry/E-Poetry 2007 Paris.md
-  - `[[Joan Elies Adell]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/E-Poetry/E-Poetry 2009 Barcelona.md
-
-- **Johan Fornas ≈ Johan Fornäs**
-  - `[[Johan Fornas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Culture Machine.md
-  - `[[Johan Fornäs]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 1995-2005.md
-
-- **John Cabral ≈ John. Cabral**
-  - `[[John Cabral]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-  - `[[John. Cabral]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
-
-- **John F. Simon Jr. ≈ John F. Simon, Jr.**
-  - `[[John F. Simon Jr.]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Media Art Net.md
-  - `[[John F. Simon, Jr.]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
-
-- **Jose Vera ≈ José Vera**
-  - `[[Jose Vera]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Low<-Tech Magazine.md
-  - `[[José Vera]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Low<-Tech Magazine.md
-
 - **Joseph Lefevre ≈ Joseph Lefèvre**
   - `[[Joseph Lefevre]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
   - `[[Joseph Lefèvre]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
@@ -400,105 +283,6 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[José Ignacio López Ramírez Gastón]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Lit E Lat 2.md
   - `[[José Ignacio López Ramírez-Gastón]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2022.md
 
-- **Jozef Zuk Piwkowski ≈ Józef Żuk Piwkowski**
-  - `[[Jozef Zuk Piwkowski]]` — 1 use(s) in 1 file(s), e.g. Anthologies/ELC 3.md
-  - `[[Józef Żuk Piwkowski]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Exhibitions/ELO 2015 Exhibit.md
-
-- **K. M. Payne ≈ K.M. Payne**
-  - `[[K. M. Payne]]` — 1 use(s) in 1 file(s), e.g. Archives/Word Circuits Directory.md
-  - `[[K.M. Payne]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-
-- **Keith M Johnston ≈ Keith M. Johnston**
-  - `[[Keith M Johnston]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2006-2016.md
-  - `[[Keith M. Johnston]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2006-2016.md
-
-- **Kübra Aksay ≈ Kübra Aksay**
-  - `[[Kübra Aksay]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2024.md
-  - `[[Kübra Aksay]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2024.md
-
-- **Laura Barrón ≈ laura barron**
-  - `[[Laura Barrón]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-  - `[[laura barron]]` — 1 use(s) in 1 file(s), e.g. Archives/Ciberia Project.md
-
-- **Luis Aly ≈ Luís Aly**
-  - `[[Luis Aly]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Materialities of Literature (MATLIT).md
-  - `[[Luís Aly]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
-
-- **Luis Correa Díaz ≈ Luis Correa-Díaz**
-  - `[[Luis Correa Díaz]]` — 1 use(s) in 1 file(s), e.g. Archives/Cartografía Digital.md
-  - `[[Luis Correa-Díaz]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/E-Poetry/E-Poetry 2015 Buenos Aires.md
-
-- **Marc Da Costa ≈ Marc DaCosta**
-  - `[[Marc Da Costa]]` — 1 use(s) in 1 file(s), e.g. Awards/Lumen Prize.md
-  - `[[Marc DaCosta]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
-
-- **Mario Santamaria ≈ Mario Santamaría**
-  - `[[Mario Santamaria]]` — 1 use(s) in 1 file(s), e.g. Archives/Ciberia Project.md
-  - `[[Mario Santamaría]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md
-
-- **María José Gimenez ≈ María José Giménez**
-  - `[[María José Gimenez]]` — 1 use(s) in 1 file(s), e.g. Organizations/Drunken Boat Staff.md
-  - `[[María José Giménez]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
-
-- **Milan Koerner Safrata ≈ Milan Koerner-Safrata**
-  - `[[Milan Koerner Safrata]]` — 1 use(s) in 1 file(s), e.g. Organizations/WordHack.md
-  - `[[Milan Koerner-Safrata]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2016.md
-
-- **Mimi Onuoha ≈ Mimi Ọnụọha**
-  - `[[Mimi Onuoha]]` — 1 use(s) in 1 file(s), e.g. Organizations/WordHack.md
-  - `[[Mimi Ọnụọha]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
-
-- **Monica Montes ≈ Mónica Montes**
-  - `[[Monica Montes]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-  - `[[Mónica Montes]]` — 1 use(s) in 1 file(s), e.g. Archives/Cartografía Digital.md
-
-- **Nandita Biswas Mellamphy ≈ Nandita Biswas-Mellamphy**
-  - `[[Nandita Biswas Mellamphy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Culture Machine.md
-  - `[[Nandita Biswas-Mellamphy]]` — 1 use(s) in 1 file(s), e.g. Organizations/New Centre for Research & Practice.md
-
-- **Nils Muhlenbruch ≈ Nils Mühlenbruch**
-  - `[[Nils Muhlenbruch]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-  - `[[Nils Mühlenbruch]]` — 1 use(s) in 1 file(s), e.g. Archives/Digitale Literatuur Databank.md
-
-- **Ozgun Eylul Iscen ≈ Özgün Eylül İşcen**
-  - `[[Ozgun Eylul Iscen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md
-  - `[[Özgün Eylül İşcen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed J'About.md
-
-- **Patricia Murrieta-Flores ≈ Patricia Murrieta–Flores**
-  - `[[Patricia Murrieta-Flores]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
-  - `[[Patricia Murrieta–Flores]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
-
-- **Pelayo Mendez ≈ Pelayo Méndez**
-  - `[[Pelayo Mendez]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Exhibitions/ELO 2012 Exhibit.md
-  - `[[Pelayo Méndez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blog - I <3 E-Poetry.md
-
-- **RENÉE TURNER ≈ Renee Turner**
-  - `[[RENÉE TURNER]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/MIX Conferences/MIX 2025 Writing With Technologies.md
-  - `[[Renee Turner]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2025.md
-
-- **Selena Savic ≈ Selena Savić**
-  - `[[Selena Savic]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
-  - `[[Selena Savić]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - ADA J'of Gender, New Media, Tech.md
-
-- **Sergio Capparelli ≈ Sérgio Capparelli**
-  - `[[Sergio Capparelli]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md
-  - `[[Sérgio Capparelli]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md
-
-- **Soliman Lopez ≈ Solimán López**
-  - `[[Soliman Lopez]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/AI Art Magazine.md
-  - `[[Solimán López]]` — 1 use(s) in 1 file(s), e.g. Organizations/The Verse verse.md
-
-- **Timothy C Campbell ≈ Timothy C. Campbell**
-  - `[[Timothy C Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Posthumanities.md
-  - `[[Timothy C. Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
-
-- **Timothy J Welsh ≈ Timothy J. Welsh**
-  - `[[Timothy J Welsh]]` — 1 use(s) in 1 file(s), e.g. Archives/Series - Electronic Mediations.md
-  - `[[Timothy J. Welsh]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
-
-- **Tom La Farge ≈ Tom LaFarge**
-  - `[[Tom La Farge]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
-  - `[[Tom LaFarge]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Book - Experimental Poetics to Creative Legacies.md
 
 - **Veli-Matti Karhulahti ≈ Velimatti Karhulahti**
   - `[[Veli-Matti Karhulahti]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
@@ -522,29 +306,6 @@ Vault: ELitJournals — 23700 distinct link targets
 
 ## Fuzzy candidates (same surname, similar/subset names — review needed): 449
 
-- **William Burroughs ≈ William S. Burroughs** (similarity 0.99)
-  - [[William Burroughs]]` — 1 use(s) in 1 file(s), e.g. Archives/Electronic Poetry Center Author Pages.md
-  - `[[William S. Burroughs]]` — 3 use(s) in 3 file(s), e.g. Anthologies/Media Art Net.md, Publications - Academic/Ed. Coll. - New Media Reader.md, Publications - Academic/Book - Experimental Poetics to Creative Legacies.md
-
-- **Whitney Anne Trettien ≈ Whitney Trettien** (similarity 0.99)
-  - `[[Whitney Anne Trettien]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Blog - I <3 E-Poetry.md
-  - [[Whitney Trettien]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Publications - Academic/Hyperrhiz - New Media Cultures 2005-2015.md, Publications - Academic/EBR Electropoetics.md
-
-- **Wesley Meyer ≈ Wesley Thomas Meyer** (similarity 0.99)
-  - [[Wesley Meyer]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
-  - `[[Wesley Thomas Meyer]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-
-- **Victor J. Vitanza ≈ Victor Vitanza** (similarity 0.99)
-  - `[[Victor J. Vitanza]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Hyperrhiz - New Media Cultures 2015-2025.md, Publications - Academic/EBR Critical Ecologies.md, Publications - Academic/EBR Technocapitalism.md
-  - [[Victor J. Vitanza]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - frAme -J'of Cult & Tech.md
-
-- **Verónica Gómez ≈ Verónica Paula Gómez** (similarity 0.99)
-  - [[Verónica Gómez]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2017.md
-  - `[[Verónica Paula Gómez]]` — 3 use(s) in 3 file(s), e.g. Anthologies/Lit E Lat 2.md, ELit Conferences/ELO Conferences/ELO Conference 2022.md, ELit Conferences/ELO Conferences/ELO Conference 2024.md
-
-- **Verónica Gómez ≈ Verónica Paula Gomez** (similarity 0.99)
-  - `[[Verónica Gómez]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2017.md
-  - `[[Verónica Paula Gomez]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2018.md
 
 - **Ulises Ali Mejias ≈ Ulises Mejias** (similarity 0.99)
   - `[[Ulises Ali Mejias]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, Archives/Series - Electronic Mediations.md
@@ -570,9 +331,6 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Timothy C. Duguid]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
   - `[[Timothy Duguid]]` — 1 use(s) in 1 file(s), e.g. Organizations/DHQ Staff.md
 
-- **Timothy C. Campbell ≈ Timothy Campbell** (similarity 0.99)
-  - `[[Timothy C. Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
-  - [[Timothy C. Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Posthumanities.md
 
 - **Timothy C Campbell ≈ Timothy Campbell** (similarity 0.99)
   - `[[Timothy C Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Posthumanities.md
@@ -706,53 +464,9 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Rachel Nicole Winter]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Exhibitions/ELO 2020 Exhibit.md
   - `[[Rachel Winter]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2021.md
 
-- **RACHEL F. GENN ≈ Rachel Genn** (similarity 0.99)
-  - `[[RACHEL F. GENN]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/MIX Conferences/MIX 2025 Writing With Technologies.md
-  - `[[Rachel Genn]]` — 4 use(s) in 4 file(s), e.g. ELit Conferences/MIX Conferences/MIX 2023.md, ELit Conferences/MIX Conferences/Mix 2017.md, ELit Conferences/MIX Conferences/Mix 2019.md
-
-- **Prakruti Bhatt ≈ Prakruti K. Bhatt** (similarity 0.99)
-  - `[[Prakruti Bhatt]]` — 3 use(s) in 2 file(s), e.g. Awards/NuMeWriPri Shortlists.md, ELit Conferences/ELO Exhibitions/ELO 2024 Exhibit.md
-  - `[[Prakruti K. Bhatt]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2024.md
-
-- **Phillip David Stearns ≈ Phillip Stearns** (similarity 0.99)
-  - `[[Phillip David Stearns]]` — 1 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
-  - `[[Phillip Stearns]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
-
-- **Peter J. Thomas ≈ Peter Thomas** (similarity 0.99)
-  - `[[Peter J. Thomas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Hypermedia 89-98.md
-  - `[[Peter Thomas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 1995-2005.md
-
-- **Peter J. Nürnberg ≈ Peter Nürnberg** (similarity 0.99)
-  - `[[Peter J. Nürnberg]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Hypermedia 99-08.md
-  - `[[Peter Nürnberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Hypermedia 19-28.md
-
-- **Peter G. Thomas ≈ Peter Thomas** (similarity 0.99)
-  - `[[Peter G. Thomas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Hypermedia 99-08.md
-  - `[[Peter Thomas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 1995-2005.md
-
-- **Peter Crumlish ≈ Peter Gannon Crumlish** (similarity 0.99)
-  - `[[Peter Crumlish]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
-  - `[[Peter Gannon Crumlish]]` — 3 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
-
-- **Paul Schmidt ≈ Paul V. Schmidt** (similarity 0.99)
-  - `[[Paul Schmidt]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Right Click Save.md
-  - `[[Paul V. Schmidt]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md
-
-- **Paul Arthur ≈ Paul Longley Arthur** (similarity 0.99)
-  - `[[Paul Arthur]]` — 1 use(s) in 1 file(s), e.g. Organizations/Alliance of Digital Humanities Organizations.md
-  - `[[Paul Longley Arthur]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
-
-- **Paul A. Toth ≈ Paul Toth** (similarity 0.99)
-  - `[[Paul A. Toth]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Hyperrhiz - New Media Cultures 2005-2015.md, Publications - Lit Mags/Drunken Boat 2000-2012.md
-  - `[[Paul Toth]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
-
 - **Patrícia Esteves Reina ≈ Patrícia Reina** (similarity 0.99)
   - `[[Patrícia Esteves Reina]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2024.md
   - `[[Patrícia Reina]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Journ. - Materialities of Literature (MATLIT).md, Archives/Arquivo Digital Po.Ex.md
-
-- **Patrick Durgin ≈ Patrick F. Durgin** (similarity 0.99)
-  - `[[Patrick Durgin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Press - Duration Press.md, Archives/Electronic Poetry Center Author Pages.md
-  - `[[Patrick F. Durgin]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
 
 - **Patrick Burns ≈ Patrick J. Burns** (similarity 0.99)
   - `[[Patrick Burns]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
@@ -762,93 +476,11 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Pablo Rodrigo Velasco González]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2022.md
   - `[[Pablo Velasco Gonzalez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md
 
-- **Pablo R. Velasco González ≈ Pablo Velasco Gonzalez** (similarity 0.99)
-  - `[[Pablo R. Velasco González]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed J'About.md
-  - `[[Pablo Velasco Gonzalez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md
-
-- **Nuno F. Ferreira ≈ Nuno Ferreira** (similarity 0.99)
-  - `[[Nuno F. Ferreira]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blog - I <3 E-Poetry.md
-  - `[[Nuno Ferreira]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
-
-- **Nora Khan ≈ Nora N. Khan** (similarity 0.99)
-  - `[[Nora Khan]]` — 2 use(s) in 2 file(s), e.g. Organizations/WordHack.md, Publications - Lit Mags/Language Art Observer.md
-  - `[[Nora N. Khan]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md
-
-- **Naheed Patel ≈ Naheed Phiroze Patel** (similarity 0.99)
-  - `[[Naheed Patel]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
-  - `[[Naheed Phiroze Patel]]` — 1 use(s) in 1 file(s), e.g. code lit.md
-
-- **Myron Krueger ≈ Myron W. Krueger** (similarity 0.99)
-  - `[[Myron Krueger]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Media Art Net.md
-  - `[[Myron W. Krueger]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Ed. Coll. - New Media Reader.md, Awards/Prix Ars Electronica - Golden Nica Winners.md
-
-- **Moniek Kuijpers ≈ Moniek M. Kuijpers** (similarity 0.99)
-  - `[[Moniek Kuijpers]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2022.md
-  - `[[Moniek M. Kuijpers]]` — 1 use(s) in 1 file(s), e.g. Organizations/Empirical Study of Literature Training Network.md
-
-- **Monica Daisy Vieira Araújo ≈ Mônica Araújo** (similarity 0.99)
-  - `[[Monica Daisy Vieira Araújo]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2017.md
-  - `[[Mônica Araújo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Materialities of Literature (MATLIT).md
-
-- **Molly Hardy ≈ Molly O'Hagan Hardy** (similarity 0.99)
-  - `[[Molly Hardy]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
-  - `[[Molly O'Hagan Hardy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Debates in Digital Humanities.md
 
 - **Mirjam Eladhari ≈ Mirjam Palosaari Eladhari** (similarity 0.99)
   - `[[Mirjam Eladhari]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2021.md
   - `[[Mirjam Palosaari Eladhari]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Hypermedia 19-28.md
 
-- **Miriam Karraker ≈ Miriam W Karraker** (similarity 0.99)
-  - [[Miriam Karraker]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Tagvverk.md
-  - `[[Miriam W Karraker]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Tagvverk.md
-
-- **Michael J. Paulukonis ≈ Michael Paulukonis** (similarity 0.99)
-  - `[[Michael J. Paulukonis]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/BackSlash Lit.md
-  - [[Michael Paulukonis]]` — 6 use(s) in 2 file(s), e.g. Publications - Lit Mags/Illiterature.md, Publications - Lit Mags/BackSlash Lit.md
-
-- **Michael Hennessey ≈ Michael S. Hennessey** (similarity 0.99)
-  - [[Michael Hennessey]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
-  - `[[Michael S. Hennessey]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
-
-- **Michael Eberle Sinatra ≈ Michael Sinatra** (similarity 0.99)
-  - `[[Michael Eberle Sinatra]]` — 1 use(s) in 1 file(s), e.g. Organizations/NT2 Lab.md
-  - [[Michael Sinatra]]` — 1 use(s) in 1 file(s), e.g. Organizations/Alliance of Digital Humanities Organizations.md
-
-- **Mendi Obadike ≈ Mendi and Keith Obadike** (similarity 0.99)
-  - `[[Mendi Obadike]]` — 2 use(s) in 2 file(s), e.g. Anthologies/ELC 3.md, Archives/Répertoire NT2 - 1995-2006.md
-  - `[[Mendi and Keith Obadike]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
-
-- **Melinda M. White ≈ Melinda White** (similarity 0.99)
-  - `[[Melinda M. White]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Taroko Gorge + remixes.md
-  - [[Melinda White]]` — 6 use(s) in 5 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2016.md, Publications - Academic/Journ. - Reviews in Digital Humanities.md, Publications - Academic/EBR Electropoetics.md
-
-- **Meg Stein ≈ Meg Wise-Lawrence Stein** (similarity 0.99)
-  - [[Meg Stein]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
-  - `[[Meg Wise-Lawrence Stein]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
-
-- **Mayumi Poe ≈ Mayumi Shimose Poe** (similarity 0.99)
-  - `[[Mayumi Poe]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
-  - `[[Mayumi Shimose Poe]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
-
-- **Maya Ganesh ≈ Maya Indira Ganesh** (similarity 0.99)
-  - `[[Maya Ganesh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md
-  - `[[Maya Indira Ganesh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed J'About.md
-
-- **Matthew Miller ≈ Matthew Thomas Miller** (similarity 0.99)
-  - `[[Matthew Miller]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-  - `[[Matthew Thomas Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
-
-- **Matthew Hannah ≈ Matthew N. Hannah** (similarity 0.99)
-  - `[[Matthew Hannah]]` — 2 use(s) in 2 file(s), e.g. Organizations/DH Now.md, People/Visionary Futures Collective.md
-  - `[[Matthew N. Hannah]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Debates in Digital Humanities.md
-
-- **Matthew F. Griffin ≈ Matthew Griffin** (similarity 0.99)
-  - `[[Matthew F. Griffin]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2026.md
-  - `[[Matthew Griffin]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2025.md
-
-- **Matt Hayler ≈ Matt Steven Hayler** (similarity 0.99)
-  - `[[Matt Hayler]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/MIX Conferences/Mix 2017.md, ELit Conferences/MIX Conferences/Mix 2019.md
-  - `[[Matt Steven Hayler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
 
 - **Mary Agness Krell ≈ Mary Krell** (similarity 0.99)
   - `[[Mary Agness Krell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Vectors.md
@@ -1094,93 +726,28 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Jason C. Rhody]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/EBR First Person.md, ELit Conferences/ELO Conferences/ELO Conference 2007.md
   - `[[Jason Rhody]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
 
-- **Jason A. Wilson ≈ Jason Wilson** (similarity 0.99)
-  - `[[Jason A. Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 1995-2005.md
-  - [[Jason A. Wilson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Convergence 1995-2005.md, Publications - Academic/Convergence 2006-2016.md
-
-- **Janez Fakin Janša ≈ Janez Janša** (similarity 0.99)
-  - `[[Janez Fakin Janša]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md
-  - [[Janez Fakin Janša]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md, Publications - Art Mags/Neural - 2011 - 2020.md
-
-- **Jan Argasiński ≈ Jan K. Argasiński** (similarity 0.99)
-  - [[Jan K. Argasiński]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2017.md
-  - `[[Jan K. Argasiński]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2024.md
-
-- **James Malazita ≈ James W. Malazita** (similarity 0.99)
-  - [[James W. Malazita]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Debates in Digital Humanities.md
-  - `[[James W. Malazita]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
-
-- **James Dobson ≈ James E. Dobson** (similarity 0.99)
-  - [[James E. Dobson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
-  - `[[James E. Dobson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Reviews in Digital Humanities.md
-
-- **Jakub Bogusław Jagiełło ≈ Jakub Jagiełło** (similarity 0.99)
-  - `[[Jakub Bogusław Jagiełło]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2017.md
-  - [[Jakub Bogusław Jagiełło]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Exhibitions/ELO 2015 Exhibit.md
-
-- **Jaishree K Odin ≈ Jaishree Odin** (similarity 0.99)
-  - `[[Jaishree K Odin]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Neural - 1993 - 2010.md, Archives/Series - Electronic Mediations.md
-  - [[Jaishree K Odin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/EBR Writing Under Constraint.md, Publications - Academic/EBR Electropoetics.md
-
 - **J. K. Purdom Lindblad ≈ Purdom Lindblad** (similarity 0.99)
   - `[[J. K. Purdom Lindblad]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Digital Pedagogy in the Humanities.md
   - `[[Purdom Lindblad]]` — 1 use(s) in 1 file(s), e.g. Organizations/HASTAC Leadership.md
-
-- **Hong-An (Ann) Wu ≈ Hong-An Wu** (similarity 0.99)
-  - `[[Hong-An (Ann) Wu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Hyperrhiz - New Media Cultures 2015-2025.md
-  - [[Hong-An (Ann) Wu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Debates in Digital Humanities.md
-
-- **Henry A. Giroux ≈ Henry Giroux** (similarity 0.99)
-  - `[[Henry A. Giroux]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Culture Machine.md
-  - [[Henry A. Giroux]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
 
 - **Hendrick W. de Haan ≈ Hendrick de Haan** (similarity 0.99)
   - `[[Hendrick W. de Haan]]` — 1 use(s) in 1 file(s), e.g. People/Decameron Collective.md
   - `[[Hendrick de Haan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2025.md
 
-- **Helen Kennedy ≈ Helen W. Kennedy** (similarity 0.99)
-  - `[[Helen Kennedy]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Convergence 2006-2016.md, Publications - Academic/Convergence 2017-2027.md
-  - `[[Helen W. Kennedy]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Convergence 2006-2016.md, Publications - Academic/Convergence 2017-2027.md
-
-- **Helen Kennedy ≈ Helen W Kennedy** (similarity 0.99)
-  - [[Helen W. Kennedy]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Convergence 2006-2016.md, Publications - Academic/Convergence 2017-2027.md
-  - `[[Helen W Kennedy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
-
 - **Helen Burgess ≈ Helen J. Burgess** (similarity 0.99)
   - `[[Helen Burgess]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blog - I <3 E-Poetry.md
   - `[[Helen J. Burgess]]` — 27 use(s) in 17 file(s), e.g. Publications - Academic/Hyperrhiz - New Media Cultures 2005-2015.md, Publications - Academic/Hyperrhiz - New Media Cultures 2015-2025.md, ELit Conferences/ELO Teams/ELO Team 2016.md
-
-- **Gunn Enli ≈ Gunn Sara Enli** (similarity 0.99)
-  - [[Gunn Sara Enli]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
-  - `[[Gunn Sara Enli]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2006-2016.md
 
 - **Gregory J. Palermo ≈ Gregory Palermo** (similarity 0.99)
   - `[[Gregory J. Palermo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
   - `[[Gregory Palermo]]` — 1 use(s) in 1 file(s), e.g. Organizations/DHQ Staff.md
 
-- **Gregory Crane ≈ Gregory R. Crane** (similarity 0.99)
-  - [[Gregory R. Crane]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Computational Humanities Research.md
-  - `[[Gregory R. Crane]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
-
-- **Glenn Ritchey III ≈ Glenn S. Ritchey III** (similarity 0.99)
-  - [[Glenn S. Ritchey III]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2025.md
-  - `[[Glenn S. Ritchey III]]` — 3 use(s) in 3 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2026.md, ELit Conferences/ELO Teams/ELO Team 2026.md, ELit Conferences/ELO Exhibitions/ELO 2026 Exhibit.md
-
-- **Gilbert Adair ≈ W. Gilbert Adair** (similarity 0.99)
-  - [[W. Gilbert Adair]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
-  - `[[W. Gilbert Adair]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/EBR Fictions Present.md
 
 - **Germaine Halegoua ≈ Germaine R Halegoua** (similarity 0.99)
   - `[[Germaine Halegoua]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
   - `[[Germaine R Halegoua]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
 
-- **Gary B. Wills ≈ Gary Wills** (similarity 0.99)
-  - `[[Gary B. Wills]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Hypermedia 99-08.md
-  - [[Gary B. Wills]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Journ. - Hypermedia 99-08.md, Publications - Academic/Journ. - Hypermedia 09-18.md
 
-- **Gareth R. Schott ≈ Gareth Schott** (similarity 0.99)
-  - `[[Gareth R. Schott]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 1995-2005.md
-  - [[Gareth R. Schott]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 1995-2005.md
 
 - **Gabor Toth ≈ Gábor Mihály Tóth** (similarity 0.99)
   - `[[Gabor Toth]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - the digital review.md
@@ -1190,13 +757,6 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Gabor Mihaly Toth]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
   - `[[Gabor Toth]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - the digital review.md
 
-- **Friedrich A Kittler ≈ Friedrich Kittler** (similarity 0.99)
-  - `[[Friedrich A Kittler]]` — 1 use(s) in 1 file(s), e.g. Archives/Series - Electronic Mediations.md
-  - [[Friedrich A. Kittler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Book - Experimental Poetics to Creative Legacies.md
-
-- **Faith Bassey ≈ Faith Samuel Bassey** (similarity 0.99)
-  - [[Faith Samuel Bassey]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Exhibitions/ELO 2023 Exhibit.md
-  - `[[Faith Samuel Bassey]]` — 4 use(s) in 4 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2026.md, ELit Conferences/ELO Conferences/ELO Conference 2024.md, ELit Conferences/MIX Conferences/MIX 2023.md
 
 - **Eyal Gruss ≈ Eyal Yehowa Gruss** (similarity 0.99)
   - `[[Eyal Gruss]]` — 4 use(s) in 4 file(s), e.g. Anthologies/ELC 5.md, ELit Conferences/ELO Exhibitions/ELO 2023 Exhibit.md, People/If, Then Working Group.md
@@ -1206,45 +766,21 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Eric Arthur Murnane]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Exhibitions/ELO 2020 Exhibit.md
   - `[[Eric Murnane]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2019.md
 
-- **Ephraim & Sadie Hatfield ≈ Ephraim Hatfield** (similarity 0.99)
-  - [[Ephraim Hatfield]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md
-  - `[[Ephraim Hatfield]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
-
-- **Emanuel Dimas Pimenta ≈ Emanuel Dimas de Melo Pimenta** (similarity 0.99)
-  - [[Emanuel Dimas de Melo Pimenta]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Materialities of Literature (MATLIT).md
-  - `[[Emanuel Dimas de Melo Pimenta]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
 
 - **Elizabeth Joan Kelly ≈ Elizabeth Kelly** (similarity 0.99)
   - `[[Elizabeth Joan Kelly]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
   - `[[Elizabeth Kelly]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
 
-- **Elizabeth A Rodwell ≈ Elizabeth Rodwell** (similarity 0.99)
-  - `[[Elizabeth A Rodwell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
-  - [[Elizabeth A. Rodwell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
-
-- **E. Gabriella Coleman ≈ Gabriella Coleman** (similarity 0.99)
-  - `[[E. Gabriella Coleman]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Academic/Ed. Coll. - Johns Hopkins Guide to Digital Media.md
-  - [[E. Gabriella Coleman]]` — 3 use(s) in 3 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Art Mags/LOGIC(S).md, Archives/Series - Electronic Mediations.md
-
-- **Douglas Irving Repetto ≈ Douglas Repetto** (similarity 0.99)
-  - `[[Douglas Irving Repetto]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 1993 - 2010.md
-  - [[Douglas Irving Repetto]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
 
 - **Despoina Feleki ≈ Despoina Nikolaos Feleki** (similarity 0.99)
   - `[[Despoina Feleki]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2023.md
   - `[[Despoina Nikolaos Feleki]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Materialities of Literature (MATLIT).md
 
-- **Dennis Tenen ≈ Dennis Yi Tenen** (similarity 0.99)
-  - [[Dennis Yi Tenen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Journ. - Critical AI.md, Publications - Academic/Ed. Coll. - Debates in Digital Humanities.md
-  - `[[Dennis Yi Tenen]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Robot Review of Books.md
 
 - **Denise Helene Sumi ≈ Denise Sumi** (similarity 0.99)
   - `[[Denise Helene Sumi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed J'About.md
   - `[[Denise Sumi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md
 
-- **Dawn Akemi Sueoka ≈ Dawn Sueoka** (similarity 0.99)
-  - `[[Dawn Akemi Sueoka]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
-  - [[Dawn Akemi Sueoka]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Voispace Zine.md
 
 - **David Saltz ≈ David Z. Saltz** (similarity 0.99)
   - `[[David Saltz]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
@@ -1276,9 +812,6 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Craig Perez]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
   - `[[Craig Santos Perez]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md, Publications - Lit Mags/Jacket2.md
 
-- **Cláudio Fajardo ≈ Luís Claudio Fajardo** (similarity 0.99)
-  - [[Luís Claudio Fajardo]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
-  - `[[Luís Claudio Fajardo]]` — 1 use(s) in 1 file(s), e.g. Anthologies/ELC 3.md
 
 - **Clinton R. Siegle ≈ Clinton Siegle** (similarity 0.99)
   - `[[Clinton R. Siegle]]` — 1 use(s) in 1 file(s), e.g. Awards/NuMeWriPri Shortlists.md
@@ -1292,13 +825,6 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Christopher J. Persaud]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
   - `[[Christopher Persaud]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
 
-- **Christopher Funkhouser ≈ Christopher T. Funkhouser** (similarity 0.99)
-  - [[Christopher T. Funkhouser]]` — 1 use(s) in 1 file(s), e.g. Organizations/WordHack.md
-  - `[[Christopher T. Funkhouser]]` — 28 use(s) in 20 file(s), e.g. Publications - Academic/EBR Electropoetics.md, ELit Conferences/ELO Conferences/ELO Conference 2012.md, ELit Conferences/E-Poetry/E-Poetry 2011 Buffalo.md
-
-- **Christopher Bailey ≈ Christopher P. Bailey** (similarity 0.99)
-  - [[Christopher P. Bailey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Hypermedia 99-08.md
-  - `[[Christopher P. Bailey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Hypermedia 99-08.md
 
 - **Chloe M. A. Mauvais ≈ Chloé Mauvais** (similarity 0.99)
   - `[[Chloe M. A. Mauvais]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2026.md
@@ -1308,17 +834,9 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Cheryll Ruth R Soriano]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
   - `[[Cheryll Ruth Soriano]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
 
-- **Cheryl Ball ≈ Cheryl E. Ball** (similarity 0.99)
-  - [[Cheryl E. Ball]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2015.md, Archives/Répertoire NT2 - 1995-2006.md
-  - `[[Cheryl E. Ball]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2006-2016.md
-
 - **Celine Katzman ≈ Celine Wong Katzman** (similarity 0.99)
   - `[[Celine Katzman]]` — 1 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
   - `[[Celine Wong Katzman]]` — 2 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
-
-- **Cathrin Bengesser ≈ Cathrin Helen Bengesser** (similarity 0.99)
-  - [[Cathrin Helen Bengesser]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
-  - `[[Cathrin Helen Bengesser]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
 
 - **Carol A Stabile ≈ Carol Stabile** (similarity 0.99)
   - `[[Carol A Stabile]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - ADA J'of Gender, New Media, Tech.md
@@ -1332,13 +850,6 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Carlos Kobra]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Lit E Lat 2.md
   - `[[Carlos Ramírez Kobra]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Lit E Lat 2.md
 
-- **Carla Coscarelli ≈ Carla Viana Coscarelli** (similarity 0.99)
-  - [[Carla Viana Coscarelli]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2017.md
-  - `[[Carla Viana Coscarelli]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Materialities of Literature (MATLIT).md
-
-- **Caleb Andrew Milligan ≈ Caleb Milligan** (similarity 0.99)
-  - `[[Caleb Andrew Milligan]]` — 5 use(s) in 4 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2019.md, Publications - Academic/Journ. - the digital review.md, ELit Conferences/ELO Conferences/ELO Conference 2018.md
-  - [[Caleb Andrew Milligan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/MIX Conferences/Mix 2017.md
 
 - **Brian M. Reed ≈ Brian Reed** (similarity 0.99)
   - `[[Brian M. Reed]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Hyperrhiz - New Media Cultures 2005-2015.md, Publications - Lit Mags/Cauldron & Net.md
@@ -1348,37 +859,13 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Brian & Ashley Howe]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
   - `[[Brian Howe]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md, Publications - Lit Mags/Drunken Boat 2000-2012.md
 
-- **Bonnie 'Bo' Ruberg ≈ Bonnie Ruberg** (similarity 0.99)
-  - [[Bonnie 'Bo' Ruberg]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Podcast - First Person Scholar.md, Publications - Academic/Convergence 2017-2027.md
-  - `[[Bonnie Ruberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - ADA J'of Gender, New Media, Tech.md
 
-- **Bomani McClendon ≈ Bomani Oseni McClendon** (similarity 0.99)
-  - [[Bomani Oseni McClendon]]` — 1 use(s) in 1 file(s), e.g. Organizations/WordHack.md
-  - `[[Bomani Oseni McClendon]]` — 1 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
 
-- **Benjamín Moreno ≈ Raul Benjamin Moreno** (similarity 0.99)
-  - [[Raul Benjamín Moreno]]` — 4 use(s) in 4 file(s), e.g. Anthologies/Lit E Lat 1.md, Publications - Academic/Journ. - Culture Machine.md, ELit Conferences/E-Poetry/E-Poetry 2011 Buffalo.md
-  - `[[Raul Benjamin Moreno]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
 
 - **Benjamin Charles Germain Lee ≈ Benjamin Lee** (similarity 0.99)
   - `[[Benjamin Charles Germain Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Computational Humanities Research.md
   - `[[Benjamin Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
 
-- **BOBBY L. SMILEY ≈ Bobby Smiley** (similarity 0.99)
-  - `[[BOBBY L. SMILEY]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Debates in Digital Humanities.md
-  - [[Bobby L. Smiley]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
-
-- **Augusto Marquet ≈ Augusto Vinicius Marquet** (similarity 0.99)
-  - [[Augusto Vinicius Marquet]]` — 1 use(s) in 1 file(s), e.g. Anthologies/ELC 3.md
-  - `[[Augusto Vinicius Marquet]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2018.md
-
-- **Annette Joseph-Gabriel ≈ Annette K. Joseph-Gabriel** (similarity 0.99)
-  - [[Annette K. Joseph-Gabriel]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
-  - `[[Annette K. Joseph-Gabriel]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - Debates in Digital Humanities.md
-
-- **Anne B. McGrail ≈ Anne McGrail** (similarity 0.99)
-  - `[[Anne B. McGrail]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Ed. Coll. - Digital Pedagogy in the Humanities.md, Publications - Academic/Ed. Coll. - Debates in Digital Humanities.md
-  - [[Anne B. McGrail]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
 
 - **Anna E. Kijas ≈ Anna Kijas** (similarity 0.99)
   - `[[Anna E. Kijas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Reviews in Digital Humanities.md
@@ -1391,26 +878,6 @@ Vault: ELitJournals — 23700 distinct link targets
 - **Angus Forbes ≈ Angus G. Forbes** (similarity 0.99)
   - `[[Angus Forbes]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2015.md, ELit Conferences/ELO Exhibitions/ELO 2015 Exhibit.md
   - `[[Angus G. Forbes]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Exhibitions/ELO 2020 Exhibit.md
-
-- **Angelica J. Huizar ≈ Angélica Huizar** (similarity 0.99)
-  - `[[Angelica J. Huizar]]` — 6 use(s) in 6 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2016.md, ELit Conferences/ELO Conferences/ELO Conference 2017.md, ELit Conferences/ELO Conferences/ELO Conference 2018.md
-  - [[Angélica J. Huizar]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/E-Poetry/E-Poetry 2015 Buenos Aires.md, ELit Conferences/ELO Conferences/ELO Conference 2022.md
-
-- **Andrew R. Schrock ≈ Andrew Schrock** (similarity 0.99)
-  - `[[Andrew R. Schrock]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2006-2016.md
-  - [[Andrew R. Schrock]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Convergence 2017-2027.md
-
-- **Andrew Lyman ≈ Andrew T. Lyman** (similarity 0.99)
-  - [[Andrew T. Lyman]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
-  - `[[Andrew T. Lyman]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md
-
-- **Andrew Demirjian ≈ Andrew Haik Demirjian** (similarity 0.99)
-  - [[Andrew Haik Demirjian]]` — 1 use(s) in 1 file(s), e.g. Organizations/WordHack.md
-  - `[[Andrew Haik Demirjian]]` — 11 use(s) in 9 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2019.md, Publications - Lit Mags/The New River 2018- present.md, ELit Conferences/ELO Conferences/ELO Conference 2022.md
-
-- **Andrei R. Thomaz ≈ Andrei Thomaz** (similarity 0.99)
-  - `[[Andrei R. Thomaz]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-  - [[Andrei R. Thomaz]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md
 
 - **Andreas Jacobs ≈ Andreas María Jacobs** (similarity 0.99)
   - `[[Andreas Jacobs]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 2.md, Publications - Academic/Blog - I <3 E-Poetry.md, Publications - Lit Mags/Drunken Boat 2000-2012.md
@@ -1432,17 +899,13 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Ana Carolina dos Santos Marques]]` — 6 use(s) in 2 file(s), e.g. Publications - Academic/Journ. - Materialities of Literature (MATLIT).md, Organizations/DH Now.md
   - `[[Ana Marques]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Language Art Observer.md
 
-- **Ana Albuquerque e Aguilar ≈ Ana Sofia Albuquerque e Aguilar** (similarity 0.99)
-  - [[Ana Sofia Albuquerque e Aguilar]]` — 9 use(s) in 5 file(s), e.g. Publications - Academic/Journ. - Materialities of Literature (MATLIT).md, ELit Conferences/ELO Conferences/ELO Conference 2023.md, ELit Conferences/ELO Conferences/ELO Conference 2020.md
-  - `[[Ana Sofia Albuquerque e Aguilar]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Journ. - Materialities of Literature (MATLIT).md, ELit Conferences/ELO Conferences/ELO Conference 2017.md, ELit Conferences/ELO Conferences/ELO Conference 2018.md
+
 
 - **Amy Louise Wilson ≈ Amy Wilson** (similarity 0.99)
   - `[[Amy Louise Wilson]]` — 1 use(s) in 1 file(s), e.g. Awards/Lumen Prize.md
   - `[[Amy Wilson]]` — 2 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
 
-- **Amy E. Earhart ≈ Amy Earhart** (similarity 0.99)
-  - `[[Amy E. Earhart]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Ed. Coll. - Debates in Digital Humanities.md, Publications - Academic/Ed. Coll. - Bloomsbury Handbook of Digital Humanities.md, Publications - Academic/Journ. - Reviews in Digital Humanities.md
-  - [[Amy E. Earhart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md
+
 
 - **Amy Bruckman ≈ Amy S. Bruckman** (similarity 0.99)
   - `[[Amy Bruckman]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Convergence 1995-2005.md, Publications - Academic/Convergence 2006-2016.md
@@ -1452,13 +915,7 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Amba Raghavan]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
   - `[[Amba S Raghavan]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
 
-- **Alyssa Fahringer ≈ Alyssa Toby Fahringer** (similarity 0.99)
-  - [[Alyssa Toby Fahringer]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
-  - `[[Alyssa Toby Fahringer]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
 
-- **Alys Longley ≈ Alys M. Longley** (similarity 0.99)
-  - [[Alys M. Longley]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Hyperrhiz - New Media Cultures 2005-2015.md, ELit Conferences/ELO Exhibitions/ELO 2024 Exhibit.md
-  - `[[Alys M. Longley]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2024.md
 
 - **Alice Boatwright ≈ Alice K. Boatwright** (similarity 0.99)
   - `[[Alice Boatwright]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
@@ -1468,9 +925,6 @@ Vault: ELitJournals — 23700 distinct link targets
   - `[[Ali Pearl]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2017.md, ELit Conferences/ELO Conferences/ELO Conference 2018.md
   - `[[Ali Rachel Pearl]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Journ. - ADA J'of Gender, New Media, Tech.md, Publications - Academic/Hyperrhiz - New Media Cultures 2015-2025.md, ELit Conferences/ELO Conferences/ELO Conference 2016.md
 
-- **Alexandra (Sasha) Anikina ≈ Alexandra Anikina** (similarity 0.99)
-  - [[Alexandra Anikina]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md
-  - `[[Alexandra Anikina]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Journ. - A Peer-Reviewed J'About.md, Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md
 
 - **Alex Lee ≈ Alex Taek-Gwang Lee** (similarity 0.99)
   - `[[Alex Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
@@ -1483,10 +937,6 @@ Vault: ELitJournals — 23700 distinct link targets
 - **Alan Mathison Turing ≈ Alan Turing** (similarity 0.99)
   - `[[Alan Mathison Turing]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Media Art Net.md
   - `[[Alan Turing]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Ed. Coll. - New Media Reader.md
-
-- **Alan Blackwell ≈ Alan F. Blackwell** (similarity 0.99)
-  - [[Alan F. Blackwell]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Journ. - Critical AI.md, Publications - Academic/Journ. - A Peer-Reviewed Newspaper.md
-  - `[[Alan F. Blackwell]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md
 
 
 - **A. King ≈ M A King** (similarity 0.99)

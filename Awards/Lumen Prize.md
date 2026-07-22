@@ -19,7 +19,7 @@
 - Gold Award: [[Theresa Reiwer]]
 - Still Image Award: [[Diego Trujillo Pisanty]]
 - Moving Image Award: [[Chia Amisola]]
-- Interactive Immersive Award: [[Marc Da Costa]] and [[Matthew Niederhauser]]
+- Interactive Immersive Award: [[Marc DaCosta]] and [[Matthew Niederhauser]]
 - Futures Award: [[Parsons & Charlesworth]]
 - Impact Award: [[Lukas Truniger]]
 - Nordic Award: [[Maren Dagny Juell]]

@@ -25,7 +25,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Leonardo Flores]] (U. Puerto Rico Mayaguez, USA), "Mainstreaming Electronic Literature"
 - [[Claudia Kozak]] (U. Buenos Aires, Argentina), "Experimental Communities and Creative Laboratories in Latin American Electronic Literature"
-- [[Verónica Gómez]] (National U. Littoral, Argentina), "E-literature Locations: National Elements for Global Positioning in the ELC3"
+- [[Verónica Paula Gómez]] (National U. Littoral, Argentina), "E-literature Locations: National Elements for Global Positioning in the ELC3"
 
 - [[Thea Pitman]] (U. Leeds, UK), "Hypertext and Biculturality in the Early Work of Lucia Grossberger Morales and Jacalyn Lopez Garcia"
 - [[Nohelia Meza]] (U. Pompeu Fabra, Spain), "Voices and Figures: Towards a Digital Rhetoric of Latin American Works of Electronic Literature"
@@ -86,7 +86,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Rogério Barbosa da Silva]] (Federal Center of Technological Education Minas Gerais, Brazil), [[Caio Roberto Saldanha]] (Federal Center of Technological Education Minas Gerais, Brazil), and [[Amanda Rafaela Gomes Martins]] (Federal Center of Technological Education Minas Gerais, Brazil), "Poemaps: Perspectives for Creation and Circulation of Poetry in the Multimedia Context"
 - [[Pablo Gobira]] (State U. Minas Gerais, Brazil), "Aleph System: A Poetic Interface for Computational Works of Art"
-- [[Álvaro Andrade Garcia]] (Ciclope, Brazil) and [[Lucas Junqueira]]*, "Toy Poems and Free Software Managana: Challenges of a Transmedia Publication"
+- [[Álvaro Andrade García]] (Ciclope, Brazil) and [[Lucas Junqueira]]*, "Toy Poems and Free Software Managana: Challenges of a Transmedia Publication"
 - [[Wagner Moreira]] (Federal Center of Technological Education Minas Gerais, Brazil), [[Andre Menezes]] (Studio Alfavaca, Brazil), and [[Cardes Amâncio]]*, "The Poetic Technical Image: to Think a Politics of the Look"
 - [[Francisco Marinho]]* and Álvaro Andrade Garcia (Ciclope, Brazil), "Computational Poetry: Processes of Collective Creation and Authorship between Men and Machines"
 - [[Carla Viana Coscarelli]] (Federal U. Minas Gerais, Brazil) and [[Ana Elisa Ribeiro]] (Federal Center of Technological Education Minas Gerais, Brazil), "Literacy and Literature for the 21st Century"
@@ -112,7 +112,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Leonardo Flores]] (U. Puerto Rico Mayaguez, USA), "Mainstreaming Electronic Literature"
 - [[Claudia Kozak]] (U. Buenos Aires, Argentina), "Experimental Communities and Creative Laboratories in Latin American Electronic Literature"
-- [[Verónica Gómez]] (National U. Littoral, Argentina), "E-literature Locations: National Elements for Global Positioning in the ELC3"
+- [[Verónica Paula Gómez]] (National U. Littoral, Argentina), "E-literature Locations: National Elements for Global Positioning in the ELC3"
 
 - [[Laura Borràs Castanyer]] (U. Barcelona, Spain), "'Be Water, My Friend': On Liquid Metaphors in Digital Poetry"
 - [[Giovanna Di Rosario]] (Catholic U. Louvain, Belgium), "Mapping Female Voices in Digital Literature"
@@ -192,7 +192,7 @@ A Transatlantic Take on Translating E-Lit: A Roundtable Discussion [Chair: Kathi
 - [[María Mencía]] (Kingston U., UK)
 - [[Søren Bro Pold]] (Aarhus U., Denmark)
 - [[Manuel Portela]] (U. Coimbra, Portugal)
-- [[Julie Chateauvert]]*
+- [[Julie Châteauvert]]*
 
 Communities in the Making: Motivations, Objectives, and Values of Creative Literary Networks Online [Chair: Leonardo Flores]  
 
@@ -288,5 +288,5 @@ E-Lit for Children [Chair: Astrid Ensslin]
 
 - [[Thales Estefani]] (Federal U. Juiz de Fora, Brazil) and [[João Queiroz]]*, "Children's Picturebook Goes Digital: Implications on Cognition"
 - [[Hannah Ackermans]] (U. Utrecht, Netherlands), "Electronic Literature: A Coming-Of-Age Story"
-- [[Monica Daisy Vieira Araújo]] (Brazil) and [[Isabel Cristina Alves da Silva Frade]]*, "Digital Literary Reading Experiences by Young Readers"
+- [[Mônica Daisy Vieira Araújo]] (Brazil) and [[Isabel Cristina Alves da Silva Frade]]*, "Digital Literary Reading Experiences by Young Readers"
 - [[Marina Gabelica]] (U. Zagreb, Croatia), "Electronic Children's Literature Criticism – Exploring Electronic Picture Books"

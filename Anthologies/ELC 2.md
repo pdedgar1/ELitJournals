@@ -33,7 +33,7 @@
 [[Mark C. Marino]]
 **[[Michael Mateas]] and [[Andrew Stern]]**
 [[Mez Breeze]]
-**[[K Michel]] and [[Dirk Vis]]**
+**[[K. Michel]] and [[Dirk Vis]]**
 [[Nick Montfort]]
 [[Nick Montfort]]
 [[Judd Morrissey]]

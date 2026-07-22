@@ -360,7 +360,7 @@ CELL member : Portuguese Language E-lit
 |[[Natascha Gomes Paiva]]|
 |[[Nei Leandro de Castro]]|
 |[[Nelson Veríssimo]]|
-|[[Nuno Ferreira]]|
+|[[Nuno F. Ferreira]]|
 |[[Nuno M Cardoso]]|
 |[[Nuno Miguel Neves]]|
 |[[Omar Khouri]]|

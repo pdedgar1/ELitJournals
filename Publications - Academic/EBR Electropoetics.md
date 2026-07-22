@@ -32,7 +32,7 @@
 # 2022
 [[Patrick Lichty]]
 [[Aden Evens]]
-[[Melinda White]]
+[[Melinda M. White]]
 [[Mariusz Pisarski]]
 [[Anna Nacher]], [[Scott Rettberg]], [[Søren Bro Pold]], [[xtine burrough]]
 [[Jeffrey Gonzalez]]
@@ -213,7 +213,7 @@
 [[Lisa Swanstrom]]
 [[Stuart Moulthrop]]
 ## 2010
-[[Whitney Trettien]]
+[[Whitney Anne Trettien]]
 [[Kate Pullinger]]
 [[Alice Bell]], [[Astrid Ensslin]], [[David Ciccoricco]], [[Hans Kristian Rustad]], [[Jessica M. Laccetti]], [[Jessica Pressman]]
 ## 2009

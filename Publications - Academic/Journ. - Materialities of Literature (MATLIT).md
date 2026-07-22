@@ -174,10 +174,10 @@ Nair Renata Amâncio
 | [[Pedro Andrade]]                                                                                           |
 | [[Claudia Cristina da Silva]], [[Valentina Nisi]], [[Joseph Straubhaar]]                                    |
 | [[Rogério Barbosa da Silva]], [[Amanda R. G. Martins]], [[Caio Roberto Saldanha]]                           |
-| [[Mônica Araújo]], [[Isabel Cristina Alves da Silva Frade]]                                                 |
+| [[Mônica Daisy Vieira Araújo]], [[Isabel Cristina Alves da Silva Frade]]                                                 |
 | [[Margaret Simon]], [[Helen J. Burgess]]                                                                    |
 | [[D. Fox Harrell]], [[Pablo Ortiz]], [[Peter Downs]], [[Maya Wagoner]], [[Elizabeth Carré]], [[Annie Wang]] |
-| [[Álvaro Andrade Garcia]], [[Lucas Santos Junqueira]]                                                       |
+| [[Álvaro Andrade García]], [[Lucas Santos Junqueira]]                                                       |
 | [[Alckmar Luís dos Santos]]                                                                                 |
 
 #### Issue 1 ed. [[Rui Torres]], [[Manuel Portela]]
@@ -196,7 +196,7 @@ Nair Renata Amâncio
 | [[Amy Spencer]]                                                               |
 | [[Shanmugapriya T]], [[Nirmala Menon]]                                        |
 | [[Karen ann Donnachie]], [[Andy Simionato]]                                   |
-| [[Luis Leite]], [[Rui Torres]], [[Luis Aly]]                                  |
+| [[Luis Leite]], [[Rui Torres]], [[Luís Aly]]                                  |
 | [[Stephanie Tripp]]                                                           |
 | [[Thomas Mantzaris]]                                                          |
 | [[Ana Carolina dos Santos Marques]]                                                               |

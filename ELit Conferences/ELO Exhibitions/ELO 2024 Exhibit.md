@@ -38,7 +38,7 @@
 [[Nick Montfort]]
 [[|Nicté Toxqui]], [[Rodrigo Velasco]]
 [[Patrick Lichty]]
-[[Prakruti Bhatt]], [[Denise+Deena Larsen]]
+[[Prakruti K. Bhatt]], [[Denise+Deena Larsen]]
 [[Robert A. Emmons Jr.]]
 [[Sam Heckle]]
 [[Saskia 'Chaski' Knowles]]

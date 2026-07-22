@@ -59,7 +59,7 @@ Chair: [[Robert Glick]], Rochester Institute of Technology
 - "Beyond Original E-Lit: Deconstructing Austen Cybertexts," [[Meredith Dabek]], Maynooth University
 - Arabic E-Lit. (AEL) Project, [[Reham Hosny]], Rochester Institute of Technology/Minia University
 - "Poetic Machines," [[Sidse Rubens LeFevre]], University of Copenhagen
-- "Meta for Meta's Sake," [[Melinda White]]
+- "Meta for Meta's Sake," [[Melinda M. White]]
 - "Electronic literature production – a Case Study of Korporacja Ha!art," [[Aleksandra Małecka]] and [[Piotr Małecki]], Jagiellonian University
 
 Chair: [[James O'Sullivan]], University of Sheffield
@@ -67,7 +67,7 @@ Chair: [[James O'Sullivan]], University of Sheffield
 - "Different Tools but Similar Wits," [[Guangxu Zhao]], University of Ottawa
 - "Digital Aesthetics," [[Bertrand Gervais]], Université du Québec à Montréal
 - "Hatsune Miku," [[Roman Kalinovski]], Independent Scholar
-- "Meta for Meta's Sake," [[Melinda White]], University of New Hampshire
+- "Meta for Meta's Sake," [[Melinda M. White]], University of New Hampshire
 - "Narrative Texture," [[Luciane Maria Fadel]], Simon Fraser University
 - "Natural Language Generation," by [[Stefan Müller Arisona]]
 - "Poetic Machines," [[Sidse Rubens LeFevre]], University of Copenhagen
@@ -218,7 +218,7 @@ Chair: [[Andrew Klobucar]], New Jersey Institute of Technology
 - [[Patrick LeMieux]], UC Davis
 - [[Philippe Bootz]], Université Paris 8
 - [[Lucile Haute]], Université Paris 8
-- [[Nolwenn Trehondart]], Université Paris 8
+- [[Nolwenn Tréhondart]], Université Paris 8
 - [[Steven Wingate]], South Dakota State University
 
 Moderator: [[Anastasia Salter]], University of Central Florida

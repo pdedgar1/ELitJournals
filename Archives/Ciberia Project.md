@@ -12,7 +12,7 @@
 | [[Antonio Alvarado]]           |
 | [[isabel aranda]]              |
 | [[salvador barajas]]           |
-| [[laura barron]]               |
+| [[laura barrón]]               |
 | [[miguel angel campos]]        |
 | [[paulo carvajal]]             |
 | [[paco chavinet]]              |
@@ -43,8 +43,8 @@
 | [[marcelo guerrieri]]          |
 | [[Juan B. Gutiérrez]]          |
 | [[]]                           |
-| [[isaias herrero]]             |
-| [[isaias herrero]]             |
+| [[isaías herrero]]             |
+| [[isaías herrero]]             |
 | [[ricardo iglesias]]           |
 | [[intact]]                     |
 | [[intimidad romero]]           |
@@ -59,10 +59,10 @@
 | [[María Mencía]]               |
 | [[mmmm....]]                   |
 |                                |
-| [[benjamin moreno]]            |
+| [[benjamín moreno]]            |
 | [[antoni muntadas]]            |
 | [[antoni muntadas]]            |
-| [[ciro museres]]               |
+| [[Ciro Múseres]]               |
 | [[]]                           |
 | [[Élika Ortega]]               |
 | [[santiago ortiz]]             |
@@ -72,7 +72,7 @@
 | [[Gustavo Romano]]             |
 | [[daniel ruiz]]                |
 | [[beatriz sanchez]]            |
-| [[Mario Santamaria]]           |
+| [[Mario Santamaría]]           |
 | [[santo file]]                 |
 | [[Alex Saum-Pascual]]          |
 | [[alegret serrat]]             |

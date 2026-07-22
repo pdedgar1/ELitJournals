@@ -77,7 +77,7 @@
 |[[Elson Fróes]]|
 |[[Edgard Braga]]|
 |[[Diniz Antônio Gonçalves Jr. ]]|
-|[[Decio Pignatari]]|
+|[[Décio Pignatari]]|
 |[[Daniele Gomes]]|
 |[[Celia Mello]]|
 |[[Leandro Vieira ]]|
@@ -112,10 +112,10 @@
 |[[Claudia Grechi Steiner]]|
 |[[Carlos Adriano]]|
 |[[Ana Gruszynski ]]|
-|[[Sergio Capparelli]]|
+|[[Sérgio Capparelli]]|
 |[[Daniel Quevedo ]]|
 |[[Sérgio Capparelli]]|
-|[[Álvaro Andrade Garcia]]|
+|[[Álvaro Andrade García]]|
 |[[Alberto Lins Caldas ]]|
 |[[Oak Age]]|
 |[[Adriana Calcanhoto]]|

@@ -35,7 +35,7 @@
 [[Judy Malloy]]
 [[Chris Mann]]
 [[Lello Masucci]]
-[[Pelayo Mendez]]
+[[Pelayo Méndez]]
 [[Mez Breeze]]
 
 [[Mez Breeze]] + [[shane hinton]]

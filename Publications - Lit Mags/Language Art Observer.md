@@ -23,7 +23,7 @@ https://thelaob.com/about.html
 | [[John Cayley]]          |
 | [[Kavi Duvvoori]]        |
 | [[Kyle Booten]]          |
-| [[Nora Khan]]            |
+| [[Nora N. Khan]]            |
 | [[Penny Florence]]       |
 | [[Qianxun Chen]]         |
 | [[Samantha Gorman]]      |

@@ -118,7 +118,7 @@ CELL Member  : French-language E-lit
 | [[Cédric Chabuel]]                    |
 | [[Victoria Chang]]                    |
 | [[Eve Charest-Déry]]                  |
-| [[Julie Chateauvert]]                 |
+| [[Julie Châteauvert]]                 |
 | [[Grégory Chatonsky]]                 |
 | [[Travis Chen]]                       |
 | [[Steph Cherrywell]]                  |
@@ -440,7 +440,7 @@ CELL Member  : French-language E-lit
 | [[Matt Mullins]]                      |
 | [[Mathieu Mundviller]]                |
 | [[Jim Munroe]]                        |
-| [[Ciro Museres]]                      |
+| [[Ciro Múseres]]                      |
 | [[Hugo Nadeau]]                       |
 | [[Cestac Nadja]]                      |
 | [[Ricardo Nascimento]]                |
@@ -609,6 +609,6 @@ CELL Member  : French-language E-lit
 | [[C. J. Yeh]]                         |
 | [[Young-Hae Chang HEAVY INDUSTRIES]]  |
 | [[Cale Zack]]                         |
-| [[Jaka Zeleznikar]]                   |
+| [[Jaka Železnikar]]                   |
 | [[Jody Zellen]]                       |
 | [[Komninos Konstantinos Zervos]]      |

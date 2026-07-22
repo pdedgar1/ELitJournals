@@ -256,7 +256,7 @@
 - [[M. Najafian Razavi]]
 - [[L. Iverson]]
 - [[Shailey Minocha]]
-- [[Peter G. Thomas]]
+- [[Peter J. Thomas]]
 - [[Jörg Diederich]]
 - [[Martin Dzbor]]
 - [[Diana Maynard]]

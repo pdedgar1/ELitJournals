@@ -30,7 +30,7 @@ Exec Board
 [[Youngmin Kim]]
 
 Committee Chairs
-[[Paul Arthur]]
+[[Paul Longley Arthur]]
 [[Keli Du]], [[Stefano Morello]], 
 [[Simon Wiles]]
 [[Raluca Tanasescu]]

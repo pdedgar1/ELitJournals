@@ -143,7 +143,7 @@
 | [[Mark C. Marino]]                |
 | [[Mark L. Sample]]                   |
 | [[Mary Bunch]]                    |
-| [[Matthew Griffin]]               |
+| [[Matthew F. Griffin]]               |
 | [[Maureen Engel]]                 |
 | [[Mehulkumar Desai]]              |
 | [[Mez Breeze]]                    |
@@ -225,7 +225,7 @@
 | [[Monica Storss]]                 |
 | [[Monique Tschofen]]              |
 | [[Peter Woods]]                   |
-| [[Renee Turner]]                  |
+| [[Renée Turner]]                  |
 | [[Rob Wittig]]                    |
 | [[Roberto Valdivia]]              |
 | [[Rui Torres]]                    |
