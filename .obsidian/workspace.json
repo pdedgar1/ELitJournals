@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Alias Report"
             }
-          },
-          {
-            "id": "60ff11e357c3cac7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3558e22f65bf0dba",
@@ -192,7 +182,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "60ff11e357c3cac7",
+  "active": "889f9e7857966cbb",
   "lastOpenFiles": [
     "Alias Report.md",
     "Joan Elies Adell.md",
