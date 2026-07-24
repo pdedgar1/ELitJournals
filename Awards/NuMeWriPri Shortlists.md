@@ -84,7 +84,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Roxinn Arts]]                                                                                                                                             |
 | [[Franziska Ostermann]]                                                                                                                                     |
 | [[Emma Husa]]                                                                                                                                               |
-| [[Lucia Carvalho]]                                                                                                                                          |
+| [[Lucía Carvalho]]                                                                                                                                          |
 | [[Brynna Hosszu]]                                                                                                                                           |
 | [[Teshani Nanayakkara]]                                                                                                                                     |
 | [[Eugenio Tisselli]]                                                                                                                                        |

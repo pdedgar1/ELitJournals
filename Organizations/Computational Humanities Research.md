@@ -69,7 +69,7 @@ Advisory
 [[Kenton Rambsy]]
 [[Marton Ribari]]
 [[Roopika Risam]]
-[[Artjoms Sela]]
+[[Artjoms Šeļa]]
 [[Pelle Snickars]]
 [[Oleg Sobchuk]]
 [[Nina Tahmasebi]]

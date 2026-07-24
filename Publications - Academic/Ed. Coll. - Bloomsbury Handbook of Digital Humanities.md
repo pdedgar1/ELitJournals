@@ -33,7 +33,7 @@ Part 1 Perspectives & Polemics
 
 8 Multilingual Digital Humanities 83
 
-[[Pedro Nilsson-Fernàndez]] and [[Quinn Dombrowski]]
+[[Pedro Nilsson-Fernández]] and [[Quinn Dombrowski]]
 
 9 Digital Humanities and/as Media Studies 93
 

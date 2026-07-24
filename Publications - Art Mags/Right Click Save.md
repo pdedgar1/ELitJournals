@@ -200,7 +200,7 @@ Digital Art Magazine Post-2020
 |[[Nina Knaack]]|
 |[[Nina Knaack]]|
 |[[Noelia Gamallo]]|
-|[[Nora O' Murchú]]|
+|[[Nóra Ó  Murchú]]|
 |[[Noriaki Nakata]]|
 |[[Paul Cohen]]|
 |[[Paul Cohen]]|
@@ -233,7 +233,7 @@ Digital Art Magazine Post-2020
 |[[Simon Indelicate]]|
 |[[Sofia Garcia]] and [[Maya Man]]|
 |[[Stina Gustafsson]]|
-|[[Stina Gustafsson]] and [[aurèce vettier]]|
+|[[Stina Gustafsson]] and [[auréce vettier]]|
 |[[Sy Taffel]]|
 |[[Toshiaki Takase]]|
 |[[Valentino Catricalà]]|

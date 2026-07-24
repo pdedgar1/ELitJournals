@@ -38,7 +38,7 @@ https://the-next.eliterature.org/collections/29&pg=1&display=100&sort=date
 [[Grégory Fabre]]
 ### 2012
 [[Charles Guillocher]]
-[[Jean-Francois Boulan]]
+[[Jean-François Boulan]]
 [[Sébastien Cliche]]
 [[Line Dezainde]]
 [[Myriam Lambert]]

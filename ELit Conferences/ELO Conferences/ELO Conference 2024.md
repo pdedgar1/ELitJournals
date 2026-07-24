@@ -121,7 +121,7 @@ Proceedings introduction
 | [[Chloe Anna Milligan]]                                                                                     |
 | [[Claudia Kozak]]                                                                                         |
 | [[Collier Nogues]]                                                                                        |
-| [[Dan Cox]]                                                                                               |
+| [[Daniel Cox]]                                                                                               |
 | [[Danuta Jędrusiak]]                                                                                      |
 | [[David Thomas Henry Wright]]                                                                             |
 | [[Elsa Pereira]]                                                                                          |

@@ -335,7 +335,7 @@ https://the-next.eliterature.org/collections/17
 [[Wesley Thomas Meyer]]
 [[Mark Napier]]
 [[Nick Didkovsky]]
-[[Tina La Porta]]
+[[Tina LaPorta]]
 [[Zoe Beloff]]
 [[Jesse Gilbert]]
 
@@ -353,7 +353,7 @@ https://the-next.eliterature.org/collections/17
 ## 1999
 [[Zoe Beloff]]
 [[Angie Eng]]
-[[Tina La Porta]]
+[[Tina LaPorta]]
 [[Annette Weintraub]]
 [[David Crawford]]
 [[Eric Riel]]

@@ -1207,7 +1207,7 @@ CELL Member  : French-language E-lit
 | [[Jody Zellen]]                                          |
 | [[Marina Zerbarini]]                                     |
 | [[Philippe Zulaica]]                                     |
-| [[Ricardo Miranda Zuniga]]                               |
+| [[Ricardo Miranda Zúñiga]]                               |
 
 
 

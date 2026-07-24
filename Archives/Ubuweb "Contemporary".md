@@ -34,7 +34,7 @@ Works included in this section, on the whole, must not be able to be reproduced 
 | [[Dirk Rowntree]]                                |
 | [[Edwin Torres]]                                 |
 | [[Elana Mann]] & [[Adam Overton]]                |
-| [[Elson Froes]]                                  |
+| [[Elson Fróes]]                                  |
 | [[Ergo Phizmiz]]                                 |
 | [[Eric Rosolowski]]                              |
 | [[Erica Baum]]                                   |

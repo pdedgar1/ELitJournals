@@ -477,7 +477,7 @@
 | FINALISTS                        |
 | [[Alfred Corn]]                  |
 | [[Kevin Clark]]                  |
-| [[Ricardo Miranda Zuniga]]       |
+| [[Ricardo Miranda Zúñiga]]       |
 | [[Art Saltzman]]                 |
 
 ### # 9 2008
@@ -860,7 +860,7 @@
 [[Jonathan Hobratsch]]
 [[Sally Ito]]
 [[Lesley Jenike]]
-[[L.S. Klatt]]
+[[L. S. Klatt]]
 [[Denise Lajimodiere]]
 [[Rebecca Lehmann]]
 [[Caroline Manring]]

@@ -353,7 +353,7 @@
 | [[Mehitabel Glenhaber]]           |     |
 | [[David Gochfeld]]                |     |
 | [[María Goicoechea de Jorge]]     |     |
-| [[Verónica Paula Gomez]]                |     |
+| [[Verónica Paula Gómez]]                |     |
 | [[Risa Gorelick]]                 |     |
 | [[Monika Górska-Olesińska]]       |     |
 | [[Brian Greenspan]]               |     |

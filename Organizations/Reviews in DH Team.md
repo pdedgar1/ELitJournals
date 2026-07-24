@@ -41,7 +41,7 @@ Trans and Gender Studies
 
 [[Tatiana Bryant]], Barnard College, USA
 [[Maria E. Cotera]], University of Texas at Austin, USA 
-[[T.L. Cowan]], University of Toronto, Canada
+[[T. L. Cowan]], University of Toronto, Canada
 [[Gimena del Rio Riande]], Seminario de Edicion y Crítica Textual of the National Scientific and Technical Research Council (CONICET), Argentina
 [[Øyvind Eide]], University of Cologne, Germany
 [[Sylvia Fernández Quintanilla]], University of Kansas, USA

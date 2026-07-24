@@ -1,7 +1,7 @@
 |   |
 |---|
 |[[Arthur Moura Campos]]|
-|[[Flavio Komatsu]]|
+|[[Flávio Komatsu]]|
 |[[Bruna Mayer ]]|
 |[[Clayton Policarpo ]]|
 |[[Dario Vargas ]]|
@@ -104,7 +104,7 @@
 |[[Pedro Veneroso.]]|
 |[[Marco Antonio Pajola]]|
 |[[Julia Debasse]]|
-|[[Jose Carlos Silvestre]]|
+|[[José Carlos Silvestre]]|
 |[[Helena Parente Cunha]]|
 |[[Giselle Beiguelman]]|
 |[[Fernando Fiorese]]|

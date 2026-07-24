@@ -5,7 +5,7 @@
 [[Lee Jenkins]]
 [[Donna Alexander]]
 [[David Murphy]]
-[[Orla Murphy]]
+[[Órla Murphy]]
 [[Pedro Nilsson-Fernández]]
 [[Chris Clarke]]
 
@@ -99,7 +99,7 @@
 | [[María Goicoechea de Jorge]]                                                                                    |
 | [[Filip Jankowski]]                                                                                     |
 | [[Anna Nacher]]                                                                                         |
-| [[Pedro Nilsson-Fernàndez]]                                                                             |
+| [[Pedro Nilsson-Fernández]]                                                                             |
 | [[Caleb Andrew Milligan]]                                                                               |
 | [[John F. Barber]]                                                                                      |
 | [[Will Luers]]                                                                                          |
@@ -180,7 +180,7 @@
 | [[Caleb Andrew Milligan]]                                                                               |
 | [[David Thomas Henry Wright]]                                                                           |
 | [[Erik Zepka]]                                                                                          |
-| [[Pedro Nilsson-Fernàndez]]                                                                             |
+| [[Pedro Nilsson-Fernández]]                                                                             |
 | [[Helena Van Praet]]                                                                                    |
 | [[Rob Wittig]]                                                                                          |
 | [[Laura Santini]]                                                                                       |
@@ -293,7 +293,7 @@
 | [[Hana Atcheson]] & [[Andrea Gogova]]                                                                   |
 | [[Mark C. Marino]]                                                                                      |
 | [[Anna Meli]]                                                                                           |
-| [[Mairead Byrne]] (Rhode Island School of Design)]]                                                     |
+| [[Mairéad Byrne]] (Rhode Island School of Design)]]                                                     |
 | [[Abigel Lemak]]                                                                                        |
 | [[Jason Nelson]] (Griffith University)]]                                                                |
 | [[Cecília Magalhães]]                                                                                   |

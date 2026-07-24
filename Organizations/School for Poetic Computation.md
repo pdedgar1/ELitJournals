@@ -282,7 +282,7 @@
 [[Scott Leinweber]]
 [[Sean Catangui]]
 [[Sean McIntyre]]
-[[Sebastian Morales]]
+[[Sebastián Morales]]
 [[Selin Baykal]]
 [[Shana Kimball]]
 [[Shannon Finnegan]]

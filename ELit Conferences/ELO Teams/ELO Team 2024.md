@@ -50,7 +50,7 @@
 [[Jason Nelson]], University of Bergen
 [[PS Berge]], University of Central Florida
 [[Mez Breeze]], Independent Artist
-[[Dan Cox]], University of Central Florida
+[[Daniel Cox]], University of Central Florida
 [[John T. Murray]], University of Central Florida
 [[Chloe Anna Milligan]], Pennsylvania State University, Berks College
 [[Nikki Barnes]], University of Central Florida

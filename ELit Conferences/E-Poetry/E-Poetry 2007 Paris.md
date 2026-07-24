@@ -6,7 +6,7 @@ An International digital Poetry Festival
 
 |                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Lucio Agra]] (BR) & [[Paulo Hartmann]] (BR) -- [[Lawrence Upton]] & [[John Drever]] (UK)                                                                                                                                      |
+| [[Lúcio Agra]] (BR) & [[Paulo Hartmann]] (BR) -- [[Lawrence Upton]] & [[John Drever]] (UK)                                                                                                                                      |
 | [[Gérard Giacchi]] (F) -- [[Wilton Azevedo]] (BR)                                                                                                                                                                               |
 | [[Jörg Piringer]] (A) -- [[Philippe Boisnard]] & [[Hortense Gaulthier]] (F)                                                                                                                                                     |
 | [[Christopher T. Funkhouser]] & [[Daniela Franco]] & [[Alireza Khatami]] (USA) -- [[Philippe Castellin]] (F) -- [[Loss Pequeño Glazier]] (USA)                                                                                  |

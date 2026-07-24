@@ -12,12 +12,12 @@
 |[[Anne Pasek]], [[Cindy Kaiying Lin]], [[Zane Griffin Talley Cooper]] and [[Jordan B  Kinder]]|
 |[[Armin Beverungen]], [[Philip Mirowski]], [[Edward Nik Khah]] and [[Jens Schröter]]|
 |[[Clemens Apprich]], [[Wendy Hui Kyong Chun]], [[Florian Cramer]] and [[Hito Steyerl]]|
-|[[Giselle Beiguelman]], [[Melody Devries]], [[Winnie Soon]] and [[Magdalena Tyzlik Carver]]|
+|[[Giselle Beiguelman]], [[Melody Devries]], [[Winnie Soon]] and [[Magdalena Tyżlik-Carver]]|
 |[[Ioana B  Jucan]], [[Jussi Parikka]] and [[Rebecca Schneider]]|
 |[[John Durham Peters]], [[Florian Sprenger]] and [[Christina Vagt]]|
 |[[Joshua Neves]], [[Aleena Chia]], [[Susanna Paasonen]] and [[Ravi Sundaram]]|
 |[[Leonardo Impett]] and [[Fabian Offert]]|
-|[[M  Beatrice Fazi]], [[Alexander R. Galloway]], [[Matthew Handelman]] and [[Leif Weatherby]]|
+|[[M Beatrice Fazi]], [[Alexander R. Galloway]], [[Matthew Handelman]] and [[Leif Weatherby]]|
 |[[Paula Bialski]], [[Finn Brunton]] and [[Mercedes Bunz]]|
 |[[Ranjodh Singh Dhaliwal]], [[Théo LePage Richer]] and [[Lucy Suchman]]|
 |[[Rutvica Andrijasevic]], [[Melissa Gregg]], [[Marc Steinberg]] and [[Julie Yujie Chen]]|

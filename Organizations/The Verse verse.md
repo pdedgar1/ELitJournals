@@ -9,7 +9,7 @@
 [[Ana María Caballero]]
 [[Andrea Halaby]]
 [[Astra Papachristodoulou]]
-[[aurèce vettier]]
+[[auréce vettier]]
 [[Bernar Venet]]
 [[Campbell McGrath]]
 [[Caridad Moro-Gronlier]]

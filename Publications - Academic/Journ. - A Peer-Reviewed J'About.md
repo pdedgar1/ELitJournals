@@ -39,7 +39,7 @@ Reviewers :
 | [[Nathan Jones]]                 |     |
 | [[Ned Rossiter]]                 |     |
 | [[Nicolas Malevé]]               |     |
-| [[Nora O Murchú]]                |     |
+| [[Nóra Ó  Murchú]]                |     |
 | [[Olga Goriunova]]               |     |
 | [[Pablo R. Velasco]]                |     |
 | [[Pierre Depaz]]                 |     |

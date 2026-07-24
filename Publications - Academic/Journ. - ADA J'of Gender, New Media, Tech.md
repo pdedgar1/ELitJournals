@@ -32,7 +32,7 @@
 | [[Mia Consalvo]]                |
 | [[Brittany Cooper]]             |
 | [[Tressie McMillan Cottom]]     |
-| [[T.L. Cowan]]                  |
+| [[T. L. Cowan]]                  |
 | [[Sky Croeser]]                 |
 | [[Deanna Day]]                  |
 | [[Lori Beth De Hertogh]]        |

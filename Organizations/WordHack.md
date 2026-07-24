@@ -44,7 +44,7 @@
 - 9/20/18: [[Joanne McNeil]], [[Martin O'Leary]], [[Esther Seyffarth]]
 - 7/20/18: [[Christopher Clary]], [[Claire Donato]], [[Anastasis Germanidis]], [[Ross Goodwin]], [[Sarah Groff Hennigh-Palermo]], [[Ian Hatcher]], [[Allison Parrish]], [[Angie Waller]], [[Jamie Brew]]
 - 6/21/18: [[Zach Lieberman]], [[Oscar Schwartz]]
-- 5/17/18: [[Ursula Endlicher]], [[Aarón Montoya-Moraga]], [[Tiri Kananuruk]], [[Alden Jones]], [[Sebastian Morales]], [[Kathy Wu]]
+- 5/17/18: [[Ursula Endlicher]], [[Aarón Montoya-Moraga]], [[Tiri Kananuruk]], [[Alden Jones]], [[Sebastián Morales]], [[Kathy Wu]]
 - 4/19/18: [[Finn Brunton]], [[Andrew Haik Demirjian]], [[Aaron Petcoff]]
 - 3/15/18: [[Jamie Brew]], [[Rachel Haberstroh]], [[Alexis Wright]]
 - 2/15/18: [[Taeyoon Choi]], [[Nora N. Khan]]

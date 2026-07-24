@@ -1,5 +1,5 @@
 #anthology
-### Edited by [[Zach Whalen]], [[Dan Cox]], [[Alex Saum-Pascual]], [[Élika Ortega]]
+### Edited by [[Zach Whalen]], [[Daniel Cox]], [[Alex Saum-Pascual]], [[Élika Ortega]]
 ### Production / Translation Team
 [[P.D. Edgar]]
 [[Leonardo Aranda Brito]]

@@ -15,7 +15,7 @@
 | [[Andrew Ferguson]]                                           |
 | [[Anne Sullivan]]                                             |
 | [[Bonnie Cross]]                                              |
-| [[Dan Cox]]                                                   |
+| [[Daniel Cox]]                                                   |
 | [[David Ciccoricco]]                                          |
 | [[Emily K. Johnson]]                                          |
 | [[Erik Loyer]]                                                |

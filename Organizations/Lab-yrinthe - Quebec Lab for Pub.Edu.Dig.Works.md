@@ -60,7 +60,7 @@
 | [[Jenny Thibault]]                              |
 | [[Yuri Kruk]]                                   |
 | [[Olivier Charbonneau]]                         |
-| [[Jonathan Belisle]]                            |
+| [[Jonathan Bélisle]]                            |
 | [[Tom Lebrun]]                                  |
 
 

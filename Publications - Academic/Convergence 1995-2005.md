@@ -419,7 +419,7 @@
 | [[Ronan Callanan]]                  |
 | [[Rorden Wilkinson]]                |
 | [[Ross Harley]]                     |
-| [[Ryszard W. Kluszczynski]]         |
+| [[Ryszard W. Kluszczyński]]         |
 | [[San San Chow]]                    |
 | [[Sandy Kyrish]]                    |
 | [[Sasha Barab]]                     |

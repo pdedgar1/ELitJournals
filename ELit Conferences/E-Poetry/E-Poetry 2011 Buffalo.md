@@ -4,7 +4,7 @@ An International digital Poetry Festival
 |                                                               |     |
 | ------------------------------------------------------------- | --- |
 | [[Yves Abrioux]]                                              |     |
-| [[Lucio Agra]]                                                |     |
+| [[Lúcio Agra]]                                                |     |
 | [[Miekal And]]                                                |     |
 | [[Maria Angel]]                                               |     |
 | [[Aaron Angello]]                                             |     |

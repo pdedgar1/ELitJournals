@@ -927,7 +927,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Shawn Walker]]                     |
 | [[Sheba Mohammid]]                   |
 | [[Sheenagh Pietrobruno]]             |
-| [[Sheryl N Hamilton]]                |
+| [[Sheryl N. Hamilton]]                |
 | [[Shirley Druker Shitrit]]           |
 | [[Shun Xu]]                          |
 | [[Signe Ivask]]                      |

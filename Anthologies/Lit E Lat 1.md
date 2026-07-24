@@ -30,7 +30,7 @@
 | F.                                           |
 | [[Fabio Doctorovich]]                        |
 | [[Fernando Tangi]]                           |
-| [[Flavio Komatsu]]                           |
+| [[Flávio Komatsu]]                           |
 | [[Frida Robles Ponce]]                       |
 | G.                                           |
 | [[Gabriela Golder]]                          |
