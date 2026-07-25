@@ -156,9 +156,9 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Bronwin Patrickson]]               |
 | [[Browning W Blair]]                 |
 | [[Bruno Jaraba-Barrios]]             |
-| [[Bryan M Jenkins]]                  |
+| [[Bryan M. Jenkins]]                  |
 | [[Bryoni Trezise]]                   |
-| [[Burcu S Bakioğlu]]                 |
+| [[Burcu S. Bakioğlu]]                 |
 | [[Burkhard C Wünsche]]               |
 | [[Caelyn Randall]]                   |
 | [[Caitlin Adams]]                    |
@@ -167,7 +167,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Carina Albrecht]]                  |
 | [[Carina S González-González]]       |
 | [[Carlo De Gaetano]]                 |
-| [[Carlos A Scolari]]                 |
+| [[Carlos A. Scolari]]                 |
 | [[Carlos A. Scolari]]                |
 | [[Carlos Eduardo Barros]]            |
 | [[Carolin Amlinger]]                 |
@@ -177,7 +177,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Caroline Caron]]                   |
 | [[Carolyn Hardin]]                   |
 | [[Carolyn Michelle]]                 |
-| [[CarrieLynn D Reinhard ]]           |
+| [[CarrieLynn D. Reinhard]]           |
 | [[Catalina Iordache]]                |
 | [[Catarina Navio]]                   |
 | [[Catherine Johnson]]                |
@@ -306,7 +306,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Ediz Ozelkan]]                     |
 | [[Edward Hurcombe]]                  |
 | [[Edward Summers]]                   |
-| [[Eedan R Amit-Danhi]]               |
+| [[Eedan R. Amit-Danhi]]               |
 | [[Eedan R. Amit-Danhi]]              |
 | [[Effie Law]]                        |
 | [[Ehsan Dehghan]]                    |
@@ -376,7 +376,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[François Bar]]                     |
 | [[François Mouillot]]                |
 | [[Frans Mäyrä]]                      |
-| [[Frederik Lesage]]                  |
+| [[Frédérik Lesage]]                  |
 | [[Freja Sørine Adler Berg]]          |
 | [[FS Nakhaie ]]                      |
 | [[Gabriela Elisa Sued]]              |

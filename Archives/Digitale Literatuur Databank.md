@@ -23,7 +23,7 @@ Scandinavian E-Lit :: CELL Member
 | [[Club Lam]]                                             |
 | [[Daan Heerma van Voss]]                                 |
 | [[Daan Remmerts de Vries]]                               |
-| [[Daniel Ernst]]                                         |
+| [[Daniël Ernst]]                                         |
 | [[Demian Albers]]                                        |
 | [[Dionne Lausberg]]                                      |
 | [[Dirk Vis]]                                             |

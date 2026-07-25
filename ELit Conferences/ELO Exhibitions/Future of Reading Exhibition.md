@@ -8,7 +8,7 @@
 [[Judd Morrissey]] and [[Lori Talley]]
 
 [[Serge Bouchardon]] and [[Vincent Volckaert]]
-[[Andy Campbell]] and [[Judy Alston]]
+[[Andy Campbell]] and [[Judi Alston]]
 [[Christine Wilks]]
 
 proto-hypertext

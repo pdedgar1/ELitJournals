@@ -3,7 +3,7 @@
 "It's an online audio-visual lit mag, but the reviews, well, they might be written by, you guessed it, robots."
 
 references [[Kyle Booten]]
-[[Stanislaw Lem]] [[Kazuo Ishiguro]]
+[[Stanisław Lem]] [[Kazuo Ishiguro]]
 [[Fei-Fei Li]] [[Vilém Flusser]]
 [[Cesar Aira]]
 

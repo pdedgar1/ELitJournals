@@ -30,7 +30,7 @@
 | [[M. D. Coverley aka Marjorie C. Luesebrink]]        |
 | [[Martha Deed]]           |
 | [[Damien Everett]]        |
-| [[Sherif Ezzat]]          |
+| [[Sharif Ezzat]]          |
 | [[Edward Falco]]          |
 | [[Mary Flanagan]]         |
 | [[Marcel Frémiot]]        |

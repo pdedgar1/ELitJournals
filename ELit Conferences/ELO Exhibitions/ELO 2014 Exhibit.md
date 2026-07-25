@@ -6,7 +6,7 @@
 [[Joel Beeson]] and [[Dana Coester]]
 [[Alan Bigelow]]
 [[Jim Bizzocchi]]
-[[Amaranth Borsuk]], [[Jate Durbin]], [[Ian Hatcher]]
+[[Amaranth Borsuk]], [[Kate Durbin]], [[Ian Hatcher]]
 [[Mez Breeze]]
 [[Andy Campbell]] and [[Christine Wilks]]
 [[Dana Coester]]

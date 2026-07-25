@@ -37,7 +37,7 @@
 [[Mark Amerika]]
 [[Talan Memmott]]
 [[Nicole Basaraba]]
-[[Jordan Magnuson]]
+[[Jordan Magnusson]]
 [[Robert Coover]]
 [[Jaroslav Švelch]]
 [[Kat Mustatea]]

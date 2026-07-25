@@ -65,7 +65,7 @@
 |[[Glauco Mattoso]]|
 |[[Fernanda Brenner]]|
 |[[Felipe Páros]]|
-|[[Fabio Oliveira Nunes]]|
+|[[Fábio Oliveira Nunes]]|
 |[[Ziraldo]]|
 |[[Denise Vieira ]]|
 |[[Edinei Tavares ]]|
@@ -111,7 +111,7 @@
 |[[Eucanaã Ferraz]]|
 |[[Claudia Grechi Steiner]]|
 |[[Carlos Adriano]]|
-|[[Ana Gruszynski ]]|
+|[[Ana Cláudia Gruszynski]]|
 |[[Sérgio Capparelli]]|
 |[[Daniel Quevedo ]]|
 |[[Sérgio Capparelli]]|

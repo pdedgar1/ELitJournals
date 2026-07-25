@@ -23,7 +23,7 @@ Source: [Ars Electronica Archive – Prix](https://archive.aec.at/prix/) (all 19
 - 1992 – _Primordial Dance / Liquid Selves_ – [[Karl Sims]]
 - 1992 – _Terminator 2_ – [[Dennis Muren]], [[Mark A. Z. Dippé]], [[Steve Williams]], [[Industrial Light & Magic]] _(Honorary Golden Nica)_
 - 1993 – _Lakmé (Excerpt)_ – [[Pascal Roulin]]
-- 1994 – _Jurassic Park_ – [[Dennis Muren]], [[Mark Dippé]], [[Industrial Light & Magic]]
+- 1994 – _Jurassic Park_ – [[Dennis Muren]], [[Mark A. Z. Dippé]], [[Industrial Light & Magic]]
 - 1994 – _K.O. Kid_ – [[Marc Caro]]
 - 1995 – _God's Little Monkey_ – [[David Atherton]], [[Bob Sabiston]]
 - 1996 – _Toy Story_ – [[John Lasseter]]
@@ -141,7 +141,7 @@ Source: [Ars Electronica Archive – Prix](https://archive.aec.at/prix/) (all 19
 - 2001 – _PrayStation_ – [[Joshua Davis]]
 - 2002 – _Carnivore_ – [[Radical Software Group]]
 - 2002 – _They Rule_ – [[Josh On]]
-- 2003 – _Noderunner_ – [[Yuri Gitman]], [[Carlos J. Gómez de Llarena]]
+- 2003 – _Noderunner_ – [[Yury Gitman]], [[Carlos J. Gómez de Llarena]]
 - 2003 – _Habbo Hotel_ – [[Sulake Labs Oy]]
 - 2004 – [[Creative Commons]]
 - 2005 – _Processing_ – [[Benjamin Fry]], [[Casey Reas]], the Processing community

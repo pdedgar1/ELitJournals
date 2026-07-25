@@ -64,11 +64,11 @@
 #### 2016
 [[J. R. Carpenter]] 
 [[Anita Bacic]]
-[[Jordan Magnuson]]
+[[Jordan Magnusson]]
 [[Phantom Williams]]
 #### 2017
 [[James Attlee]]
-[[Jordan Magnuson]]
+[[Jordan Magnusson]]
 [[Lucy English]]
 [[AltSalt Publishing + ScrollCinema]], [[Ricardo Morales]]
 [[Natalia Theodoridou]]

@@ -44,7 +44,7 @@ https://the-next.eliterature.org/collections/13&pg=2&display=100&sort=date
 [[Dan Waber]]
 [[Lori Weidenhammer]]
 [[Joel Weishaus]]
-[[Marta Werner]]
+[[Marta L. Werner]]
 [[Leonie Wilson]]
 [[Adrianne Wortzel]]
 

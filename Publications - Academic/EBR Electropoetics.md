@@ -223,7 +223,7 @@
 ## 2008
 [[Eugene Thacker]]
 [[Michael McDonough]]
-[[Tim Peterson]]
+[[Tim Trace Peterson]]
 ## 2007
 [[Lori Emerson]]
 [[Charles Bernstein]]

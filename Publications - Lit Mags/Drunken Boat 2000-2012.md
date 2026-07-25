@@ -320,7 +320,7 @@
 **Toward Oulipo**
 ***Ambigrams***
 [[gilles esposito-farèse]]
-[[doug hofstadter]]
+[[douglas hofstadter]]
 ***Texts***
 [[sandy baldwin]]
 [[guy bennett]]
@@ -765,7 +765,7 @@
 |[[Florencia Varela]]|
 |[[Reetika Vazirani]]|
 |[[Adam Vines]]|
-|[[Julie Wade]]|
+|[[Julie Marie Wade]]|
 |[[Thom Ward]]|
 |[[Donald Wellman]]|
 |[[Jennifer Whitaker]]|
@@ -930,10 +930,10 @@
 [[Edward Hagelstein]]
 [[Alexander Jorgensen]]
 [[Renee LaGue]]
-[[Kristen Nelson & Noah Saterstrom]]
+[[Kristen Nelson]] & [[Noah Saterstrom]]
 [[Anjie Reynolds]]
 [[Lauren Goodwin Slaughter]]
-[[Malcolm Sutton & François Lemieux]]
+[[Malcolm Sutton]] & [[François Lemieux]]
 [[Susan Tepper]]
 [[Deepak Unnikrishnan]]
 [[Quintan Ana Wikswo]]
@@ -941,11 +941,11 @@
 
 #### Desire & Interaction
 [[Jim Andrews]]
-[[Tom Burtonwood & Jacob C. Hammes]]
-[[Roxanne Carter & Braxton Soderman]]
-[[Chris Funkhouser & Amy Hufnagel]]
-[[Dara Greenwald & Sarah Kanouse]]
-[[Brian & Ashley Howe]]
+[[Tom Burtonwood]] & [[Jacob C. Hammes]]
+[[Roxanne Carter]] & [[Braxton Soderman]]
+[[Chris Funkhouser]] & [[Amy Hufnagel]]
+[[Dara Greenwald]] & [[Sarah Kanouse]]
+[[Brian Howe]]  & [[Ashley Howe]]
 [[Zohar Kfir]]
 [[Molleindustria]]
 [[Blair Neal]]
@@ -955,14 +955,14 @@
 [[Jon Satrom]]
 [[Sara Schnadt]]
 [[Lauren Simonutti]]
-[[Hazel Smith & Roger Dean]]
+[[Hazel Smith]] & [[Roger Dean]]
 [[Squidsoup]]
 [[Alexander Stewart]]
 
 #### Poetics
 [[William Bernhard]]
 [[Karina Borowicz]]
-[[Amaranth Borsuk & Gabriela Jauregui]]
+[[Amaranth Borsuk]] & [[Gabriela Jauregui]]
 [[Tony Brinkley]]
 [[Elena Karina Byrne]]
 [[James Byrne]]
@@ -1014,7 +1014,7 @@
 #### Nonfiction
 [[Jeanie Chung]]
 [[Michael Hemery]]
-[[Robin Hemley & Jeff Mermelstein]]
+[[Robin Hemley]] & [[Jeff Mermelstein]]
 [[Alida Karakushi]]
 [[Caitlin Leffel]]
 [[Serge J-F. Levy]]
@@ -1377,7 +1377,7 @@
 [[Abraham Avnisan]]
 [[Alexander Jorgensen]]
 [[Amy Wright]]
-[[Andreas Jacobs]]
+[[Andreas María Jacobs]]
 [[Anne Gorrick]]
 [[Benny Lichtner]]
 [[Bushra Rehman]]

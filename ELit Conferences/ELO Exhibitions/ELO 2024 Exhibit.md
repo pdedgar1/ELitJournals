@@ -22,7 +22,7 @@
 [[Diamond E. Beverly-Porter]]
 [[Emilie Buckley]]
 [[Halim Madi]]
-[[Henry Patrcik Coburn]]
+[[Henry Patrick Coburn]]
 [[Jacob Cone]]
 [[Janani Venkateswaran]]
 [[Jason Nelson]]

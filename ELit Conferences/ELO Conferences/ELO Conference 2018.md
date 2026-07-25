@@ -372,7 +372,7 @@
 | [[Richard Holeton]]               |     |
 | [[Lissa Holloway-Attaway]]        |     |
 | [[Ryan House]]                    |     |
-| [[Angelica J. Huizar]]               |     |
+| [[Angélica J. Huizar]]               |     |
 | [[Theresa Hunt]]                  |     |
 |                                   |     |
 | [[Kedrick James]]                 |     |
@@ -444,7 +444,7 @@
 |                                   |     |
 | [[Maria Cecília Palma Magalhães]] |     |
 | [[Allison Parrish]]               |     |
-| [[Ali Pearl]]                     |     |
+| [[Ali Rachel Pearl]]                     |     |
 | [[Jérémie Pelletier-Gagnon]]      |     |
 | [[Ernesto Peña]]                  |     |
 | [[Andrew Pepper]]                 |     |
@@ -486,7 +486,7 @@
 | [[Nicolas Sauret]]                |     |
 | [[Ariane Savoie]]                 |     |
 | [[Nicholas Schiller]]             |     |
-| [[Matt Schneider]]                |     |
+| [[Matthew Schneider]]                |     |
 | [[Álvaro Seiça]]                  |     |
 | [[Stephanie Settle]]              |     |
 | [[Tyler Shoemaker]]               |     |
@@ -498,7 +498,7 @@
 | [[Winnie Soon]]                   |     |
 | [[Duncan Speakman]]               |     |
 | [[Yan St-Onge]]                   |     |
-| [[Oana Stanescu]]                 |     |
+| [[Ioana Stanescu]]                 |     |
 | [[Amber Strother]]                |     |
 | [[Anne Sullivan]]                 |     |
 |                                   |     |

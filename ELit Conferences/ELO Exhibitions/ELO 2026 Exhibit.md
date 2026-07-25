@@ -10,7 +10,7 @@
 | [[Matthew Mosher]]                                                                                                                                                                        |
 | Static Sky: And Yet It █████]]                                                                                                                                                            |
 | [[Rhett Tsai]] (蔡宇潇) and [[Justin Bortnick]]                                                                                                                                              |
-| “At the Guggenheim (redux)”]]                                                                                                                                                             |
+| "At the Guggenheim (redux)"]]                                                                                                                                                             |
 | [[Alan Bigelow]]                                                                                                                                                                          |
 | A Last Goodbye]]                                                                                                                                                                          |
 | [[Alan Bigelow]]                                                                                                                                                                          |
@@ -30,10 +30,10 @@
 | [[Xie Licheng]], [[Xu Hui]], [[Chi Zhiyuan]] and [[Wang Zijian]]                                                                                                                          |
 | BUGCAT]]                                                                                                                                                                                  |
 | [[Zeroichi Arakawa]]                                                                                                                                                                      |
-| Pac-Man’s serfs]]                                                                                                                                                                         |
-| AND-OR ([[René Bauer]], [[Beat Suter)]]                                                                                                                                                   |
+| Pac-Man's serfs]]                                                                                                                                                                         |
+| AND-OR ([[René Bauer]], [[Beat Suter]]                                                                                                                                                   |
 | Actioncoderz]]                                                                                                                                                                            |
-| AND-OR ([[René Bauer]], [[Beat Suter)]]                                                                                                                                                   |
+| AND-OR ([[René Bauer]], [[Beat Suter]]                                                                                                                                                   |
 | Diver Quilt Magnet]]                                                                                                                                                                      |
 | [[Jason Nelson]]                                                                                                                                                                          |
 | A Paper-Cut Canyon]]                                                                                                                                                                      |
@@ -54,7 +54,7 @@
 | [[Stephanie Tripp]]                                                                                                                                                                       |
 | Between the Tags: Black Women, Memory, and Hyperlocal Digital Fandom]]                                                                                                                    |
 | [[Diamond E. Beverly-Porter]]                                                                                                                                                             |
-| Italo Calvino’s Invisible Cities And A Generative World]]                                                                                                                                 |
+| Italo Calvino's Invisible Cities And A Generative World]]                                                                                                                                 |
 | [[Xuan Tang]] and [[Zhanruo Li]]                                                                                                                                                          |
 | The Red Manifest]]                                                                                                                                                                        |
 | [[Joao de Mendonca Salim]]                                                                                                                                                                |
@@ -68,7 +68,7 @@
 | [[Shyla Nuxol]]                                                                                                                                                                           |
 | Like a Mountain of Sleep]]                                                                                                                                                                |
 | [[Glenn S. Ritchey III]]                                                                                                                                                                  |
-| Snow Angel’s Wheel of Fortune]]                                                                                                                                                           |
+| Snow Angel's Wheel of Fortune]]                                                                                                                                                           |
 | [[Emily Carr]]                                                                                                                                                                            |
 | Water Songs: Documenting the Imperceptible]]                                                                                                                                              |
 | [[Jolene Armstrong]] and [[Monique Tschofen]]                                                                                                                                             |
@@ -76,13 +76,13 @@
 | [[Emily K. Johnson]]                                                                                                                                                                      |
 | The Grand Hotel Bald Cockatoo]]                                                                                                                                                           |
 | [[Roderick Coover]], [[Caitlin Fisher]] and [[Scott Rettberg]]                                                                                                                            |
-| The Writer’s Project: Drifts]]                                                                                                                                                            |
+| The Writer's Project: Drifts]]                                                                                                                                                            |
 | [[Alex Calderwood]]                                                                                                                                                                       |
-| Scruff’s Day]]                                                                                                                                                                            |
+| Scruff's Day]]                                                                                                                                                                            |
 | [[Anastasia Salter]] and [[John T. Murray]]                                                                                                                                               |
 | Obsolete Models, Living Hosts]]                                                                                                                                                           |
 | [[Daniel Lichtman]]                                                                                                                                                                       |
-| Inner Differencing: Alexander von Humboldt’s thousand threads]]                                                                                                                           |
+| Inner Differencing: Alexander von Humboldt's thousand threads]]                                                                                                                           |
 | [[Hazel Smith]] and [[Roger Dean]]                                                                                                                                                        |
 | Ripples]]                                                                                                                                                                                 |
 | [[Jay David Bolter]], [[Terhi Marttila]] and [[Watson Hartsoe]]                                                                                                                           |
@@ -91,6 +91,6 @@
 | Twine fiction: Where Scorpions Fear to Tread]]                                                                                                                                            |
 | [[Carolijn Guytonbeck]]                                                                                                                                                                   |
 | Quantum Entanglement]]                                                                                                                                                                    |
-| [[Mark Marino]], [[María Goicoechea de Jorge]], [[Tina Escaja aka Alm@ Pérez]], [[David Ciccoricco]], [[Susana Sanz]] y [[Carmen Sanz]], [[Benjamin Escalonilla]] and [[P. Sasson-Henry]] |
+| [[Mark Marino]], [[María Goicoechea de Jorge]], [[Tina Escaja aka Alm@ Pérez]], [[David Ciccoricco]], [[Susana Sanz]] y [[Carmen Sanz]], [[Benjamín Escalonilla]] and [[P. Sasson-Henry]] |
 | Get Lost]]                                                                                                                                                                                |
 | [[Yan St-Onge]]                                                                                                                                                                           |

@@ -287,7 +287,7 @@
 | [[Rui Torres]]                                                                                          |
 | [[Eugenio Tisselli]]                                                                                    |
 | [[Jon Saklofske]]                                                                                       |
-| [[Jesse Vigil]] & [[Martzi Campos]]                                                                     |
+| [[Jesse R. Vigil]] & [[Martzi Campos]]                                                                     |
 | [[Paola Carbone]]                                                                                       |
 | [[Judy Malloy]] (Independent Artist)]]                                                                  |
 | [[Hana Atcheson]] & [[Andrea Gogova]]                                                                   |
@@ -365,7 +365,7 @@
 | [[Alex Mitchell]]                                                                                       |
 | [[Will Luers]]                                                                                          |
 | [[Kyle Booten]]                                                                                         |
-| [[Jesse Vigil]] & [[Martzi Campos]]                                                                     |
+| [[Jesse R. Vigil]] & [[Martzi Campos]]                                                                     |
 | [[Katherine Morayati]]                                                                                  |
 | [[Eric Murnane]]                                                                                        |
 | [[Terhi Marttila]]                                                                                      |

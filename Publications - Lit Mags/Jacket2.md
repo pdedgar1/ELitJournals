@@ -213,7 +213,7 @@ Founder [[John Tranter]]
 | [[Jean Uhm]]                    |
 | [[Jean-Marie Gleize]]           |
 | [[Jean-Michel Rabaté]]          |
-| [[Jeff T. Johnson]]             |
+| [[Jeffrey T. Johnson]]             |
 | [[Jeffrey Bergfalk]]            |
 | [[Jen/Eleana Hofer]]            |
 | [[Jena Osman]]                  |
@@ -488,7 +488,7 @@ Founder [[John Tranter]]
 | [[Tom Kozlowski]]               |
 | [[Tom Weatherly]]               |
 | [[Toni Bowers]]                 |
-| [[Trace Peterson]]              |
+| [[Tim Trace Peterson]]              |
 | [[Tracie Morris]]               |
 | [[Travis Ortiz]]                |
 | [[Trevor Winkfield]]            |

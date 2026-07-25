@@ -42,7 +42,7 @@ Chair: [[Alex Mitchell]], National University of Singapore
 
 Chair: [[Robert Glick]], Rochester Institute of Technology
 
-- "Generative Poems by Maria Mencia," [[Angelica J. Huizar]], Old Dominion University
+- "Generative Poems by Maria Mencia," [[Angélica J. Huizar]], Old Dominion University
 - "Inhabitation: Johanna Drucker: "no file is ever self-identical," [[Joel Kateinikoff]], University of Alberta
 - "The Great Monster: Ulises Carrión as E-Lit Theorist," [[Élika Ortega]], University of Kansas
 - "Pedagogic Strategies for Electronic Literature," [[Mia Zamora]], Kean University
@@ -96,7 +96,7 @@ Chair: [[Andrew Klobucar]], New Jersey Institute of Technology
 Chair: [[Leonardo Flores]], University of Puerto Rico, Mayagüez
 
 - [[Allison Parrish]], Fordham University
-- [[Matt Schneider]], University of Toronto
+- [[Matthew Schneider]], University of Toronto
 - [[Tobi Hahn]], Paisley Games
 - [[Zach Whalen]], University of Mary Washington
 
@@ -158,7 +158,7 @@ Chair: [[Alex Saum-Pascual]], UC Berkeley
 
 [[Christine Wilks]], "Interactive Narrative and the Art of Steering Through Possible Worlds"  
 
-Chair: [[Kendrick James]], University of British Columbia
+Chair: [[Kedrick James]], University of British Columbia
 
 - "Narrativity in Virtual Reality," [[Illya Szilak]], Independent Scholar
 - "Simulation Studies," [[David Ciccoricco]], University of Otago

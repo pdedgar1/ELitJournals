@@ -24,6 +24,6 @@
 [[Rodolfo Mata]]
 [[Vinícius Carvalho Pereira]]
 [[Terhi Marttila]]
-[[Eyal Gruss]]
+[[Eyal Yehowa Gruss]]
 [[Abhirami Ajith]]
 [[Sarah Whitcomb Laiola]]

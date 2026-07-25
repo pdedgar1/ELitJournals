@@ -169,7 +169,7 @@ https://the-next.eliterature.org/collections/17
 [[Kevin Hamilton]]
 [[Matthew Belanger]]
 [[Helen Thorington]]
-[[Ulises Mejias]]
+[[Ulises Ali Mejias]]
 [[John Craig Freeman]]
 
 ## 2006
@@ -277,7 +277,7 @@ https://the-next.eliterature.org/collections/17
 [[David Crawford]]
 [[David Jhave Johnston]]
 [[Jason Freeman]]
-[[Joseph Lefevre]]
+[[Joseph Lefévre]]
 [[Xavier Pehuet]]
 [[xurban_collective]]
 [[Yael Kanarek]]

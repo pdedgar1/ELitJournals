@@ -39,7 +39,7 @@
 | [[Charles Theonia]]                                                       |
 | [[Charlotte Bonjour]] & [[Clara Lou]]                                     |
 | [[Chloe Bliss Snyder]]                                                    |
-| [[CJ Martin]]                                                             |
+| [[C. J. Martin]]                                                             |
 | [[Claire Dougherty]]                                                      |
 | [[Clara Lou]]                                                             |
 | [[Colin Reid Bolton]]                                                     |
@@ -76,7 +76,7 @@
 | [[Ficus Interfaith]]                                                      |
 | [[Fox Rinne]]                                                             |
 | [[Gabriel Coffman]]                                                       |
-| [[Gabriel Ojeda-Sague]]                                                   |
+| [[Gabriel Ojeda-Sagué]]                                                   |
 | [[Ghada Khalil]]                                                          |
 | [[Grey Vild]]                                                             |
 | [[hannah rubin]]                                                          |
@@ -131,7 +131,7 @@
 | [[Kristen Gallagher]] & [[Tara Nelson]]                                   |
 | [[Kristen Steenbeeke]]                                                    |
 | [[Lagnajita Mukhopadhyay]]                                                |
-| [[Laura A Warman]]                                                        |
+| [[Laura A. Warman]]                                                        |
 | [[Leena Joshi]]                                                           |
 | [[Leif Haven]]                                                            |
 | [[Liam O'Brien]]                                                          |

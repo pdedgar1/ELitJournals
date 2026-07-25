@@ -21,7 +21,7 @@ An International digital Poetry Festival
 | [[Jörg Piringer]]                                                         |
 | [[John Cayley]]                                                           |
 | [[John Cayley]]                                                           |
-| [[John Drever]] & [[Lawrence Upton]]                                      |
+| [[John Levack Drever]] & [[Lawrence Upton]]                                      |
 | [[John Sparrow]]                                                          |
 | [[Judd Morrissey]]& [[Lori Talley]]                                       |
 | [[Justin Katko aka jUStin!katKO]]                                                          |

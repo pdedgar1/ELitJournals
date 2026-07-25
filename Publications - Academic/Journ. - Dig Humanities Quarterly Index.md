@@ -169,7 +169,7 @@
 | [[Jason Boyd]]                                   |
 | [[Douglas Boyle]]                                |
 | [[Christina Boyles]]                             |
-| [[Andy Boyles Petersen]]                         |
+| [[Andrew Boyles Petersen]]                         |
 | [[Eleni Bozia]]                                  |
 | [[Adam James Bradley]]                           |
 | [[John Douglas Bradley]]                         |
@@ -215,7 +215,7 @@
 | [[Robin Burke]]                                  |
 | [[Mattie Burkert]]                               |
 | [[Levi Burner]]                                  |
-| [[Patrick Burns]]                                |
+| [[Patrick J. Burns]]                                |
 | [[Matt Burton]]                                  |
 | [[Evan Buswell]]                                 |
 | [[Jimmy Butts]]                                  |
@@ -651,7 +651,7 @@
 | [[Martin Holmes]]                                |
 | [[Kate Holterhoff]]                              |
 | [[Marcelo Hong]]                                 |
-| [[Tuuli Hongisto]]                               |
+| [[Tuuli V. V. Hongisto]]                               |
 | [[Maarten Hoogerwerf]]                           |
 | [[David L. Hoover]]                                 |
 | [[Diana Hope Polley]]                            |
@@ -698,7 +698,7 @@
 | [[Allan Yu Iwama]]                               |
 | [[Janina Jacke]]                                 |
 | [[Jarod Jacobs]]                                 |
-| [[Clèmence Jacquot]]                             |
+| [[Clémence Jacquot]]                             |
 | [[Patrick Jähnichen]]                            |
 | [[Lise Jaillant]]                                |
 | [[Diane K. Jakacki]]                             |
@@ -720,7 +720,7 @@
 | [[Catherine Jones]]                              |
 | [[Huw Jones]]                                    |
 | [[Madison Percy Jones]]                          |
-| [[Steven Jones]]                                 |
+| [[Steven E. Jones]]                                 |
 | [[Annette K. Joseph-Gabriel]]                       |
 | [[Michael J. Junokas]]                           |
 | [[Eric Kaltman]]                                 |
@@ -782,7 +782,7 @@
 | [[Marta Kołodziejska]]                           |
 | [[Jamie Kramer]]                                 |
 | [[Michael J. Kramer]]                            |
-| [[Heinz Werner Kramski]]                         |
+| [[Heinz-Werner Kramski]]                         |
 | [[Kari Kraus]]                                   |
 | [[Jr. Kretzschmar]]                              |
 | [[Alisha Krishna]]                               |
@@ -953,7 +953,7 @@
 | [[Kate Miffitt]]                                 |
 | [[Cristina Migliaccio]]                          |
 | [[Ion Mihailescu]]                               |
-| [[Gabor Mihaly Toth]]                            |
+| [[Gábor Mihály Tóth]]                            |
 | [[Isaac Miller]]                                 |
 | [[Lee M. Miller]]                                |
 | [[Matthew Thomas Miller]]                        |
@@ -1049,7 +1049,7 @@
 | [[Élika Ortega]]                                 |
 | [[Joseph Osborn]]                                |
 | [[James O'Sullivan]]                             |
-| [[Jessica Otis]]                                 |
+| [[Jessica Marie Otis]]                                 |
 | [[Trevor Owens]]                                 |
 | [[Jenny Oyallon-Koloski]]                        |
 | [[Kate Ozment]]                                  |
@@ -1133,7 +1133,7 @@
 | [[Andrew Prescott]]                              |
 | [[Todd Presner]]                                 |
 | [[Jessica Pressman]]                             |
-| [[Ernesto Priani Saiso]]                         |
+| [[Ernesto Priani Saisó]]                         |
 | [[Ernesto Priani Saisó]]                         |
 | [[Daniel Price]]                                 |
 | [[Kenneth M. Price]]                             |

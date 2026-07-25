@@ -200,7 +200,7 @@ Digital Art Magazine Post-2020
 |[[Nina Knaack]]|
 |[[Nina Knaack]]|
 |[[Noelia Gamallo]]|
-|[[Nóra Ó  Murchú]]|
+|[[Nóra Ó Murchú]]|
 |[[Noriaki Nakata]]|
 |[[Paul Cohen]]|
 |[[Paul Cohen]]|

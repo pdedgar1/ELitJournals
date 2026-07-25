@@ -32,7 +32,7 @@
 [[Julian Bleeker]]
 [[Lisa Lynch]]
 ### 2007
-[[Laura Marks]]
+[[Laura U. Marks]]
 [[Caren Kaplan]]
 [[Donald D. Hoffman]]
 [[Anne Friedberg]]

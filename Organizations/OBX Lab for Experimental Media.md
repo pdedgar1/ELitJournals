@@ -128,7 +128,7 @@
 | [[Julia Wolfe]]                                       |
 | [[Julian Glass-Pilon]]                                |
 | [[Kahentawaks Tiewishaw]]                             |
-| [[Kaia’tanó:ron Dumoulin Bush]]                       |
+| [[Kaia'tanó:ron Dumoulin Bush]]                       |
 | [[Katia Minarikova]]                                  |
 | [[Laura Sirois]]                                      |
 | [[Lianne Maritzer]]                                   |

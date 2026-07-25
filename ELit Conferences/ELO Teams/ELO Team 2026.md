@@ -1,6 +1,6 @@
 |                                          |
 | ---------------------------------------- |
-| Conference Committee : ]]                |
+| Conference Committee : ]]                |
 | [[Anastasia Salter]]                     |
 | [[John Murray]]                          |
 | [[R. Lyle Skains]]                       |
@@ -12,7 +12,7 @@
 | [[Jack Murray]]                          |
 | [[Emily K. Johnson]]                     |
 | [[Mel Stanfill]]                         |
-| Scientific Committee : ]]                |
+| Scientific Committee : ]]                |
 | [[Alex Saum-Pascual]]                    |
 | [[Alia Hall]]                            |
 | [[Anastasia Salter]]                     |
@@ -52,7 +52,7 @@
 | [[Vee Kennedy]]                          |
 | [[Yingzi (Kathryn) Kong]]                |
 | [[Zach Whalen]]                          |
-| Artistic Committee : ]]                  |
+| Artistic Committee : ]]                  |
 | [[Alex Saum-Pascual]]                    |
 | [[Alyssa Barrack]]                       |
 | [[Anastasia Salter]]                     |
@@ -85,13 +85,13 @@
 |                                          |
 | CHDR : [[Mike Shier]]                    |
 | Video Chair : [[Mónica Gonzalez Burgos]] |
-| Video Team: ]]                           |
+| Video Team: ]]                           |
 | [[Frederic Caeyers]]                     |
 | [[LJ Connolly]]                          |
 | [[Tyler Gillis]]                         |
 | [[Christina Restrepo Nazar]]             |
 | [[J.M.L. Whittington]]                   |
-| Track Chairs: ]]                         |
+| Track Chairs: ]]                         |
 | [[Anastasia Salter]]                     |
 | [[Mel Stanfill]]                         |
 | [[Emily K. Johnson]]                     |
@@ -99,7 +99,7 @@
 | [[Mike Shier]]                           |
 | [[P.D. Edgar]]                           |
 | [[John T. Murray]]                       |
-| Moderators: ]]                           |
+| Moderators: ]]                           |
 | [[Vee Kennedy]]                          |
 | [[Emery Beckman]]                        |
 | [[Emilie Buckley]]                       |

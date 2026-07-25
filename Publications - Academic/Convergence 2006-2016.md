@@ -21,7 +21,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Amanda Reichelt-Brushett]]    |
 | [[Amanda Starling Gould]]       |
 | [[Amplifications of learning]]  |
-| [[Amy Bruckman]]                |
+| [[Amy S. Bruckman]]                |
 | [[Ana Brandusescu]]             |
 | [[Ananda Mitra]]                |
 | [[Anders Olof Larsson]]         |
@@ -131,7 +131,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Don Heider]]                  |
 | [[Dónal P O'Mathúna]]           |
 | [[Douglas A Ferguson]]          |
-| [[Edgar Gómez Cruz]]            |
+| [[Edgar Gómez-Cruz]]            |
 | [[Edgar Huang]]                 |
 | [[Eirik Stavelin]]              |
 | [[Elaine Jing Zhao]]            |
@@ -304,7 +304,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Lucy Nicholas]]               |
 | [[Luis Pérez-González]]         |
 | [[Lyell Davies]]                |
-| [[M Beatrice Fazi]]             |
+| [[M. Beatrice Fazi]]             |
 | [[Maja Horst]]                  |
 | [[Majid Yar]]                   |
 | [[Måns Svensson]]               |

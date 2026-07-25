@@ -114,7 +114,7 @@ Advisory Board
 | [[Angela Zhou]]                     |
 | [[Angel Lemke]]                     |
 | [[Anke Finger]]                     |
-| [[Ann Hanlon]]                      |
+| [[Ann M. Hanlon]]                      |
 | [[Anna Ivanov]]                     |
 | [[Anna Jenkin]]                     |
 | [[Anna Kijas]]                      |
@@ -246,11 +246,11 @@ Advisory Board
 | [[Ele Kraft]]                       |
 | [[Elif Cigdem Artan]]               |
 | [[Elisa Coghlan]]                   |
-| [[Elise Takehana]]                  |
+| [[Elisabet Takehana]]                  |
 | [[Elizabeth Dill]]                  |
 | [[Elizabeth Hirsh]]                 |
 | [[Elizabeth Lieutenant]]            |
-| [[Elizabeth Kelly]]                 |
+| [[Elizabeth Joan Kelly]]                 |
 | [[Elyse Graham]]                    |
 | [[Emily Brooks]]                    |
 | [[Emily Esten]]                     |
@@ -319,7 +319,7 @@ Advisory Board
 | [[Jane Carr]]                       |
 | [[Jannelle Legg]]                   |
 | [[Jarah Moesch]]                    |
-| [[Jason Rhody]]                     |
+| [[Jason C. Rhody]]                     |
 | [[Julia Bourbois]]                  |
 | [[Justin Broubalow]]                |
 | [[Jade Bruno]]                      |
@@ -432,7 +432,7 @@ Advisory Board
 | [[Lisa Munro]]                      |
 | [[Lisa Spiro]]                      |
 | [[Lincoln Mullen]]                  |
-| [[Lisa Rhody]]                      |
+| [[Lisa M. Rhody]]                      |
 | [[Liz Rodrigues]]                   |
 | [[Lucy Appert]]                     |
 | [[Luke Yurchak]]                    |
@@ -617,7 +617,7 @@ Advisory Board
 | [[Stephanie Richmond]]              |
 | [[Stephanie Vasko]]                 |
 | [[Stephanie Westcott]]              |
-| [[Steve Anderson]]                  |
+| [[Steve F. Anderson]]                  |
 | [[Subhasis Chattopadhyay]]          |
 | [[Sumita Chakraborty]]              |
 | [[Susan Greenberg]]                 |

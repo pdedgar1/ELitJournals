@@ -102,7 +102,7 @@
 | [[Michael Brodsky]]                         |
 | [[Marcel Broodthaers]]                      |
 | [[Klaus vom Bruch]]                         |
-| [[Klaus Bruch]]                             |
+| [[Klaus vom Bruch]]                             |
 | [[Jonah Brucker-Cohen]]                     |
 | [[Pieter Bruegel]]                          |
 | [[Ludger Brümmer]]                          |
@@ -416,7 +416,7 @@
 | [[Kenneth Knowlton]]                        |
 | [[Vitaly Komar]]                            |
 | [[Korot/Schneider]]                         |
-| [[André Korpys]]                            |
+| [[Andrée Korpys]]                            |
 | [[Andrée Korpys]]                           |
 | [[Joseph Kosuth]]                           |
 | [[Miroslav Kouril]]                         |
@@ -793,7 +793,7 @@
 | [[Fred Truck]]                              |
 | [[Michael Tucker]]                          |
 | [[David Tudor]]                             |
-| [[Alan Mathison Turing]]                    |
+| [[Alan Turing]]                    |
 | [[James Turrell]]                           |
 | [[Günther Uecker]]                          |
 | [[Ulay]]                                    |

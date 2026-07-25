@@ -49,7 +49,7 @@
 [[Amy Whitaker]]
 [[Toshihisa Tsuruoka]] and [[Ashley Muniz]]
  [[Melanie Dickinson]], [[Max Kreminski]], [[Michael Mateas]], and [[Noah Wardrip-Fruin]]
- [[Piotr Małecki]], [[Krzysztof A. Ziembik]], [[Tomasz Tbxx Boksa]], and [[Krystian Pinokio Iwaszko]]
+ [[Piotr Małecki]], [[Krzysztof Kaz Ziembik]], [[Tomasz Tbxx Boksa]], and [[Krystian Pinokio Iwaszko]]
  [[Yovanna Pineda]], [[Emily K. Johnson]], [[Amy Larner Giroux]], and [[Fon Gordon]]
  [[Hazel Smith]], [[Roger Dean]], and [[Sieglinde Karl-Spence]]
  [[Anne Sullivan]], [[Katie Farris]], [[Maria Elena Margarella]], and [[Zehua Chen]]

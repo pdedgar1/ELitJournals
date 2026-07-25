@@ -129,7 +129,7 @@
 | [[Marwa Arsanios]]                                                                                                |     |
 | [[Navine G. Khan-Dossos]]                                                                                         |     |
 | [[Ahmet Öğüt]]                                                                                                    |     |
-| [[Loren Britton]]                                                                                                 |     |
+| [[Ren Loren Britton]]                                                                                                 |     |
 | [[Ganaele Langlois]]                                                                                              |     |
 | [[Jacob Eriksen]]                                                                                                 |     |
 | [[John Gerrard]]                                                                                                  |     |

@@ -57,6 +57,6 @@
 [[Reiner Strasser]]  + [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Dan Waber]]
 [[Dan Waber]] + [[Jason Pimble]]
-[[Noah Wardrip-Fruin]], [[David Durand]], [[Brion Moss]], [[Elaine Froehlich]]
+[[Noah Wardrip-Fruin]], [[David Durand]], [[Brian Moss]], [[Elaine Froehlich]]
 [[Rob Wittig]]
 [[Nanette Wylde]]

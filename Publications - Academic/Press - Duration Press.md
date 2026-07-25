@@ -71,7 +71,7 @@
 | [[Cynthia Sailers]]                                                                                                                                                                                           |
 | [[Dana Ward]]                                                                                                                                                                                                 |
 | [[E. Tracy Grinnell]]                                                                                                                                                                                         |
-| [[Elena Rivera]]                                                                                                                                                                                              |
+| [[Eléna Rivera]]                                                                                                                                                                                              |
 | [[Eleni Sikelianos]]                                                                                                                                                                                          |
 | [[Elizabeth Treadwell]]                                                                                                                                                                                       |
 | [[Francis Raven]]                                                                                                                                                                                             |

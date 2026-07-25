@@ -89,7 +89,7 @@
 [[Rollo Carpenter]]
 [[Constant]]
 [[D. Fox Harrell]]
-[[Matt Schneider]]
+[[Matthew Schneider]]
 [[Jacob Harris]]
 [[Grayson Earle]]
 [[Ranjit Bhatnagar]]

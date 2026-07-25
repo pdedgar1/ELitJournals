@@ -2,13 +2,13 @@
 [[Folgert Karsdorp]]
 [[Alie Lassche]]
 [[Barbara McGillivray]]
-[[Kristoffer Nielbo]]
+[[Kristoffer L. Nielbo]]
 [[Lucy Li]]
 [[Judith Bottrager]]
 
 #### Editorial Team
 
-[[Kristoffer Nielbo]]
+[[Kristoffer L. Nielbo]]
 [[Lauren Tilton]]
 
 associate 

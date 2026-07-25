@@ -6,7 +6,7 @@ An International digital Poetry Festival
 
 |                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Lúcio Agra]] (BR) & [[Paulo Hartmann]] (BR) -- [[Lawrence Upton]] & [[John Drever]] (UK)                                                                                                                                      |
+| [[Lúcio Agra]] (BR) & [[Paulo Hartmann]] (BR) -- [[Lawrence Upton]] & [[John Levack Drever]] (UK)                                                                                                                                      |
 | [[Gérard Giacchi]] (F) -- [[Wilton Azevedo]] (BR)                                                                                                                                                                               |
 | [[Jörg Piringer]] (A) -- [[Philippe Boisnard]] & [[Hortense Gaulthier]] (F)                                                                                                                                                     |
 | [[Christopher T. Funkhouser]] & [[Daniela Franco]] & [[Alireza Khatami]] (USA) -- [[Philippe Castellin]] (F) -- [[Loss Pequeño Glazier]] (USA)                                                                                  |
@@ -21,7 +21,7 @@ An International digital Poetry Festival
 | [[Xavier Malbreil]] (F) --  [[Eugenio Tisselli]] (SP)                                                                                                                                                                           |
 | [[Jim Andrews]] -- [[Friedrich W. Block]] (Brueckner-Kuehner  Foundation) & [[Rui Torres]] (Fernando Pessoa University) -- [[Giuliano Tosin]]<br>  (Universidade Estadual de Campinas – UNICAMP)                                |
 | 13.30 -17 pm amphi X  "imposition" [[John Cayley]]                                                                                                                                                                              |
-| [[Marcus Bastos]] (Université  Catholique de Sao Paulo) -- [[Hélène Perrin]] & [[Arnaud Regnauld]] (Université<br>  Paris8                                                                                                      |
+| [[Marcus Fainer Bastos]] (Université  Catholique de Sao Paulo) -- [[Hélène Perrin]] & [[Arnaud Regnauld]] (Université<br>  Paris8                                                                                                      |
 | sémiotics and device amphi X "imposition" [[John Cayley]]                                                                                                                                                                       |
 | [[A.Strid]] -- [[Loss Pequeño Glazier]] (  University Sunny Buffalo) -- [[Serge Bouchardon]] ( UTC) -- [[Janez Strehovec]]  (University of Ljubljana)                                                                           |
 | [[Jim Andrews]] (CA) -- [[Jérôme Fletcher]] (UK)                                                                                                                                                                                |
@@ -30,13 +30,13 @@ An International digital Poetry Festival
 | [[Alan Bigelow]] (USA) -- [[Simon Biggs]] (UK)                                                                                                                                                                                  |
 | [[Stephanie Strickland]] &  [[Cynthia Lawson Jaramillo]] (USA)                                                                                                                                                                  |
 | [[James Carpenter]] (University of Pennsylvania) --                                                                                                                                                                             |
-| [[Camille Paloque-Bergès]] (Université Paris8) & [[Justin Katko aka jUStin!katKO]] (Brown University) -- [[Jörg Piringer]]                                                                                                                       |
+| [[Camille Paloque-Bergés]] (Université Paris8) & [[Justin Katko aka jUStin!katKO]] (Brown University) -- [[Jörg Piringer]]                                                                                                                       |
 | [[Laura Borràs]] & [[Joan Elies Adell]] (UOC) -- [[Giovanna di Rosario]] (Université de Genève) & [[Matteo Gilebbi]] (University of Madison) -- [[Fanny Georges]] (Université Paris1)                                          |
 | poetry2007 website  presentation with [[Marc veyrat]] -- [[Patrick burgaud]] -- [[Alexandre Gherban]]                                                                                                                           |
 | [[Annie Abrahams]] and the All  Star GirlsBand (NL/F) -- [[Nick Montfort]] & [[Jim Carpenter]] & [[Anick Bergeron]] (USA                                                                                                        |
 | [[Talan Memmott]] (USA) --<br>  [[Eduardo Kac]] (USA)                                                                                                                                                                           |
-| [[Serge Bouchardon]] & [[Aymeric Brisse]] (F) --[[Ambroise  Barras]]                                                                                                                                                            |
-| [[Philippe Bootz]] (F) -- [[Bjorn Magnhildøen]] (NOR)                                                                                                                                                                           |
+| [[Serge Bouchardon]] & [[Aymeric Brisse]] (F) --[[Ambroise Barras]]                                                                                                                                                            |
+| [[Philippe Bootz]] (F) -- [[Bjørn Magnhildøen]] (NOR)                                                                                                                                                                           |
 | [[Luc Dall'armellina]] (F)                                                                                                                                                                                                      |
 
 

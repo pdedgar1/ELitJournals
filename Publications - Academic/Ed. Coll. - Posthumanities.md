@@ -5,7 +5,7 @@ ed by [[Cary Wolfe]]
 |                                                               |
 | ------------------------------------------------------------- |
 | [[Adam Nocek]]                                                |
-| [[Adam R Rosenthal]]                                          |
+| [[Adam R. Rosenthal]]                                          |
 | Afterword by [[Siegfried Zielinski]]                          |
 | [[Alexander R. Galloway]]                                     |
 | [[Alexander Wilson]]                                          |

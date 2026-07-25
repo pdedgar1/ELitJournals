@@ -110,7 +110,7 @@
 [[Margaret Rhee]]
 [[Jaime Alejandro Rodríguez]]
 [[Amílcar Romero]]
-[[Michal Rudolf]]
+[[Michał Rudolf]]
 [[Alexandra Saemmer]]
 [[Mark L. Sample]]
 [[Mark L. Sample]]

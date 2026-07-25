@@ -65,7 +65,7 @@ https://the-next.eliterature.org/collections/29&pg=1&display=100&sort=date
 [[J. R. Carpenter]]
 ### 2016
 [[Jason Nelson]]
-[[Francoise Chambefort]]
+[[Françoise Chambefort]]
 [[Marie Darsigny]]
 [[John F. Barber]]
 ### 2021

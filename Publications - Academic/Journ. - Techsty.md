@@ -142,7 +142,7 @@ Prezentacje
 [[Roman Bromboszcz]] Cybernetyczne tąpnięcie / cybernetic crump
 Gry dzieciństwa - ankieta / Childchood games - Q & A
 
-[[Urszula Pawlicka]] o "Czarnych jagodach" [[Susan Gibb]]
+[[Urszula Pawlicka]] o "Czarnych jagodach" [[Susan M. Gibb]]
 [[Dorota Sikora]] o "popołudniu, pewnej historii" [[Michael Joyce]]'a
 Recenzje
 

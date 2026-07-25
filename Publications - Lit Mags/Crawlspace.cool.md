@@ -16,7 +16,7 @@
 [[Alicia Guo]]
 [[Alicia Guo]]
 [[Holly Isemonger]]
-[[Tegan Webb]]
+[[Tegan E. Webb]]
 [[Theo Ellin Ballew]]
 [[Tim Busuttil]]
 [[Jazz Money]]

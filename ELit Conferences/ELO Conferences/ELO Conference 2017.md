@@ -33,7 +33,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Carolina Gainza]] (U. Diego Portales, Chile) "Textualities, Politics and Languages of the Digital: Poetics and Aesthetics in the Chilean Digital Literature"
 
 - [[Svetlana Anatolevna Kuchina]] (Novosibirsk State Technical U., Russia), "On Generative Poetry: Structural, Stylistic and Lexical Features"
-- [[Vladimira Velicki]] (U. Zagreb, Croatia) and Damir Velicki (U. Zagreb, Croatia), "Hyperfiction and Reading, with Examples of Electronic Processing of Grimms' Fairy Tales"
+- [[Vladimira Velički]] (U. Zagreb, Croatia) and Damir Velicki (U. Zagreb, Croatia), "Hyperfiction and Reading, with Examples of Electronic Processing of Grimms' Fairy Tales"
 - [[Gilles Rouffineau]] (ESAD Valence, France), "Is Literary Translation Really Useless in the Digital Field? MBCBFTW as a Case Study"
 - [[Agnieszka Przybyszewska]] (U. Lodz, Poland), "Liberacy in Context of Interfacial and Material Turn and What They Have in Common with E-literacy"
 - [[Robert P. Fletcher]] (West Chester U., USA), "All Lit Constantly Aspires Towards the Condition of Elit: Aestheticism and Augmented Reality"
@@ -133,7 +133,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Anna Gibbs]] (Western Sydney U., Australia) and [[Maria Angel]]*, "Cyberfeminism, Writing, and the Digital Ecology of Bodies"
 - [[Cláudia Silva]] (M-ITI/Madeira Interactive Technologies Institute, Portugal) and [[Valentina Nisi]] (M-ITI/Madeira Interactive Technologies Institute, Portugal), "'I blamed this all on moving to Texas': Fostering Sense of Place through Locative Literature among US Latina Girls"
 - [[Anne Karhio]] (National U. Galway, Ireland), "Acts of Opposition: Digital Aesthetics, Electronic Literature and Irish Cultural Institutions"
-- [[D. Fox Harrell]] (Massachusetts Institute of Technology, USA), [[Pablo Ortiz]]*, [[Peter Downs]]*, [[Elizabeth Carre]]*, [[Annie Wang]]* and [[Maya Wagoner]]*, "'Chimeria:Grayscale:' An Interactive Narrative for Provoking Critical Reflection on Gender Discrimination"
+- [[D. Fox Harrell]] (Massachusetts Institute of Technology, USA), [[Pablo Ortiz]]*, [[Peter Downs]]*, [[Elizabeth Carré]]*, [[Annie Wang]]* and [[Maya Wagoner]]*, "'Chimeria:Grayscale:' An Interactive Narrative for Provoking Critical Reflection on Gender Discrimination"
 
 - [[Davin Heckman]] (Winona State U., USA), "'your visit will leave a permanent mark': Media Ecology, Media Economy, and Anthropocene Poetics in Eugenio Tisselli"
 - [[Robert Glick]] (Rochester Institute of Technology, USA), "J. R. Carpenter's Etheric Ocean, Depth Submersion/Subversion, and the Trans-Application Model"
@@ -163,7 +163,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Ana Marques da Silva]] (U. Coimbra, Portugal), "Writing with Automated Machines: Between Translation and Sabotage"
 - [[Stuart Moulthrop]] (U. Wisconsin-Milwaukee, USA), "Just Not the Future: Electronic Literature After the Fall"
-- [[Ali Pearl]] (U. Southern California, USA), "Digital Shrapnel: Violence, Time, Memory, and Forgetting in From then on Fire"
+- [[Ali Rachel Pearl]] (U. Southern California, USA), "Digital Shrapnel: Violence, Time, Memory, and Forgetting in From then on Fire"
 - [[Bernard Odendaal]] (North-West U., South Africa), "The Film-verse Project as a Significant Contribution to Digital Poetry Developments in South Africa"
 - [[Penny Florence]] (UK) and [[John Cayley]] (Brown U., USA), "Language Made Art"
 
@@ -204,7 +204,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 
 - [[M. D. Coverley aka Marjorie C. Luesebrink]] (Electronic Literature Organization, USA) and [[Stephanie Strickland]] (Electronic Literature Organization, USA), "Axolotls and Perfume Bottles"
 - [[Donna Leishman]] (Glasgow School of Art, UK), "Cautionary Tale: Stories Made and Distributed through the Internet"
-- [[Angelica J. Huizar]] (Old Dominion U., USA [Brazil]), "Poetic Transliteration, Metaphysical Transpositions in Brazilian Digital Poetries"
+- [[Angélica J. Huizar]] (Old Dominion U., USA [Brazil]), "Poetic Transliteration, Metaphysical Transpositions in Brazilian Digital Poetries"
 
 - [[Bertrand Gervais]] (U. Québec Montréal, Canada), "Imaginary Montreal: Urban Literary Walks"
 - [[Alexandra Saemmer]] (U. Paris 8, France), "Ambulatory Hyperlinks"
@@ -231,7 +231,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 - [[Daniel Punday]] (Mississippi State U., USA)
 - [[Caitlin Fisher]] (York U., Canada)
 - [[David R. Lincoln]] (StoryCorps, USA)
-- [[Elise Takehana]] (Fitchburg State U., USA), "The Digital and the Baroque: Confronting Hyper-Representation"
+- [[Elisabet Takehana]] (Fitchburg State U., USA), "The Digital and the Baroque: Confronting Hyper-Representation"
 - [[Jon Amakawa]]*
 - [[Mauro Carassai]] (California State U. Northridge, USA), "Reading E-literature and the Un-coded Model of Meaning"
 

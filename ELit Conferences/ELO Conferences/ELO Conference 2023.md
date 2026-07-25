@@ -39,7 +39,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Michael Hurtado]]                        |
 | [[Johanna Rodgers]]                       |
 | [[Margot Mellet]]                          |
-| [[Tyechia Thompson]]                       |
+| [[Tyechia L. Thompson]]                       |
 | [[Cyrus Khalatbari]]                       |
 | [[Søren Bro Pold]]                         |
 | [[Michael Heidt]]                          |

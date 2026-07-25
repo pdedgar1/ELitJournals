@@ -94,7 +94,7 @@ From Beyond
 
 Poetry Chains and Collocations
 
-[[Angus Forbes]] (University of Illinois at Chicago, USA) 230
+[[Angus G. Forbes]] (University of Illinois at Chicago, USA) 230
 
 Fish Net Stockings
 

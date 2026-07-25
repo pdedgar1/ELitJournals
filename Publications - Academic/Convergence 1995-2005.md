@@ -9,7 +9,7 @@
 | [[Alan B. Albarran]]                     |
 | [[Alan Dyer]]                            |
 | [[Alexis Weedon]]                        |
-| [[Amy Bruckman]]                         |
+| [[Amy S. Bruckman]]                         |
 | [[Ananda Mitra]]                         |
 | [[André H. Caron]]                       |
 | [[Andreas Broeckmann]]                   |
@@ -210,7 +210,7 @@
 | [[Alexis Weedon]]                   |
 | [[Alison Harcourt]]                 |
 | [[Alistair Lee]]                    |
-| [[Amy Bruckman]]                    |
+| [[Amy S. Bruckman]]                    |
 | [[Amy S. Bruckman]]                 |
 | [[Anandam P. Kavoori]]              |
 | [[André Bernhardt]]                 |

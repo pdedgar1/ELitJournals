@@ -53,7 +53,7 @@ Colaboradores
 | [[Fidel Cordero]]                                            |
 | [[Florencia Azorín]]                                         |
 |                                                              |
-| [[Gabriela Gordillo]]                                        |
+| [[Gabriella Gordillo]]                                        |
 | [[Galo González]]                                            |
 | [[Gatamot Shaku]]                                            |
 | [[Gisella Soledad Gastín]]                                   |

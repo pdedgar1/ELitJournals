@@ -35,7 +35,7 @@ Chair:T.B.A.
 
 ❏[[Stephanie Strickland]] & [[Ian Hatcher]], ❏[[Christian Ulrik Andersen]], [[Jonas Fritsch]] & [[Søren Bro Pold]], ❏[[Scott Rettberg]]& [[Rod Coover]], Session 5B Children's E-­‐Lit–Curtin 118
 Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
-❏[[Leonardo Flores]], ❏[[Lucas Ramada Prieto]], ❏[[Jill Walker Rettberg]], Session 5C Media Arts Demo Session 2–Digital Humanities Lab, Golda Meir Library Second Floor❏[[Chris Rodley]], [[Nick Montfort]], [[Serge Bouchardon]]&[[Luc Dall'Armellina]]& [[Pierre Fourny]], [[Jim Rosenberg]], [[Natalia Fedorova]], [[Tully Hansen]], [[Mark C. Marino]], [[Mark C. Marino]] & [[Rob Wittig]], [[Jeff T. Johnson]] & [[Andrew Klobucar]], [[Stephen Wingate]], [[Joel Beeson]] & [[Dana Coester]],  [[Piotr Małecki]] and [[Aleksandra Małecka]],[[Alan Bigelow]]
+❏[[Leonardo Flores]], ❏[[Lucas Ramada Prieto]], ❏[[Jill Walker Rettberg]], Session 5C Media Arts Demo Session 2–Digital Humanities Lab, Golda Meir Library Second Floor❏[[Chris Rodley]], [[Nick Montfort]], [[Serge Bouchardon]]&[[Luc Dall'Armellina]]& [[Pierre Fourny]], [[Jim Rosenberg]], [[Natalia Fedorova]], [[Tully Hansen]], [[Mark C. Marino]], [[Mark C. Marino]] & [[Rob Wittig]], [[Jeffrey T. Johnson]] & [[Andrew Klobucar]], [[Steven Wingate]], [[Joel Beeson]] & [[Dana Coester]],  [[Piotr Małecki]] and [[Aleksandra Małecka]],[[Alan Bigelow]]
 Break
 Session 6A Book, Archive, Narrative –Curtin 118
 Chair:[[Jessica Pressman]]

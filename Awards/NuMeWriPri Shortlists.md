@@ -90,7 +90,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Eugenio Tisselli]]                                                                                                                                        |
 | [[Jon Stone]]                                                                                                                                               |
 | [[Adam Doolittle]]                                                                                                                                          |
-| [[Eyal Gruss]]                                                                                                                                              |
+| [[Eyal Yehowa Gruss]]                                                                                                                                              |
 | [[Segmento futuro]]                                                                                                                                         |
 | [[Urlee]]                                                                                                                                                   |
 | [[Rachid Benharrousse]]                                                                                                                                     |

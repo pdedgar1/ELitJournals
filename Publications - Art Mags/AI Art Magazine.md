@@ -89,7 +89,7 @@ Articles
 **[[Jason Scuderi]]
 **[[Christoph Grünberger]],** 
 **[[Tonoptik]],** _Instinkt_
-**[[Nadine Khalil]] + [[Ulrich Schrauth]], [[Art Dubai Digital]],** Interview with [[Isaac Sullivan]], [[Ila Colombo]], [[Rachel Rossin]], [[Moreshin Allahyari]] and [[Solimán López]]
+**[[Nadine Khalil]] + [[Ulrich Schrauth]], [[Art Dubai Digital]],** Interview with [[Isaac Sullivan]], [[Ila Colombo]], [[Rachel Rossin]], [[Morehshin Allahyari]] and [[Solimán López]]
 **[[Angela Ferraiolo]],** 
 **[[Sofia Mart]],** 
 **[[Merzmensch]],** 

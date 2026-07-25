@@ -25,7 +25,7 @@ CELL Member  : French-language E-lit
 [[François Coulon]], 
 [[John McDaid]]
 [[Carolyn Guyer]]
-[[Ruediger Kramm]], [[Christian Moeller]] 
+[[Rüdiger Kramm]], [[Christian Moeller]] 
 [[Jason Edward Lewis]]
 [[Michael Hart]] = [[Marianne Girard]]
 [[Ana Richardson]], [[Bernard Demiaux]], [[Valérie Comtois]]

@@ -271,7 +271,7 @@ CELL member : Portuguese Language E-lit
 |[[Jorge Bacelar]]|
 |[[Jorge Leandro Rosa]]|
 |[[Jorge Listopad]]|
-|[[Jorge Luiz Antônio]]|
+|[[Jorge Luis Antônio]]|
 |[[Jorge Pais de Sousa]]|
 |[[Jorge Peixinho]]|
 |[[José Alberto Ferreira]]|
@@ -395,7 +395,7 @@ CELL member : Portuguese Language E-lit
 |[[Ricardo Nicolau]]|
 |[[Rita Grácio]]|
 |[[Rita Macedo]]|
-|[[Rita Novais Miranda]]|
+|[[Rita Novas Miranda]]|
 |[[Roberto Bezerra de Menezes]]|
 |[[Rodrigo Conçole Lage]]|
 |[[Rodrigo Melo]]|

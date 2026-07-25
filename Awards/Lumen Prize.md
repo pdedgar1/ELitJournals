@@ -125,7 +125,7 @@
 - 3D/Sculpture Award: [[Esther Rolinson]] and [[Sean Clark]]
 - Interactive Award: [[Seb Lee-Delisle]]
 - VR/AR Award: [[Matteo Zamagni, Ben Hur]] and [[David Li]]
-- Still Image Award: [[Jon McCormack]]
+- Still Image Award: [[John McCormack]]
 - Web-Based Award: [[Sylvia Grace Borda]]
 - Distinction for Games Award: [[Wengu Hu]]
 - People's Choice Award: [[Kim Chaeyeon]], [[Gangneung]]

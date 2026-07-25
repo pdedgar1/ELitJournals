@@ -13,7 +13,7 @@
 [[Philippe Bootz]]
 [[Eugenio Tisselli]]
 [[Philippe Bootz]]
-[[Camille Paloque-Berges]]
+[[Camille Paloque-Bergés]]
 [[Shuen-shing Lee]]
 [[Janez Strehovec]]
 ## Vol 2 - Alan Sondheim
@@ -79,7 +79,7 @@
 [[Giovanna Di Rosario]]
 [[María Goicoechea de Jorge]] and [[Laura Sánchez Gómez]]
 [[Kathi Inman Berens]]
-[[Angelica J. Huizar]]
+[[Angélica J. Huizar]]
 [[Laura Shackelford]]
 [[Maya Zalbildea]] Paniagua
 [[Dene Grigar]]

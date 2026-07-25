@@ -13,7 +13,7 @@
 [[Anastasia Salter]]
 [[Cadence Cordell]]
 [[Shelley Staples]]
-[[Sathvika Anand]], [[Xanda Schofield]]
+[[Sathvika Anand]], [[AleXandra Schofield]]
 [[Julia Evans]], [[Marie LeBlanc Flanagan]]
 [[John T. Murray]]
 [[Anouk Lang]]

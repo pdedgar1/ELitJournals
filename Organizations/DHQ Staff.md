@@ -24,7 +24,7 @@
 | [[Jacob Murel]]                        |
 | [[Duyen Nguyen]]                       |
 | [[Kristin Økland]]                     |
-| [[Gregory Palermo]]                    |
+| [[Gregory J. Palermo]]                    |
 | [[Alicia Svenson]]                     |
 | [[Matthew Peters Warne]]               |
 |                                        |
@@ -41,10 +41,10 @@
 | [[Nika Mavrody]]                       |
 | [[Jessica Pressman]]                   |
 | [[Geoffrey Rockwell]]                  |
-| [[†Stéfan Sinclair]]                   |
+| [[Stéfan Sinclair]]                   |
 | [[John Unsworth]]                      |
 | [[Shu Wan]]                            |
-| [[Adriaan van deer Weel]]              |
+| [[Adriaan van der Weel]]              |
 |                                        |
 | Advisory Board]]                       |
 |                                        |
@@ -110,7 +110,7 @@
 | [[Shanmugapriya T]]                    |
 |                                        |
 |                                        |
-| [[Timothy Duguid]]                     |
+| [[Timothy C. Duguid]]                     |
 |                                        |
 |                                        |
 | [[Haining Wang]]                       |

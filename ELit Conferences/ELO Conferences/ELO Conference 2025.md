@@ -35,7 +35,7 @@
 | [[Caitlin Fisher]]                |
 | [[Caitlin Foley]]                 |
 | [[Carly Schnitzler]]              |
-| [[Carmelia Daniel Dos Santos]]    |
+| [[Carmélia Daniel Dos Santos]]    |
 | [[Ceri Houlbrook]]                |
 | [[Chloe Anna Milligan]]              |
 | [[Chloé Mauvais]]                 |
@@ -217,7 +217,7 @@
 | [[Jaidah-Leigh Wyatt]]            |
 | [[Joseph Tabbi]]                  |
 | [[Kathy Wu]]                      |
-| [[Krzysztof A. Ziembik]]          |
+| [[Krzysztof Kaz Ziembik]]          |
 | [[Leslie Xin]]                    |
 | [[Melanie Wilmink]]               |
 | [[Melany Socorro]]                |

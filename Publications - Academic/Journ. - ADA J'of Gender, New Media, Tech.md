@@ -30,7 +30,7 @@
 | [[Josue Chavez]]                |
 | [[Sarah Ciston]]                |
 | [[Mia Consalvo]]                |
-| [[Brittany Cooper]]             |
+| [[Brittany C. Cooper]]             |
 | [[Tressie McMillan Cottom]]     |
 | [[T. L. Cowan]]                  |
 | [[Sky Croeser]]                 |
@@ -99,7 +99,7 @@
 | [[Alexis Lothian]]              |
 | [[Annie Loui]]                  |
 | [[Susana Loza]]                 |
-| [[Krista Lynes]]                |
+| [[Krista Geneviève Lynes]]                |
 | [[Krista Geneviève Lynes]]      |
 | [[Maggie MacAulay]]             |
 | [[Azle Malinao-Alvarez]]        |

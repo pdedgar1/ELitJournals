@@ -44,7 +44,7 @@
 [[Chrystal Taylor]]
 ### Voidspace 12
 [[Dawn Akemi Sueoka]]
-[[Tristan B Willis]]
+[[Tristan B. Willis]]
 [[Rudy Johnson]]
 [[SuperBiasedGary]]
 [[Jeannie Marschall]]

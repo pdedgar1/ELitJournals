@@ -46,7 +46,7 @@
 | [[Edward Wells]]                  |
 | [[emma k.shibley]]                |
 | [[Evan Tysinger]]                 |
-| [[Eyal Gruss]]                    |
+| [[Eyal Yehowa Gruss]]                    |
 | [[farrell]]                       |
 | [[Fereshteh Toosi]]               |
 | [[Fi ]]                           |

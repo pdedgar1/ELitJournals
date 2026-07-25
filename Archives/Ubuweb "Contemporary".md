@@ -92,7 +92,7 @@ Works included in this section, on the whole, must not be able to be reproduced 
 | [[Riccardo Boglione]]                            |
 | [[Richard Foreman]]                              |
 | [[Rirkrit Tiravanija]]                           |
-| [[Rob Fitterman]]                                |
+| [[Robert Fitterman]]                                |
 | [[Robert Kelly]]                                 |
 | [[Ron Silliman]]                                 |
 | [[Ryan Trecartin]]                               |

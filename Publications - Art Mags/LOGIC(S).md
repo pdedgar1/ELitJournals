@@ -128,7 +128,7 @@
 [[April Glaser]]
 [[Sam Adler-Bell]]
 [[Ali Breland]]
-[[Alex Lee]] ''''''''' ???? 
+[[Alex Taek-Gwang Lee]] ''''''''' ???? 
 [[Natalia Mehlman Petrzela]]
 [[Paul Roquet]]
 [[Tamara Kneese]], [[Benjamin Peters]]
@@ -246,7 +246,7 @@
 [[Brian Feldman]]
 [[J. Khadijah Abdurahman]]
 [[Julien Migozzi]]
-[[Lin Zhang]], [[Tu Lan]]
+[[Lan Zhang]], [[Tu Lan]]
 [[Dan McQuillan]]
 
 # 018 - 2022

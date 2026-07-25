@@ -12,7 +12,7 @@
 [[Morgen Christie]]
 [[Julia Nakotte]]
 [[Karina Puuffin]]
-[[Tegan E Webb]]
+[[Tegan E. Webb]]
 [[Addison Blanda]]
 [[Zenobia Frost]]
 [[Gordon Ackerman]]

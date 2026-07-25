@@ -907,7 +907,7 @@ Digital Heterotopies
 
 [[Bertrand Gervais]], [[Alexandra L. Martin]]
 
-and [[Yohann-Michael Fiset]]
+and [[Yohann-Michaël Fiset]]
 
 Building a Digital Ecosystem Dedicated to
 
@@ -1068,7 +1068,7 @@ opened.
 
 Educationbeyond the (e)book
 
-[[Michael Hurtado]], [[Pamela Medina Garcia]], [[José Ignacio López Ramírez-Gastón]] and [[Lee López Castro]]
+[[Michael Hurtado]], [[Pamela Medina Garcia]], [[José Ignacio López Ramírez Gastón]] and [[Lee López Castro]]
 
 The e-lit in the pedagogical space 2.0:
 

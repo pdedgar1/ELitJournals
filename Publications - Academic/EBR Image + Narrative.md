@@ -17,6 +17,6 @@
 [[Joseph Tabbi]]
 [[J. Hillis Miller]]
 [[Anne Burdick]]
-1997 - [[Marta Werner]]
+1997 - [[Marta L. Werner]]
 1996 - [[Anne Burdick]]
 

@@ -415,7 +415,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[David Beaudouin]]           |
 | [[Brian Anthony Bernicken]]   |
 | [[Jonathan Bertman]]          |
-| [[Alice Boatwright]]          |
+| [[Alice K. Boatwright]]          |
 | [[Alon Bochman]]              |
 | [[Dan Brodnitz]]              |
 | [[Sarah Bruner]]              |

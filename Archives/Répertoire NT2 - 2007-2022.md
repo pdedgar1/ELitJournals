@@ -19,7 +19,7 @@ CELL Member  : French-language E-lit
 | [[Dan Albergotti]]                    |
 | [[Morehshin Allahyari]]               |
 | [[Meredith Allen]]                    |
-| [[Steve Anderson]]                    |
+| [[Steve F. Anderson]]                    |
 | [[Lucy Anderton]]                     |
 | [[Jim Andrews]]                       |
 | [[Anima]]                             |
@@ -193,7 +193,7 @@ CELL Member  : French-language E-lit
 | [[E.S.P. TV]]                         |
 | [[Jorn Ebner]]                        |
 | [[Aaron Vincent Elkaim]]              |
-| [[João et Love Enxuto]]               |
+| [[João Enxuto]]               |
 | [[Grégory Fabre]]                     |
 | [[Nolan Fabricius]]                   |
 | [[Farbs]]                             |
@@ -532,7 +532,7 @@ CELL Member  : French-language E-lit
 | [[sipo.jp]]                           |
 | [[Pascual Sisto]]                     |
 | [[Skawennati]]                        |
-| [[Jason Sloan]]                       |
+| [[Jayson Sloan]]                       |
 | [[Sara Sloan Bailey]]                 |
 | [[Jennifer L. Smith]]                 |
 | [[Alicia Smith]]                      |

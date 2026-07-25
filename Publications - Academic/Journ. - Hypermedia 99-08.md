@@ -90,7 +90,7 @@
 - [[Débora Christina Muchaluat-Saade]]
 - [[Luiz Fernando Gomes Soares]]
 - [[Behnak Yaltaghian]]
-- [[Mark Chignell]]
+- [[Mark H. Chignell]]
 - [[Emilia Mendes]]
 - [[Steve Counsell]]
 - [[Nile Mosley]]
@@ -284,7 +284,7 @@
 - [[Yvonne Howard]]
 - [[Gary B. Wills]]
 - [[Alvin Chin]]
-- [[Mark Chignell]]
+- [[Mark H. Chignell]]
 
 ### Vol 14, Iss 2
 - [[Leo Ferres]]

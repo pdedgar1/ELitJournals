@@ -16,7 +16,7 @@
 | [[Daniela Côrtes Maduro]]  |
 | [[Theadora Walsh ]]         |
 | [[Reed Gaines ]]            |
-| [[Laura Sanchez Gomez ]]    |
+| [[Laura Sánchez Gómez]]    |
 | [[]]                        |
 | ELO Fellows]]               |
 | [[Hannah Ackermans ]]       |
@@ -26,7 +26,7 @@
 | [[Lai-Tze Fan ]]            |
 | [[Judy Ann Heflin ]]        |
 | [[Roberta Iadevaia ]]       |
-| [[Alexandra Martin ]]       |
+| [[Alexandra L. Martin]]       |
 | [[Aurelio Meza ]]           |
 | [[Bruno Ministro ]]         |
 | [[Chelsea Miya ]]           |
@@ -54,9 +54,9 @@
 | [[William Benzon ]]         |
 | [[Friedrich W. Block ]]     |
 | [[Stefanie Boese ]]         |
-| [[Stephen Burn ]]           |
-| [[Dave Ciccoricco ]]        |
-| [[Tanya Clement ]]          |
+| [[Stephen J. Burn]]           |
+| [[David Ciccoricco]]        |
+| [[Tanya E. Clement]]          |
 | [[Brian L. Croxall ]]       |
 | [[helen DeVinney ]]         |
 | [[Jeremy Douglass ]]        |
@@ -67,7 +67,7 @@
 | [[Luciana Gattass ]]        |
 | [[Anna Gibbs ]]             |
 | [[Dene Grigar ]]            |
-| [[Juan B. Gutierrez ]]      |
+| [[Juan B. Gutiérrez]]      |
 | [[Jaka Železnikar ]]        |
 | [[Mark Marino ]]            |
 | [[Talan Memmot ]]           |
@@ -77,7 +77,7 @@
 | [[Martina Pfeiler ]]        |
 | [[Eric Dean Rasmussen ]]    |
 | [[April Salchert ]]         |
-| [[Rob Schoenbeck ]]         |
+| [[Robert Schoenbeck]]         |
 | [[R. Lyle Skains]]            |
 | [[Lisa Swanstrom ]]         |
 | [[Patricia Tomaszek ]]      |

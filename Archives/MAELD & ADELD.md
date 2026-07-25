@@ -40,7 +40,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | DivisiOn games]]                                                    |
 | [[Dope Apps]]                                                       |
 | [[Douwlina du Plessis]]                                             |
-| [[Ismail El Bouyahyaoui]]                                           |
+| [[Smail El Bouyahyaoui]]                                           |
 | [[Abdelouahid Stitou]]                                              |
 | [[Sue Franco]]                                                      |
 | Funsoft Team Rangi]]                                                |

@@ -31,7 +31,7 @@ An International digital Poetry Festival
 | [[Martha Deed]]                                               |     |
 | [[Telemary Diaz]]                                             |     |
 | [[Giovanna Di Rosario]]                                       |     |
-| [[Claire Donato]] & [[Jeff T. Johnson]]                       |     |
+| [[Claire Donato]] & [[Jeffrey T. Johnson]]                       |     |
 | [[John Levack Drever]]                                        |     |
 | [[Lori Emerson]]                                              |     |
 | [[Maria Engberg]]                                             |     |
@@ -48,7 +48,7 @@ An International digital Poetry Festival
 | [[Shelley Hain]]                                              |     |
 | [[Ian Hatcher]]                                               |     |
 | [[Sandra Huber]]                                              |     |
-| [[Angelica J. Huizar]]                                        |     |
+| [[Angélica J. Huizar]]                                        |     |
 | [[Mark Jeffery]]                                              |     |
 | [[david jhave johnston]]                                      |     |
 | [[Andrew Klobucar]]                                           |     |
@@ -56,7 +56,7 @@ An International digital Poetry Festival
 | [[Claudia Kozak]]                                             |     |
 | [[Joan La Barbara]]                                           |     |
 | [[Patrick Lemieux]]                                           |     |
-| [[Steven Lemieux]]                                            |     |
+| [[Steven J. Lemieux]]                                            |     |
 | [[Jason Edward Lewis]]                                        |     |
 | [[Tara Madsen]]                                               |     |
 | [[Mark C. Marino]]                                            |     |
@@ -128,7 +128,7 @@ An International digital Poetry Festival
 | [[Maria Angel]]                                               |     |
 | [[Manuel Portela]]                                            |     |
 | [[Scott Rettberg]]                                            |     |
-| Special America ([[Claire Donato]] and [[Jeff T. Johnson]])]] |     |
+| Special America ([[Claire Donato]] and [[Jeffrey T. Johnson]])]] |     |
 | [[Jeremy Hight]]                                              |     |
 | [[Jeremy Douglass]]                                           |     |
 | [[Eric Snodgrass]]                                            |     |
@@ -136,6 +136,6 @@ An International digital Poetry Festival
 | [[Danny Cannizzaro]]                                          |     |
 | [[Juan B. Gutiérrez]]                                         |     |
 | [[Stephanie Strickland]]                                      |     |
-| [[Jeff T. Johnson]]                                           |     |
+| [[Jeffrey T. Johnson]]                                           |     |
 | [[Mark C. Marino]]                                            |     |
 | [[Judd Morrissey]]                                            |     |

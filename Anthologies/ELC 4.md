@@ -153,7 +153,7 @@
 [[Todd Anderson]]
 [[Vera Sebert]]
 [[Augusto Vinicius Marquet]]
-[[Vinicius Rutes Henning]]
+[[Vinícius Rutes Henning]]
 [[Vivian Abenshushan]]
 [[Winnie Soon]]
 [[Xavier Leton]]

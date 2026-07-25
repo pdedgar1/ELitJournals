@@ -222,7 +222,7 @@ CELL Member  : French-language E-lit
 | [[Sophie Charrier]]                                      |
 | [[Julie Châteauvert]]                                    |
 | [[Marianne Cloutier]]                                    |
-| [[Vuk Cosic]]                                            |
+| [[Vuk Ćosić]]                                            |
 | [[Ricardo Dominguez]]                                    |
 | [[Marc Dorinel]]                                         |
 | [[Sergio Messina]]                                       |
@@ -411,7 +411,7 @@ CELL Member  : French-language E-lit
 | [[Philip Gaedke]]                                        |
 | [[Colette Gaiter]]                                       |
 | [[Rainer Ganahl]]                                        |
-| [[Daniel Garcia Andujar]]                                |
+| [[Daniel García Andújar]]                                |
 | [[Nicolas Gardenne]]                                     |
 | [[Marc Garret]]                                          |
 | [[Jose Gasco]]                                           |
@@ -543,7 +543,7 @@ CELL Member  : French-language E-lit
 | [[Judith Jackson Fossett]]                               |
 | [[Richard Jackson]]                                      |
 | [[Shelley Jackson]]                                      |
-| [[Andreas Maria Jacobs]]                                 |
+| [[Andreas María Jacobs]]                                 |
 | [[Mogens Jacobsen]]                                      |
 | [[Guy Jacquesson]]                                       |
 | [[Agathe Jacquillat]]                                    |
@@ -659,11 +659,11 @@ CELL Member  : French-language E-lit
 | [[Mael Le Mée]]                                          |
 | [[Karen Le Ninan]]                                       |
 | [[Juan Jean-Claude Le Parc]]                             |
-| [[Juan Le Parc]]                                         |
+| [[Juan Jean-Claude Le Parc]]                                         |
 | [[Karine Lebrun]]                                        |
 | [[Danny Ledonne]]                                        |
 | [[Ang Lai Lee]]                                          |
-| [[Joseph Lefèvre]]                                       |
+| [[Joseph Lefévre]]                                       |
 | [[Jael Lehmann]]                                         |
 | [[Donna Leishman]]                                       |
 | [[Davis B. Lektrogirl]]                                  |
@@ -871,7 +871,7 @@ CELL Member  : French-language E-lit
 | [[Ovosite]]                                              |
 | [[Zanas Pablo]]                                          |
 | [[Sugar Seville Pacino Hercules]]                        |
-| [[Friedrike Paetzold]]                                   |
+| [[Friederike Paetzold]]                                   |
 | [[Stéphan Pain]]                                         |
 | [[Mads Skovbjerg Paldam]]                                |
 | [[Palle Torsson]]                                        |
@@ -985,7 +985,7 @@ CELL Member  : French-language E-lit
 | [[Christy Sheffield Sanford]]                            |
 | [[Barbara Sansone]]                                      |
 | [[Verónica Perez Santamaria]]                            |
-| [[Frederique Santune]]                                   |
+| [[Frédérique Santune]]                                   |
 | [[Megan Sapnar]]                                         |
 | [[Galina Savitskaia]]                                    |
 | [[Suza Scalora]]                                         |
@@ -1171,7 +1171,7 @@ CELL Member  : French-language E-lit
 | [[Annette Weintraub]]                                    |
 | [[Joel Weishaus]]                                        |
 | [[Christopher Werby]]                                    |
-| [[Marta Werner]]                                         |
+| [[Marta L. Werner]]                                         |
 | [[Kim White]]                                            |
 | [[Michael White]]                                        |
 | [[Helen Whitehead]]                                      |

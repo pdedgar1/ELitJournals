@@ -33,7 +33,7 @@ An International digital Poetry Festival
 | [[Wayne Clements]]         |
 | [[Xelís de Toro]]          |
 | [[David Devanny]]          |
-| [[John Drever]]            |
+| [[John Levack Drever]]            |
 | [[Costin Dumitrache]]      |
 | [[Kevin McPherson Eckhoff]] |
 | [[Ekaterina Elsukova]]     |
@@ -51,7 +51,7 @@ An International digital Poetry Festival
 | [[Ian Hatcher]]            |
 | [[Johannes Heldén]]        |
 | [[Jason Huff]]             |
-| [[Anjelica Huizar]]        |
+| [[Angélica J. Huizar]]        |
 | [[Zuzana Husárová]]        |
 | [[Zuzana Husárová]]        |
 | [[David Jhave Johnston]]   |

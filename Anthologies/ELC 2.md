@@ -14,7 +14,7 @@
 [[Roderick Coover]]
 **[[Sharon Daniel]] and [[Erik Loyer]]**
 **[[Juliet Davis]]**
-**[[Ton Ferret]]**
+**[[Anton Ferret]]**
 [[Caitlin Fisher]]
 **[[William Gillespie]]**
 **[[Neil Hennessy]]**
@@ -23,7 +23,7 @@
 **[[Rozalie Hirs]] and [[Harm van den Dorpel]]**
 [[Daniel C. Howe]] + [[Bebe Molina]]
 **[[Geof Huth]]**
-**[[Andreas Jacobs]]**
+**[[Andreas María Jacobs]]**
 [[David Jhave Johnston]]
 [[Justin Katko aka jUStin!katKO]]
 **[[Orit Kruglanski]]**

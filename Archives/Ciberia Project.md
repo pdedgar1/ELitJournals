@@ -68,7 +68,7 @@
 | [[santiago ortiz]]             |
 | [[santiago ortiz]]             |
 | [[juan pintabona]]             |
-| [[felix remirez]]              |
+| [[félix remírez]]              |
 | [[Gustavo Romano]]             |
 | [[daniel ruiz]]                |
 | [[beatriz sanchez]]            |
@@ -95,7 +95,7 @@
 | [[alicia güemes]]              |
 | [[iñigo orduña]]               |
 | [[claudio molinari]]           |
-| [[ana herrera]]                |
+| [[Ana María Martín Herrera]]                |
 | [[miguel calero]]              |
 | [[isabel ara]]                 |
 | [[iñaki de lorenzo]]           |
@@ -106,10 +106,10 @@
 
 
 ## LOREM BITSUM Collection 
-[[José Aburto]], [[José Luis Alexanco]], [[Antonio Alvarado]], [[José Ballesteros]], [[Joan Brossa]], [[José Luis Castillejo]], [[Mikaël Cixous]], [[Doménico Chiappe]], [[Alexandre Dupuis]], [[Tina Escaja aka Alm@ Pérez]], [[Benjamín Escalonilla]], [[Belén Gache]], [[Belén García Nieto]], [[Dora García]], [[Marisa González]], [[Juan B. Gutiérrez]], [[Marla Jacarilla]], [[Antonio Labella]], [[María Cuevas]], [[Salvador Sancha]], [[Juan Carlos López Sánchez]], [[Mark C. Marino]], [[María Mencía]], [[Fernando Millán]], [[Claudio Molinari Dassatti]], [[Inigo Orduña]], [[Gustavo Romano]], [[Ana María Uribe]], [[Isidoro Valcárcel Medina]], [[David Wiesner]].
+[[José Aburto]], [[José Luis Alexanco]], [[Antonio Alvarado]], [[José Ballesteros]], [[Joan Brossa]], [[José Luis Castillejo]], [[Mikaël Cixous]], [[Doménico Chiappe]], [[Alexandre Dupuis]], [[Tina Escaja aka Alm@ Pérez]], [[Benjamín Escalonilla]], [[Belén Gache]], [[Belén García Nieto]], [[Dora García]], [[Marisa González]], [[Juan B. Gutiérrez]], [[Marla Jacarilla]], [[Antonio Labella]], [[María Cuevas]], [[Salvador Sancha]], [[Juan Carlos López Sánchez]], [[Mark C. Marino]], [[María Mencía]], [[Fernando Millán]], [[Claudio Molinari Dassatti]], [[Iñigo Orduña]], [[Gustavo Romano]], [[Ana María Uribe]], [[Isidoro Valcárcel Medina]], [[David Wiesner]].
 
 - ﻿﻿de los poemas de [[Joan Brossa]]. Fundación Joan Brossa, VEGAP, 2018.
-- ﻿﻿de los poemas de [[José Luis Castillejo]] Y [[Fernado Millán]]. Archivo Lafuente.
+- ﻿﻿de los poemas de [[José Luis Castillejo]] Y [[Fernando Millán]]. Archivo Lafuente.
 - ﻿﻿de las imágenes de [[Isidoro Valcárcel Medina]], Fundación Juan March.
 
 Curadores: [[María Goicoechea de Jorge]], [[Laura Sánchez Gómez]]

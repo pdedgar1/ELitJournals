@@ -55,7 +55,7 @@
 
 ### Issue 03 — [[Ian Hatcher]] and [[Carlota Salvador Megias]]
 [[Maya Garcia]]
-[[Gabor Toth]]
+[[Gábor Mihály Tóth]]
 [[Damon Duc Pham]]
 [[Claire Donato]] and [[Anastasios Karnazes]]
 [[Loom]]

@@ -3,14 +3,14 @@
 [[Gregory Avery-Weir]]
 [[Jarory de Jesus]]
 [[Farhanaz Kassee-Elahee]]
-[[Jordan Magnuson]]
+[[Jordan Magnusson]]
 [[Jon Stone]]
 [[Agata Waszkiewicz]]
 
 ### Production 
 [[John Domenico Calvelli]]
-[[Matt Griffin]]
-[[Jordan Magnuson]]
+[[Matthew F. Griffin]]
+[[Jordan Magnusson]]
 
 ### Advisory Board 
 [[Andrew Baillie]]

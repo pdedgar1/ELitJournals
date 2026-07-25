@@ -3,7 +3,7 @@
 ### Vol 25, Iss 1-2
 - [[Nicole Basaraba]]
 - [[Owen Conlan]]
-- [[Jennifer Edmond]]
+- [[Jennifer C. Edmond]]
 - [[Peter Arnds]]
 - [[Jolanta Brzostek-Pawłowska]]
 - [[Małgorzata Rubin]]
