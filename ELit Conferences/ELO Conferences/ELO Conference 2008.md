@@ -7,7 +7,7 @@ Co-Chairs [[Dene Grigar]] and [[John F. Barber]]
 Presenters 
 [[Mark Amerika]]
 [[Stefan Müller Arisona]] and [[Steve Gibson]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Sue Thomas]] and [[Dene Grigar]] and [[Talan Memmott]] and [[Rob Wittig]]
 [[Sandy Baldwin]] and [[Rita Raley]] and [[Alan Sondheim]]
 [[David Benin]]

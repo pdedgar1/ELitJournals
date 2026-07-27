@@ -39,7 +39,7 @@ https://nickm.com/poems/taroko_gorge/
 [[xenofem]]
 [[Melinda M. White]]
 [[Anneke Nussbaum]]
-[[Mehulkumar Desai]] & [[Denise+Deena Larsen]]
+[[Mehulkumar Desai]] & [[Deena Larsen]]
 [[Leonardo Flores]]
 
 

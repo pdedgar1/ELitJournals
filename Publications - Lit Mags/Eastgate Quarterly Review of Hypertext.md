@@ -10,7 +10,7 @@ Number 1
 
 Number 2
 - [[Judith Kerman]]
-- [[Denise+Deena Larsen]]
+- [[Deena Larsen]]
 - [[Michael van Mantgem]]
 
 Number 3 

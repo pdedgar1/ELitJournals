@@ -160,7 +160,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Wendi]]                                                           |
 | [[Mathews Chishinji]]                                               |
 | [[Ng'endo Mukii]]                                                   |
-| [[Faith Samuel Bassey]] and [[Denise+Deena Larsen]]                        |
+| [[Faith Samuel Bassey]] and [[Deena Larsen]]                        |
 | [[Hafsah Dauda]]                                                    |
 | [[Rachid Benharrousse]]                                             |
 | [[Joel 'Kachi Benson]]                                              |

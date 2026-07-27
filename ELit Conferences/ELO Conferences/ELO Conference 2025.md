@@ -56,7 +56,7 @@
 | [[David M. Meurer]]                  |
 | [[David R. Lincoln]]              |
 | [[Davin Heckman]]                 |
-| [[Denise+Deena Larsen]]                  |
+| [[Deena Larsen]]                  |
 | [[Dene Grigar]]                   |
 | [[Désirée Nore Duchesne]]         |
 | [[Dolleen Tisawii'ashii Manning]] |

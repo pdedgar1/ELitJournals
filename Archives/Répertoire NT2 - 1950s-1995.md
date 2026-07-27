@@ -38,7 +38,7 @@ CELL Member  : French-language E-lit
 [[John Mark Ockerbloom]], 
 [[David Madore]], [[Simon Brousseau]]
 [[Thomas E Dell]], 
-[[Denise+Deena Larsen]], [[Kathleen A. Turner-Suarez]], 
+[[Deena Larsen]], [[Kathleen A. Turner-Suarez]], 
 [[Ana Richardson]], [[Bernard Demiaux]], [[Valérie Comtois]]
 [[Thierry Saint Joanis]], 
 [[anonymous]]

@@ -5,7 +5,7 @@
 [[Alan Sondheim]]
 [[Christy Sheffield Sanford]]
 [[David Kolb]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Jason Nelson]]
 [[Jody Zellen]]
 [[M. D. Coverley aka Marjorie C. Luesebrink]]

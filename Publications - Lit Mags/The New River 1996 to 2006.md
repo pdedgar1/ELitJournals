@@ -22,7 +22,7 @@
 
 
 ## 1999
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Samantha Gorman]]
 [[Leslye Bloom]]
 [[Martyn Bedford]]
@@ -34,7 +34,7 @@
 [[Robert Kendall]]
 ## 2001
 [[Robert Kendall]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Edward Falco]]
 [[David Herrstrom]]
 [[Joel Weishaus]]

@@ -8,7 +8,7 @@
 [[Bill Bly]] and [[Alan Sondheim]]
 [[Eric Dean Rasmussen]] and [[Scott Rettberg]]
 [[Daniel C. Howe]]
-[[Bill Bly]], [[Denise+Deena Larsen]], [[M. D. Coverley aka Marjorie C. Luesebrink]]
+[[Bill Bly]], [[Deena Larsen]], [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Maria Angel]] [[Laura Borràs Castanyer]] [[Anna Gibbs]] [[Dene Grigar]] [[Davin Heckman]] [[Eric Dean Rasmussen]] [[Joseph Tabbi]]
 [[Caitlin Fisher]] [[Jason Edward Lewis]] [[Erik Loyer]] [[Greg J. Smith]] [[Jason Nelson]]
 

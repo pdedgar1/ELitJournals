@@ -26,7 +26,7 @@
 [[Jon Ingold]]
 [[Shelley Jackson]] + [[Ken Fricklas]]
 [[Michael Joyce]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Robert Kendall]]
 [[Kerry Lawrynovicz]]
 [[Donna Leishman]]

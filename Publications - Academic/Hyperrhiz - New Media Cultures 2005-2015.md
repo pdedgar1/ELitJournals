@@ -134,7 +134,7 @@ regular reviews
 [[Jean-Pierre Balpe]]
 [[Talan Memmott]]
 [[Glen Gatin]]
-[[Denise+Deena Larsen]] and [[MaJe Larsen]]
+[[Deena Larsen]] and [[MaJe Larsen]]
 [[Mez Breeze]]
 [[Peter McDonald]] and [[Patrick Jagoda]]
 [[Reed Gaines]]

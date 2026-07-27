@@ -27,7 +27,7 @@
 [[Monika Górska-Olesińska]]  
 [[Amira Hanafi]]  
 [[N. Katherine Hayles]]  
-[[Denise+Deena Larsen]]  
+[[Deena Larsen]]  
 [[Patrick Lichty]]
 [[Souvik Moukerjee]]
 [[Stuart Moulthrop]]

@@ -62,7 +62,7 @@ https://the-next.eliterature.org/collections/4&pg=1&display=100&sort=date
 [[Bill Marsh]]
 
 ### 2001
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Mez Breeze]]
 [[Helen Whitehead]]

@@ -80,7 +80,7 @@
 [[Leonardo Flores]]
 [[Justin Gallant]]
 [[Audrey Coble]]
-[[Mehulkumar Desai]] and [[Denise+Deena Larsen]]
+[[Mehulkumar Desai]] and [[Deena Larsen]]
 [[Collier Nogues]]
 [[Sean Carroll]]
 [[Aaron El Sabrout]]

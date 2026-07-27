@@ -8,7 +8,7 @@ Buses depart Doubletree for UWM
 Media Arts Show OPEN –Golda Meir Library, Digital Humanities Lab: 9AM-­‐5PM
 Session 1A Language in Front of Us–Curtin 118
 Chair:T.B.A.
-❏[[Luc Dall'Armellina]], ❏[[Jonathan Olshefski]], ❏[[Denise+Deena Larsen]], Session 1B Social Media, The City–Curtin 175
+❏[[Luc Dall'Armellina]], ❏[[Jonathan Olshefski]], ❏[[Deena Larsen]], Session 1B Social Media, The City–Curtin 175
 Chair:CarolynGuertin
 ❏[[Carolyn Guertin]], ❏[[Kathi Inman Berens]], ❏[[Kwabena Opoku-Agyemang]], ❏[[Benjamin Grosser]], Break
 Session 2A A Feel for the Algorithm–Curtin 118

@@ -1,7 +1,7 @@
 [[R. Lyle Skains]]
 [[Misha Rabinovich]]
 [[Monica Storss]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Hailey TJ O'Gorman]]
 [[Sofia da Palma Rodrigues]]
 [[Siobhan O'Flynn]]

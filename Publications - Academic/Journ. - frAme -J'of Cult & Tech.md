@@ -53,7 +53,7 @@ https://the-next.eliterature.org/collections/15&pg=1&display=100&sort=date
 [[Randy Adams]]
 [[Pauline Masurel aka Mazzy]]
 [[Talan Memmott]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Linda Carroli]]
 [[Lehan Ramsay]]
 [[Pauline Masurel aka Mazzy]]

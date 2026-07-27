@@ -15,7 +15,7 @@ Proceedings introduction
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Hannah Ackermans]]                                                            |
-| [[Denise+Deena Larsen]]                                                                |
+| [[Deena Larsen]]                                                                |
 | [[R. Lyle Skains]]                                                              |
 | [[Richard Snyder]]                                                              |
 | [[Samya Brata Roy]]                                                             |
@@ -99,7 +99,7 @@ Proceedings introduction
 | [[Prakruti K. Bhatt]]                                                           |
 | [[Judith A. Pintar]]                                                            |
 | [[Suzanne V. Rigdon]]                                                           |
-| [[Denise+Deena Larsen]]                                                         |
+| [[Deena Larsen]]                                                         |
 | [[R. Lyle Skains]]                                                              |
 | [[Mark C. Marino]]                                                              |
 | [[Dene Grigar]]                                                                 |

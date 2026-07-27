@@ -55,7 +55,7 @@ Chair: [[Robert Glick]], Rochester Institute of Technology
 - "– O True Apothecary!, by [[Kyle Booten]]," UC Berkeley, Center for New Media
 - "Life Experience through Digital Simulation Narratives," [[David Núñez Ruiz]], Neotipo
 - "Building Stories," [[Kate Palermini]], Washington State University Vancouver
-- "Help Wanted and Skills Offered," by [[Denise+Deena Larsen]], Independent Artist; [[Julianne Chatelain]], U.S. Bureau of Reclamation
+- "Help Wanted and Skills Offered," by [[Deena Larsen]], Independent Artist; [[Julianne Chatelain]], U.S. Bureau of Reclamation
 - "Beyond Original E-Lit: Deconstructing Austen Cybertexts," [[Meredith Dabek]], Maynooth University
 - Arabic E-Lit. (AEL) Project, [[Reham Hosny]], Rochester Institute of Technology/Minia University
 - "Poetic Machines," [[Sidse Rubens LeFevre]], University of Copenhagen
@@ -175,7 +175,7 @@ Chair: [[Robert Glick]], Rochester Institute of Technology
 - "Cinematic Turns," [[Elizabeth Losh]], College of William and Mary
 - "Mario Mods and Ludic Seriality," [[Shane Denson]], Duke University
 
-Chair: [[Denise+Deena Larsen]], Independent Artist
+Chair: [[Deena Larsen]], Independent Artist
 
 - "How E-Literary Is My E-Literature?," by [[Leonardo Flores]], University of Puerto Rico Mayagüez Campus
 - "Overcoming the Locative Interface Fallacy," by [[Lauren Burr]], University of Waterloo

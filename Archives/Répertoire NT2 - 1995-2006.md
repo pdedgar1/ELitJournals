@@ -647,7 +647,7 @@ CELL Member  : French-language E-lit
 | [[Pär Lannerö]]                                          |
 | [[Jean-Pierre Lapointe]]                                 |
 | [[Tina LaPorta]]                                         |
-| [[Denise+Deena Larsen]]                                         |
+| [[Deena Larsen]]                                         |
 | [[Matthieu Laurette]]                                    |
 | [[Dorianne Laux]]                                        |
 | [[Hugo Lavallée]]                                        |

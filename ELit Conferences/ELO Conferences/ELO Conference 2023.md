@@ -62,7 +62,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Terhi Marttila]]                         |
 | [[J. R. Carpenter]]                        |
 | [[Jules Rawlinson]]                        |
-| [[Denise+Deena Larsen]]                           |
+| [[Deena Larsen]]                           |
 | [[Celeste Pedro]]                          |
 | [[Terhi Marttila]]                         |
 | [[Kathi Inman Berens]]                     |

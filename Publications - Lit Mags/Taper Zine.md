@@ -70,7 +70,7 @@
 [[Naoto Hieda]]
 [[Michael Hurtado]]
 [[Jim Kang]]
-[[Brian Kelly]] & [[Denise+Deena Larsen]]
+[[Brian Kelly]] & [[Deena Larsen]]
 [[Will Luers]]
 [[Vi Meyer]]
 [[Jason Nelson]]

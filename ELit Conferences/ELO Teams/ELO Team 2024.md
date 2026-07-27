@@ -41,7 +41,7 @@
 [[Emily K. Johnson]], University of Central Florida
 [[Maria Cecilia Reyes]], Universidad del Norte
 [[Kirk Lundblade]], University of Central Florida
-[[Denise+Deena Larsen]], Washington State University Vancouver
+[[Deena Larsen]], Washington State University Vancouver
 [[Mike Shier]], University of Central Florida
 
 ### Artistic Committee

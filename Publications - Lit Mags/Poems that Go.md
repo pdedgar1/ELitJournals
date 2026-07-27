@@ -37,7 +37,7 @@ https://the-next.eliterature.org/collections/14&pg=1&display=100&sort=title
 [[Thom Swiss]], [[Skye Giordano]]
 [[Andy Campbell]]
 [[Joanna Sakellion]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[William Minor]] [[Steve Minor]], [[Elise Rotchford]]
 [[Mitchell Kimbrough]], [[Norah Jones]]
 [[Zahra Safavian]]

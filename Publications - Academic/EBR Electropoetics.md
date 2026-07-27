@@ -3,7 +3,7 @@
 # 2026
 
 [[Kurt Heintz]]
-[[N. Katherine Hayles]] and [[Denise+Deena Larsen]]
+[[N. Katherine Hayles]] and [[Deena Larsen]]
 # 2025
 
 [[Cecily Raynor]]

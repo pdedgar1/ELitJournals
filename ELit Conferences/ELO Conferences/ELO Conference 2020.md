@@ -71,7 +71,7 @@
 
 ## Roundtables 
 [[Søren Bro Pold]][[Anna Nacher]][[Scott Rettberg]]
-[[Annie Abrahams]], [[Denise+Deena Larsen]] [[Roderick Coover]], [[Anna Nacher]], [[Eugenio Tisselli]], [[Kirill Azernyi]] [[Renee Carmichael]], [[Johanna Rodgers]]
+[[Annie Abrahams]], [[Deena Larsen]] [[Roderick Coover]], [[Anna Nacher]], [[Eugenio Tisselli]], [[Kirill Azernyi]] [[Renee Carmichael]], [[Johanna Rodgers]]
 [[Caleb Andrew Milligan]], [[Sarah Whitcomb Laiola]], [[Erin Kathleen Bahl]], [[Élika Ortega]]
 [[María Goicoechea de Jorge]] [[Ana Sofia Albuquerque e Aguilar]] [[Mark C. Marino]], [[Laura Sánchez Gómez]]
 [[Patrick Jagoda]], [[Heidi Coleman]], [[Marc Downie]], [[Ashlyn Sparrow]], [[Kristen Schilt]]
@@ -80,7 +80,7 @@
 
 ## events 
 [[Hannah Ackermans]]
-[[Denise+Deena Larsen]][[Lee Tusman]], [[Sarah Whitcomb Laiola]], [[Denise+Deena Larsen]]
+[[Deena Larsen]][[Lee Tusman]], [[Sarah Whitcomb Laiola]], [[Deena Larsen]]
 [[Mark C. Marino]], [[Rob Wittig]], [[Scott Rettberg]], [[Talan Memmott]]
 
 
@@ -99,7 +99,7 @@
 [[Judd Morrissey]]
 [[Ava Aviva Avnisan]]
 [[Mark Jeffery]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Ian Hatcher]]
 [[Matthew Nichols]]
 [[Michael Thomas]]

@@ -92,7 +92,7 @@ Tags:
 - [[David Hadbawnik]]
 - [[David Jhave Johnston]]
 - [[David Knoebel]]
-- [[Denise+Deena Larsen]]
+- [[Deena Larsen]]
 - [[Dene Grigar]]
 - [[Dino Patti]]
 - [[Dirk Hine]]

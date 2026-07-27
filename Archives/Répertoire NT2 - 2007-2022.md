@@ -348,7 +348,7 @@ CELL Member  : French-language E-lit
 | [[Pierre-Luc Lapointe]]               |
 | [[Manu Larcenet]]                     |
 | [[Lucas LaRochelle]]                  |
-| [[Denise+Deena Larsen]]               |
+| [[Deena Larsen]]               |
 | [[Sophie Latouche]]                   |
 | [[Sam Lavigne]]                       |
 | [[Antoine Le Bos]]                    |

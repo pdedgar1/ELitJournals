@@ -1,6 +1,6 @@
 #organization 
 #### co founders [[Shanmugapriya T]], [[Mehulkumar Desai]]
-partner [[Denise+Deena Larsen]]
+partner [[Deena Larsen]]
 
 ##### creative works
 [[Kaushiki Chaudhary]]

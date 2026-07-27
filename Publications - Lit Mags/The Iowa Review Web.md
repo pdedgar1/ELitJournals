@@ -9,7 +9,7 @@ donated by [[Lynne Nugent]]
 [[Brad Brace]]
 ### 1999
 [[Edward Falco]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Robert Kendall]]
 ### 2000

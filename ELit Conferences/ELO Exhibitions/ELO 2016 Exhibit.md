@@ -14,7 +14,7 @@
 [[M. D. Coverley aka Marjorie C. Luesebrink]] and [[Stephanie Strickland]]
 [[Daniel C. Howe]]
 [[Richard S. Ehrlich]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Will Luers]]
 [[Jeff Morris]] and [[Elisabeth Blair]]
 [[Jason Nelson]]

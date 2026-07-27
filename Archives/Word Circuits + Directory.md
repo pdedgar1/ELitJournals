@@ -1,5 +1,5 @@
 #anthology 
-
+https://www.wordcircuits.com/dir/sites.htm
 http://www.wordcircuits.com
 
 Last updated June 11 2001 
@@ -31,7 +31,7 @@ Last updated June 11 2001
 [[Eduardo Kac]]
 [[Robert Kendall]]
 [[Judith Kerman]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Kathy Mac]]
 [[Judy Malloy]]
 [[Michael van Mantgem]]
@@ -56,3 +56,34 @@ Last updated June 11 2001
 [[Komninos Konstantinos Zervos]]
 
 Compiled by [[Robert Kendall]]
+
+[[BeeHive]]
+[[Enterzone]]
+[[The Iowa Review Web]]
+[[The Little Magazine]]
+[[The New River 2007-2017]]
+[[No Live Operator]]
+- http://isis.netherworld.com/~musiclnk/nolo/HTML/welcome.html
+[[NWHQ]]
+- http://www.knosso.com/NWHQ/
+[[Postmodern Culture]]
+[[pubSphere( )]] A literary showcase for hypermedia artists
+[[Snakeskin Poetry Webzine]]
+[[Tales Multimedia Journal]]
+[[The NEXT - Turbulence]]
+
+[[Press - ALT-X Press]]
+[[Blast5 Dramas]]
+[[Burning Press]]
+[[Diskotech Software]]
+[[Eastgate Systems]]
+[[Franklin Furnace Home]]
+[[GRIST On-Line]]
+[[Maid in Cyberspace]]: Maid Artists
+NYU Press
+[[Ubuweb "Contemporary"]]
+
+[[Group Z]] (belgium)
+[[spidertangle wordroud]]
+[[TinkerNet]]
+[[Hyperizons]]: the search for Hypertext Fiction

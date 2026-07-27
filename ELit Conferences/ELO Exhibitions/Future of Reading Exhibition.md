@@ -1,7 +1,7 @@
 #conference 
 
 [[Kate Pullinger]], [[Chris Joseph]], [[Stefan Schemat]]
-[[Geniwate aka Jenny Weight]] and [[Denise+Deena Larsen]]
+[[Geniwate aka Jenny Weight]] and [[Deena Larsen]]
 [[Serge Bouchardon]], [[Léonard Dumas]], [[Vincent Volckaert]], [[Hervé Zénouda]]
 [[Jim Andrews]]
 [[Lance Olsen]] and [[Tim Guthrie]]

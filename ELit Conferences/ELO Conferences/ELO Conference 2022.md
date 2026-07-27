@@ -865,7 +865,7 @@ researchers and technologists can co-
 
 create the future of literature
 
-[[Dene Grigar]], [[Denise+Deena Larsen]], [[Judy Malloy]], [[R. Lyle Skains]], [[Astrid Ensslin]] and [[M. D. Coverley aka Marjorie C. Luesebrink]]
+[[Dene Grigar]], [[Deena Larsen]], [[Judy Malloy]], [[R. Lyle Skains]], [[Astrid Ensslin]] and [[M. D. Coverley aka Marjorie C. Luesebrink]]
 
 Legends, Myths and Magic of Electronic
 
@@ -915,7 +915,7 @@ the Study of Contemporary Imagination
 
 AIrchive and UXpoetry
 
-[[Denise+Deena Larsen]], [[Jules Chatelain]], [[Amira Hanafi]] [[Samya Brata Roy]] and [[R. Lyle Skains]]
+[[Deena Larsen]], [[Jules Chatelain]], [[Amira Hanafi]] [[Samya Brata Roy]] and [[R. Lyle Skains]]
 
 How do we Engage and Save the World-An
 
@@ -1118,7 +1118,7 @@ Le STEAM al centro. Laboratorio di coding, meccatronica e realtà
 
 aumentata/virtuale
 
-[[Denise+Deena Larsen]], [[Jules Chatelain]], [[Amira Hanafi]], [[Samya Brata Roy]] and [[R. Lyle Skains]]
+[[Deena Larsen]], [[Jules Chatelain]], [[Amira Hanafi]], [[Samya Brata Roy]] and [[R. Lyle Skains]]
 
 Let's Engage the World--A Reading/Writing Workshop online and in
 

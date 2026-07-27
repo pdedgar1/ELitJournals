@@ -278,7 +278,7 @@
 | [[Karen Ann Donnachie]] (Independent Artist)]]                                                          |
 | [[Patrick LeMieux]] & ]]                                                                                |
 | [[Stephanie Boluk]] (University of California, Davis)]]                                                 |
-| [[Denise+Deena Larsen]] (The Rose Project) & ]]                                                                |
+| [[Deena Larsen]] (The Rose Project) & ]]                                                                |
 | [[Leonardo Flores]]                                                                                     |
 | [[Paul O'Neill]]                                                                                        |
 | [[Pip Thornton]]                                                                                        |
@@ -325,7 +325,7 @@
 | [[Milton Läufer]]                                                                                       |
 | [[Demian Schopf]]                                                                                       |
 | [[Vinícius Carvalho Pereira]]                                                                           |
-| [[Denise+Deena Larsen]]                                                                                        |
+| [[Deena Larsen]]                                                                                        |
 | [[Jon Saklofske]]                                                                                       |
 | [[Bill Bly]]                                                                                            |
 | [[Dene Grigar]]                                                                                         |

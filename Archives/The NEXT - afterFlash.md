@@ -10,7 +10,7 @@
 [[Peter Howard]]
 [[Robert Kendall]]
 [[Red Lily]]
-[[Denise+Deena Larsen]]
+[[Deena Larsen]]
 [[Reiner Strasser]] and [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Alan Sondheim]] and [[Reiner Strasser]]
 [[Stephanie Strickland]], [[Cynthia Lawson Jaramillo]] and [[Paul Ryan]]

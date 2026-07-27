@@ -392,7 +392,7 @@
 | [[Cal LaFountain]]                |     |
 | [[Corentin Lahouste]]             |     |
 | [[Joanne Lalonde]]                |     |
-| [[Denise+Deena Larsen]]                  |     |
+| [[Deena Larsen]]                  |     |
 | [[Marion Lata]]                   |     |
 | [[Sophie Latouche Artiste]]       |     |
 | [[Milton Läufer]]                 |     |
