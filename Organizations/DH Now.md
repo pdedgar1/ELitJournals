@@ -615,7 +615,7 @@ Advisory Board
 | [[Stephanie Hedge]]                 |
 | [[Stephanie Murray]]                |
 | [[Stephanie Richmond]]              |
-| [[Stephanie Vasko]]                 |
+| [[Stephanie E. Vasko]]                 |
 | [[Stephanie Westcott]]              |
 | [[Steve F. Anderson]]                  |
 | [[Subhasis Chattopadhyay]]          |

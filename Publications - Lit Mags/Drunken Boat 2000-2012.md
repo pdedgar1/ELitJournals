@@ -908,7 +908,7 @@
 [[Eugene O'Neill]]
 [[Ciarán O'Reilly]]
 [[Michael J. Peery]]
-[[Bruce H. Price, M.D.]]
+[[Bruce H. Price]]
 [[Peter Quinn]]
 [[James Silas Rogers]]
 [[John Patrick Shanley]]

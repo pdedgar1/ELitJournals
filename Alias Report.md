@@ -11,7 +11,7 @@ Vault: ELitJournals — 23849 distinct link targets
 
 - **Stephanie E. Vasko ≈ Stephanie Vasko** (similarity 0.99)
   - `[[Stephanie E. Vasko]]` — 1 use(s) in 1 file(s), e.g. Organizations/HASTAC Leadership.md
-  - `[[Stephanie Vasko]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+  - [[Stephanie E. Vasko]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
 
 - **Simon Peter Rowberry ≈ Simon Rowberry** (similarity 0.99)
   - `[[Simon Peter Rowberry]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Convergence 2017-2027.md

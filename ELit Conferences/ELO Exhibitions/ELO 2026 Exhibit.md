@@ -45,7 +45,7 @@
 | The Two Deaths of Translucent Tim]]                                                                                                                                                       |
 | [[David Ciccoricco]] and [[Leslie Xin]]                                                                                                                                                   |
 | A Million Random Acts]]                                                                                                                                                                   |
-| [[Mark Sample]]                                                                                                                                                                           |
+| [[Mark L. Sample]]                                                                                                                                                                           |
 | Shopping Mall 1999]]                                                                                                                                                                      |
 | [[Ricky Finch]]                                                                                                                                                                           |
 | Bureau of Emotional Statistics (Part III of FRACTALIZE)]]                                                                                                                                 |

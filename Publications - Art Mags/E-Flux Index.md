@@ -13,7 +13,7 @@
 | [[Carmen Amengual]]                                                |
 | [[Soyoung Yoon]]                                                   |
 | [[Dingxin Zhao]]                                                   |
-| [[Henry A. Giroux]]                                                   |
+| [[Henry A. Giroux]]                                                |
 | [[Valeria Graziano]]                                               |
 | [[Marcell Mars]]                                                   |
 | [[Tomislav Medak]]                                                 |
@@ -184,7 +184,7 @@
 | [[Travis Diehl]]                                                   |
 | [[Jacques Rancière]]                                               |
 | [[Maddie Hampton]]                                                 |
-| [[Maria Dimitrovaand Boris Groys]]                                 |
+| [[Maria Dimitrova]] and [[Boris Groys]]                            |
 | [[Bahar Noorizadeh]]                                               |
 | [[Ghoncheh Ghavami]]                                               |
 | [[Nahal Nikan]]                                                    |
@@ -205,7 +205,7 @@
 | [[Jenny Wu]]                                                       |
 | [[Tamta Khalvashi]]                                                |
 | [[Boris Buden]]                                                    |
-| [[Oliver Bascianoand Daniel Spaulding]]                            |
+| [[Oliver Basciano]] and [[Daniel Spaulding]]                       |
 | [[Mika Savela]]                                                    |
 | [[Ana Dana Beroš]]                                                 |
 | [[Canada Choate]]                                                  |
@@ -227,7 +227,7 @@
 | [[Alessandro Petti]]                                               |
 | [[Vivian Ziherl]]                                                  |
 | [[Biljana Kašić]] & [[Jörg Heiser]]                                |
-| [[Future Foodscapes Research Unit]]                                |
+| Future Foodscapes Research Unit]]                                  |
 | [[Rocio Calzado]]                                                  |
 | [[Katrina Wiberg]]                                                 |
 | [[Jace Clayton]] & [[Miri Davidson]]                               |
@@ -246,10 +246,10 @@
 | [[Evan Calder Williams]]                                           |
 | [[Anya Sirota]]                                                    |
 | [[Victor Galdino]]                                                 |
-| [[Claudio Medeirosand Jason Read]]                                 |
+| [[Claudio Medeiros]] and [[Jason Read]]                            |
 | [[Ecosistema Urbano]]                                              |
 | [[Noah Simblist]]                                                  |
-| [[Hide]] & [[Seek Audiovisual Artand Denny Mwaura]]                |
+| [[Hide & Seek Audiovisual Art]] and [[Denny Mwaura]]               |
 | [[Oraib Toukan]]                                                   |
 | [[Antonia Majaca]]                                                 |
 | [[Sylvie Fortin]]                                                  |
@@ -263,7 +263,7 @@
 | [[Zairong Xiang]]                                                  |
 | [[Isadora Neves Marques]]                                          |
 | [[Benjamin Crais]]                                                 |
-| [[Dominique Routhierand Jonas Staal]]                              |
+| [[Dominique Routhier]] and [[Jonas Staal]]                         |
 | [[Ye Liu]]                                                         |
 | [[Damjan Kokalevski]]                                              |
 | [[Ana Ivanovska Deskova]]                                          |

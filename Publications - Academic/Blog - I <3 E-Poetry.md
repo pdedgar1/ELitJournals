@@ -210,7 +210,7 @@ Tags:
 - [[Lewis LaCook]]
 - [[Lluís Calvo]]
 - [[Lori Janis]]
-- [[Loss P. Glazier]]
+- [[Loss Pequeño Glazier]]
 - [[Loss Pequeño Glazier]]
 - [[Léonard Dumas]]
 - [[M. D. Coverley aka Marjorie C. Luesebrink]]
