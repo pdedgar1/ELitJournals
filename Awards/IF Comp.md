@@ -24,7 +24,7 @@
 - **2018:** _Alias "The Magpie"_ by [[J. J. Guest]]
 - **2019:** _Zozzled_ by [[Steph Cherrywell]]
 - **2020:** Tie: _The Impossible Bottle_ by Linus Åkesson and _Tavern Crawler_ by [[Josh Labelle]]
-- **2021:** _And Then You Come to a House Not Unlike the Previous One_ by [[B.J. Best]]
+- **2021:** _And Then You Come to a House Not Unlike the Previous One_ by [[B. J. Best]]
 - **2022:** _The Grown-Up Detective Agency_ by [[Brendan Patrick Hennessy]]
 - **2023:** _Dr Ludwig and the Devil_ by [[SV Linwood]]
 - **2024:** _The Bat_ by [[Chandler Groover]]

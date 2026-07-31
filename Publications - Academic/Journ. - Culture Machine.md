@@ -11,7 +11,7 @@ Authors: [[Jacques Derrida]], [[J. Hillis Miller]], [[Geoffrey Bennington]], [[S
 # Vol. 3 (2001): Virologies: Culture and Contamination
 Date: 2001
 Editors: [[Dave Boothroyd]], [[Diane Morgan]]
-Authors: [[Mark Hansen]], [[Ed Cohen]], [[Gary Banham]], [[Mary Flanagan]], [[Sandy Baldwin]], [[Jesse Cohn]], [[Melinda Rackham]], [[Eugene Thacker]]
+Authors: [[Mark B. N. Hansen]], [[Ed Cohen]], [[Gary Banham]], [[Mary Flanagan]], [[Sandy Baldwin]], [[Jesse Cohn]], [[Melinda Rackham]], [[Eugene Thacker]]
 
 # Vol. 4 (2002): The Ethico-Political Issue
 Date: 2002
@@ -26,7 +26,7 @@ Authors: [[N. Katherine Hayles]], [[Mark Amerika]], [[Ted Striphas]], [[Andy Mia
 # Vol. 6 (2004): Deconstruction is/in Cultural Studies
 Date: 2004
 Editors: [[Gary Hall]], [[Dave Boothroyd]], [[Joanna Zylinska]]
-Authors: [[Peggy Kamuf]], [[Stefan Herbrechter]], [[Paul Bowman]], [[Jeremy Gilbert]], [[Mark Hansen]], [[Paul Grimstad]], [[Brian Carr]], [[Clare Birchall]]
+Authors: [[Peggy Kamuf]], [[Stefan Herbrechter]], [[Paul Bowman]], [[Jeremy Gilbert]], [[Mark B. N. Hansen]], [[Paul Grimstad]], [[Brian Carr]], [[Clare Birchall]]
 
 # Vol. 7 (2005): Biopolitics
 Date: 2005
@@ -85,7 +85,7 @@ Authors: [[Wolfgang Ernst]], [[Erhard Schüttpelz]], [[Samir Bhowmik]], [[Paula 
 # Vol. 18 (2019): The Nature of Data Centres
 Date: 2019
 Editors: [[Mél Hogan]], [[Asta Vonderau]]
-Authors: [[Adam Fish]], [[Bradley L. Garrett]], [[Alix Johnson]], [[Anthony M Levenda]], [[Dillon Mahmoudi]], [[Vicki Mayer]], [[Matt Parker]], [[Anne Pasek]], [[A.R.E Taylor]], [[Julia Velkova]], [[Sean RM Willett]]
+Authors: [[Adam Fish]], [[Bradley L. Garrett]], [[Alix Johnson]], [[Anthony M Levenda]], [[Dillon Mahmoudi]], [[Vicki Mayer]], [[Matt Parker]], [[Anne Pasek]], [[A. R. E Taylor]], [[Julia Velkova]], [[Sean RM Willett]]
 
 # Vol. 19 (2020): Media Populism
 Date: 2020

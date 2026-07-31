@@ -21,6 +21,6 @@
 [[Libby Marrs]]
 [[Tiger Dingsun]]
 [[Eliza Chen]]
-[[S.B.]]
+[[S. B.]]
 
 ## Edited by [[Tiger Dingsun]]

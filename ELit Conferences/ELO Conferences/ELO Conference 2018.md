@@ -319,7 +319,7 @@
 | [[Marcio Felipe da Silva]]        |     |
 | [[Sylvain David]]                 |     |
 | [[Stéphane Degoutin]]             |     |
-| [[Jennifer Dellner]]              |     |
+| [[Jennifer J. Dellner]]              |     |
 | [[Andrew Haik Demirjian]]              |     |
 | [[Jules Deslandes]]               |     |
 | [[Steve Dipaola]]                 |     |
@@ -381,7 +381,7 @@
 |                                   |     |
 | [[Eduardo Kac]]                   |     |
 | [[Roman Kalinovski]]              |     |
-| [[Kristine Kelly]]                |     |
+| [[Kristine N. Kelly]]                |     |
 | [[Laura Hyunjhee Kim]]            |     |
 | [[Andrew Klobucar]]               |     |
 | [[Hartmut Koenitz]]               |     |
@@ -434,7 +434,7 @@
 | [[Anna Nacher]]                   |     |
 | [[Jeneen Naji]]                   |     |
 | [[Jason Nelson]]                  |     |
-| [[David Núñez Ruiz]]              |     |
+| [[David Roberto Núñez Ruiz]]              |     |
 |                                   |     |
 | [[Emilio Ocelotl]]                |     |
 | [[Laura Okkema]]                  |     |

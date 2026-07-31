@@ -6,7 +6,7 @@
 | [[Chris Funkhouser]]     |
 | [[Paul Green]]           |
 | [[David Jhave Johnston]] |
-| [[Jason Lewis]]          |
+| [[Jason Edward Lewis]]          |
 | [[Regina Célia Pinto]]   |
 | [[Eugenio Tisselli]]     |
 | [[Gregory Whitehead]]    |

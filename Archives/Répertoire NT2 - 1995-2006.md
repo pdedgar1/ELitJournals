@@ -1,5 +1,5 @@
 #archive 
-CELL Member  : French-language E-lit 
+CELL Member : French-language E-lit 
 
 
 ### Translators
@@ -204,7 +204,7 @@ CELL Member  : French-language E-lit
 | [[Xabier Casimiro Erviti]]                               |
 | [[Laura Borràs Castanyer]]                               |
 | [[Philippe Castellin]]                                   |
-| [[J.M. Cauville]]                                        |
+| [[J. M. Cauville]]                                        |
 | [[John Cayley]]                                          |
 | [[Philippe Cazal]]                                       |
 | [[Siegfried Ceballos]]                                   |
@@ -470,7 +470,7 @@ CELL Member  : French-language E-lit
 | [[Antonio Jorge Gonçalves]]                              |
 | [[Teresa Ojer Goñi]]                                     |
 | [[Marta Gonzalez]]                                       |
-| [[Daniel Goodbrey]]                                      |
+| [[Daniel Merlin Goodbrey]]                                      |
 | [[Marientina Gotsis]]                                    |
 | [[Valéry Grancher]]                                      |
 | GRATIN]]                                                 |
@@ -520,7 +520,7 @@ CELL Member  : French-language E-lit
 | [[Michael Holochwost]]                                   |
 | [[Jenny Holzer]]                                         |
 | [[Brandi Homan]]                                         |
-| [[H. Hoogerbrugge]]                                      |
+| [[Han Hoogerbrugge]]                                      |
 | [[Staoshi Horii]]                                        |
 | [[Peter Horvath]]                                        |
 | [[Sylvain Hourany]]                                      |
@@ -899,7 +899,7 @@ CELL Member  : French-language E-lit
 | [[Giles Perring]]                                        |
 | [[Laurence Perron]]                                      |
 | [[Pablo Peschiera]]                                      |
-| [[M.R. Petit]]                                           |
+| [[M. R. Petit]]                                           |
 | [[Kiki Petrosino]]                                       |
 | [[Patrick Phillips]]                                     |
 | [[Manon Picard]]                                         |
@@ -971,12 +971,12 @@ CELL Member  : French-language E-lit
 | [[Ana Biurrun Ruiz]]                                     |
 | [[Jean-Jacques Rullier]]                                 |
 | [[Frieder Rusmann]]                                      |
-| [[Patricya Rydzok]]                                      |
+| [[Patricia Rydzok]]                                      |
 | [[Geoffrey Ryman]]                                       |
 | [[Éric Sadin]]                                           |
 | [[Alexandra Saemmer]]                                    |
 | [[Jean-Noël Saintrapt]]                                  |
-| [[David Saltz]]                                          |
+| [[David Z. Saltz]]                                          |
 | [[Eryk Salvaggio]]                                       |
 | [[Alain Salvatore]]                                      |
 | [[Jes Sambola]]                                          |
@@ -1010,7 +1010,7 @@ CELL Member  : French-language E-lit
 | Shape2]]                                                 |
 | [[Annie Shapiro]]                                        |
 | [[Brenda Shaugnessy]]                                    |
-| [[B.T. Shaw]]                                            |
+| [[B. T. Shaw]]                                            |
 | [[Tomoo Shimomura]]                                      |
 | [[Dan Shiovitz]]                                         |
 | [[Emily Short]]                                          |

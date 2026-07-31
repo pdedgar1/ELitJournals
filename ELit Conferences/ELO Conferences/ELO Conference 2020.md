@@ -31,7 +31,7 @@
 | [[Ken Alba]], Boston University]]                          |
 | [[Kirk M. Lundblade]], University of Central Florida]]        |
 | [[Korine Powers]], Boston University]]                        |
-| [[Kristine Kelly]], Case Western Reserve University]]         |
+| [[Kristine N. Kelly]], Case Western Reserve University]]         |
 | [[Lauren Rouse]], University of Central Florida]]             |
 | [[Luís Lucas Pereira]], University of Coimbra]]               |
 | [[R. Lyle Skains]]                                               |
@@ -52,7 +52,7 @@
 [[Dene Grigar]] and [[Richard Snyder]]
 [[Szymon Szul]] and [[Marta Dziedziela]]
 [[Leonardo Flores]], [[Claudia Kozak]], [[Rodolfo Mata]],[[Cecily Raynor]]
-[[Lai-Tze Fan]], [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Caitlin Fisher]], [[Jennifer Dellner]]
+[[Lai-Tze Fan]], [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Caitlin Fisher]], [[Jennifer J. Dellner]]
 [[Lai-Tze Fan]], [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Daniel Punday]],[[Neha Ravella]], [[Will Luers]]
 [[Michael Hurtado]], [[Pamela Medina]], [[Enrique García Alcalá]], [[Michael Prado]]
 [[Vinícius Carvalho Pereira]], [[Tina Escaja aka Alm@ Pérez]]

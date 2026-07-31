@@ -42,7 +42,7 @@ https://the-next.eliterature.org/collections/15&pg=1&display=100&sort=date
 [[Talan Memmott]]
 [[Oliver Lowenstein]]
 [[Mark Stephens]]
-[[J.R. Macnamara]]
+[[J. R. Macnamara]]
 [[Sonja Porcarco]]
 [[Barbara Steinberg]]
 [[Alan Sondheim]]

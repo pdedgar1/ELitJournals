@@ -390,7 +390,7 @@
 | [[Masha Tupitsyn]]               |
 | [[Ahmad Saidullah]]              |
 | [[Joan Frank]]                   |
-| [[G.K. Wuori]]                   |
+| [[G. K. Wuori]]                   |
 | [[Debra Di Blasi]]               |
 | [[nelson]]                       |
 | W E B A R T]]                    |
@@ -490,7 +490,7 @@
 | [[Sandra Alland]]                                                        |
 | [[Brother Anthony]]                                                      |
 | [[Young-moo Kim]]                                                        |
-| [[Gary Gach]]                                                            |
+| [[Gary G. Gach]]                                                            |
 | [[Derek Beaulieu]]                                                       |
 | [[Daniel Levin Becker]]                                                  |
 | [[Caroline Bergvall]]                                                    |
@@ -501,7 +501,7 @@
 | [[Dave Durgin]]                                                          |
 | [[Craig Dworkin]]                                                        |
 | [[Patrick Friesen]]                                                      |
-| [[P.K. Brask]]                                                           |
+| [[P. K. Brask]]                                                           |
 | [[Niels Hav]]                                                            |
 | [[Marilyn Hacker]]                                                       |
 | [[Jeff Harrison]]                                                        |
@@ -518,7 +518,7 @@
 | [[Erín Moure]]                                                           |
 | [[Wong Phui Nam]]                                                        |
 | [[Michelle Noteboom]]                                                    |
-| [[Craig Perez]]                                                          |
+| [[Craig Santos Perez]]                                                          |
 | [[Danny Snelson]]                                                        |
 | [[Adam Sorkin]]                                                          |
 | [[Nathalie Stephens]]                                                    |
@@ -546,11 +546,11 @@
 | [[Kyle Dargan]]                                                                                                                                                                                                                                                                                                                               |
 | [[Chad Davidson]]                                                                                                                                                                                                                                                                                                                             |
 | [[Sean Thomas Dougherty]]                                                                                                                                                                                                                                                                                                                     |
-| [[  ]]                                                                                                                                                                                                                                                                                                                                        |
+| [[]]                                                                                                                                                                                                                                                                                                                                        |
 | [[Camille Dungy]]                                                                                                                                                                                                                                                                                                                             |
 | [[Cornelius Eady]]                                                                                                                                                                                                                                                                                                                            |
 | [[Gabriel Fried]]                                                                                                                                                                                                                                                                                                                             |
-| [[Alena Hairston ]]                                                                                                                                                                                                                                                                                                                           |
+| [[Alena Hairston]]                                                                                                                                                                                                                                                                                                                           |
 | [[Brian Johnson]]                                                                                                                                                                                                                                                                                                                             |
 | [[Sharon Kraus]]                                                                                                                                                                                                                                                                                                                              |
 | [[Steve Langan]]                                                                                                                                                                                                                                                                                                                              |
@@ -578,7 +578,7 @@
 | [[Nicole Walker]]                                                                                                                                                                                                                                                                                                                             |
 | [[Ingrid Wendt]]                                                                                                                                                                                                                                                                                                                              |
 | [[Jason Zuzga]]                                                                                                                                                                                                                                                                                                                               |
-| \|   \|<br>\|---\|<br>\|[[ESSAYS]]\|<br>\|[[]]\|<br>\|[[Robert Birnbaum]]\|<br>\|[[Stephen Burt]]\|<br>\|[[Rand Cooper]]\|<br>\|[[Cathleen Corlett]]\|<br>\|[[Jay Griffiths]]\|<br>\|[[Aaron Hamburger]]\|<br>\|[[Chiori Miyagawa]]\|<br>\|[[Okey Ndibe]]\|<br>\|[[Jess Row]]\|<br>\|[[Katharine Weber]]\|<br>\|[[]]\|<br>\|[[Robyn Sarah]]\| |
+| \|   \|<br>\|---\|<br>\|[[ESSAYS]]\|<br>\|[[]]\|<br>\|[[Robert Birnbaum]]\|<br>\|[[Stephen Burt]]\|<br>\|[[Rand Richards Cooper]]\|<br>\|[[Cathleen Corlett]]\|<br>\|[[Jay Griffiths]]\|<br>\|[[Aaron Hamburger]]\|<br>\|[[Chiori Miyagawa]]\|<br>\|[[Okey Ndibe]]\|<br>\|[[Jess Row]]\|<br>\|[[Katharine Weber]]\|<br>\|[[]]\|<br>\|[[Robyn Sarah]]\| |
 
 
 |                            |
@@ -593,7 +593,7 @@
 | [[Stephanie Strickland]]   |
 | [[Rebecca Tassi]]          |
 | [[Barbara Tran]]           |
-| [[John Vincent]]           |
+| [[John Emil Vincent]]           |
 | [[Donna Weaver]]           |
 | F I C T I O N]]            |
 | judge:  ]]                 |
@@ -638,7 +638,7 @@
 |                            |
 | V I D E O]]                |
 | judge:  ]]                 |
-| [[David Hall ]]            |
+| [[David Hall]]            |
 | FINALISTS:]]               |
 | [[David Bernard Ambrose]]  |
 | [[Marianna Ellenberg]]     |
@@ -873,7 +873,7 @@
 [[Elizabeth Sanger]]
 [[Lee Sharkey]]
 [[Anne Shaw]]
-[[Jeff Thomson]]
+[[Jeffrey Thomson]]
 [[Jordan Windholz]]
 [[Emily Wolahan]]
 
@@ -882,7 +882,7 @@
 # Issue 12
 
 #### Celtic Twilight: A Tribute to Eugene O'Neill
-[[T.C. Boyle]]
+[[T. C. Boyle]]
 [[Christopher Cahill]]
 [[Mary Collins]]
 [[Brian Corrigan]]
@@ -893,7 +893,7 @@
 [[Anna Dolan]]
 [[Daniel Donaghy]]
 [[Robert M. Dowling]]
-[[T.J. English]]
+[[T. J. English]]
 [[Diarmuid Hanafin]]
 [[Joan Houlihan]]
 [[Maureen Howard]]
@@ -945,7 +945,7 @@
 [[Roxanne Carter]] & [[Braxton Soderman]]
 [[Chris Funkhouser]] & [[Amy Hufnagel]]
 [[Dara Greenwald]] & [[Sarah Kanouse]]
-[[Brian Howe]]  & [[Ashley Howe]]
+[[Brian Howe]] & [[Ashley Howe]]
 [[Zohar Kfir]]
 [[Molleindustria]]
 [[Blair Neal]]
@@ -1132,7 +1132,7 @@
 [[Ilse Bendorf]]
 [[James Berger]]
 [[Ezekiel Black]]
-[[W.E. Butts]]
+[[W. E. Butts]]
 [[Kate Durbin]]
 [[Veronica Golos]]
 [[Kate Greenstreet]]
@@ -1150,7 +1150,7 @@
 [[Brynn Saito]]
 [[Tomaz Salamun]]
 [[Erika L. Sánchez]]
-[[A.K. Scipioni]]
+[[A. K. Scipioni]]
 [[Sridala Swami]]
 
 # Issue 14
@@ -1189,7 +1189,7 @@
 #### Short Shorts
 [[J. R. Carpenter]]
 [[Fan Dai]]
-[[G.L. Grey]]
+[[G. L. Grey]]
 [[Kirsten Kaschock]]
 [[Kara Levy]]
 
@@ -1321,7 +1321,7 @@
 [[Caledonia Kearns]]
 [[Donald Illich]]
 [[Hafizah Geter]]
-[[J.J. Starr]]
+[[J. J. Starr]]
 [[Jeff Nagy]]
 [[Julie Batten]]
 [[Kristen Kostick]]

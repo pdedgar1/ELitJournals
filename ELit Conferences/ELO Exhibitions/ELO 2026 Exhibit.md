@@ -71,7 +71,7 @@
 | Snow Angel's Wheel of Fortune]]                                                                                                                                                           |
 | [[Emily Carr]]                                                                                                                                                                            |
 | Water Songs: Documenting the Imperceptible]]                                                                                                                                              |
-| [[Jolene Armstrong]] and [[Monique Tschofen]]                                                                                                                                             |
+| [[Jolene L. Armstrong]] and [[Monique Tschofen]]                                                                                                                                             |
 | Yo soy un teléfono: Playful procedural poetry with Tracery and P5.js]]                                                                                                                    |
 | [[Emily K. Johnson]]                                                                                                                                                                      |
 | The Grand Hotel Bald Cockatoo]]                                                                                                                                                           |
@@ -91,6 +91,6 @@
 | Twine fiction: Where Scorpions Fear to Tread]]                                                                                                                                            |
 | [[Carolijn Guytonbeck]]                                                                                                                                                                   |
 | Quantum Entanglement]]                                                                                                                                                                    |
-| [[Mark Marino]], [[María Goicoechea de Jorge]], [[Tina Escaja aka Alm@ Pérez]], [[David Ciccoricco]], [[Susana Sanz]] y [[Carmen Sanz]], [[Benjamín Escalonilla]] and [[P. Sasson-Henry]] |
+| [[Mark C. Marino]], [[María Goicoechea de Jorge]], [[Tina Escaja aka Alm@ Pérez]], [[David Ciccoricco]], [[Susana Sanz]] y [[Carmen Sanz]], [[Benjamín Escalonilla]] and [[P. Sasson-Henry]] |
 | Get Lost]]                                                                                                                                                                                |
 | [[Yan St-Onge]]                                                                                                                                                                           |

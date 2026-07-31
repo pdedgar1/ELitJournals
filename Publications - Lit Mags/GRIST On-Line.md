@@ -25,7 +25,7 @@
 
 #### GRIST On-Line Magazine #3 (December 1993)
 - [[Paule di Puccio]]
-- [[Gary G Gach]]
+- [[Gary G. Gach]]
 - [[Jerome Rothenberg]]
 
 #### GRIST On-Line Magazine #4 (January 1994)
@@ -71,8 +71,8 @@
 - [[John Fowler]]
 - [[Jesse Glass]]
 - [[Maggie Jaffe]]
-- [[A.E. Jenks]]
-- [[T.L. Kelly]]
+- [[A. E. Jenks]]
+- [[T. L. Kelly]]
 - [[Jennifer Ley]]
 #### GRIST On-Line Publications — Standalone Author Collections
 - [[John Fowler]] (studio/collection, with drawings by [[Sara Fowler]] on one collaborative piece, "Berio/Dubuffet - a Dialogue")

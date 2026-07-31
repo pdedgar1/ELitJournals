@@ -125,7 +125,7 @@ POLAND?
 [[Ula Pawlicka]] 
 [[Monika Górska-Olesińska]] 
 [[Dorota Sikora]] about Sufferros by [[Dawid Marcinkowski]]
-[[Mariusz Pisarski]] about   [[Vladimir Nabokov]]
+[[Mariusz Pisarski]] about [[Vladimir Nabokov]]
 [[Dorota Sikora]] about the volume - Nights and loops by [[Łukasz Podgórni]]
 
 [[Dawid Marcinkowski]]

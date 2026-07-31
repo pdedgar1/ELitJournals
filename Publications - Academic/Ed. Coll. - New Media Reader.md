@@ -9,7 +9,7 @@
 [[Vannevar Bush]]
 [[Alan Turing]]
 [[Norbert Weiner]]
-[[J.C.R. Licklider]]
+[[J. C. R. Licklider]]
 [[Allan Kaprow]]
 [[William S. Burroughs]]
 [[Douglas Engelbart]]

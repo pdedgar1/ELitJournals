@@ -9,7 +9,7 @@ Team
 [[Sam Nabi]]
 
 Alums
-[[Andy Myles]]
+[[Andi Myles]]
 [[Bashar Lulu Jabbour]]
 [[Zainab Mahdi]]
 [[Yeabsera Agonfer]]
@@ -23,7 +23,7 @@ Alums
 [[Jo Spiegl]]
 [[Mélika Hashemi]]
 
-### Issue 01  : In Transit
+### Issue 01 : In Transit
 [[Bashar Lulu Jabbour]]
 [[Zainab Mahdi]]
 [[Zain Bandali]]
@@ -46,7 +46,7 @@ Alums
 [[Connor Chin-Quee]]
 
 
-### Issue 2  : Spaces
+### Issue 2 : Spaces
 [[DIJAH]]
 [[Rumaisa Bhatti]], [[Conan Stark]], [[Shukri Abdi]], [[Areeba Shaikh]]
 [[Niara van Gaalen]], [[Seemab Zahra]], [[Yasmeen Nematt Alla]], [[Tomi A.]], [[Ryan Antooa]]
@@ -58,7 +58,7 @@ Alums
 [[Nitica Sakharwade]]
 [[Yvonne Tagoe]]
 [[Saira Obaid]]
-[[L.S.]]
+[[L. S.]]
 [[Zehra Nawab]]
 [[Ariya Mamun]]
 [[Omi Ra]]

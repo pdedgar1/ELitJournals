@@ -54,7 +54,7 @@
 [[Brian Kim Stefans]]
 [[Brian Kim Stefans]]
 [[Reiner Strasser]] + [[Alan Sondheim]]
-[[Reiner Strasser]]  + [[M. D. Coverley aka Marjorie C. Luesebrink]]
+[[Reiner Strasser]] + [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Dan Waber]]
 [[Dan Waber]] + [[Jason Pimble]]
 [[Noah Wardrip-Fruin]], [[David Durand]], [[Brian Moss]], [[Elaine Froehlich]]

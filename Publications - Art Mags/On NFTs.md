@@ -14,7 +14,7 @@ intro
 [[Emily Xie]]
 [[Erick Calderon]]
 [[Harm van den Dorpel]]
-[[Ry David Bradley ]]
+[[Ry David Bradley]]
 
 [[Aaron Wright]]
 [[Serena Tabacchi]]

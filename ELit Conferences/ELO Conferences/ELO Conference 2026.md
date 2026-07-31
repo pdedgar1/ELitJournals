@@ -1,10 +1,10 @@
-## Keynotes [[Lillian-Yvonne Bertram]], [[Zach Whalen]], [[Daniel Cox]], [[Dani Spinosa]], [[Élika Ortega]],  [[Leonardo Flores]]
+## Keynotes [[Lillian-Yvonne Bertram]], [[Zach Whalen]], [[Daniel Cox]], [[Dani Spinosa]], [[Élika Ortega]], [[Leonardo Flores]]
 
 #conference 
 
 **
 
-[[Abhik Hasnain]]  (he/they) is a Digital Humanities graduate student at the University of Alberta. He is an active research 
+[[Abhik Hasnain]] (he/they) is a Digital Humanities graduate student at the University of Alberta. He is an active research 
 
 [[Abubakar Kaka]] - Department de Languages & Linguistics, Faculty of Arts, University of Maiduguri, kakaabba31@gmail 
 
@@ -128,7 +128,7 @@
 
 [[Jay David Bolter]] is emeritus professor and former co-Director of the Augmented Environments Lab at the Georgia Institute 
 
-[[Jenn Nguyen]] is a Portland-based front-end web developer who has a passion for crafting engaging digital experiences. 
+[[Jenn Duyen Nguyen]] is a Portland-based front-end web developer who has a passion for crafting engaging digital experiences. 
 
 [[Jenni Bohn]] is the Deputy Artistic Director of the Burg-Hülshoff Center for Literature. https://www.burg-huelshoff.de 
 
@@ -150,7 +150,7 @@
 
 [[John T. Murray]] is Associate Professor at the Univ. of Central Florida. He is co-author of Flash: Building the Interactive Web 
 
-[[Jolene Armstrong]] is currently Chair of the Centre for Humanities and Associate Professor of Comparative 
+[[Jolene L. Armstrong]] is currently Chair of the Centre for Humanities and Associate Professor of Comparative 
 
 85
 
@@ -158,7 +158,7 @@
 
 [[Judd Morrissey]] is a writer and code artist who creates poetic systems across a range of platforms incorporating electronic 
 
-[[Judith Pintar]] is Teaching Professor in the iSchool at the University of Illinois and Director of the Game Studies and Design 
+[[Judith A. Pintar]] is Teaching Professor in the iSchool at the University of Illinois and Director of the Game Studies and Design 
 
 [[Judy Malloy]] followed 
 
@@ -188,7 +188,7 @@ Dr. [[Kenton T. Howard]] is a lecturer in the Games and Interactive Media progra
 
 [[Kirk M. Lundblade]] is a scholar of historical game studies and digital cultures; he is a recent graduate of the Texts & 
 
-[[Krzysztof Ziembik]] Graphic designer, creator of games for the Atari 8-bit, publisher of Grel magazine, founder of the Polish 
+[[Krzysztof Kaz Ziembik]] Graphic designer, creator of games for the Atari 8-bit, publisher of Grel magazine, founder of the Polish 
 
 [[Lee Tusman]] is a New York-based artist and educator working at the intersection of computational media, community 
 
@@ -210,7 +210,7 @@ Ms. [[Lopamudra Saha]] Ms. Saha is a Research Scholar in the Department of Engli
 
 Dr. [[R. Lyle Skains]] (she/her) is a creative practitioner and researcher in digital writing, publishing, and practice-based research. 
 
-[[Magdalena Korecka]] is a PhD Candidate at the University of Hamburg, Germany, and has been a research associate in 
+[[Magdalena Elisabeth Korecka]] is a PhD Candidate at the University of Hamburg, Germany, and has been a research associate in 
 
 89
 
@@ -292,7 +292,7 @@ Dr. [[Richard A. Carter]] is a Senior Lecturer in Digital Culture at the Univers
 
 [[Ricky Finch]] is a PhD candidate in the Texts and Technology program at UCF. A Twine enthusiast, game maker, and writer, 
 
-[[Rob Wittig]] is an e-lit author. In 1983 he co-founded the IN.S.OMNIA system and chronicled its collaborative experiments 
+[[Rob Wittig]] is an e-lit author. In 1983 he co-founded the IN.S. OMNIA system and chronicled its collaborative experiments 
 
 [[Robert Arellano aka Bobby Rabyd]] is the author of seven novels, including Sunshine '69 (1996), recognized as the first book-length 
 
@@ -314,7 +314,7 @@ Dr. [[Richard A. Carter]] is a Senior Lecturer in Digital Culture at the Univers
 
 [[Scott Rettberg]] is Professor of Digital Culture at the University of Bergen and Director of the Center for Digital Narrative, 
 
-[[Sebastian Richter]] is a graduate research assistant at the Department of Interdisciplinary and Multiscalar Area Studies, 
+[[Sebastian R. Richter]] is a graduate research assistant at the Department of Interdisciplinary and Multiscalar Area Studies, 
 
 [[Seth Wilson]], a software developer with Master's degrees in Medieval History, English, and Computer Science. My brain 
 

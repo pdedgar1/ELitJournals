@@ -36,7 +36,7 @@
 | [[John F. Barber]]                                                                                      |
 | [[Justin Tonra]]                                                                                        |
 | [[Brian Davis]]                                                                                         |
-| [[David Kelly ]]                                                                                        |
+| [[David Kelly]]                                                                                        |
 | [[Waqas Khawaja]]                                                                                       |
 | [[Elizabeth Losh]]                                                                                      |
 | [[Davin Heckman]]                                                                                       |
@@ -51,9 +51,9 @@
 | [[Tomasz Tdc Cieślewicz]]                                                                               |
 | [[Krzysztof Kaz Ziembik]]                                                                               |
 | [[Andrew Haik Demirjian]]                                                                                    |
-| [[Thea Pitman ]]                                                                                        |
+| [[Thea Pitman]]                                                                                        |
 | [[Erik Zepka]]                                                                                          |
-| [[David Núñez Ruiz]]                                                                                         |
+| [[David Roberto Núñez Ruiz]]                                                                                         |
 | [[Frédérique Santune]]                                                                                  |
 | [[María Mencía]]                                                                                        |
 | [[Christiana Kazakou]]                                                                                  |
@@ -93,7 +93,7 @@
 | [[Ana Sofia Albuquerque e Aguilar]]                                                                                         |
 | [[Luís Lucas Pereira]]                                                                                        |
 | [[Thales Estefani]]                                                                                     |
-| [[Júlia Andrade]]                                                                                       |
+| [[Júlia Zuza Andrade]]                                                                                       |
 | [[Stuart Moulthrop]]                                                                                    |
 | [[Donna Leishman]]                                                                                      |
 | [[María Goicoechea de Jorge]]                                                                                    |
@@ -119,7 +119,7 @@
 | [[Jordan Magnusson]]                                                                                    |
 | [[Justin Tonra]]                                                                                        |
 | [[Brian Davis]]                                                                                         |
-| [[David Kelly ]]                                                                                        |
+| [[David Kelly]]                                                                                        |
 | [[Waqas Khawaja]]                                                                                       |
 | [[Davin Heckman]]                                                                                       |
 | [[Dene Grigar]]                                                                                         |
@@ -185,7 +185,7 @@
 | [[Rob Wittig]]                                                                                          |
 | [[Laura Santini]]                                                                                       |
 | [[Yolanda De Gregorio]]                                                                                 |
-| [[Jennifer Dellner]]                                                                                    |
+| [[Jennifer J. Dellner]]                                                                                    |
 | [[Patrick Lichty]]                                                                                      |
 | [[Shawn Day]]                                                                                           |
 | [[Hannah Ackermans]]                                                                                    |
@@ -225,7 +225,7 @@
 | [[Sarah McCauley]]                                                                                      |
 | [[Terhi Marttila]]                                                                                      |
 | [[Kyle Booten]]                                                                                         |
-| [[Dan Rockmore]]                                                                                        |
+| [[Daniel Rockmore]]                                                                                        |
 | [[Elizabeth Losh]]                                                                                      |
 | [[Ana Sofia Albuquerque e Aguilar]]                                                                             |
 | [[Guadalupe Echegoyen]]                                                                                 |
@@ -233,7 +233,7 @@
 | [[Ann Steiner]]                                                                                         |
 | [[Annie Abrahams]]                                                                                      |
 | [[Diogo Marques]]                                                                                       |
-| [[Shawn Day ]]                                                                                          |
+| [[Shawn Day]]                                                                                          |
 | [[Megan Wilson]]                                                                                        |
 | [[Andrew Wenaus]]                                                                                       |
 | [[David M. Meurer]]                                                                                        |
@@ -258,9 +258,9 @@
 | [[Dashiel Carrera]] (Virginia Tech)]]                                                                   |
 | [[Daniel Punday]]                                                                                       |
 | [[David Hall]] (Independent Artist)]]                                                                   |
-| [[Caitlin Fisher ]]                                                                                     |
+| [[Caitlin Fisher]]                                                                                     |
 | [[Jason Nelson]] (Griffith University]]                                                                 |
-| [[Vincent Cellucci ]]                                                                                   |
+| [[Vincent Cellucci]]                                                                                   |
 | [[Marianne Gunderson]]                                                                                  |
 | [[Valerie Shinas]]                                                                                      |
 | [[Amanda Hovious]]                                                                                      |
@@ -318,7 +318,7 @@
 | [[Talan Memmott]]                                                                                       |
 | [[Augusto Vinicius Marquet]]                                                                                    |
 | [[David Alonzo]]                                                                                        |
-| [[Caitlin Fisher ]]                                                                                     |
+| [[Caitlin Fisher]]                                                                                     |
 | [[Damon Loren Baker]]                                                                                   |
 | [[Scott Rettberg]]                                                                                      |
 | [[Claudia Kozak]]                                                                                       |
@@ -367,7 +367,7 @@
 | [[Kyle Booten]]                                                                                         |
 | [[Jesse R. Vigil]] & [[Martzi Campos]]                                                                     |
 | [[Katherine Morayati]]                                                                                  |
-| [[Eric Murnane]]                                                                                        |
+| [[Eric Arthur Murnane]]                                                                                        |
 | [[Terhi Marttila]]                                                                                      |
 | [[Franci Greyling]]                                                                                     |
 | [[Bernard Odendaal]] & [[Gustaf Tempelhoff]]                                                            |

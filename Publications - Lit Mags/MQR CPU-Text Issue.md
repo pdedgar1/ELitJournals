@@ -24,7 +24,7 @@ Cover image art by [[Sasha Stiles]]
 [[Ivan Zhao]]
 
 [[Matthew Vollmer]]
-[[P.D. Edgar]] & [[John K. Lewis]]
+[[P. D. Edgar]] & [[John K. Lewis]]
 
 [[Hannes Bajohr]]
 [[Nick Montfort]]

@@ -70,7 +70,7 @@
 [[John McDaid]]
 [[David Kolb]]
 
-### Issue 04—  [[Will Luers]]
+### Issue 04— [[Will Luers]]
 [[David Jhave Johnston]]
 [[Mez Breeze]]
 [[Scott Rettberg]]

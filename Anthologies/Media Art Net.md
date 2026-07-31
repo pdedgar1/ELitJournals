@@ -314,7 +314,7 @@
 | [[Barbara Hammann]]                         |
 | [[Gusztáv Hámos]]                           |
 | [[Handshake]]                               |
-| [[Mark Hansen]]                             |
+| [[Mark B. N. Hansen]]                             |
 | [[Donna Haraway]]                           |
 | [[Leon Harmon]]                             |
 | [[Graham Harwood]]                          |
@@ -721,7 +721,7 @@
 | [[Jeffrey Shaw]]                            |
 | [[Cindy Sherman]]                           |
 | [[Tom Sherman]]                             |
-| [[Alexej Shulgin]]                          |
+| [[Alexei Shulgin]]                          |
 | [[Santiago Sierra]]                         |
 | [[Roman Signer]]                            |
 | [[John F. Simon Jr.]]                       |
@@ -869,7 +869,7 @@
 | [[Maciej Wisniewski]]                       |
 | [[Krzysztof Wodiczko]]                      |
 | [[Eva Wohlgemuth]]                          |
-| [[V.A. Wölfl]]                              |
+| [[V. A. Wölfl]]                              |
 | [[Peter Wollen]]                            |
 | [[Achim Wollscheid]]                        |
 | [[Kirk Woolford]]                           |

@@ -2,7 +2,7 @@
 [[Sophie Julien]] event designer
 [[The NEXT - bleuOrange]]
 
-**|   |
+**| |
 |---|
 |[[Yves Daoust]]|
 |[[Benoît Côté]]|

@@ -2,11 +2,11 @@
 ## editorial alumni
 [[Neil Randall]]- Games institute at Waterloo
 
-| [[Steve Wilcox ]]             |
+| [[Steve Wilcox]]             |
 | ----------------------------- |
-| [[Emma Vossen ]]              |
-| [[Alexandra Orlando ]]        |
-| [[Betsy Brey ]]               |
+| [[Emma Vossen]]              |
+| [[Alexandra Orlando]]        |
+| [[Betsy Brey]]               |
 | [[Chris Lawrence]]            |
 | [[Sabrina Sgandurra]]         |
 | [[Patrick R. Dolan]]          |
@@ -24,15 +24,15 @@
 | [[Rob Parker]]                |
 | [[Sarah Stang]]               |
 | [[Alex Chalk]]                |
-| [[Andrew Bailey ]]            |
+| [[Andrew Bailey]]            |
 | [[Scott DeJong]]              |
 | [[Jack McLaren]]              |
 | [[Aleksander Franiczek]]      |
 | [[Julie Veitch]]              |
 | [[Máire Slater]]              |
 | [[Dakota Pinheiro]]           |
-| [[Giuseppe Femia ]]           |
-| [[Alex Wedler ]]              |
+| [[Giuseppe Femia]]           |
+| [[Alex Wedler]]              |
 | [[Nicholas Hobin]]            |
 | [[Aldijana Halilagic]]        |
 | [[Joe Todd]]                  |

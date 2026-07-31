@@ -44,7 +44,7 @@
 | [[Celia Quico]]                                                                                                            |
 | [[Matthew Freeman]]                                                                                                        |
 | [[Rik Lander]]                                                                                                             |
-| [[Carina Westling]], [[Elliott Hall]], [[Mary Krell]]                                                                      |
+| [[Carina Westling]], [[Elliott Hall]], [[Mary Agness Krell]]                                                                      |
 | [[Bronwin Patrickson]], [[Helen Davies]]                                                                                   |
 | [[Izabela Derda]], [[Tom Feustel]], [[Zoi Popoli]]                                                                         |
 | [[Steve Whitford]]                                                                                                         |

@@ -6,7 +6,7 @@
 [[R. Lyle Skains]], Bournemouth University (Exhibition Chair)
 [[Daniel Cox]], Illinois State University (Hypertext Track Chair & Exhibitions Lead)
 [[Mike Shier]], University of Central Florida (Web Chair)
-[[P.D. Edgar]], University of Central Florida (Logistics Chair)
+[[P. D. Edgar]], University of Central Florida (Logistics Chair)
 [[Jack Murray]], University of Texas at Dallas (Proceedings Chair)
 [[Emily K. Johnson]], University of Central Florida
 [[Mel Stanfill]], University of Central Florida
@@ -40,7 +40,7 @@
 [[Samya Brata Roy]], IIT Jodhpur
 [[Emily K. Johnson]], University of Central Florida
 [[Maria Cecilia Reyes]], Universidad del Norte
-[[Kirk Lundblade]], University of Central Florida
+[[Kirk M. Lundblade]], University of Central Florida
 [[Deena Larsen]], Washington State University Vancouver
 [[Mike Shier]], University of Central Florida
 

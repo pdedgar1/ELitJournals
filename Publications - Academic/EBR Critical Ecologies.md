@@ -147,7 +147,7 @@
 ## 2001
 [[Joseph Tabbi]]
 [[Gene Kannenberg, Jr.]]
-[[Mark B.N. Hansen]]
+[[Mark B. N. Hansen]]
 [[Linda C. Brigham]]
 [[Elizabeth Jane Hinds]]
 [[Linda Carroli]]
@@ -182,7 +182,7 @@
 ## 1996
 [[Joseph McElroy]]
 [[Andrew McMurry]]
-[[Timothy Luke]]
+[[Timothy W. Luke]]
 [[David Cassuto]]
 [[Thomas Cohen]]
 [[Paisley Livingston]]
@@ -190,7 +190,7 @@
 [[William Smith Wilson]]
 [[Piotr Siemion]]
 [[Michael Wutz]]
-[[Carol Stabile]]
+[[Carol A. Stabile]]
 [[Matthew Fuller]]
 [[Linda C. Brigham]]
 [[Christopher Knight]]

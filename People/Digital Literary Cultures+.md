@@ -2,6 +2,6 @@
 [[Tess McNulty]]
 [[Camilla Holm Soelseth]]
 [[Magdalena Elisabeth Korecka]]
-[[P.D. Edgar]]
+[[P. D. Edgar]]
 [[Tanja Grubnic]]
 [[Samita Nandy]]

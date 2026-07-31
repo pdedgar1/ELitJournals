@@ -38,7 +38,7 @@
 | [[anna andrejew]]                   |     |
 | [[Anna Reutinger]]                  |     |
 | [[Anna Schjøtt Hansen]]             |     |
-| [[Anna Theunissen  ]]               |     |
+| [[Anna Theunissen]]               |     |
 | [[Anne Bras]]                       |     |
 | [[Anne Horel]]                      |     |
 | [[Anne Trouillet Rogers]]           |     |
@@ -74,7 +74,7 @@
 | [[Brent de Vries]]                  |     |
 | [[Britte Sloothaak]]                |     |
 | [[Carmen Dusmet Carrasco]]          |     |
-| [[Carmen Roca Igual  ]]             |     |
+| [[Carmen Roca Igual]]             |     |
 | [[Cas van de Ven]]                  |     |
 | [[Casper Schipper]]                 |     |
 | [[Catalina Goanta]]                 |     |
@@ -259,7 +259,7 @@
 | [[Laura Splan]]                     |     |
 | [[Laura U. Marks]]                  |     |
 | [[Lauren Alexander]]                |     |
-| [[Lauren McCarthy]]                 |     |
+| [[Lauren Lee McCarthy]]                 |     |
 | [[Léa Cadieux]]                     |     |
 | [[Leana Boven]]                     |     |
 | [[Leendert Sonnevelt]]              |     |

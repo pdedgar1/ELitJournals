@@ -117,7 +117,7 @@
 [[Martin Boissel]]
 [[Nan Van Gyseghem]]
 [[Robin Mayol]]
-[[Stephen Guibon]]
+[[Stefen Guibon]]
 [[UBO]]
 [[Yann Scordia]]
 

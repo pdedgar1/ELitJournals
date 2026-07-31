@@ -7,7 +7,7 @@ Evening Performances
 Buses depart Doubletree for UWM
 Media Arts Show OPEN –Golda Meir Library, Digital Humanities Lab: 9AM-­‐5PM
 Session 1A Language in Front of Us–Curtin 118
-Chair:T.B.A.
+Chair:T. B. A.
 ❏[[Luc Dall'Armellina]], ❏[[Jonathan Olshefski]], ❏[[Deena Larsen]], Session 1B Social Media, The City–Curtin 175
 Chair:CarolynGuertin
 ❏[[Carolyn Guertin]], ❏[[Kathi Inman Berens]], ❏[[Kwabena Opoku-Agyemang]], ❏[[Benjamin Grosser]], Break
@@ -30,12 +30,12 @@ Session3C Media Arts Demo Session 1–Digital Humanities Lab, Golda Meir Library
 Session 4A Narrative, Computation, Network–Curtin 175
 Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
 ❏[[Steven Wingate]], ❏[[ErikStayton]]& [[Nick Montfort]], ❏[[Nick Montfort]], ❏[[Chris Rodley]], Session 4B Sounds, Visions, Gestures, Objects –Curtin 118
-Chair:T.B.A.
+Chair:T. B. A.
 ❏[[Hazel Smith]], ❏[[Caitlin Fisher]], ❏[[John Garrison]], ❏[[Talan Memmott]],Pedestrionics:MemeCulture,AlienationCapital,andGesticPlay
 
 ❏[[Stephanie Strickland]] & [[Ian Hatcher]], ❏[[Christian Ulrik Andersen]], [[Jonas Fritsch]] & [[Søren Bro Pold]], ❏[[Scott Rettberg]]& [[Rod Coover]], Session 5B Children's E-­‐Lit–Curtin 118
 Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
-❏[[Leonardo Flores]], ❏[[Lucas Ramada Prieto]], ❏[[Jill Walker Rettberg]], Session 5C Media Arts Demo Session 2–Digital Humanities Lab, Golda Meir Library Second Floor❏[[Chris Rodley]], [[Nick Montfort]], [[Serge Bouchardon]]&[[Luc Dall'Armellina]]& [[Pierre Fourny]], [[Jim Rosenberg]], [[Natalia Fedorova]], [[Tully Hansen]], [[Mark C. Marino]], [[Mark C. Marino]] & [[Rob Wittig]], [[Jeffrey T. Johnson]] & [[Andrew Klobucar]], [[Steven Wingate]], [[Joel Beeson]] & [[Dana Coester]],  [[Piotr Małecki]] and [[Aleksandra Małecka]],[[Alan Bigelow]]
+❏[[Leonardo Flores]], ❏[[Lucas Ramada Prieto]], ❏[[Jill Walker Rettberg]], Session 5C Media Arts Demo Session 2–Digital Humanities Lab, Golda Meir Library Second Floor❏[[Chris Rodley]], [[Nick Montfort]], [[Serge Bouchardon]]&[[Luc Dall'Armellina]]& [[Pierre Fourny]], [[Jim Rosenberg]], [[Natalia Fedorova]], [[Tully Hansen]], [[Mark C. Marino]], [[Mark C. Marino]] & [[Rob Wittig]], [[Jeffrey T. Johnson]] & [[Andrew Klobucar]], [[Steven Wingate]], [[Joel Beeson]] & [[Dana Coester]], [[Piotr Małecki]] and [[Aleksandra Małecka]],[[Alan Bigelow]]
 Break
 Session 6A Book, Archive, Narrative –Curtin 118
 Chair:[[Jessica Pressman]]

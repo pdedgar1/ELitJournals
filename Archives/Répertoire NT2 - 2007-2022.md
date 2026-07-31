@@ -1,5 +1,5 @@
 #archive 
-CELL Member  : French-language E-lit 
+CELL Member : French-language E-lit 
 
 ### Translators 
 
@@ -57,7 +57,7 @@ CELL Member  : French-language E-lit
 | [[Bérénice Belpaire]]                 |
 | [[Christoph Benda]]                   |
 | [[Fred Benenson]]                     |
-| [[F.J. Bergmann]]                     |
+| [[F. J. Bergmann]]                     |
 | [[Caroline Bernard]]                  |
 | [[Isabelle Bernier]]                  |
 | [[Damien Beyrouthy]]                  |
@@ -190,7 +190,7 @@ CELL Member  : French-language E-lit
 | [[Kate Durbin]]                       |
 | [[Linda Duvall]]                      |
 | [[Ollivier Dyens]]                    |
-| [[E.S.P. TV]]                         |
+| [[E. S. P. TV]]                         |
 | [[Jorn Ebner]]                        |
 | [[Aaron Vincent Elkaim]]              |
 | [[João Enxuto]]               |
@@ -472,7 +472,7 @@ CELL Member  : French-language E-lit
 | [[Persuasive Games]]                  |
 | [[Peta]]                              |
 | [[Michael Peters]]                    |
-| [[M.R. Petit]]                        |
+| [[M. R. Petit]]                        |
 | [[Brian Piana]]                       |
 | [[Jörg Piringer]]                     |
 | [[Jean-Christophe Plantin]]           |

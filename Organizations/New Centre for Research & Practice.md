@@ -228,33 +228,33 @@
 | [[]]                                                                                                              |     |
 |                                                                                                                   |     |
 | ######  Seminar Guests                                                                                            |     |
-| [[Julieta Aranda ]]                                                                                               |     |
-| [[ Elie Ayache ]]                                                                                                 |     |
-| [[ Lendl Barcelos ]]                                                                                              |     |
-| [[ Katrina Burch ]]                                                                                               |     |
-| [[ Nandita Biswas-Mellamphy ]]                                                                                    |     |
-| [[ Cesare Casarino ]]                                                                                             |     |
-| [[ Michael Cisco ]]                                                                                               |     |
+| [[Julieta Aranda]]                                                                                               |     |
+| [[Elie Ayache]]                                                                                                 |     |
+| [[Lendl Barcelos]]                                                                                              |     |
+| [[Katrina Burch]]                                                                                               |     |
+| [[Nandita Biswas-Mellamphy]]                                                                                    |     |
+| [[Cesare Casarino]]                                                                                             |     |
+| [[Michael Cisco]]                                                                                               |     |
 | [[Bruce de'Medici]]                                                                                               |     |
 | Glass Bead ([[Fabien Giraud]], [[Jeremy Lecomte]], <br>[[Vincent Normand]], [[Ida Soulard]], & [[Inigo Wilkins]]) |     |
-| [[ Debbie Goldgaber ]]                                                                                            |     |
-| [[ Joshua Johnson ]]                                                                                              |     |
-| [[ Robert King ]]                                                                                                 |     |
-| [[ Angela Last ]]                                                                                                 |     |
-| [[ Nicola Maciandaro ]]                                                                                           |     |
-| [[ Suhail Malik ]]                                                                                                |     |
-| [[ Benjamin Noys ]]                                                                                               |     |
-| [[ Patrick Provost-Smith ]]                                                                                       |     |
-| [[ Jasbir Puar ]]                                                                                                 |     |
-| [[ Jerome Roos ]]                                                                                                 |     |
-| [[ Rory Rowan ]]                                                                                                  |     |
-| [[ Martha Schwendener ]]                                                                                          |     |
-| [[ Nick Srnicek ]]                                                                                                |     |
-| [[ Charles Stankievich ]]                                                                                         |     |
-| [[ Tiziana Terranova ]]                                                                                           |     |
-| [[ Keith Tilford ]]                                                                                               |     |
-| [[ Zoe Todd ]]                                                                                                    |     |
-| [[ Jeff VanderMeer ]]                                                                                             |     |
-| [[ Juan Winter ]]                                                                                                 |     |
-| [[ Ross Wolfe]]                                                                                                   |     |
+| [[Debbie Goldgaber]]                                                                                            |     |
+| [[Joshua Johnson]]                                                                                              |     |
+| [[Robert King]]                                                                                                 |     |
+| [[Angela Last]]                                                                                                 |     |
+| [[Nicola Maciandaro]]                                                                                           |     |
+| [[Suhail Malik]]                                                                                                |     |
+| [[Benjamin Noys]]                                                                                               |     |
+| [[Patrick Provost-Smith]]                                                                                       |     |
+| [[Jasbir Puar]]                                                                                                 |     |
+| [[Jerome Roos]]                                                                                                 |     |
+| [[Rory Rowan]]                                                                                                  |     |
+| [[Martha Schwendener]]                                                                                          |     |
+| [[Nick Srnicek]]                                                                                                |     |
+| [[Charles Stankievich]]                                                                                         |     |
+| [[Tiziana Terranova]]                                                                                           |     |
+| [[Keith Tilford]]                                                                                               |     |
+| [[Zoe Todd]]                                                                                                    |     |
+| [[Jeff VanderMeer]]                                                                                             |     |
+| [[Juan Winter]]                                                                                                 |     |
+| [[Ross Wolfe]]                                                                                                   |     |
 [[Parham Ghalamdar]] is a student there 

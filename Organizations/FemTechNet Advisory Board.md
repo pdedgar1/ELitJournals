@@ -14,7 +14,7 @@
 [[Jasmeen Patheja]]
 [[Carrie Rentschler]]
 [[Nishant Shah]]
-[[Carol Stabile]]
+[[Carol A. Stabile]]
 [[Sandy Stone]]
 [[Lucy A. Suchman]]
 [[Skawennati]]

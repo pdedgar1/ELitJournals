@@ -1,5 +1,5 @@
 New media landscapes and 2023 Knight Arts + Tech Fellows 
-#academicJournal  #anthology  #organization 
+#academicJournal #anthology #organization 
 ## 3.0
 Fellows
 [[American Artist]], [[Kara Güt]], [[Leo Castañeda]], [[Marlena Myles]], [[Institute of Queer Ecology]]

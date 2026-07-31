@@ -30,7 +30,7 @@
 [[Joseph Conte]]
 [[Benjamin Bergholtz]]
 [[John Soutter]]
-[[Anja Zeidler]], [[Brigitte Félix]], [[Crystal Alberts]], [[Gregory Comnes]], [[Joseph Tabbi]], [[Rone Shavers]], [[Tim Conley]], [[Tom LeClair]], [[Victoria Harding]]
+[[Anja Zeidler]], [[Brigitte Félix]], [[Crystal K. Alberts]], [[Gregory Comnes]], [[Joseph Tabbi]], [[Rone Shavers]], [[Tim Conley]], [[Tom LeClair]], [[Victoria Harding]]
 [[Ali Chetwynd]]
 [[Steven Moore]]
 [[Hanjo Berressem]]

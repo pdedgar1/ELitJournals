@@ -29,7 +29,7 @@
 | [[John Cayley]]           |
 | [[M. D. Coverley aka Marjorie C. Luesebrink]]        |
 | [[Martha Deed]]           |
-| [[Damien Everett]]        |
+| [[Damian Everett]]        |
 | [[Sharif Ezzat]]          |
 | [[Edward Falco]]          |
 | [[Mary Flanagan]]         |

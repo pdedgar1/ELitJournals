@@ -303,7 +303,7 @@
 | [[Matteo Pasquinelli]]                                             |
 | [[Jason E. Smith]]                                                 |
 | [[Nathan Brown]]                                                   |
-| [[​R.H. Lossin]] & [[Christoph Menke]]                             |
+| [[R. H. Lossin]] & [[Christoph Menke]]                             |
 | [[Kim Förster]]                                                    |
 | [[Laila Seewang]]                                                  |
 | [[Aziba Ekio]] & [[Michael Kurtz]]                                 |
@@ -316,7 +316,7 @@
 | [[Angela Harutyunyan]]                                             |
 | [[David Morris]]                                                   |
 | [[Valentin Diaconov]] & [[Gracie Hadland]]                         |
-| [[Katherine Adams]]                                                |
+| [[Katherine C. M. Adams]]                                                |
 | [[Hans Ulrich Obrist]]                                             |
 | [[Ikko Kobayashi]]                                                 |
 | [[Fumi Kashimura]]                                                 |

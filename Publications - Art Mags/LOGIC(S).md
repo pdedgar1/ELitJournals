@@ -21,7 +21,7 @@
 [[Dominic Pettman]]
 [[Marta Figlerowicz]]
 [[Cameron Glover]]
-[[Kyle McDonald]], [[Lauren McCarthy]]
+[[Kyle McDonald]], [[Lauren Lee McCarthy]]
 [[Gustavo Turner]]
 # 03 - 2017
 [[Fred Turner]]
@@ -38,7 +38,7 @@
 [[Clayton Aldern]]
 [[Kendra Albert]], [[Maggie Delano]]
 [[Ali Breland]]
-[[Sam Greenspan]]
+[[Sammy Greenspan]]
 [[Jimena Sarno]]
 
 
@@ -363,7 +363,7 @@
 [[Craig Gent]]
 [[Palashi Vaghela]], [[Yatharth]]
 [[Gabrielle Harry]]
-[[R.S.A. Garcia]]
+[[R. S. A. Garcia]]
 [[Rasha Abdulhadi]]
 [[Danez Smith]]
 

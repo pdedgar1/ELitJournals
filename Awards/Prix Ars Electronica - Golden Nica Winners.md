@@ -24,7 +24,7 @@ Source: [Ars Electronica Archive – Prix](https://archive.aec.at/prix/) (all 19
 - 1992 – _Terminator 2_ – [[Dennis Muren]], [[Mark A. Z. Dippé]], [[Steve Williams]], [[Industrial Light & Magic]] _(Honorary Golden Nica)_
 - 1993 – _Lakmé (Excerpt)_ – [[Pascal Roulin]]
 - 1994 – _Jurassic Park_ – [[Dennis Muren]], [[Mark A. Z. Dippé]], [[Industrial Light & Magic]]
-- 1994 – _K.O. Kid_ – [[Marc Caro]]
+- 1994 – _K. O. Kid_ – [[Marc Caro]]
 - 1995 – _God's Little Monkey_ – [[David Atherton]], [[Bob Sabiston]]
 - 1996 – _Toy Story_ – [[John Lasseter]]
 - 1997 – _Dragonheart_ – [[Scott Squires]]
@@ -111,7 +111,7 @@ Source: [Ars Electronica Archive – Prix](https://archive.aec.at/prix/) (all 19
 - 2001 – _polar_ – [[Carsten Nicolai]], [[Marko Peljhan]]
 - 2002 – _n-cha(n)t_ – [[David Rokeby]]
 - 2003 – _Can You See Me Now?_ – [[Blast Theory]], [[Mixed Reality Lab, University of Nottingham]]
-- 2004 – _Listening Post_ – [[Ben Rubin]], [[Mark Hansen]]
+- 2004 – _Listening Post_ – [[Ben Rubin]], [[Mark B. N. Hansen]]
 - 2005 – _MILKproject_ – [[Esther Polak]], [[Ieva Auzina]], [[RIXC – Riga Center for New Media Culture]]
 - 2006 – _The Messenger_ – [[Paul DeMarinis]]
 - 2007 – _Park View Hotel_ – [[Ashok Sukumaran]]

@@ -100,7 +100,7 @@
 [[Tina Escaja aka Alm@ Pérez]]
 [[Corey Sparks]]
 [[Christelle Proulx]]
-[[Dan Rockmore]], [[Kyle Booten]]
+[[Daniel Rockmore]], [[Kyle Booten]]
 [[Ariane Mayer]], [[Serge Bouchardon]]
 [[Andy Simionato]], [[Karen Ann Donnachie]]
 [[Anne Karhio]]
@@ -144,7 +144,7 @@
 [[Leiya Lee]]
 ## 2017
 [[David Jhave Johnston]]
-[[Theodora Walsh]]
+[[Theadora Walsh]]
 [[Mario Aquilina]]
 [[Anne Karhio]]
 [[Ana Marques da Silva]]

@@ -80,13 +80,13 @@ Welcome by the Conference Chair [[Rui Torres]]
 
 - [[Amy Spencer]] (U. West of England, UK), "Literary Thresholds: Exploring the Edges of Ambient Literature"
 - [[Alexandra Saemmer]] (U. Paris 8, France) and Nolwenn Tréhondart (U. Paris 8, France), "Digital Poetry and Digital Industry: a Fatal Attraction?"
-- [[Jennifer J Dellner]] (Ocean County College, USA), "'These Memories Won't Last': Visual Representations of the Forgotten"
+- [[Jennifer J. Dellner]] (Ocean County College, USA), "'These Memories Won't Last': Visual Representations of the Forgotten"
 - [[Amber Strother]] (Washington State U., USA), "Mary Shelley's Hideous Progeny and the Reclaiming of the Monstrous Female Body in Shelley Jackson's 'Patchwork Girl' and 'Penny Dreadful'"
 - [[Matteo d'Ambrosio]] (U. Naples Federico II, Italy), "The Early Computer Poetry and Concrete Poetry"
 
 - [[Rogério Barbosa da Silva]] (Federal Center of Technological Education Minas Gerais, Brazil), [[Caio Roberto Saldanha]] (Federal Center of Technological Education Minas Gerais, Brazil), and [[Amanda Rafaela Gomes Martins]] (Federal Center of Technological Education Minas Gerais, Brazil), "Poemaps: Perspectives for Creation and Circulation of Poetry in the Multimedia Context"
 - [[Pablo Gobira]] (State U. Minas Gerais, Brazil), "Aleph System: A Poetic Interface for Computational Works of Art"
-- [[Álvaro Andrade García]] (Ciclope, Brazil) and [[Lucas Junqueira]]*, "Toy Poems and Free Software Managana: Challenges of a Transmedia Publication"
+- [[Álvaro Andrade García]] (Ciclope, Brazil) and [[Lucas Santos Junqueira]]*, "Toy Poems and Free Software Managana: Challenges of a Transmedia Publication"
 - [[Wagner Moreira]] (Federal Center of Technological Education Minas Gerais, Brazil), [[Andre Menezes]] (Studio Alfavaca, Brazil), and [[Cardes Amâncio]]*, "The Poetic Technical Image: to Think a Politics of the Look"
 - [[Francisco Marinho]]* and Álvaro Andrade Garcia (Ciclope, Brazil), "Computational Poetry: Processes of Collective Creation and Authorship between Men and Machines"
 - [[Carla Viana Coscarelli]] (Federal U. Minas Gerais, Brazil) and [[Ana Elisa Ribeiro]] (Federal Center of Technological Education Minas Gerais, Brazil), "Literacy and Literature for the 21st Century"
@@ -131,7 +131,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Christian Roth]] (HKU U. of the Arts, Utrecht, Netherlands), [[Gabriele Ferri]] (Amsterdam U. Applied Sciences, Netherlands), and [[Mads Haahr]] (Trinity College Dublin, Ireland), "In-depth Analysis of Interactive Digital Narrative" @Auditório
 
 - [[Anna Gibbs]] (Western Sydney U., Australia) and [[Maria Angel]]*, "Cyberfeminism, Writing, and the Digital Ecology of Bodies"
-- [[Cláudia Silva]] (M-ITI/Madeira Interactive Technologies Institute, Portugal) and [[Valentina Nisi]] (M-ITI/Madeira Interactive Technologies Institute, Portugal), "'I blamed this all on moving to Texas': Fostering Sense of Place through Locative Literature among US Latina Girls"
+- [[Claudia Cristina da  Silva]] (M-ITI/Madeira Interactive Technologies Institute, Portugal) and [[Valentina Nisi]] (M-ITI/Madeira Interactive Technologies Institute, Portugal), "'I blamed this all on moving to Texas': Fostering Sense of Place through Locative Literature among US Latina Girls"
 - [[Anne Karhio]] (National U. Galway, Ireland), "Acts of Opposition: Digital Aesthetics, Electronic Literature and Irish Cultural Institutions"
 - [[D. Fox Harrell]] (Massachusetts Institute of Technology, USA), [[Pablo Ortiz]]*, [[Peter Downs]]*, [[Elizabeth Carré]]*, [[Annie Wang]]* and [[Maya Wagoner]]*, "'Chimeria:Grayscale:' An Interactive Narrative for Provoking Critical Reflection on Gender Discrimination"
 
@@ -266,7 +266,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 - [[John T. Murray]] (U. California Santa Cruz, USA), "What is Chosen: Rethinking Choice-based Narrative Games Traversals"
 - [[Anne Sullivan]] (U. Central Florida, USA), "Crafting Play: Creating Tangible Artifacts from Player Narrative"
  Keynote @Auditório [Presenter: [[M. D. Coverley aka Marjorie C. Luesebrink]]  
-[[Matthew G. Kirschenbaum]] (U. Maryland, USA), "ELO and the Electric Light Orchestra: Lessons for  [Host: [[Dene Grigar]]
+[[Matthew G. Kirschenbaum]] (U. Maryland, USA), "ELO and the Electric Light Orchestra: Lessons for [Host: [[Dene Grigar]]
 Retooling the Tools [Chair: [[David Jhave Johnston]]]]  
 
 - [[Pablo Gobira]] (State U. Minas Gerais, Brazil), [[Antônio Mozelli]]* and [[William Silva]]*, "Interactive Installation in Immersive Virtual Reality: 'Look at yourself [Olhe para você]'"

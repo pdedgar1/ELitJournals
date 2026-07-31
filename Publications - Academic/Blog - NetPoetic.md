@@ -21,7 +21,7 @@ Started by [[Jason Nelson]] and [[Davin Heckman]]
 |[[Mark C. Marino]]|
 |[[Mark L. Sample]]|
 |[[Mez Breeze]]|
-|[[Michael Maguire]]|
+|[[Michael J. Maguire]]|
 |[[Nick Montfort]]|
 |[[Rob Wittig]]|
 |[[Rui Torres]]|

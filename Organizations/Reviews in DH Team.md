@@ -28,7 +28,7 @@ Queer Studies
 [[PB Berge]], University of Alberta
 [[Madison Schmalzer]], Bradley University, USA
 Reviews in the Classroom
-[[R.C. Miessler]], Gettysburg College, USA
+[[R. C. Miessler]], Gettysburg College, USA
 [[Kalani Craig]], Indiana University Bloomington, USA
 [[Lu Wang]], University of Western Ontario, Canada
 Social Justice Pedagogy
@@ -70,4 +70,4 @@ Alumni
 [[Felix Bayode Oke]]
 [[Monisha Raju]]
 
-2022 Advisory Board Members: [[Catherine Ahearn]], [[Brett Bobley]], [[Sylvia Fernández Quintanilla]], [[Kathleen Fitzpatrick]], [[Julia Flanders]], [[Michelle Chesner Margolis]], [[Jeffrey McClurken]], [[Geoffrey Rockwell]], [[Roxanne Shirazi]], [[James Shulman]], [[Dhanashree Thorat]], and [[Laura Wexler]]
+2022 Advisory Board Members: [[Catherine Ahearn]], [[Brett Bobley]], [[Sylvia Fernández Quintanilla]], [[Kathleen Fitzpatrick]], [[Julia Flanders]], [[Michelle Chesner Margolis]], [[Jeffrey W. McClurken]], [[Geoffrey Rockwell]], [[Roxanne Shirazi]], [[James Shulman]], [[Dhanashree Thorat]], and [[Laura Wexler]]

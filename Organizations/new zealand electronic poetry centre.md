@@ -11,7 +11,7 @@
 | [[Lauris Edmond]]      |
 | [[Murray Edmond]]      |
 | [[David Eggleton]]     |
-| [[A.R.D. Fairburn]]    |
+| [[A. R. D. Fairburn]]    |
 | [[Fiona Farrell]]      |
 | [[Paula Green]]        |
 | [[Bernadette Hall]]    |

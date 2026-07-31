@@ -176,7 +176,7 @@
 | [[Pierre-Yves Brandt]]                           |
 | [[Steven Braun]]                                 |
 | [[Bela Brenger]]                                 |
-| [[Kathleen P.J. Brennan]]                        |
+| [[Kathleen P. J. Brennan]]                        |
 | [[Rob Brennan]]                                  |
 | [[Andrew Bretz]]                                 |
 | [[Thomas Breuel]]                                |
@@ -191,7 +191,7 @@
 | [[Marc Bron]]                                    |
 | [[Koenraad Brosens]]                             |
 | [[Elspeth Brown]]                                |
-| [[Hannah L.P. Brown]]                            |
+| [[Hannah L. P. Brown]]                            |
 | [[Susan Brown]]                                  |
 | [[Cameron Browne]]                               |
 | [[Paul A. Broyles]]                              |
@@ -881,7 +881,7 @@
 | [[Laura Mandell]]                                |
 | [[Joshua L. Mann]]                               |
 | [[Zachary Mann]]                                 |
-| [[J.G. Manning]]                                 |
+| [[J. G. Manning]]                                 |
 | [[Christina Manzo]]                              |
 | [[Stacey Maples]]                                |
 | [[Louis M. Maraj]]                               |
@@ -1017,7 +1017,7 @@
 | [[Vincent Neyt]]                                 |
 | [[Griffin Ng]]                                   |
 | [[Ryan Nichols]]                                 |
-| [[Kirstoffer L. Nielbo]]                         |
+| [[Kristoffer L. Nielbo]]                         |
 | [[Angel David Nieves]]                           |
 | [[Dmitri Nikulin]]                               |
 | [[Asko Nivala]]                                  |
@@ -1047,7 +1047,7 @@
 | [[Brett Oppegaard]]                              |
 | [[Peter Organisciak]]                            |
 | [[Élika Ortega]]                                 |
-| [[Joseph Osborn]]                                |
+| [[Joseph C. Osborn]]                                |
 | [[James O'Sullivan]]                             |
 | [[Jessica Marie Otis]]                                 |
 | [[Trevor Owens]]                                 |
@@ -1066,7 +1066,7 @@
 | [[Eliza Papaki]]                                 |
 | [[Margherita Parigini]]                          |
 | [[Zeinab Parishani]]                             |
-| [[B.J. Parker]]                                  |
+| [[B. J. Parker]]                                  |
 | [[Janice Parker]]                                |
 | [[David Parsons]]                                |
 | [[Michele Pasin]]                                |
@@ -1163,7 +1163,7 @@
 | [[José Raposo]]                                  |
 | [[Nina C. Rastinger]]                            |
 | [[Andrew Ravenscroft]]                           |
-| [[K.J. Rawson]]                                  |
+| [[K. J. Rawson]]                                  |
 | [[Cecily Raynor]]                                |
 | [[Niloofar Razavi]]                              |
 | [[Peter Read]]                                   |
@@ -1186,7 +1186,7 @@
 | [[Cláudio José Silva Ribeiro]]                   |
 | [[Paola Ricaurte Quijano]]                       |
 | [[Michael Richter]]                              |
-| [[Martin Riedl]]                                 |
+| [[Martin J. Riedl]]                                 |
 | [[Marine Riguet]]                                |
 | [[Roopika Risam]]                                |
 | [[António Rito Silva]]                           |
@@ -1235,7 +1235,7 @@
 | [[John Ryan]]                                    |
 | [[Yann Ryan]]                                    |
 | [[Jan Rybicki]]                                  |
-| [[Jeffrey Rydberg-Cox]]                          |
+| [[Jeffrey A. Rydberg-Cox]]                          |
 | [[Matthia Sabatelli]]                            |
 | [[Lana Sabb]]                                    |
 | [[Zack Sai]]                                     |
@@ -1550,7 +1550,7 @@
 | [[Ruben Wiersma]]                                |
 | [[Eliza Alexander Wilcox]]                       |
 | [[Hazel Wilkinson]]                              |
-| [[Mark Williams]]                                |
+| [[Mark J. Williams]]                                |
 | [[John Willinsky]]                               |
 | [[Dr. Nicole Willson]]                           |
 | [[Caroline Winter]]                              |
@@ -1585,7 +1585,7 @@
 | [[Ivy Zheng]]                                    |
 | [[Maayan Zhitomirsky-Geffet]]                    |
 | [[Dawn (Lizao) Zhuang]]                          |
-| [[S.L. Ziegler]]                                 |
+| [[S. L. Ziegler]]                                 |
 | [[Angelika Zirker]]                              |
 | [[Amélie Zöllner-Weber]]                         |
 | [[Andras Zsom]]                                  |

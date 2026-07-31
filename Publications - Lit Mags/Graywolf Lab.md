@@ -22,4 +22,4 @@ Art / Games [[Steven Dunn]], [[Dan Bronson-Lowe]], [[Lucy Ives]]
 [[Ed Park]], [[Joseph Earle Thomas]], [[Lena Moses-Schmitt]], [[Katy Whitehead]], [[Rae Delane]]
 [[Anya Johanna DeNiro]], [[Jan-Henry Gray]], [[Diana Cao]], [[Adrie Rose]]
 
-[[Camilo Loaiza Bonilla]], [[Marthea Webber]], [[Bijan Stephen]], [[Keith Wilson]]
+[[Camilo Loaiza Bonilla]], [[Marthea Webber]], [[Bijan Stephen]], [[Keith S. Wilson]]

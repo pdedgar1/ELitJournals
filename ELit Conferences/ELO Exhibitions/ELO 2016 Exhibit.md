@@ -1,5 +1,5 @@
 #anthology 
-# Curator  [[Brenda Grell]]
+# Curator [[Brenda Grell]]
 [[Abrie]]
 [[Deanne Achong]] & [[Faith Moosang]]
 [[Damon Loren Baker]] and [[Jeremy Hight]]
@@ -43,13 +43,13 @@
 [[Ottar Ormstad]]
 [[DC Reid]]
 [[Rolando Rodriguez]]
-[[Jessica Rodriguez]]
+[[Jessica A. Rodriguez]]
 [[Rob Wittig]]
 [[José Aburto]] and [[Nicola Harwood]]
 [[Alan Sondheim]]
 [[David Jhave Johnston]]
 
-## Screenings  curated by [[Jim Bizzocchi]] and [[Justine Bizzocchi]]
+## Screenings curated by [[Jim Bizzocchi]] and [[Justine Bizzocchi]]
 
 [[BP Nichol]]
 [[Ottar Ormstad]]

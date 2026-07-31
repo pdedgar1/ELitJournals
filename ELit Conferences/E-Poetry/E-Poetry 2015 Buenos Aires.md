@@ -106,7 +106,7 @@ POSTURAS CRÍTICAS / Latin American E-Poetry
 
 as Critique: [[Carolina Gainza]] (Chair), [[Luis Correa-Díaz]],
 
-[[Megumi Andrade]], [[Felipe Cussen]], [[Joaquin Harcha]]
+[[Megumi Andrade]], [[Felipe Cussen]], [[Joaquín Zerené Harcha]]
 
 13.00-14.00. ALMUERZO/LUNCH (No provisto/Not Provided)
 

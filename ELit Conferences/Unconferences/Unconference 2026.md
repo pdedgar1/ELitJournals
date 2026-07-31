@@ -7,4 +7,4 @@
 [[Siobhan O'Flynn]]
 [[Caleb Sour]]
 [[Ken Alba]]
-[[P.D. Edgar]]
+[[P. D. Edgar]]

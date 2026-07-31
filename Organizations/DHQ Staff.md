@@ -16,7 +16,7 @@
 | [[Chase Culler]]                       |
 | [[David DeCamp]]                       |
 | [[Reba Dickson]]                       |
-| [[R.B. Faure]]                         |
+| [[R. B. Faure]]                         |
 | [[Benjamin Grey]]                      |
 | [[Elizabeth Hopwood]]                  |
 | [[Jonathan Fitzgerald]]                |

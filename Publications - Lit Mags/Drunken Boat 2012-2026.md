@@ -5,7 +5,7 @@
 #### Art
 [[Alex Chechile]], [[Cracked Ray Tube]], [[Jodi Darby]], [[Linda Aubry Bullock]], [[Phillip David Stearns]], [[Seth Cluett]], [[Terri Witek]] & [[Cyriaco Lopes]]
 #### Barry Hannah
-[[Anna Baker]], [[Barry Hannah]], [[Brett Puryear]], [[Darlin' Neal]], [[Grantley Rushing]], [[Jeffrey Stayton]], [[M.O. Walsh]], [[Phyllis Nobles]], [[klipschutz]], [[Andy Davidson]]
+[[Anna Baker]], [[Barry Hannah]], [[Brett Puryear]], [[Darlin' Neal]], [[Grantley Rushing]], [[Jeffrey Stayton]], [[M. O. Walsh]], [[Phyllis Nobles]], [[klipschutz]], [[Andy Davidson]]
 #### Exploration
 [[Adrian Seymour]], [[Adriane Colburn]], [[Arita Baaijens]], [[Benjamin S. Grossberg]], [[Clare Rossini]], [[Fred Kraus]], [[Helen M. Rozwadowski]], [[Jason Anthony]], [[Kate Harris]], [[Ken Banks]], [[Maria Fadiman]], [[Matthew J. Pallamary]], [[Rand Richards Cooper]], [[Sasha Kramer]], [[Scott Wallace]], [[Shafqat Hussain]], [[Yanara Friedland]]
 #### Fiction
@@ -24,7 +24,7 @@
 #### Art
 [[Brian Howe]] & [[Tim Van Dyke]], [[Dan Waber]], [[Daniel Rehn]], [[Emily Kuehn]], [[Luis Hernandez]], [[Mitsuko Brooks]], [[Monica Panzarino]], [[Niki Sehmbi]], [[Sabrina Ratté]], [[Theodore Darst]]
 #### Fiction
-[[Adnan Mahmutović]], [[Alex Czaja]], [[Alyson Hagy]], [[Andrew F. Sullivan]], [[C.A. Schaefer]], [[Dean Marshall Tuck]], [[James Robison]], [[Jennifer MacKenzie]], [[Liana Scalettar]], [[Lydia Melby]], [[Michael Myers]]
+[[Adnan Mahmutović]], [[Alex Czaja]], [[Alyson Hagy]], [[Andrew F. Sullivan]], [[C. A. Schaefer]], [[Dean Marshall Tuck]], [[James Robison]], [[Jennifer MacKenzie]], [[Liana Scalettar]], [[Lydia Melby]], [[Michael Myers]]
 #### Non-Fiction
 [[Beth Malone]], [[Eleanor Stanford]], [[Elizabeth Bradfield]] & [[Demet Taşpınar]], [[Eric LeMay]], [[Haley Larson]], [[Mark Dow]], [[Mita Mahato]], [[Peggy Shumaker]], [[Quintan Ana Wikswo]], [[Sarah Jane Holsteen]]
 #### Poetry
@@ -76,7 +76,7 @@
 #### Nonfiction
 [[Gregory Pardlo]], [[Jericho Parms]], [[Mark Dow]], [[Kelly Kathleen Ferguson]], [[Shelly Hubman]], [[Francesca Louise Grossman]], [[Sherri Mitchell - Wena' Gamu' Gwasit]]
 #### Poetry
-[[Gerry LaFemina]], [[V.V. Ganeshananthan]], [[Philip Metres]] & [[Tatiana Tulchinsky]] (trans. [[Lev Rubinstein]]), [[Mộng-Lan]], [[Peter Mishler]], [[Denise Duhamel]], [[Christopher Brunt]], [[Mia Ayumi Malhotra]], [[Meg Day]], [[Liz Robbins]], [[Marcelo Castillo]], [[Jan Clausen]], [[J. Scott Brownlee]], [[Jessica Smith]], [[Collier Nogues]], [[Janine Joseph]], [[Sho Sugita]], [[sam sax]], [[Lisa Sewell]], [[Kamilah Aisha Moon]], [[Loren Kleinman]], [[E.G. Cunningham]], [[Anna Claire Hodge]], [[Aaron Belz]]
+[[Gerry LaFemina]], [[V. V. Ganeshananthan]], [[Philip Metres]] & [[Tatiana Tulchinsky]] (trans. [[Lev Rubinstein]]), [[Mộng-Lan]], [[Peter Mishler]], [[Denise Duhamel]], [[Christopher Brunt]], [[Mia Ayumi Malhotra]], [[Meg Day]], [[Liz Robbins]], [[Marcelo Castillo]], [[Jan Clausen]], [[J. Scott Brownlee]], [[Jessica Smith]], [[Collier Nogues]], [[Janine Joseph]], [[Sho Sugita]], [[sam sax]], [[Lisa Sewell]], [[Kamilah Aisha Moon]], [[Loren Kleinman]], [[E. G. Cunningham]], [[Anna Claire Hodge]], [[Aaron Belz]]
 #### Digital Poetry
 [[Amaranth Borsuk]], [[Kate Durbin]] & [[Ian Hatcher]], [[Nick Canty]] & [[Hynninen]], [[J. R. Carpenter]], [[Christopher T. Funkhouser]], [[Zuzana Husárová]], [[Heldén]] & [[Jonson]], [[Daniel C. Howe]], [[Jason Edward Lewis]], [[Louise Marois]], [[Nick Montfort]] & [[Stephanie Strickland]], [[Smith]], [[Will Luers]] & [[Roger Dean]], [[Brian Kim Stefans]], [[Steve Tomasula]], [[Braxton Soderman]], [[Michael Coppola]], [[Qianxun Chen]], [[David Jhave Johnston]]
 
@@ -102,7 +102,7 @@
 ## Romani
 [[Allison Williams]], [[Arturo Desimone]], [[Chad Evans Wyatt]], [[Emerson Whitney]], [[Glenda Bailey-Mershon]], [[Jessica Reidy]], [[Olivia Sears]] & [[Chandra Livia Candiani]], [[Qristina Zavačková Cummings]], [[Sarah Barbieux]], [[Sydnee Wagner]], [[Hedina Tahirović-Sijerčić]] & [[Lynn Hutchinson Lee]]
 ## Poetry
-[[Talin Tahajian]], [[John A. Nieves]], [[Maureen Mulhern]], [[Benjamin Goldberg]], [[Jennifer Givhan]], [[Cody Ernst]], [[Chen Chen]], [[Laurie Blauner]], [[Peter Giebel]], [[Kai Carlson-Wee]], [[Nomi Stone]], [[Sue William Silverman]], [[Molly Damm]], [[Mary Jo Thompson]], [[Caroline Crew]], [[Nick Admussen]] (trans. [[Ya Shi]]), [[Brandon Lewis]], [[Gary McDowell]], [[M.B. McLatchey]], [[Maureen Thorson]], [[Hank Lazer]], [[Hoyt Jacobs]], [[Jake Levine]] (trans. [[Kim Kyung Ju]]), [[Usha Akella]]
+[[Talin Tahajian]], [[John A. Nieves]], [[Maureen Mulhern]], [[Benjamin Goldberg]], [[Jennifer Givhan]], [[Cody Ernst]], [[Chen Chen]], [[Laurie Blauner]], [[Peter Giebel]], [[Kai Carlson-Wee]], [[Nomi Stone]], [[Sue William Silverman]], [[Molly Damm]], [[Mary Jo Thompson]], [[Caroline Crew]], [[Nick Admussen]] (trans. [[Ya Shi]]), [[Brandon Lewis]], [[Gary McDowell]], [[M. B. McLatchey]], [[Maureen Thorson]], [[Hank Lazer]], [[Hoyt Jacobs]], [[Jake Levine]] (trans. [[Kim Kyung Ju]]), [[Usha Akella]]
 ## Fiction
 [[Carolyn Guinzio]], [[Rebecca Cook]], [[Jill Widner]], [[Devin Kelly]]
 ## Nonfiction
@@ -114,7 +114,7 @@
 # Issue 23
 
 ## Glass House Shelter Project
-[[William Keller]], [[D.M. Aderibigbe]], [[Mark Norek]], [[Peter Nelson]], [[Zhulien Lambrev]], [[Darryl Lorenzo Wellington]], [[Andrea Semper]], [[Phe Needham]], [[Sarah Davis]], [[Mike Bayles]], [[Alan Asselin]], [[Ariana Rodriguez]], [[Eden LaMark]], [[Monica Raymond]], [[Shdiva Black]]
+[[William Keller]], [[D. M. Aderibigbe]], [[Mark Norek]], [[Peter Nelson]], [[Zhulien Lambrev]], [[Darryl Lorenzo Wellington]], [[Andrea Semper]], [[Phe Needham]], [[Sarah Davis]], [[Mike Bayles]], [[Alan Asselin]], [[Ariana Rodriguez]], [[Eden LaMark]], [[Monica Raymond]], [[Shdiva Black]]
 ## Fiction
 [[Bonnie Chau]], [[Daniel Presley]], [[Erin Rogers]], [[Raul Benjamín Moreno]], [[Vic Sizemore]]
 ## Translation
@@ -124,7 +124,7 @@
 ## NonFiction
 [[Caroline Tracey]], [[Frances Kai-Hwa Wang]], [[Henry Wei Leung]], [[Julie Goodale]], [[Melissa Wiley]], [[Nancy Wyland]]
 ## Poetry
-[[Joey De Jesus]], [[Katie Manning]], [[Maryse Meijer]], [[H.L. Hix]], [[Bethany Schultz Hurst]], [[Erin Rodoni]], [[Rachel Mennies]], [[Elizabeth Savage]], [[Shelley Wong]], [[Jodie Hollander]], [[Jeff Hoffman]], [[Norma M. Schulman]], [[Ash Dean]], [[Sally Ashton]]
+[[Joey De Jesus]], [[Katie Manning]], [[Maryse Meijer]], [[H. L. Hix]], [[Bethany Schultz Hurst]], [[Erin Rodoni]], [[Rachel Mennies]], [[Elizabeth Savage]], [[Shelley Wong]], [[Jodie Hollander]], [[Jeff Hoffman]], [[Norma M. Schulman]], [[Ash Dean]], [[Sally Ashton]]
 ## Art
 [[Svetlana Mircheva]], [[Allison Campbell]] & [[Alf Dahlman]], [[Julia Masden]], [[Albena Nikolova]], [[Amy Reed]], [[Aleksandar Baytoshev]], [[Aneliya Barenska]], [[Zornitsa Garkova]]
 ## Bulgarian Literature: Prose
@@ -149,7 +149,7 @@
 ## Nonfiction
 [[Janelle DolRayne]], [[Jason Spears]], [[Katharine Haake]], [[Kisha Lewellyn Schlegel]], [[Rajiv Mohabir]], [[Stephanie Sauer]]
 ## Poetry
-[[Alison Prine]], [[Angela Penaredondo]], [[Ashley Keyser]], [[Cameron Awkward-Rich]], [[Deseree Probasco]], [[Dilruba Ahmed]], [[Emilio Sotelo]], [[Esther Lin]], [[Franny Choi]], [[J.H Yun]], [[Lena Tuffaha]], [[Lesya Bazylewicz]], [[Michael Wasson]], [[Michelle Lewis]], [[Muriel Leung]], [[Nandini Dhar]], [[Natalie Wee]], [[Samiya Bashir]], [[Shamala Gallagher]], [[Siwar Masannat]]
+[[Alison Prine]], [[Angela Penaredondo]], [[Ashley Keyser]], [[Cameron Awkward-Rich]], [[Deseree Probasco]], [[Dilruba Ahmed]], [[Emilio Sotelo]], [[Esther Lin]], [[Franny Choi]], [[J. H Yun]], [[Lena Tuffaha]], [[Lesya Bazylewicz]], [[Michael Wasson]], [[Michelle Lewis]], [[Muriel Leung]], [[Nandini Dhar]], [[Natalie Wee]], [[Samiya Bashir]], [[Shamala Gallagher]], [[Siwar Masannat]]
 ## Translation
 [[Alex Niemi]] (trans. [[Vincent Tholomé]]), [[Nancy Naomi Carlson]] & [[Catherine Maigret Kellogg]] (trans. [[Suzanne Dracius]]), [[Catherine Jagoe]] (trans. [[Roberto Echavarren]]), [[Henry Zhang]] (trans. [[Feng Na]]), [[Anita Gopalan]] (trans. [[Geet Chaturvedi]]), [[Mary Jane White]] (trans. [[Marina Tsvetaeva]]), [[Mercedes Claire Gilliom]] (trans. [[Daniel Bourrion]]), [[Layla Benitez-James]] (trans. [[Óscar Curieses]]), [[Alix Anne Shaw]] (trans. [[Ludwig Wittgenstein]]), [[David Hadbawnik]] (trans. [[Virgil]])
 #### Women & Non-Binary Noir

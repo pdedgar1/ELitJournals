@@ -1,5 +1,5 @@
 #anthology 
-### Edited by [[John T. Murray]], [[P.D. Edgar]], [[Daniel Cox]], [[Ricky Finch]], [[Mike Shier]], [[R. Lyle Skains]]
+### Edited by [[John T. Murray]], [[P. D. Edgar]], [[Daniel Cox]], [[Ricky Finch]], [[Mike Shier]], [[R. Lyle Skains]]
 
 [[¡wénrán zhào!]]
 [[Agustin Rosa]]

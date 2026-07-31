@@ -2,7 +2,7 @@
 
 [[Anastasia Salter]]
 [[Dene Grigar]]
-[[Davin Heckman ]]
+[[Davin Heckman]]
 [[Mark C. Marino]]
 [[R. Lyle Skains]]
 [[Zach Whalen]]
@@ -55,4 +55,4 @@ Previously:::
 [[Jeff Ballowe]]
 
 with Admin Staff 
-[[Holly Slocum]] and [[P.D. Edgar]]
+[[Holly Slocum]] and [[P. D. Edgar]]

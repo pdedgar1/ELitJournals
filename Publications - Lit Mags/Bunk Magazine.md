@@ -10,7 +10,7 @@
 [[jenny shank]]
 [[Marc Lesser]]
 [[Leah Weathersby]]
-[[A.L. Hickey]]
+[[A. L. Hickey]]
 [[Alan Laser]]
 [[Cupcake Qiana LaCroix]]
 [[Jonathan Van Gieson]]

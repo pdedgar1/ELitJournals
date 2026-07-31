@@ -1,7 +1,7 @@
 #Litmag 
 
 
-### Edited by [[P.D. Edgar]]
+### Edited by [[P. D. Edgar]]
 
 ## Issue 0
 | [[John Winfield Hoppin]] & [[Joe Imwalle]] |
@@ -9,7 +9,7 @@
 | [[Autumn Fourkiller]]                      |
 | [[Nick Montfort]]                          |
 | [[@ReachArtwork]]                          |
-| [[P.D. Edgar]]                             |
+| [[P. D. Edgar]]                             |
 
 ## Issue 1 - Digital Life
 
@@ -20,7 +20,7 @@
 | [[Emilio Loew Muscarolas]]      |
 | [[Gibson Bartlett]]             |
 | Interview w. Dr. [[Amber Buck]] |
-| [[P.D. Edgar]]                  |
+| [[P. D. Edgar]]                  |
 
 ## Issue 2 - 
 
@@ -33,7 +33,7 @@
 | [[Dan Power]]       |
 | [[Anna Sokolova]]   |
 | [[aya karpińska]]   |
-| [[P.D. Edgar]]      |
+| [[P. D. Edgar]]      |
 
 ## Issue 3 — Guest edited by [[Monica Storss]]
 | [[Mark Wyatt]]                       |
@@ -47,7 +47,7 @@
 | [[Bart Kuipers]]                     |
 | [[Agnes Chavez]]                     |
 | Interview with Dr. [[Clareese Hill]] |
-| [[P.D. Edgar]]                       |
+| [[P. D. Edgar]]                       |
 |                                      |
 
 ## Issue 4
@@ -63,7 +63,7 @@
 | [[D'mani Thomas]]        |
 | [[Agustin Rosa]]         |
 | [[Angeliki Malakasioti]] |
-| [[P.D. Edgar]]           |
+| [[P. D. Edgar]]           |
 ## Issue 5
 
 [[Jonathan W. Y. Gray]]

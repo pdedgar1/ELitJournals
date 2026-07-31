@@ -11,7 +11,7 @@ references [[Kyle Booten]]
 2. on [[Kate Crawford]]
 3. on [[K Allado-McDowell]]
 4. on [[Matteo Pasquinelli]]
-5.  - 
+5. - 
 6. on [[Natalie Fenton]], [[Des Freedman]], [[Gholam Khiabany]], [[Milly Williamson]]
 7. on [[Monica Ali]]
 8. - 
@@ -19,7 +19,7 @@ references [[Kyle Booten]]
 10. on [[Dennis Yi Tenen]]
 11. on [[James Muldoon]], [[Mark Graham]], and [[Callum Cant]]
 12. on [[James Muldoon]], [[Mark Graham]], and [[Callum Cant]]
-13.  - Obit : Fredric Jameson
+13. - Obit : Fredric Jameson
 14. on [[Fredric Jameson]]
 15. on [[E. Glen Weyl]], [[Audrey Tang]], 
 16. on [[Dan Fox]]

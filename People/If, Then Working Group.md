@@ -42,14 +42,14 @@
 | [[Dorothy R. Santos]]             |
 | [[Doug Stark]]                    |
 | [[Dzidzor Azaglo]]                |
-| [[E.L. Guerrero]]                 |
+| [[E. L. Guerrero]]                 |
 | [[Edward Wells]]                  |
 | [[emma k.shibley]]                |
 | [[Evan Tysinger]]                 |
 | [[Eyal Yehowa Gruss]]                    |
 | [[farrell]]                       |
 | [[Fereshteh Toosi]]               |
-| [[Fi ]]                           |
+| [[Fi]]                           |
 | [[Francesca Tripodi]]             |
 | [[Fred L Joiner]]                 |
 | [[Freia Lobo]]                    |
@@ -66,7 +66,7 @@
 | [[Jon Stapleton]]                 |
 | [[Jonathan W. Y. Gray]]           |
 | [[Josh Grams]]                    |
-| [[Kate Alexandrite (Guillen) ]]   |
+| [[Kate Alexandrite (Guillen)]]   |
 | [[Katelin Ten/geya]]              |
 | [[Katherine Diemert]]             |
 | [[Katherine Yang]]                |
@@ -77,7 +77,7 @@
 | [[Kieran Patel]]                  |
 | [[kofi oduro]]                    |
 | [[Lauren Alcindor]]               |
-| [[LeTriece Calhoun]]              |
+| [[Dana LeTriece Calhoun]]              |
 | [[Lillian-Yvonne Bertram]]        |
 | [[Liza Daly]]                     |
 | [[Logan K. Young]]                |
@@ -102,7 +102,7 @@
 | [[Omayeli Arenyeka]]              |
 | [[Priya Chandrasegaram]]          |
 | [[Randy Lubin]]                   |
-| [[Rebecca Uliasz ]]               |
+| [[Rebecca Uliasz]]               |
 | [[Rebekkah Leigh LaBlue]]         |
 | [[remmah]]                        |
 | [[Roberta Iadevaia]]              |
@@ -114,5 +114,5 @@
 | [[Suzanne Gold]]                  |
 | [[Tegan Pyke]]                    |
 | [[Tina Huey]]                     |
-| [[Valiur Rahaman]]                |
+| [[Vailur Rahaman]]                |
 | [[Zach Whalen]]                   |

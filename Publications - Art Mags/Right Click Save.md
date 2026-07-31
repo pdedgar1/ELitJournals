@@ -1,7 +1,7 @@
 Digital Art Magazine Post-2020
 |   |
 |---|
-|[[A.V. Marraccini]]|
+|[[A. V. Marraccini]]|
 |[[Abigail Miller]]|
 |[[Adam Berninger]]|
 |[[Alana Kushnir]]|
@@ -224,10 +224,10 @@ Digital Art Magazine Post-2020
 |[[Sabine Himmelsbach]]|
 |[[Sarah Conley Odenkirk]]|
 |[[Sarah Friend]], [[Paul Seidler]], and ‍[[María Paula Fernández]]|
-|[[Sebastian Sanchez]]|
+|[[Sebastián Martínez Sánchez]]|
 |[[Seth Goldstein]]|
 |[[Shahrzad Hamzeh]]|
-|[[Silvia Anna Barrilà ]]|
+|[[Silvia Anna Barrilà]]|
 |[[Simon Denny]] and [[Guile Twardowski]]|
 |[[Simon Denny]] and [[Karamia Müller]]|
 |[[Simon Indelicate]]|

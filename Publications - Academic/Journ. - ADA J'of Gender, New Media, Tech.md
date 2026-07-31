@@ -30,7 +30,7 @@
 | [[Josue Chavez]]                |
 | [[Sarah Ciston]]                |
 | [[Mia Consalvo]]                |
-| [[Brittany C. Cooper]]             |
+| [[Brittney C. Cooper]]             |
 | [[Tressie McMillan Cottom]]     |
 | [[T. L. Cowan]]                  |
 | [[Sky Croeser]]                 |
@@ -59,7 +59,7 @@
 | [[Shelleen Greene]]             |
 | [[Pallavi Guha]]                |
 | [[Hackers of Resistance]]       |
-| [[Sarah Hamid]]                 |
+| [[Sarah T. Hamid]]                 |
 | [[Karin Hansson]]               |
 | [[Joan Haran]]                  |
 | [[Donna Haraway]]            |
@@ -155,8 +155,8 @@
 | [[Tuesday Smillie]]             |
 | [[Carrie Smith-Prei]]           |
 | [[Spideralex]]                  |
-| [[Carol Stabile]]               |
-| [[Carol A Stabile]]             |
+| [[Carol A. Stabile]]               |
+| [[Carol A. Stabile]]             |
 | [[H. Leslie Steeves]]           |
 |                                 |
 | [[Maria Stehle]]                |

@@ -38,6 +38,6 @@
 [[Jason Nelson]]
 [[Millie Niss]]
 [[Santiago Ortiz]]
-[[Regina Pinto]]
+[[Regina Célia Pinto]]
 [[Christine Wilks]]
 [[Jody Zellen]]

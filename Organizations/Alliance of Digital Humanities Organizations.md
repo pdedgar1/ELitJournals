@@ -8,7 +8,7 @@ Constituent Organization Representatives
 [[Tyne Daile Sumner]]
 [[Lauren Tilton]]
 [[Francesca Frontini]]
-[[Michael Sinatra]]
+[[Michael Eberle Sinatra]]
 \\
 [[Nirmala Menon]]
 [[Menno van Zaanen]]

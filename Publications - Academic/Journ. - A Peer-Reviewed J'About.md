@@ -32,7 +32,7 @@ Reviewers :
 | [[Kristoffer Gansing]]           |     |
 | [[Leonardo Impett]]              |     |
 | [[Lone Koefoed Hansen]]          |     |
-| [[Magdalena Tyżlik-Carver]]          |     |
+| [[Magdalena Regina Tyżlik-Carver]]          |     |
 | [[Matthew Fuller]]               |     |
 | [[Mette-Marie Zacher Sørensen]]  |     |
 | [[Morten Suder Riis]]                  |     |
@@ -53,7 +53,7 @@ Reviewers :
 | [[Zach Blas]]                    |     |
 ## issue 2 - 2013
 [[Christian Ulrik Andersen]], [[Tatiana Bazzichelli]], [[Armin Beverungen]], [[Geoff Cox]], [[Kristoffer Gansing]]
-[[Magdalena Tyżlik-Carver]], [[Yara Guasque]], [[Matthias Tarasiewicz]], [[Renée Ridgway]], [[Florian Alexander Schmidt]], [[Francesco Macarone Palmieri]], [[Marcello Lussana]], [[Sheila Ribeiro]], [[Mikkel Bech-Hansen]], [[Helen V. Pritchard]], [[Gabriel Vanegas]], [[Siegried Zielinksi]]
+[[Magdalena Regina Tyżlik-Carver]], [[Yara Guasque]], [[Matthias Tarasiewicz]], [[Renée Ridgway]], [[Florian Alexander Schmidt]], [[Francesco Macarone Palmieri]], [[Marcello Lussana]], [[Sheila Ribeiro]], [[Mikkel Bech-Hansen]], [[Helen V. Pritchard]], [[Gabriel Vanegas]], [[Siegried Zielinksi]]
 
 ## issue 3 - 2014
 [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Georgios Papadopoulos]]
@@ -82,6 +82,6 @@ contributions by [[Camille Crichlow]], [[Teodora Sinziana Fartan]], [[Susanne F�
 ## issue 13 - 2024
 contributions by [[Manetta Berends]] & [[Simon Browne]], [[Denise Helene Sumi]], [[Kendal Beynon]], [[Bilyana Palankasova]], [[Edoardo Biscossi]], [[Luca Cacini]], [[Pierre Depaz]], [[Asker Bryld Staunæs]] & [[Maja Bak Herrie]], [[Marie Naja Lauritzen Dias]], [[Esther Rizo-Casado]], and [[Mateus Domingos]], edited by [[Christian Ulrik Andersen]] & [[Geoff Cox]].
 ## issue 14 - 2025
-contributions by [[Megan Phipps]], [[Nico Daleman]], [[Katya Sivers]], [[Christoffer Koch Andersen]], [[Daria Iuriichuk]], and [[Sami P. Itävuori]]. Editors of this journal issue are [[Magdalena Tyżlik-Carver]] and [[Pablo R. Velasco]]
+contributions by [[Megan Phipps]], [[Nico Daleman]], [[Katya Sivers]], [[Christoffer Koch Andersen]], [[Daria Iuriichuk]], and [[Sami P. Itävuori]]. Editors of this journal issue are [[Magdalena Regina Tyżlik-Carver]] and [[Pablo R. Velasco]]
 ## issue 15 - 2026
 

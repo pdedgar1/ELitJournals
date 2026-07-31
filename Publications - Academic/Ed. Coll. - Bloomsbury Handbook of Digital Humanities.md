@@ -119,7 +119,7 @@ Part 4 Institutional Contexts
 
 28 The Invisible Labor of DH Pedagogy 295
 
-[[Brian Croxall]] and [[Diane K. Jakacki]]
+[[Brian L. Croxall]] and [[Diane K. Jakacki]]
 
 29 Building Digital Humanities Centers 305
 
@@ -145,7 +145,7 @@ Part 5 DH Futures
 
 34 Datawork and the Future of Digital Humanities 361
 
-[[Rafael Alvarado]]
+[[Rafael C. Alvarado]]
 
 35 The Place of Computation in the Study of Culture 373
 

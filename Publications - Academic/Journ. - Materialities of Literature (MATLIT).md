@@ -68,7 +68,7 @@ Nair Renata Amâncio
 | [[Alice Girotto]]                                                   |
 | [[João Queiroz]], [[Ana Luiza Fernandes]]                           |
 | [[Manaíra Aires Athayde]]                                           |
-| [[Patrícia Reina]]                                                  |
+| [[Patrícia Esteves Reina]]                                                  |
 | [[Liliana Vasques]]                                                 |
 | [[Ricardo Namora]]                                                  |
 | [[Francisco Silveira]]                                              |
@@ -101,7 +101,7 @@ Nair Renata Amâncio
 | [[Svetlana Anatolevna Kuchina]]                                                                                                                                                                                                                                                                                                                        |
 | [[Ana Carolina dos Santos Marques]], [[Manuel Portela]]                                                                                                                                                                                                                                                                                                                    |
 | [[Diana Santos]], [[Daniel Alves]], [[Raquel Amaro]], [[Isabel Araújo Branco]], [[Olivia Fialho]], [[Cláudia Freitas]], [[Suemi Higuchi]], [[Marcia Langfeldt]], [[João Marques Lopes]], [[Alckmar Luís dos Santos]], [[Emanoel Pires]], [[Barbara Ramos]], [[Danielle Sanches]], [[Rebeca Schumacher Fuão]], [[Paulo Silva Pereira]], [[Paula Terra]] |
-| [[Patrícia Reina]]                                                                                                                                                                                                                                                                                                                                     |
+| [[Patrícia Esteves Reina]]                                                                                                                                                                                                                                                                                                                                     |
 | [[Ana Carolina dos Santos Marques]]                                                                                                                                                                                                                                                                                                                                        |
 | [[Rui Silva]]                                                                                                                                                                                                                                                                                                                                          |
 | [[Joana Rua]]                                                                                                                                                                                                                                                                                                                                          |
@@ -129,7 +129,7 @@ Nair Renata Amâncio
 | [[Pauline Bachmann]], [[Jasmin Wrobel]] |
 | [[Ana Sabino]]                          |
 | [[Rui Silva]]                           |
-| [[Patrícia Reina]]                      |
+| [[Patrícia Esteves Reina]]                      |
 | [[Bruno Ministro]]                      |
 | [[Tiago Santos]]                        |
 | [[Gisele Noll]]                         |

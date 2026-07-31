@@ -36,7 +36,7 @@ Colaboradores
 | [[Carlos Herrera]]                                           |
 | [[Carlos Prieto]]                                            |
 | [[Carlos Ramírez]]                                           |
-| [[Carlos Torres]]                                            |
+| [[Carlos Roberto Torres]]                                            |
 | [[Carole Chargueron]]                                        |
 | [[Carolina Lucio]]                                           |
 | [[Carolina Romano]]                                          |
@@ -88,7 +88,7 @@ Colaboradores
 | [[Milton Läufer]]                                            |
 | [[Mónica Medina]]                                            |
 | [[Mónica Nepote]]                                            |
-| [[Mónico Nepote]]                                            |
+| [[Mónica Nepote]]                                            |
 | [[Nadia Cortés]]                                             |
 | [[Néstor Jaimen]]                                            |
 | [[Omar Rivera]]                                              |
@@ -140,7 +140,7 @@ Colaboradores
 | [[Carlos Cociña]]                                            |
 | [[Carlos Labbé]]                                             |
 | [[Carlos Roberto Torres]]                                    |
-| [[Carlos Torres]]                                            |
+| [[Carlos Roberto Torres]]                                            |
 | [[Carmen Gil, Camilo Giraldo]]                               |
 | [[Carmen Muñoz]]                                             |
 | [[Carolina López Jiménez]]                                   |

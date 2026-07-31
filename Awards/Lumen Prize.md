@@ -85,7 +85,7 @@
 - Gold Award: [[Refik Anadol]]
 - Photomonitor Student Award: [[Cassie Suche]]
 - People's Choice Award: [[Stefan Gant]]
-- Rapoport Award for Women in Art & Tech: [[Alexandra Daisy Ginsberg]], [[Dr Christina Agapakis]]/[[Ginkgo Bioworks]] & [[Sissel Tolaas]]
+- Rapoport Award for Women in Art & Tech: [[Alexandra Daisy Ginsberg]], [[Christina Agapakis]]/[[Ginkgo Bioworks]] & [[Sissel Tolaas]]
 - XR Award: [[Kristina Buozyte]] & [[Vitalijus Zukas]]
 - 3D/Interactive Award: [[Maja Petric]]
 - BCS A.I. Award: [[Dave Murray-Rust]] & [[Rocio von Jungenfeld]]

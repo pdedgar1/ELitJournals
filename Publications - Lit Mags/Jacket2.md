@@ -20,7 +20,7 @@ Contributors
 |[[Xuela Zhang]]|
 
 Tech — [[Chris Martin]]
-Advisors  — [[Zach Carduner]] and [[Chris Mustazza]]
+Advisors — [[Zach Carduner]] and [[Chris Mustazza]]
 Ed assistants 
 [[Madeline Chun]], [[Wahid Sarwar]]
 [[Danny Snelson]]
@@ -74,7 +74,7 @@ Founder [[John Tranter]]
 | [[Brandy Nālani Mcdougall]]     |
 | [[Brian Ang]]                   |
 | [[Brian Kim Stefans]]           |
-| [[Brian Reed]]                  |
+| [[Brian M. Reed]]                  |
 | [[Brian Unger]]                 |
 | [[Bronwyn Preece]]              |
 | [[Bruce Holsapple]]             |
@@ -323,7 +323,7 @@ Founder [[John Tranter]]
 | [[Margaret Ronda]]              |
 | [[Maria Damon]]                 |
 | [[Maria Sledmere]]              |
-| [[Marit Macarthur]]             |
+| [[Marit J. MacArthur]]             |
 | [[Marjorie Perloff]]            |
 | [[Marjorie Welish]]             |
 | [[Mark Goldstein]]              |
@@ -353,7 +353,7 @@ Founder [[John Tranter]]
 | [[Michael Cross]]               |
 | [[Michael Farrell]]             |
 | [[Michael Heller]]              |
-| [[Michael Hennessey]]           |
+| [[Michael S. Hennessey]]           |
 | [[Michael Leong]]               |
 | [[Michele Leggott]]             |
 | [[Michele Minnick]]             |

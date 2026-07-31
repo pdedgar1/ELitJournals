@@ -96,7 +96,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Anouk Mols]]                       |
 | [[Antalya Kabani]]                   |
 | [[Anthony Dannar]]                   |
-| [[Anthony Dannar ]]                  |
+| [[Anthony Dannar]]                  |
 | [[Anthony McCosker]]                 |
 | [[Antoine Houssard]]                 |
 | [[Antoni Roig]]                      |
@@ -119,8 +119,8 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Astri Moksnes Barbala]]            |
 | [[Atara Frenkel]]                    |
 | [[Ausma Bernot]]                     |
-| [[Available access  ]]               |
-| [[Available accessEditorial  ]]      |
+| [[Available access]]               |
+| [[Available accessEditorial]]      |
 | [[Avishek Ray]]                      |
 | [[Aya Yadlin-Segal]]                 |
 | [[Ayelet Kohn]]                      |
@@ -142,7 +142,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Bo Kampmann Walther]]              |
 | [[Boel McAteer]]                     |
 | [[Bonnie 'Bo' Ruberg]]               |
-| [[Book review  ]]                    |
+| [[Book review]]                    |
 | [[Bouziane Zaid]]                    |
 | [[Boyi Huang]]                       |
 | [[Brana Jianu]]                      |
@@ -191,14 +191,14 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Charles H Davis]]                  |
 | [[Charu Maithani]]                   |
 | [[Cherry Baylosis]]                  |
-| [[Cheryll Ruth R Soriano]]           |
-| [[Cheryll Ruth Soriano]]             |
+| [[Cheryll Ruth R. Soriano]]           |
+| [[Cheryll Ruth R. Soriano]]             |
 | [[Chi Kwok]]                         |
 | [[Chris Bevan]]                      |
 | [[Chris Chesher]]                    |
 | [[Chris DeFelice]]                   |
 | [[Chris Peters]]                     |
-| [[Chris Pike ]]                      |
+| [[Chris Pike]]                      |
 | [[Chris Speed]]                      |
 | [[Christian Christensen]]            |
 | [[Christian Katzenbach]]             |
@@ -211,7 +211,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Christoph Klimmt]]                 |
 | [[Christoph Sommer]]                 |
 | [[Christopher Moore]]                |
-| [[Christopher Persaud]]              |
+| [[Christopher J. Persaud]]              |
 | [[Christothea Herodotou]]            |
 | [[Claes Thorén]]                     |
 | [[Claire Moran]]                     |
@@ -248,10 +248,10 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Daniel Angus]]                     |
 | [[Daniel Ashton]]                    |
 | [[Daniel Chávez Heras]]              |
-| [[Daniel Gardner]]                   |
+| [[Daniel L. Gardner]]                   |
 | [[Daniel Harley]]                    |
 | [[Daniel Johnson]]                   |
-| [[Daniel L Gardner]]                 |
+| [[Daniel L. Gardner]]                 |
 | [[Daniel Lark]]                      |
 | [[Daniel Muriel]]                    |
 | [[Daniel Read]]                      |
@@ -302,7 +302,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Eddy Borges-Rey]]                  |
 | [[Edgar Gómez-Cruz]]                 |
 | [[Edgar Simpson]]                    |
-| [[Editorial  ]]                      |
+| [[Editorial]]                      |
 | [[Ediz Ozelkan]]                     |
 | [[Edward Hurcombe]]                  |
 | [[Edward Summers]]                   |
@@ -378,7 +378,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Frans Mäyrä]]                      |
 | [[Frédérik Lesage]]                  |
 | [[Freja Sørine Adler Berg]]          |
-| [[FS Nakhaie ]]                      |
+| [[FS Nakhaie]]                      |
 | [[Gabriela Elisa Sued]]              |
 | [[Gabriele Siegert]]                 |
 | [[Gabriella Scaramuzzino]]           |
@@ -390,8 +390,8 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Ge Zhang]]                         |
 | [[Gemma San Cornelio]]               |
 | [[Gerald Sim]]                       |
-| [[Germaine Halegoua]]                |
-| [[Germaine R Halegoua]]              |
+| [[Germaine R. Halegoua]]                |
+| [[Germaine R. Halegoua]]              |
 | [[Gerret von Nordheim]]              |
 | [[Ghiyong Patrick Moon]]             |
 | [[Gina Junhan Fu]]                   |
@@ -526,7 +526,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[JieLan Xu]]                        |
 | [[Jill Walker Rettberg]]             |
 | [[Jin Kyun Lee]]                     |
-| [[Jin Lee]]                          |
+| [[Jin Kyun Lee]]                          |
 | [[Jin-A Choi]]                       |
 | [[Jing Zeng]]                        |
 | [[Jinghong Xu]]                      |
@@ -638,7 +638,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Lina Hyun]]                        |
 | [[Linda Ryan Bengtsson]]             |
 | [[Lindsey Steffen]]                  |
-| [[Line Nybro Petersen ]]             |
+| [[Line Nybro Petersen]]             |
 | [[Linn-Birgit Kristensen]]           |
 | [[Linus Andersson]]                  |
 | [[Lisa Bennett]]                     |
@@ -694,7 +694,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Marta Severo]]                     |
 | [[Martin Danielsson]]                |
 | [[Martin Fredriksson]]               |
-| [[Martin J Riedl]]                   |
+| [[Martin J. Riedl]]                   |
 | [[Martin Webb]]                      |
 | [[Martina Piña]]                     |
 | [[Martina Skrubbeltrang Mahnke]]     |
@@ -769,10 +769,10 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Nashwa Elyamany]]                  |
 | [[Natalia Grincheva]]                |
 | [[Natalia Kovalyova]]                |
-| [[Natalia Sánchez Querubín ]]        |
+| [[Natalia Sánchez Querubín]]        |
 | [[Natalie Jonckheere]]               |
 | [[Natalie Le Clue]]                  |
-| [[Natalie Le Clue ]]                 |
+| [[Natalie Le Clue]]                 |
 | [[Neha Gupta]]                       |
 | [[Neil Thurman]]                     |
 | [[Nelson Zagalo]]                    |
@@ -800,7 +800,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Orlando Woods]]                    |
 | [[Òscar Coromina]]                   |
 | [[Osnat Roth-Cohen]]                 |
-| [[Other  ]]                          |
+| [[Other]]                          |
 | [[Oxana Mikhaylova]]                 |
 | [[Pablo R. Velasco]]                  |
 | [[Pam Briggs]]                       |
@@ -856,8 +856,8 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Rebekah Willett]]                  |
 | [[Reinald Besalú]]                   |
 | [[Renan Petersen-Wagner]]            |
-| [[Restricted accessBook review  ]]   |
-| [[Restricted accessOther  ]]         |
+| [[Restricted accessBook review]]   |
+| [[Restricted accessOther]]         |
 | [[Rex Martin]]                       |
 | [[Rhiannon Bury]]                    |
 | [[Rhys Comissiong]]                  |
@@ -887,11 +887,11 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Saba Rebecca Brause]]              |
 | [[Sabina Lissitsa]]                  |
 | [[Sabine Niederer]]                  |
-| [[Sabine Niederer ]]                 |
+| [[Sabine Niederer]]                 |
 | [[Sabrina Chu]]                      |
 | [[Safak Dogan]]                      |
 | [[Saif Shahin]]                      |
-| [[Sal Hagen]]                        |
+| [[Sal Hendrik Hagen]]                        |
 | [[Sal Hendrik Hagen]]                |
 | [[Sal Humphreys]]                    |
 | [[Sam Hind]]                         |
@@ -936,7 +936,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Simon David Hirsbrunner]]          |
 | [[Simon Greipl]]                     |
 | [[Simon Peter Rowberry]]             |
-| [[Simon Rowberry]]                   |
+| [[Simon Peter Rowberry]]                   |
 | [[Simone Driessen]]                  |
 | [[Simone Murray]]                    |
 | [[Simone Natale]]                    |
@@ -956,7 +956,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Steffan Hooper]]                   |
 | [[Stephan O Görland]]                |
 | [[Stephanie Alice Baker]]            |
-| [[Stephanie Hill ]]                  |
+| [[Stephanie Hill]]                  |
 | [[Stephanie Moody]]                  |
 | [[Stephanie Nguyen]]                 |
 | [[Stephen J Neville]]                |
@@ -982,7 +982,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Thaiane M Oliveira]]               |
 | [[Theodoros Kouros]]                 |
 | [[Theopisti Stylianou-Lambert]]      |
-| [[Theresa J Tanenbaum]]              |
+| [[Theresa Jean Tanenbaum]]              |
 | [[Thomas Abrams]]                    |
 | [[Thomas AM Skelly]]                 |
 | [[Thomas Christian Bächle]]          |
@@ -1001,7 +1001,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Tobias Kauer]]                     |
 | [[Tobias Olsson]]                    |
 | [[Tobias Raun]]                      |
-| [[Tom Collins ]]                     |
+| [[Tom Collins]]                     |
 | [[Tom Robinson]]                     |
 | [[Tom Willaert]]                     |
 | [[Tore Rye Andersen]]                |

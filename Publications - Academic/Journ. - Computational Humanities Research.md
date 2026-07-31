@@ -30,7 +30,7 @@
 | [[Kaspar Beelen]]                                                         |
 | [[Jon Lawrence]]                                                          |
 | [[Katherine McDonough]]                                                   |
-| [[Daniel C.S. Wilson]]                                                    |
+| [[Daniel C. S. Wilson]]                                                    |
 | CHR Missing Data in the Humanities]]                                      |
 | [[Gideon Yoffe]]                                                          |
 | [[Yair Segev]]                                                            |

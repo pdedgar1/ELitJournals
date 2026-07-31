@@ -6,7 +6,7 @@
 | [[Aditi Kuila]]                   |
 | [[Agnieszka Przybyszewska]]       |
 | [[Agustin Rosa]]                  |
-| [[Alan Bigelow ]]                 |
+| [[Alan Bigelow]]                 |
 | [[Alex Mitchell]]                 |
 | [[Alex Saum-Pascual]]             |
 | [[Alexandra L. Martin]]              |
@@ -27,7 +27,7 @@
 | [[Arnaud Regnauld]]               |
 | [[Artemio Morales]]               |
 | [[Astrid Ensslin]]                |
-| [[Ava Aviva Avnisan ]]            |
+| [[Ava Aviva Avnisan]]            |
 | [[Benjamin Grosser]]                   |
 | [[Bill Bly]]                      |
 | [[Blair Johnson]]                 |
@@ -75,7 +75,7 @@
 | [[Halim Madi]]                    |
 | [[Haocheng Liu]]                  |
 | [[Haoran Chang]]                  |
-| [[Hendrick de Haan]]              |
+| [[Hendrick W. de Haan]]              |
 | [[Ian Hatcher]]                   |
 | [[Irene Fabbri]]                  |
 | [[Ivan Ceria]]                    |
@@ -87,7 +87,7 @@
 | [[Jenn Duyen Nguyen]]             |
 | [[Jeremy Andriano]]               |
 | [[Jessica Pressman]]              |
-| [[Jessica Rodriguez]]             |
+| [[Jessica A. Rodriguez]]             |
 | [[Joel Ong]]                      |
 | [[Joellyn Rock]]                  |
 | [[Joey King]]                     |
@@ -116,7 +116,7 @@
 | [[Ken Alba]]                      |
 | [[Kirill Azernyi]]                |
 | [[Kirsty Dunlop]]                 |
-| [[Kristine Kelly]]                |
+| [[Kristine N. Kelly]]                |
 | [[Kyle Booten]]                   |
 | [[Kyle Jordan]]                   |
 | [[Lai-Tze Fan]]                   |
@@ -130,7 +130,7 @@
 | [[Luka Kuplowsky]]                |
 | [[Lulu Liu]]                      |
 | [[Lyr Colin]]                     |
-| [[Mabe Fratti ]]                  |
+| [[Mabe Fratti]]                  |
 | [[Madeleine Campbell]]            |
 | [[Magdalena Olszanowski]]         |
 | [[Mallen Clifton]]                |
@@ -156,7 +156,7 @@
 | [[Nirmala Menon]]                 |
 | [[Oriana Confente]]               |
 | [[Ottar Ormstad]]                 |
-| [[P.D. Edgar]]                    |
+| [[P. D. Edgar]]                    |
 | [[Pat Badani]]                    |
 | [[Patrick Lichty]]                |
 | [[Paul Echeverria]]               |

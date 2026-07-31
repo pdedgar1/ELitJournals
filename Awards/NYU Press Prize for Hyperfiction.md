@@ -1,4 +1,4 @@
-1999 Winners [[Adnan Ashraf]] for "The STraight Path", [[Pratik Kanjilal]]  for "The Buddha Smiled"
+1999 Winners [[Adnan Ashraf]] for "The STraight Path", [[Pratik Kanjilal]] for "The Buddha Smiled"
 
 Other NYU Titles : 
 [[Rosemary Joyce]], [[Carolyn Guyer]] and [[Michael Joyce]]

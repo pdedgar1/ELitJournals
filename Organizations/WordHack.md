@@ -10,7 +10,7 @@
 - 2/17/22: [[Rob Wittig]], [[Zainab Aliyu]]
 - 1/20/22: [[V Buckenham]], [[Emily Saltz]]
 - 11/18/21: [[Nicole He]], [[Joannes Truyens]]
-- 10/21/21: [[Rena Mosteirin]], [[Andy Wallace]], [[Galen Macdonald]], 
+- 10/21/21: [[Rena J. Mosteirin]], [[Andy Wallace]], [[Galen Macdonald]], 
 - 8/19/21: [[Andy Simionato]], [[Karen Ann Donnachie]], [[Noa Chazan]], [[Sam Von Ehren]]
 - 7/15/21: [[Neta Bomani]], [[Natalie Braginsky]], [[Jamie Brew]], [[Samantha Gorman]], [[Joanne McNeil]], [[Fernando Ramallo]], [[Daniel Temkin]]
 - 6/17/21: [[Nat Mesnard]], [[Edith Viau]], [[Murilo Polese]]
@@ -34,7 +34,7 @@
 - 8/15/19: [[Nick Montfort]], [[Stephanie Strickland]], [[Ian Hatcher]]
 - 7/18/19: [[Todd Anderson]], [[Ivan Anderson]], [[Andrew Badr]], [[Ranjit Bhatnagar]], [[Jenny Goldstick]], [[Artemio Morales]], [[Allison Parrish]], [[Fernando Ramallo]], [[Tim Szetela]], [[Cara Warner]]
 - 6/20/19: [[Kashmir Hill]], [[Qianxun Chen]], [[Shayla Lawz]]
-- 5/16/19: [[Claire Donato]], [[Bomani Oseni McClendon]], [[Theodora Walsh]]
+- 5/16/19: [[Claire Donato]], [[Bomani Oseni McClendon]], [[Theadora Walsh]]
 - 4/18/19: [[Ivan Anderson]], [[Julian Jarboe]], [[Seth Alter]], [[Kara Bressler]]
 - 3/21/19: [[Jamie Brew]], [[Jenn Schiffer]], [[Katy Ilonka Gero]]
 - 2/21/19: [[Tega Brain]], [[Cynthia X. Hua]], [[Robert Yang]]
@@ -60,7 +60,7 @@
 - 3/16/17: [[Amelia Winger-Bearskin]], [[Vi Khi Nao]], [[David Bering-Porter]]
 - 2/16/17: [[Jhave]], [[Sarah Rothberg]], [[John Cayley]], [[Theadora Walsh]]
 - 1/19/17: [[Nicole He]], [[Angie Waller]], [[Ilana Harris-Babou]], 
-- 1/7/17: [[Lauren McCarthy]], [[Tim Schwartz]], [[Tender Claws]]
+- 1/7/17: [[Lauren Lee McCarthy]], [[Tim Schwartz]], [[Tender Claws]]
 - 12/15/16: [[Kelli Anderson]], [[Ryann Slauson]], [[Ricky Morales]], [[Todd Anderson]]
 - 11/17/16: [[Janus Kopstein]], [[Andrew Badr]], [[Cecilia D'Anastasio]]
 - 10/20/16: [[Abe Avnisan]], [[Vivian Charlesworth]], [[Edek Sher]], [[Nandi Loaf]]
@@ -73,7 +73,7 @@
 - 3/17/16: [[Christopher Clary]], [[Paul Legault]], [[Masha Tupitsyn]]
 - 2/18/16: [[Steve Lambert]], [[HUMANBEAST]], [[Kristin Hayter]], [[Cassie Tarakajian]]
 - 1/21/16: [[Sam Lavigne]], [[Stephanie Rothenberg]], [[Christian Hawkey]], [[Cat Tyc]]
-- 12/17/15: [[Daniel Kolitz]], [[Mimi Cabell]], [[Daniel Temkin]], [[Jeremy Bushnell]]
+- 12/17/15: [[Daniel Kolitz]], [[Mimi Cabell]], [[Daniel Temkin]], [[Jeremy P. Bushnell]]
 - 11/19/15: [[Jonathan Basile]], [[Jim Brown]], [[Michael Russo]], [[Flourish Klink]], [[Jason Huff]]
 - 10/15/15: [[Christopher T. Funkhouser]], [[Laura A. Warman]], [[Álvaro Seiça]], [[Amelia Winger-Bearskin]]
 - 9/17/15: [[Darren Angle]], [[Clara Fernandez-Vara]], [[Tim Szetela]]

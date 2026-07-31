@@ -29,7 +29,7 @@
 [[Kadie Newman]]  
 [[Tamsyn Challenger]]  
 [[Ellie Li]]  
-[[P.D. Edgar]]  
+[[P. D. Edgar]]  
 [[Pauline Webber]]  
 [[Colin Bramwell]]  
 [[Andrew Hykel Mears]] 

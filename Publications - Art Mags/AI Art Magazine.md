@@ -2,12 +2,12 @@ Editorial [[Christoph Grünberger]]
 [[Emi Kusano]]
 
 
-Interviews : [[Ana María Caballero]]  by [[Olena Yara]]
+Interviews : [[Ana María Caballero]] by [[Olena Yara]]
 [[Golan Levin]] awith [[Simone Brauner]]
 [[Lauren Lee McCarthy]] with [[Anika Meier]]
 [[Sasha Stiles]] with [[Merzmensch]]
 with [[Mike Brauner aka Grillandchill]]
-### issue 1  - Celebrating the Fusion
+### issue 1 - Celebrating the Fusion
 [[Wuh.ey]]
 [[Julien Bonet]]
 [[Marcos Ferreira]]
@@ -33,7 +33,7 @@ with [[Mike Brauner aka Grillandchill]]
 [[Vivien Schulze]]
 [[David Carson]]
 [[Xiaomi]]
-### issue 2  - Critical Intelligence
+### issue 2 - Critical Intelligence
 Articles 
 [[Christoph Grünberger]]
 [[Studio u2p050]]

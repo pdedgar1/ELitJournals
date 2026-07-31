@@ -1,7 +1,7 @@
 #anthology
 ### Edited by [[Zach Whalen]], [[Daniel Cox]], [[Alex Saum-Pascual]], [[Élika Ortega]]
 ### Production / Translation Team
-[[P.D. Edgar]]
+[[P. D. Edgar]]
 [[Leonardo Aranda Brito]]
 [[Andrew Campana]]
 [[Angela Chang]]

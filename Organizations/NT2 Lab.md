@@ -10,7 +10,7 @@
 
 **Adjoint·e·s de recherche :** [[Jean-Michel Berthiaume]], [[Benoit Bordeleau]], [[Renée Bourassa]], [[Simon Brousseau]], [[Daphné Beaudoin Pilon]], [[Marianne Cloutier]], [[Jasmin Cormier]], [[Raphaelle Cormier]], [[Laurie Cotton Pigeon]], [[Aline Crédeville]], [[Lucille Crémier]], [[Fanie Demeule]], [[Elaine Després]], [[Sandra Dubé]], [[Yohann-Mickaël Fiset]], [[Maxime Galand]]. [[Sandrine Galand]], [[Joël Gauthier]], [[Anaïs Guilet]], [[Sarah Grenier-Millette]], [[Stéphan Hyronde]], [[Bronja Hildgen]], [[Margarita Molina Fernández]], [[Patric Jolicoeur-Mondou]], [[Paule Mackrous]], [[Charles Marsolais-Ricard]], [[Ariane Mayer]], [[Mathieu Mundviller]], [[Amélie Paquet]], [[Chantal T. Paris]], [[Laurence Perron]], [[François David Prud'homme]], [[Alexandra Tremblay]], [[Gabriel Tremblay-Gaudette]], [[Patrick Tillard]], [[Lisa Tronca]], [[Yan St-Onge]]
 
-**Stagiaires :** [[Helena Van Praet]], [[Françoise Chambefort]], [[Allan Deneuville]], [[Ella Mingazova]], [[Emmanuelle Lescouet]], [[Gert-Jan Meyntjens]],[[ Claude Patricia Tardif]], [[Corentin Lahouste]], [[Gwendolyn Kergourlay]], [[Ariane Mayer]], [[Manon Picard]]
+**Stagiaires :** [[Helena Van Praet]], [[Françoise Chambefort]], [[Allan Deneuville]], [[Ella Mingazova]], [[Emmanuelle Lescouet]], [[Gert-Jan Meyntjens]],[[Claude Patricia Tardif]], [[Corentin Lahouste]], [[Gwendolyn Kergourlay]], [[Ariane Mayer]], [[Manon Picard]]
 
 **Chercheur·e·s :  
 **[[Bertrand Gervais]], directeur  

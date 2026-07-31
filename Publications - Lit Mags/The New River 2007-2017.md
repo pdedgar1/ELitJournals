@@ -62,7 +62,7 @@ Editors: [[Nora Salem]] and [[Freddy Fuentes]]
 
 ## SPRING 2015
 
-This issue includes work by [[Alan Bigelow]], [[Chris Joseph]], [[J. R. Carpenter]], [[J.P. Sipila]], [[Aaron Oldenburg]] & [[Jody Zellen]].
+This issue includes work by [[Alan Bigelow]], [[Chris Joseph]], [[J. R. Carpenter]], [[J. P. Sipila]], [[Aaron Oldenburg]] & [[Jody Zellen]].
 
 Editors: [[Arian Katsimbras]] and [[Emily Dhatt]]
 
@@ -92,7 +92,7 @@ Editors: Andy Hobin and Meaghan Russell
 
 ## SPRING 2012
 
-This issue includes work by [[Eric Lemay]], [[Christine Wilks]], [[F.J. Bergmann]], and [[Nanette Wylde]].
+This issue includes work by [[Eric Lemay]], [[Christine Wilks]], [[F. J. Bergmann]], and [[Nanette Wylde]].
 
 Editor: Khalilah Boone
 
@@ -106,7 +106,7 @@ Editors: Brianna P. Stout and Christopher Linforth
 
 This issue includes work by [[David Jhave Johnston]] , [[Irad Lee]], [[Jennifer L. Smith]], [[Jaka Železnikar]] and [[Jason Huff]].
 
-## FALL 2010—  [[Sean Conaway]] and [[Mark Derks]]
+## FALL 2010— [[Sean Conaway]] and [[Mark Derks]]
 
 This issue includes a digital interview of [[Jason Nelson]] and work by [[Alan Bigelow]], [[Megan Moriarty]], and [[Jason Nelson]].
 
@@ -114,7 +114,7 @@ This issue includes a digital interview of [[Jason Nelson]] and work by [[Alan B
 
 This issue includes work by [[Serge Bouchardon]], a collaboration between [[Martyn Bedford]] and [[Andy Campbell]], [[Andy Campbell]] running solo, and [[Jason Nelson]].
 
-## FALL 2009—  Editors: [[Josette Torres]] and [[Amy Vance]]
+## FALL 2009— Editors: [[Josette Torres]] and [[Amy Vance]]
 
 This issue includes work by [[Salvador Barajas]], [[Roxanne Carter]], [[Susan M. Gibb]], [[A. J. Patrick Liszkiewicz]], [[Megan Moriarty]], and [[Jason Nelson]].
 

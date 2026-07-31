@@ -23,6 +23,6 @@ proto-hypertext
 [[Shelley Jackson]]
 [[Marc Saporta]]
 [[inkle]]
-[[Steve Jackson]]
+[[Steven J. Jackson]]
 [[Aaron A. Reed]]
 [[Dan Waber]]

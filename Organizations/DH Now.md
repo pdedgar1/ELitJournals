@@ -117,7 +117,7 @@ Advisory Board
 | [[Ann M. Hanlon]]                      |
 | [[Anna Ivanov]]                     |
 | [[Anna Jenkin]]                     |
-| [[Anna Kijas]]                      |
+| [[Anna E. Kijas]]                      |
 | [[Anne Klammt]]                     |
 | [[Anne Ladyem McDivitt]]            |
 | [[Anne B. McGrail]]                    |
@@ -148,7 +148,7 @@ Advisory Board
 | [[Blyth McManus]]                   |
 | [[Bobby L. Smiley]]                    |
 | [[Brandon Walsh]]                   |
-| [[Brian Croxall]]                   |
+| [[Brian L. Croxall]]                   |
 | [[Brian Hamilton]]                  |
 | [[Brian Ganter]]                    |
 | [[Brian Refford]]                   |
@@ -363,7 +363,7 @@ Advisory Board
 | [[Jonathan Roberts]]                |
 | [[Jordan Bratt]]                    |
 | [[Jose Sala]]                       |
-| [[Josh Catalano]]                   |
+| [[Joshua Catalano]]                   |
 | [[Josh Herron]]                     |
 | [[Josh Honn]]                       |
 | [[Joshua Catalano]]                 |
@@ -460,7 +460,7 @@ Advisory Board
 | [[Marion Walton]]                   |
 | [[Marisha Caswell]]                 |
 | [[Marissa Fugate]]                  |
-| [[Marit MacArthur]]                 |
+| [[Marit J. MacArthur]]                 |
 | [[Mark Wartenberg]]                 |
 | [[Marilyn Reidy]]                   |
 | [[Martha Rust]]                     |
@@ -555,7 +555,7 @@ Advisory Board
 | [[Rhae Lynn Barnes]]                |
 | [[Ricardo M. Pimenta]]              |
 | [[Rikk Mulligan]]                   |
-| [[R.J. Lambert]]                    |
+| [[R. J. Lambert]]                    |
 | [[Robin Crigler]]                   |
 | [[Robyn Le Blanc]]                  |
 | [[Robert McDonald]]                 |

@@ -26,7 +26,7 @@ Advisory editors
 |[[Alan Sondheim]]|
 |[[Darren Tofts]]|
 |[[James Yékú]]|
-|[[Sherman Young ]]|
+|[[Sherman Young]]|
 ### 14 - end of Elit - summer 2016 [[Roderick Coover]] and [[Scott Rettberg]]
 [[Kathi Inman Berens]]
 [[Davin Heckman]]
@@ -88,7 +88,7 @@ Advisory editors
 [[JeongHyun Lee]]
 [[Markus Wust]]
 [[James J. Brown, Jr.]]
-[[Sarah Evans]]
+[[Sarah Beth Evans]]
 [[Sarah Stang]]
 
 
@@ -103,7 +103,7 @@ Advisory editors
 [[Shane Denson]]
 [[Jim Andrews]]
 [[Jon Inscoe]]
-###  20 - Other Codes - [[Anne Karhio]] and [[Álvaro Seiça]]
+### 20 - Other Codes - [[Anne Karhio]] and [[Álvaro Seiça]]
 [[Jessica Pressman]]
 [[Julian Hanna]]
 [[Sam Cutting]]
@@ -157,7 +157,7 @@ Advisory editors
 [[Matt Applegate]]
 [[Claire Sewell]] and [[Spencer D. C. Keralis]]
 
-###  22 - Fall 2020
+### 22 - Fall 2020
 [[Evelyn Char]]
 [[Will Luers]]
 [[Joshua Jackson]]
@@ -219,7 +219,7 @@ Advisory editors
 [[Nicholas Fazio]]
 [[Bill Shewbridge]]
 [[Jackson Tucker]]
-### 27 - Blanket Forts & Assemblages  - Fall 24 - [[Daniel Lichtman]], [[Catalina Jordan Alvarez]], [[Sue Huang]], [[Lee Tusman]]
+### 27 - Blanket Forts & Assemblages - Fall 24 - [[Daniel Lichtman]], [[Catalina Jordan Alvarez]], [[Sue Huang]], [[Lee Tusman]]
 [[Abby Grobbel]]
 [[Ash Eliza Smith]], [[Sam Bendix]], [[Daniel Lichtman]]
 [[Bahareh Khoshooee]]

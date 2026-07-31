@@ -10,7 +10,7 @@ Proceedings introduction
 [[Gayathri T]] & [[Merin Simi Raj]]
 [[Judy Malloy]]
 
-### Panels and workshops  and Performances
+### Panels and workshops and Performances
 
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ Proceedings introduction
 | [[Warren Lehrer]], [[Artemio Morales]], [[Judith Sloan]]                        |
 | [[Margot Machado Knuth]]                                                        |
 | [[Alys M. Longley]], [[Kate Stevenson]], & [[Jeffrey Holdaway]]                 |
-| [[P.D. Edgar]]                                                                  |
+| [[P. D. Edgar]]                                                                  |
 | [[Rob Wittig]]                                                                  |
 | [[Hannah Ackermans]]                                                            |
 | [[Joseph Tabbi]]                                                                |
@@ -72,14 +72,14 @@ Proceedings introduction
 | [[Sebastian R. Richter]]                                                        |
 | [[Astrid Ensslin]]                                                              |
 | [[Fiona S. Schönberg]]                                                          |
-| [[Kübra Aksay]]                                                                |
+| [[Kübra Aksay]]                                                                |
 | [[Miriam Scuderi]]                                                              |
 | [[Erika Maribel Heredia]]                                                       |
 | [[María Julia Cabail]]                                                          |
 | [[María Carolina Páez Gutierrez]]                                               |
 | [[Silverio Penoth]]                                                             |
 | [[Oscar López]]                                                                 |
-| [[P.D. Edgar]]                                                                  |
+| [[P. D. Edgar]]                                                                  |
 | [[Erik Loyer]]                                                                  |
 | [[Kavi Duvvoori]]                                                               |
 | [[Sarah Bricke]]                                                                |
@@ -168,7 +168,7 @@ Proceedings introduction
 | [[Jolene L. Armstrong]], [[Siobhan O'Flynn]], [[Monique Tschofen]], [[Kari Maaren]]                          |
 | [[Kirill Azernyi]]                                                                                        |
 | [[Laura Santos]], [[Mara Dionisio]], [[Terhi Marttila]], [[Pedro Campos]]                                 |
-| [[Matthew Campbell]] PhD, [[Jeff Morris]] D.Mus                                                           |
+| [[Matthew Campbell]] PhD, [[Jeff Morris]] D. Mus                                                           |
 | [[Maureen Engel]], [[Caitlin Fisher]]                                                                     |
 | [[Piotr Małecki]], [[Jan K. Argasiński]]                                                                  |
 | [[Sarah Whitcomb Laiola]], [[Richard Snyder]]                                                             |

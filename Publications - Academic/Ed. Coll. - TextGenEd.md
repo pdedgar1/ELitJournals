@@ -54,16 +54,16 @@ AI Literacy — [[Anna Mills]], [[Kayode Victor Amusan]], [[Maureen Gallagher]]
 Creative Explorations — [[Addison Eldin]], [[Daniel Hutchinson]], [[Erin Jensen]], [[Marc Watkins]]
 Ethics — [[Jeremy Proulx]]
 Professional Writing — [[Analeigh E. Horton]], [[Sara Large]]
-Prompt Engineering —  [[Bryan Kopp]], [[Christopher McCracken]], [[Lindsay Steiner]],[[Louise Zamparutti]], [[Josh Anthony]], [[Emily Dux Speltz]], [[Abram Anders]], [[Brian Gogan]], [[Anuj Gupta]]
+Prompt Engineering — [[Bryan Kopp]], [[Christopher McCracken]], [[Lindsay Steiner]],[[Louise Zamparutti]], [[Josh Anthony]], [[Emily Dux Speltz]], [[Abram Anders]], [[Brian Gogan]], [[Anuj Gupta]]
 Rhetorical —[[John Gordon]], [[Emily Gillo]]
 
 ### Aug 2025
 AI Literacy — [[Ella Howard]], [[Kirkwood Adams]] and [[Maria Baker]], [[Andrew Ridgeway]], [[Ronald Cole]], [[Lauren Maher]], [[Rich Rice]]
 Creative Explorations — [[J. Drew Stephen]], [[Nikki Christensen]], [[Ruth Li]]
 Ethics — [[Kate Navickas]] [[Laura Davies]], [[Calvin Pollak]], [[Morgan Banville]], [[Liping Yang]], [[Michael Harker]]
-Professional Writing —  [[Wei Xu]], [[Jessica McCaughey]], [[Traci Gardner]], [[Jainab Tabassum Banu]]
-Prompt Engineering —  [[Jeanne Beatrix Law]]. ,[[Gabriel Morrison]], [[Jerry Spring]]
-Rhetorical —  [[Morgan Harms-Abasolo]], [[Shakil Rabbi]], [[Caroline J. Smith]], [[Talla Enaya]], [[Christopher Eaton]], [[Kirsti Cole]], [[Biven Alexander]], [[Wil Carr]], [[Brody McCurdy]], [[Bethany Van Scooter]]
+Professional Writing — [[Wei Xu]], [[Jessica McCaughey]], [[Traci Gardner]], [[Jainab Tabassum Banu]]
+Prompt Engineering — [[Jeanne Beatrix Law]]. ,[[Gabriel Morrison]], [[Jerry Spring]]
+Rhetorical — [[Morgan Harms-Abasolo]], [[Shakil Rabbi]], [[Caroline J. Smith]], [[Talla Enaya]], [[Christopher Eaton]], [[Kirsti Cole]], [[Biven Alexander]], [[Wil Carr]], [[Brody McCurdy]], [[Bethany Van Scooter]]
 
 
 (Categories)

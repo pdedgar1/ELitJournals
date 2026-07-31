@@ -33,4 +33,4 @@ Jurors
 
 [[Dene Grigar]]
 [[Ann M. Hanlon]]
-[[Matt Russell]]
+[[Matthew Russell]]

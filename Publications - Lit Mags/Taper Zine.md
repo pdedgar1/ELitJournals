@@ -17,7 +17,7 @@
 [[Kavi Duvvoori]]
 [[Esen Espinsa]]
 [[Leonardo Flores]]
-[[Judy Heflin]]
+[[Judy Ann Heflin]]
 [[Chris Joseph]]
 [[Augusto Vinicius Marquet]]
 [[Stuart Moulthrop]]
@@ -33,7 +33,7 @@
 [[Ross Goodwin]]
 [[Will Luers]]
 [[Zach Whalen]]
-[[Logan Young]]
+[[Logan K. Young]]
 
 ## #4
 [[Sofian Audry]]

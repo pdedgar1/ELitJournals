@@ -92,7 +92,7 @@ pieces
 [[Taylor Paydos]]
 [[Firuza Huseynova]]
 [[Caitlin van Bommel]]
-[[Jonathan Gray]]
+[[Jonathan W. Y. Gray]]
 [[Adam Baker]]
 [[Roopa Vasudevan]]
 [[August Kaasa Sundgaard]]

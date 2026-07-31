@@ -42,7 +42,7 @@ Winner: LACLI – Latin American, Caribbean, Latinx, and Iberian Free Online Res
 2nd Runner Up: Polyglot Asian Medicine – 
 
 Winner: Digital History Lab – 
-1st Runners Up (joint):  A DIY Guide to Teaching DH in the Humanities – Special Issues of Reviews in Digital Humanities from the Global DH Symposium – and 
+1st Runners Up (joint): A DIY Guide to Teaching DH in the Humanities – Special Issues of Reviews in Digital Humanities from the Global DH Symposium – and 
 2nd Runner Up: Reverse Engineering the Gendered Design of Amazon's Alexa: Methods in Testing Closed-Source Code in Grey and Black Box Systems – 
 
 Winner: NormaTEI – 
@@ -84,7 +84,7 @@ Winner: The Programming Historian –
 
 Winner: Hidden Cities Apps – 
 1st Runner Up: Ötzit! – 
-2nd Runner Up: What is Digital ​Humanities? The Album – 
+2nd Runner Up: What is Digital Humanities? The Album – 
 
 2021
 
@@ -211,7 +211,7 @@ Winner: NumET
 
 Winner: Cancionero Escolar  
 1st Runner Up: Visual Haggard  
-2nd Runner Up:  PostcardTree  
+2nd Runner Up: PostcardTree  
 
 Winner: Mapping Islamophobia: Visualizing Islamophobia and Its Effects  
 1st Runner Up: The Shape of History  
@@ -222,11 +222,11 @@ Winner: Imágenes y Relatos de un Viaje Por Colombia
 2nd Runner Up: Archive Alert  
 
 Winner: Checklist for Digital Humanities Projects  
-1st Runner Up:  The Digital Image Archive of Medieval Music  
+1st Runner Up: The Digital Image Archive of Medieval Music  
 2nd Runner Up: Edition Visualization Technology  
 
-Winner:  The Programming Historian en español  
-1st Runner Up:  The Public Medievalist Special Series: Race, Racism and the Middle Ages  
+Winner: The Programming Historian en español  
+1st Runner Up: The Public Medievalist Special Series: Race, Racism and the Middle Ages  
 2nd Runner Up: Colonial and Postcolonial Digital Humanities Roundtable  
   
 
@@ -261,7 +261,7 @@ Winner: Mapping Metaphor with the Historical Thesaurus: Metaphor Map of English*
 1st Runner Up:** Centre for Australian Art: Australian Prints + Printmaking**
 2nd Runner Up:** [[Martin Grandjean]]: Network visualization: mapping Shakespeare's tragedies
 
-Winner:  Alchimia di Jackson Pollock / Jackson Pollock: Alchemy in 3D**
+Winner: Alchimia di Jackson Pollock / Jackson Pollock: Alchemy in 3D**
 1st Runner Up:** Digital Codex Mendoza**
 2nd Runner Up:** ArtyHum Revista Digital de Artes y Humanidades**
 
@@ -271,7 +271,7 @@ Winner:** DanteSources**
 
 Winner:** AWOL: The Ancient World Online Blog**
 1st Runner Up:** [[Sarah E. Bond]]: Late Antiquity, Digital Humanities, and Musings on the Classical World**
-2nd Runner Up:**  [[Martin Grandjean]]: [Network analysis] Digital Humanities on Twitter, a small-world?
+2nd Runner Up:** [[Martin Grandjean]]: [Network analysis] Digital Humanities on Twitter, a small-world?
 
 ## 2014
 
@@ -319,7 +319,7 @@ First Runner Up: Augmented Notes
 Second Runner Up: UNC Digital Innovation Lab's DH Press
 
 Winner: "'Psychopower' of Cultural Diplomacy in the Information Age" by [[Natalia Grincheva]]
-First Runner Up: "Digital Literary Pedagogy: An Experiment in Process-Oriented Pedagogy" by [[Roger Whitson]], [[Kimon Keramidas]], and [[Amanda Licastro]]
+First Runner Up: "Digital Literary Pedagogy: An Experiment in Process-Oriented Pedagogy" by [[Roger Todd Whitson]], [[Kimon Keramidas]], and [[Amanda Licastro]]
 Second Runner Up: "The Digital Humanities Is about Breaking Stuff" by [[Jesse Stommel]]
 
 Winner: Our Marathon: The Boston Bombing Digital Archive

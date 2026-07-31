@@ -29,7 +29,7 @@ Mandelbrot.fr (private reading device)	[[Alexandra Saemmer]], [[Bruno Scoccimarr
 Morpheus: Biblionaut	[[William Gillespie]], [[Travis Alber]]
 My Summer Vacation	[[Alan Bigelow]]
 nextgame	[[Friedrich W. Block]]
-Nine Gestures for J.D. Salinger	[[Mikhail Mansion]]
+Nine Gestures for J. D. Salinger	[[Mikhail Mansion]]
 One or More Disfigurements in the Home	[[Benny Lichtner]]
 Passage Sets	[[Bill Seaman]]
 RC_AI	[[Judd Morrissey]]

@@ -62,7 +62,7 @@
 [[Rodrigo Toscano]]
 [[Kevin Kopelson]]
 [[Michelle Disler]]
-[[Jonathan Stalling]]
+[[Jonathan C. Stalling]]
 [[Matthew Cooperman]]
 [[Steve Katz]]
 [[Oliver Rohe]]
@@ -78,7 +78,7 @@
 [[René Char]], trans. [[Gustaf Sobin]]
 [[Gustaf Sobin]]
 [[Carol Snow]]
-[[Nicolas Pesques ]]
+[[Nicolas Pesques]]
 [[Heimito von Doderer]]
 [[Reginald Shepherd]] ed. of Lyric Postmodernism
 [[Anthony Hawley]]

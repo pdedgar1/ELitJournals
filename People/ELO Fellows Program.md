@@ -19,7 +19,7 @@
 - [[Meredith Dabek]]
 - [[Malthe Stavning Erslev]]
 - [[Roberta Iadevaia]]
-- [[Keith Wilson]]
+- [[Keith S. Wilson]]
 - [[Sean Braune]]
 
 
@@ -30,5 +30,5 @@
 - [[Meredith Dabek]]
 - [[Malthe Stavning Erslev]]
 - [[Roberta Iadevaia]]
-- [[Keith Wilson]]
+- [[Keith S. Wilson]]
 - [[Sean Braune]]

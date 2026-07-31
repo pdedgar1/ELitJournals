@@ -9,7 +9,7 @@ Unviersity Minnesota Press
 | [[Grant Wythoff]]                                                                                      |
 | [[Jussi Parikka]]                                                                                      |
 | [[N. Katherine Hayles]] and [[Jessica Pressman]]                                                       |
-| [[ Victoria Vesna]]                                                                                    |
+| [[Victoria Vesna]]                                                                                    |
 
 | Authors                                                     |
 | ----------------------------------------------------------- |

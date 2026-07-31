@@ -5,7 +5,7 @@
 [[Kimberly Lyle]]
 [[Chelsea Thompto]]
 [[Nassem Navab]]
-[[Costanza Salazar]]
+[[Constanza Salazar]]
 [[René Cepeda]]
 
 [[Rob Ray]]

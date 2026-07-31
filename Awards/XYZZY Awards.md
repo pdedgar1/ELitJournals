@@ -112,7 +112,7 @@
 - 2019: [[Grim Baccaris]]
 - 2020: [[Kreg Segall]]
 - 2021: [[Chin Kee Yong]]
-- 2022: [[Eliot M.B. Howard]]
+- 2022: [[Eliot M. B. Howard]]
 
 #### Best Puzzles
 - 1996: [[Andrew Plotkin]]
@@ -134,7 +134,7 @@
 - 2012: [[Emily Short]]
 - 2013: [[Lynnea Glasser]]
 - 2014: [[Andrew Plotkin]]
-- 2015: [[Joey Jones]] and [[Melvin Rangasamy]]
+- 2015: [[Joey Donald Jones]] and [[Melvin Rangasamy]]
 - 2016: [[Abigail Corfman]]
 - 2017: [[Arthur DiBianca]]
 - 2018: [[Mike Spivey]]
@@ -300,7 +300,7 @@
 - 2018: [[Serhii Mozhaiskyi]]
 - 2019: [[Nick Walton]]
 - 2020: [[Linus Åkesson]]
-- 2021: [[Agnieszka Trzaska]]; [[J. J. Guest]], [[G.C. Baccaris]], and [[Duncan Bowsman]]; [[Milo van Mesdag]] (tie)
+- 2021: [[Agnieszka Trzaska]]; [[J. J. Guest]], [[G. C. Baccaris]], and [[Duncan Bowsman]]; [[Milo van Mesdag]] (tie)
 - 2022: [[Agnieszka Trzaska]]
 
 #### Best Technological Development

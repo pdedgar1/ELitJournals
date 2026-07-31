@@ -15,7 +15,7 @@
 |[[Steve Brown]]|
 |[[Ulla Bunz]]|
 |[[Denise Burch]]|
-|[[Maureen  Burgess]]|
+|[[Maureen Burgess]]|
 |[[Sheryl Burgstahler]]|
 |[[Steve Cameron]]|
 |[[Nick Carbone]]|
@@ -41,13 +41,13 @@
 |[[Robley Curtice]]|
 |[[James Dalziel]]|
 |[[John December]]|
-|[[John  December]]|
+|[[John December]]|
 |[[John December]]|
 |[[Amelia DeLoach]]|
 |[[Vanessa DiMauro]]|
 |[[Andrew P Dinsdale]]|
 |[[Stephen Doheny-Farina]]|
-|[[Stephen  Doheny-Farina]]|
+|[[Stephen Doheny-Farina]]|
 |[[Mick Doherty]]|
 |[[Michael E Doherty]]|
 |[[Greg Dropkin]]|
@@ -68,7 +68,7 @@
 |[[Tove Forgo]]|
 |[[Susan Fox]]|
 |[[H Fuller]]|
-|[[Gary Gach]]|
+|[[Gary G. Gach]]|
 |[[Flora J Garcia]]|
 |[[John Gardner]]|
 |[[Karin Geiselhart]]|
@@ -78,13 +78,13 @@
 |[[David G Green]]|
 |[[Michael Grosso]]|
 |[[Jonathan Grudin]]|
-|[[Laura J Gurak]]|
-|[[Laura Gurak]]|
+|[[Laura J. Gurak]]|
+|[[Laura J. Gurak]]|
 |[[Bruce Hahne]]|
 |[[S Halloran]]|
 |[[Chris Hand]]|
 |[[Christopher Harper]]|
-|[[Christopher  Harper]]|
+|[[Christopher Harper]]|
 |[[Bill Hart-Davidson]]|
 |[[Michael Hauben]]|
 |[[Ronda Hauben]]|
@@ -102,26 +102,26 @@
 |[[Bill Hulley]]|
 |[[Kevin Hunt]]|
 |[[Kevin Hunt]]|
-|[[Kevin  Hunt]]|
+|[[Kevin Hunt]]|
 |[[Peter Jerram]]|
-|[[Steve Jones]]|
+|[[Steven E. Jones]]|
 |[[Anthony J Judge]]|
-|[[Nancy  Kaplan]]|
+|[[Nancy Kaplan]]|
 |[[Rob Kling]]|
-|[[Rob  Kling]]|
+|[[Rob Kling]]|
 |[[Van W Kloempken]]|
 |[[Erna Koch]]|
 |[[J Kosokoff]]|
 |[[Steve Krause]]|
 |[[Mark Kraynak]]|
 |[[Christopher Kresser]]|
-|[[Kelly  L]]|
+|[[Kelly L]]|
 |[[Daniel LaLiberte]]|
 |[[Don Langham]]|
 |[[Chris Lapham]]|
 |[[Christine Lapham]]|
 |[[Chris Lapham]]|
-|[[Christine  Lapham]]|
+|[[Christine Lapham]]|
 |[[Angela E Lauria]]|
 |[[Jon Lebkowsky]]|
 |[[Susan G Lesch]]|
@@ -142,11 +142,11 @@
 |[[Sue Mings]]|
 |[[Steve Mizrach]]|
 |[[John Monberg]]|
-|[[John  Monberg]]|
+|[[John Monberg]]|
 |[[Gale Moore]]|
 |[[Barrett Mosbacker]]|
 |[[Arthur R Murphy]]|
-|[[John  Murray]]|
+|[[John T. Murray]]|
 |[[Peter J Murray]]|
 |[[Ted Nellen]]|
 |[[Gina O'Connor]]|
@@ -155,13 +155,13 @@
 |[[Leysia Palen]]|
 |[[Wendy Pepping]]|
 |[[Mark Pesce]]|
-|[[Mihkel  Pilv]]|
+|[[Mihkel Pilv]]|
 |[[David Porush]]|
 |[[Rakhi Rajani]]|
 |[[Jon Franklin Ramsoomair]]|
 |[[John Ratliff]]|
 |[[Arden Rauch]]|
-|[[Leslie Regan Shade]]|
+|[[Leslie Regan-Shade]]|
 |[[Leslie Regan-Shade]]|
 |[[Elizabeth Reid]]|
 |[[Arlene Remz]]|
@@ -178,7 +178,7 @@
 |[[Lisa Schlegel]]|
 |[[Lisa Schmeiser]]|
 |[[Lisa Schmesier]]|
-|[[Leslie Regan Shade]]|
+|[[Leslie Regan-Shade]]|
 |[[Camille Shandor]]|
 |[[David Shenk]]|
 |[[Michael Shumate]]|
@@ -201,14 +201,14 @@
 |[[Néstor G Trillo]]|
 |[[Carlos Velasco]]|
 |[[Dirk vom Lehn]]|
-|[[Janice R Walker]]|
-|[[Janice Walker]]|
+|[[Janice R. Walker]]|
+|[[Janice R. Walker]]|
 |[[Stephen Ward]]|
 |[[Frank Weinreich]]|
 |[[Mark Weiser]]|
 |[[Christian Weisser]]|
-|[[David R Woolley]]|
-|[[David Woolley]]|
+|[[David R. Woolley]]|
+|[[David R. Woolley]]|
 |[[Bob Wyman]]|
 |[[Daniel Zalik]]|
 |[[Judith Zorfass]]|

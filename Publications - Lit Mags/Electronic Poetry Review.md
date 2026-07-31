@@ -39,7 +39,7 @@ Editorial Assistants [[Brooks Gervais]] and [[Melissa Poulsen]]
 |[[John Casteen]]|
 |[[Maxine Chernoff]]|
 |[[Killarney Clary]]|
-|[[Joshua Clover ]]|
+|[[Joshua Clover]]|
 |[[Michael Collier]]|
 |[[Nadia Herman Colburn]]|
 |[[Gillian Conoley]]|

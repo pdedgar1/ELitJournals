@@ -85,7 +85,7 @@
 | [[imogen xtian smith]]                                                    |
 | [[Isabel Boutiette]]                                                      |
 | [[J. Gordon Faylor]]                                                      |
-| [[J.J. Mull]]                                                             |
+| [[J. J. Mull]]                                                             |
 | [[Jack Bachmann]]                                                         |
 | [[Jack Felice]]                                                           |
 | [[Jack Jung]]                                                             |
@@ -159,7 +159,7 @@
 | [[Michael McKee Green]]                                                   |
 | [[Mike Corrao]]                                                           |
 | [[Mike Lala]]                                                             |
-| [[Miriam W Karraker]]                                                     |
+| [[Miriam W. Karraker]]                                                     |
 | [[MK Brake]]                                                              |
 | [[Molly Schaeffer]]                                                       |
 | [[Moss Angel Witchmonstr]]                                                |
@@ -181,7 +181,7 @@
 | [[Phillip Spotswood]]                                                     |
 | [[PJ Lombardo]]                                                           |
 | [[Porpentine Charity Heartscape]]                                         |
-| [[Prairie M. Faul]] & [[Miriam Karraker]]                                 |
+| [[Prairie M. Faul]] & [[Miriam W. Karraker]]                                 |
 | [[Rabiu Temidayo]]                                                        |
 | [[Rami Karim]]                                                            |
 | [[Raphael Schnee]]                                                        |

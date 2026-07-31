@@ -131,7 +131,7 @@ Philosophy – and Beyond
 
 Education beyond the (e)book
 
-[[Mark Amerika]], [[Laura Kim]], [[Janneke Adema]], [[Gary Hall]] and [[Will Luers]]
+[[Mark Amerika]], [[Laura Hyunjhee Kim]], [[Janneke Adema]], [[Gary Hall]] and [[Will Luers]]
 
 Experimental Post-Publishing and
 
@@ -433,7 +433,7 @@ Pedagogical and Research Proposal
 
 -
 
-[[Kristine Kelly]]:
+[[Kristine N. Kelly]]:
 
 Unintentional intimacies on the video call:
 
@@ -453,7 +453,7 @@ Elm Story
 
 -
 
-[[Lillian-Yvonne Bertram]] and [[Keith Wilson]]
+[[Lillian-Yvonne Bertram]] and [[Keith S. Wilson]]
 
 E-Poetry Readings
 
@@ -907,7 +907,7 @@ Digital Heterotopies
 
 [[Bertrand Gervais]], [[Alexandra L. Martin]]
 
-and [[Yohann-Michaël Fiset]]
+and [[Yohann-Mickaël Fiset]]
 
 Building a Digital Ecosystem Dedicated to
 
@@ -955,7 +955,7 @@ concrete poem (LT)
 
 -
 
-[[Jennifer J Dellner]]
+[[Jennifer J. Dellner]]
 
 How to Rob a Bank with These Waves of
 
@@ -1003,7 +1003,7 @@ Literature
 
 -
 
-[[Rosamond King]]
+[[Rosamond S. King]]
 
 Everything Old Is New Again: Black
 

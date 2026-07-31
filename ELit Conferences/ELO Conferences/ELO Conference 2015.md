@@ -65,7 +65,7 @@ xiii
 
 [[Penny Florence]] (Slade School of Fine Art, University College London, UK) and [[Paolo Totaro]] (Independent, Australia) 160 [[Stuart Moulthrop]] (University of Wisconsin-Milwaukee, USA) 162 [[Jason Edward Lewis]] (Obx Labs / Concordia University, Canada) 164 [[Jörg Piringer]] (Independent, Austria) 165 [[Leonardo Flores]] (University of Puerto Rico, Mayaguez, Puerto Rico) and [[Mark L. Sample]] (Davidson College, USA) 166 [[Kristian Pedersen]] and [[Audun Lindholm]] (Gasspedal Animert, Norway) 166 
 
-[[Samantha Gorman]] (USC, Tender Claws, USA) and [[Danny Cannizzaro]] (Tender Claws, USA) 167 [[David Jhave Johnston]] (City University of Hong Kong, Hong Kong) 168 [[Judy Malloy ]](Princeton University, USA) 169 [[Dene Grigar]] and [[Greg Philbrook]] (Washington State University Vancouver, USA) 170 [[John Cayley]] (Brown University, USA) 171 [[Zenon Fajfer]] (independent poet; Ha!art Foundation, Poland) and [[Katarzyna Bazarnik]] (Jagiellonian University; Ha!art Foundation, Poland) 171 
+[[Samantha Gorman]] (USC, Tender Claws, USA) and [[Danny Cannizzaro]] (Tender Claws, USA) 167 [[David Jhave Johnston]] (City University of Hong Kong, Hong Kong) 168 [[Judy Malloy]](Princeton University, USA) 169 [[Dene Grigar]] and [[Greg Philbrook]] (Washington State University Vancouver, USA) 170 [[John Cayley]] (Brown University, USA) 171 [[Zenon Fajfer]] (independent poet; Ha!art Foundation, Poland) and [[Katarzyna Bazarnik]] (Jagiellonian University; Ha!art Foundation, Poland) 171 
 
 [[Donna Leishman]] (Duncan of Jordanstone College of Art, UK) and [[Steve Gibson]] (Northumbria University, UK) 172 [[Kristian Pedersen]] and [[Audun Lindholm]] (Gasspedal Animert, Norway) 173 
 

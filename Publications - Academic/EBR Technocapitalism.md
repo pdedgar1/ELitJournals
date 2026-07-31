@@ -32,7 +32,7 @@
 [[Susan Schreibman]]
 [[Laura Sullivan]]
 [[Marc Bousquet]]
-[[Timothy Luke]]
+[[Timothy W. Luke]]
 [[Marc Bousquet]]
 [[Stephanie Tripp]]
 [[Kenneth J. Saltman]]

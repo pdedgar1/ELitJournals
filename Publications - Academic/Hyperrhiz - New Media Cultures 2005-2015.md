@@ -52,7 +52,7 @@ Advisory editors
 [[Patrick McHenry]]
 [[Vidhu Aggarwal]]
 [[Andrew Famiglietti]]
-[[Marilyn R.P. Morgan]]
+[[Marilyn R. P. Morgan]]
 [[Mary Tripp]]
 [[Neil Patten]]
 [[Anne Brubaker]]
@@ -64,7 +64,7 @@ Advisory editors
 [[D. Fox Harrell]] and [[Kenny K. N. Chow]]
 [[Daniel C. Howe]] and [[Braxton Soderman]]
 [[Juan B. Gutiérrez]], [[Mark C. Marino]], [[Pablo Gervás]], [[Laura Borràs Castanyer]]
-[[Serge Bouchardon]], and [[Ayermic Brisse]]
+[[Serge Bouchardon]], and [[Aymeric Brisse]]
 [[Hans Kristian Rustad]]
 [[Alan Bigelow]]
 [[Jim Bizzocchi]]
@@ -124,7 +124,7 @@ regular reviews
 [[K. A. Wisniewski]]
 [[Tymofey Wowk]]
 
-## 11  - Spring 2015 -netprov [[Mark C. Marino]] + [[Rob Wittig]]
+## 11 - Spring 2015 -netprov [[Mark C. Marino]] + [[Rob Wittig]]
 [[Lauren Burr]]
 [[Leonardo Flores]]
 [[Kathi Inman Berens]]
@@ -144,7 +144,7 @@ regular reviews
 [[Eddie Lohmeyer]]
 
 
-## 12  - Summer 2015 - Mapping Culture Multimodally - [[Craig J. Saper]] and [[Nancy Duxbury]]
+## 12 - Summer 2015 - Mapping Culture Multimodally - [[Craig J. Saper]] and [[Nancy Duxbury]]
 
 [[Nancy Duxbury]] and [[Craig J. Saper]]
 
@@ -169,7 +169,7 @@ regular reviews
 [[Jessica Floyd]]
 [[Tissa J. Thomas]]
 
-## 13  - Fall 2015 - Kits, Plans, Schematics - [[Helen J. Burgess]] and [[David M. Rieder]]
+## 13 - Fall 2015 - Kits, Plans, Schematics - [[Helen J. Burgess]] and [[David M. Rieder]]
 
 [[David M. Rieder]]
 [[Robert A. Emmons Jr.]], [[James Brown]]

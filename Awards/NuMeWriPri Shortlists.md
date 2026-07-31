@@ -130,7 +130,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Kahra]]                                                                                                                                                   |
 | [[Milla van der Have]]                                                                                                                                      |
 | [[Muhammad Ardi Bahtiar]]                                                                                                                                   |
-| [[Clinton Siegle]]                                                                                                                                          |
+| [[Clinton R. Siegle]]                                                                                                                                          |
 | [[Frankie Kavakich]]                                                                                                                                        |
 | [[Adina Brodkin]]                                                                                                                                           |
 | [[Manon (manonamora)]]                                                                                                                                      |

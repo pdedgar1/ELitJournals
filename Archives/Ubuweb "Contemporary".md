@@ -73,7 +73,7 @@ Works included in this section, on the whole, must not be able to be reproduced 
 | [[Mac Wellman]]                                  |
 | [[Madeline Gins]]                                |
 | [[Madelyn Kent]]                                 |
-| [[Marilyn Rosenberg]]                            |
+| [[Marilyn R. Rosenberg]]                            |
 | [[Mark Peters]]                                  |
 | [[Martin Glaz Serup]]                            |
 | [[Mathieu Copeland]]                             |

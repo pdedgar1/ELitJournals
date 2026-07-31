@@ -99,7 +99,7 @@
 - [[Derek Alger]] — "Hanging with a Master"
 - [[Adrianne Kalfopoulou]] — "Seeking Sylvia in the Rare Book Room"
 - [[Linda Lappin]] — "On Books & Islands"
-- [[R.A. Rycraft]] — "Addicted to FarmVille? Moi?"
+- [[R. A. Rycraft]] — "Addicted to FarmVille? Moi?"
 - [[Joyce J. Townsend]] — "Communal Pioneering"
 
 #### Issue 19 ("Do You Have Lots of Faults, Too?")
@@ -121,7 +121,7 @@
 - [[Melanie Bacon]] — "The Band Played Tuxedo Junction"
 - [[Anna Lillian Moser]] — "Just Something"
 - [[Susan O'Neill]] — "Everyday Stupid Magic"
-- [[Richard Weems]] — "Dangerous Lightning"
+- [[Richard K. Weems]] — "Dangerous Lightning"
 - [[Karen Wunsch]] — "Do You Have Lots of Faults, Too?"
 - [[Nina Camp]] — "When the Tests Come Back Inconclusive"
 - [[DeWitt Henry]] — "Jack's Last Ride"
@@ -129,7 +129,7 @@
 - [[Joey Nicoletti]] — "A View from the Stoop"
 
 #### Issue 20 ("In Memoriam" — Staff Favorites / Flashback issue, reprints noted with original issue #)
-- [[Luisa Costa Gomes]] — "The Bed of Nails" (#9)
+- [[Luísa Costa Gomes]] — "The Bed of Nails" (#9)
 - [[Derek Alger]] — "The Old Greek" (#10)
 - [[Lisa Thompson]] — "Toon Red Nav Ardnaxela" (#9)
 - [[Mary Beth Caschetta]] — "Easy Go" (#15)
@@ -139,7 +139,7 @@
 - [[Nin Andrews]] — "Tales of Dick ... And Jane" (#11)
 - [[Susan Morgan]] — "The Curve of the Earth" (#15)
 - [[Elizabeth Wetmore]] — "Public Access" (#12)
-- [[K.M. Clark]] — "Cross My Heart" (#18)
+- [[K. M. Clark]] — "Cross My Heart" (#18)
 - [[Grace Theriault-Mayfield]] — "Etzel's Piano" (#13)
 - [[Christopher Locke]] — "Self-Portrait as Postscript" (#18)
 - [[Helen Ruggieri]] — "Being Hard" (#14)
@@ -211,7 +211,7 @@
 - [[Jill Adams]] — "The Blue Room"
 - [[Susan Heeger]] — "Suffering From Exhaustion"
 - [[Emil DeAndreis]] — "Le Cygne"
-- [[P.C. Scheponik]] — "Learning to Read at 63" / "Of Promises and Keeping"
+- [[P. C. Scheponik]] — "Learning to Read at 63" / "Of Promises and Keeping"
 - [[Aleda Bliss]] — "dive"
 - [[Christine Poerba]] — "Roya"
 - [[Fred Dale]] — "First Teeth"

@@ -26,7 +26,7 @@ The most recent of beaulieu's editing projects over the last dozen years, Speech
 [[Cecil Touchon]]
 
 [[Silke Rath]]
-[[Jesse Ferguson]]
+[[Jesse Patrick Ferguson]]
 [[Nico Vassilakis]]
 [[Anni Albers]]
 [[Kevin McPherson Eckhoff]]

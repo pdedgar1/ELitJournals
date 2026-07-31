@@ -2,7 +2,7 @@
 
 ## founders [[Taeyoon Choi]], [[Zach Lieberman]], [[Jen Lowe]] and [[Amit Pitaru]]
 
-## codirectors  [[Todd Anderson]] and [[Neta Bomani]]
+## codirectors [[Todd Anderson]] and [[Neta Bomani]]
 ### staff [[Ahana Ganguly]] and [[Sara Martínez]]
 
 #### board 
@@ -82,7 +82,7 @@
 [[Catarina Lee]]
 [[Catherine Griffiths]]
 [[Cedric Kiefer]]
-[[Celine Katzman]]
+[[Celine Wong Katzman]]
 [[Chi Nguyen]]
 [[Chris Anderson]]
 [[Christine Sun Kim]]
@@ -96,9 +96,9 @@
 [[CW&T]]
 [[Damon Black]]
 [[Dan Phiffer]]
-[[Dan Shiffman]]
+[[Daniel Shiffman]]
 [[Daniel Gorelick]]
-[[Daniel C.S. Wilson]]
+[[Daniel C. S. Wilson]]
 [[Dannie Wei]]
 [[Danny Garfield]]
 [[David Nolen]]
@@ -193,7 +193,7 @@
 [[Krista Nordgren]]
 [[Kyle McDonald]]
 [[Lauren Gardner]]
-[[Lauren McCarthy]]
+[[Lauren Lee McCarthy]]
 [[Le Wei]]
 [[Lee Tusman]]
 [[Lev Manovich]]

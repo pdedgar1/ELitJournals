@@ -8,7 +8,7 @@
 [[Louis Bury]]
 2007 - [[Kiki Benzon]]
 2006 - [[Michael Wutz]]
-[[Michael Boyden ]]
+[[Michael Boyden]]
 [[Harry Mathews]]
 [[Harry Mathews]]
 [[Michael Boyden]]

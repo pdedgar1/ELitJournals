@@ -1,5 +1,5 @@
 #archive 
-CELL Member  : French-language E-lit 
+CELL Member : French-language E-lit 
 
 ### Translators 
 [[Joël Gauthier]]
@@ -33,7 +33,7 @@ CELL Member  : French-language E-lit
 [[Jim Rosenberg]]
 [[Judy Malloy]]
 [[Mary-Kim Arnold]]
-[[J. Yellowlees Douglas]]
+[[Jane Yellowlees Douglas]]
 [[Hans Bjordahl]]
 [[John Mark Ockerbloom]], 
 [[David Madore]], [[Simon Brousseau]]

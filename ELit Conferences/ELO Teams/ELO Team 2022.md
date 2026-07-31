@@ -23,7 +23,7 @@
 - [[Ángela Celis]] (Universidad de Castilla-La Mancha)
 - [[Perla B. Sassón-Henry]] (United States Naval Academy)
 - [[Oreto Doménech]] (HStudies Research Group)
-- [[Asun López-Varela]]  (Universidad Complutense de Madrid)
+- [[Asun López-Varela]] (Universidad Complutense de Madrid)
 - [[Serge Bouchardon]] (Université de Compiègne-La Sorbonne)
 - [[Rodolfo Mata]] (Universidad Nacional Autónoma de México)
 - [[Claudia Kozak]] (Universidad de Buenos Aires)

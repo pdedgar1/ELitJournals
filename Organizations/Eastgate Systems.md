@@ -1,4 +1,4 @@
-#publisher  #organization 
+#publisher #organization 
 https://www.eastgate.com/
 
 Founded by [[Mark Bernstein]] who did Tinderbox
@@ -16,7 +16,7 @@ Storyspace writing environments with [[Michael Joyce]] and [[Jay David Bolter]] 
 [[Shelley Jackson]]
 [[Bill Bly]]
 [[Richard Holeton]]
-[[J. Yellowlees Douglas]]
+[[Jane Yellowlees Douglas]]
 [[Kathy Mac]] aka Kathleen McConnell
 [[Kathryn Cramer]]
 [[Mary-Kim Arnold]]

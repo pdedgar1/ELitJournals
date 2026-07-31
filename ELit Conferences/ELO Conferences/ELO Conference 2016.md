@@ -53,7 +53,7 @@ Chair: [[Robert Glick]], Rochester Institute of Technology
 
 - "Social Media for E-Lit Authors," [[Michael Rabby]], Washington State University Vancouver
 - "– O True Apothecary!, by [[Kyle Booten]]," UC Berkeley, Center for New Media
-- "Life Experience through Digital Simulation Narratives," [[David Núñez Ruiz]], Neotipo
+- "Life Experience through Digital Simulation Narratives," [[David Roberto Núñez Ruiz]], Neotipo
 - "Building Stories," [[Kate Palermini]], Washington State University Vancouver
 - "Help Wanted and Skills Offered," by [[Deena Larsen]], Independent Artist; [[Julianne Chatelain]], U.S. Bureau of Reclamation
 - "Beyond Original E-Lit: Deconstructing Austen Cybertexts," [[Meredith Dabek]], Maynooth University
@@ -101,7 +101,7 @@ Chair: [[Leonardo Flores]], University of Puerto Rico, Mayagüez
 - [[Zach Whalen]], University of Mary Washington
 
 - Digital Preservation, by [[Nicholas Schiller]], Washington State University Vancouver;[[Zach Coble]], NYU
-- ELMCIP, [[Allison Parrish]], Fordham University; [[Scott Rettberg]], University of Bergen; [[David Núñez Ruiz]], Neotipo; [[Hannah Ackermans]], Utrecht University
+- ELMCIP, [[Allison Parrish]], Fordham University; [[Scott Rettberg]], University of Bergen; [[David Roberto Núñez Ruiz]], Neotipo; [[Hannah Ackermans]], Utrecht University
 - Wikipedia-A-Thon, [[Elizabeth Losh]], College of William and Mary
 
 Chair: [[Sandy Baldwin]], Rochester Institute of Technology
@@ -171,7 +171,7 @@ Chair: [[Robert Glick]], Rochester Institute of Technology
 
 [[Alex Saum-Pascual]], UC Berkeley
 
-- "_Seasons II_:  a case study in Ambient Video, Generative Art, and Audiovisual Experience," [[Jim Bizzocchi]], Simon Fraser University; [[Arne Eigenfeldt]], Simon Fraser University; [[Philippe Pasquier]], Simon Fraser University; [[Miles Thorogood]], University of British Columbia Okanagan
+- "_Seasons II_: a case study in Ambient Video, Generative Art, and Audiovisual Experience," [[Jim Bizzocchi]], Simon Fraser University; [[Arne Eigenfeldt]], Simon Fraser University; [[Philippe Pasquier]], Simon Fraser University; [[Miles Thorogood]], University of British Columbia Okanagan
 - "Cinematic Turns," [[Elizabeth Losh]], College of William and Mary
 - "Mario Mods and Ludic Seriality," [[Shane Denson]], Duke University
 
@@ -186,7 +186,7 @@ Chair: [[Deena Larsen]], Independent Artist
 - "Virtually Narrative: Potential Narration in Digital Fiction," [[Will Luers]], Washington State University Vancouver
 
 - Digital Preservation, by [[Nicholas Schiller]], Washington State University Vancouver; [[Zach Coble]], NYU
-- ELMCIP, [[Allison Parrish]], Fordham University; [[Scott Rettberg]], University of Bergen; [[David Núñez Ruiz]], Neotipo; [[Hannah Ackermans]], Utrecht University
+- ELMCIP, [[Allison Parrish]], Fordham University; [[Scott Rettberg]], University of Bergen; [[David Roberto Núñez Ruiz]], Neotipo; [[Hannah Ackermans]], Utrecht University
 - Wikipedia-A-Thon, [[Elizabeth Losh]], College of William and Mary
 
 Chair: [[Davin Heckman]], Winona State University

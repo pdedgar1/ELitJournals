@@ -5,7 +5,7 @@ online at ezone.org
 ## Masthead 
 [[Christian Crumlish]], [[Briggs Nisbet]], [[Richard Frankel]], [[Martha Conway]], [[Freeman Ng]], [[Daniel Brodnitz]], [[Levi Asher]]
 with contributing artists [[Steve Seebol]], [[Mark Napier]], [[kiyotei]], [[xian]]
-with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pelovitz]], [[John Humpal]], [[Griffin Nicholson]], [[David Alexander]], [[Mitch Goldman]], [[N.G. Meriwether]], [[hargitai]], [[Zeigen]]
+with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pelovitz]], [[John Humpal]], [[Griffin Nicholson]], [[David Alexander]], [[Mitch Goldman]], [[N. G. Meriwether]], [[hargitai]], [[Zeigen]]
 
 [[Annette Loudon]]
 ## 1 
@@ -17,7 +17,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Briggs Nisbet]]      |
 | [[Chris Ullsperger]]   |
 | [[Christian Crumlish]] |
-| [[Dan Brodnitz]]       |
+| [[Daniel Brodnitz]]       |
 | [[David Pelovitz]]     |
 | [[David Powelstock]]   |
 | [[EB]]                 |
@@ -39,7 +39,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Briggs Nisbet]]      |
 | [[Chris Ullsperger]]   |
 | [[Christian Crumlish]] |
-| [[Dan Brodnitz]]       |
+| [[Daniel Brodnitz]]       |
 | [[David Beaudouin]]    |
 | [[Delray Prong]]       |
 | [[Dr. Kovaks]]         |
@@ -64,7 +64,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Briggs Nisbet]]           |
 |                             |
 | [[Christian Crumlish]]      |
-| [[Dan Brodnitz]]            |
+| [[Daniel Brodnitz]]            |
 |                             |
 | [[David Hunter Sutherland]] |
 | [[]]                        |
@@ -224,7 +224,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[]]                   |
 | [[Jonathan Bertman]]   |
 | [[]]                   |
-| [[Dan Brodnitz]]       |
+| [[Daniel Brodnitz]]       |
 | [[Martha Conway]]      |
 | [[]]                   |
 | [[Christian Crumlish]] |
@@ -279,7 +279,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[]]                     |
 | [[kiyotei]]              |
 | [[]]                     |
-| [[N.G. Meriwether]]      |
+| [[N. G. Meriwether]]      |
 | [[]]                     |
 | [[Gael Morlan]]          |
 | [[]]                     |
@@ -356,7 +356,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[]]                          |
 | [[Martha Conway]]             |
 | [[]]                          |
-| [[B.C. Cohen]]                |
+| [[B. C. Cohen]]                |
 | [[]]                          |
 | [[Christian Crumlish]]        |
 | [[Janna Fulbright]]           |
@@ -369,7 +369,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[]]                          |
 | [[Victor Hugo]]               |
 | [[]]                          |
-| [[N.G. Meriwether]]           |
+| [[N. G. Meriwether]]           |
 | [[]]                          |
 | [[Griffin Nicholson]]         |
 | [[]]                          |
@@ -394,7 +394,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[M. D. Coverley aka Marjorie C. Luesebrink]] |
 | [[Jim Henry]]                              |
 | [[Annette Loudon]]                         |
-| [[N.G. Meriwether]]                        |
+| [[N. G. Meriwether]]                        |
 | [[Lee Moskow]]                             |
 | [[Mark Napier]]                            |
 | [[Tabitha Rasa]]                           |
@@ -417,7 +417,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Jonathan Bertman]]          |
 | [[Alice K. Boatwright]]          |
 | [[Alon Bochman]]              |
-| [[Dan Brodnitz]]              |
+| [[Daniel Brodnitz]]              |
 | [[Sarah Bruner]]              |
 | [[Peggy Brown]]               |
 | [[Ron Brown]]                 |
@@ -427,7 +427,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[W L Carr]]                  |
 | [[Jon Carroll]]               |
 | [[Bill Cassel]]               |
-| [[B.C. Cohen]]                |
+| [[B. C. Cohen]]                |
 | [[Martha Conway]]             |
 | [[Arthur E Crumlish]]         |
 | [[Christian Crumlish]]        |

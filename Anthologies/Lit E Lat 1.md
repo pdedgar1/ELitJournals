@@ -61,7 +61,7 @@
 | R.                                           |
 | [[Rafael Pérez y Pérez]]                     |
 | [[Rodrigo Pérez Ramírez]]                    |
-| [[Rosamond King]]                            |
+| [[Rosamond S. King]]                            |
 | S.                                           |
 | [[Samira Almeida]]                           |
 | T.                                           |

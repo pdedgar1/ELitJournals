@@ -2,13 +2,13 @@
 | ---------------------------------------- |
 | Conference Committee : ]]                |
 | [[Anastasia Salter]]                     |
-| [[John Murray]]                          |
+| [[John T. Murray]]                          |
 | [[R. Lyle Skains]]                       |
 | [[Daniel Cox]]                           |
 | [[Alyssa Barrack]]                       |
 | [[Ricky Finch]]                          |
 | [[Mike Shier]]                           |
-| [[P.D. Edgar]]                           |
+| [[P. D. Edgar]]                           |
 | [[Jack Murray]]                          |
 | [[Emily K. Johnson]]                     |
 | [[Mel Stanfill]]                         |
@@ -30,7 +30,7 @@
 | [[Emily K. Johnson]]                     |
 | [[Farrah Cato]]                          |
 | [[Glenn S. Ritchey III]]                 |
-| [[J.M.L. Whittington]]                   |
+| [[J. M. L. Whittington]]                   |
 | [[Jack Murray]]                          |
 | [[John T. Murray]]                       |
 | [[Kathi Inman Berens]]                   |
@@ -44,7 +44,7 @@
 |                                          |
 | [[Nikki Barnes]]                         |
 | [[PB Berge]]                             |
-| [[P.D. Edgar]]                           |
+| [[P. D. Edgar]]                           |
 | [[Ricky Finch]]                          |
 | [[Samya Brata Roy]]                      |
 | [[Shanmugapriya T]]                      |
@@ -65,7 +65,7 @@
 | [[Emery Beckman]]                        |
 | [[Emily K. Johnson]]                     |
 | [[Glenn S. Ritchey III]]                 |
-| [[J.M.L. Whittington]]                   |
+| [[J. M. L. Whittington]]                   |
 | [[Jason Nelson]]                         |
 | [[John T. Murray]]                       |
 | [[Kathi Inman Berens]]                   |
@@ -76,7 +76,7 @@
 | [[Mez Breeze]]                           |
 | [[Mirek Stolee]]                         |
 | [[Nikki Barnes]]                         |
-| [[P.D. Edgar]]                           |
+| [[P. D. Edgar]]                           |
 | [[PB Berge]]                             |
 | [[Ricky Finch]]                          |
 | [[Stuart Moulthrop]]                     |
@@ -84,20 +84,20 @@
 | [[Zach Whalen]]                          |
 |                                          |
 | CHDR : [[Mike Shier]]                    |
-| Video Chair : [[Mónica Gonzalez Burgos]] |
+| Video Chair : [[Mónica G. González Burgos]] |
 | Video Team: ]]                           |
 | [[Frederic Caeyers]]                     |
 | [[LJ Connolly]]                          |
 | [[Tyler Gillis]]                         |
 | [[Christina Restrepo Nazar]]             |
-| [[J.M.L. Whittington]]                   |
+| [[J. M. L. Whittington]]                   |
 | Track Chairs: ]]                         |
 | [[Anastasia Salter]]                     |
 | [[Mel Stanfill]]                         |
 | [[Emily K. Johnson]]                     |
 | [[Daniel Cox]]                           |
 | [[Mike Shier]]                           |
-| [[P.D. Edgar]]                           |
+| [[P. D. Edgar]]                           |
 | [[John T. Murray]]                       |
 | Moderators: ]]                           |
 | [[Vee Kennedy]]                          |
@@ -106,9 +106,9 @@
 | [[Daniel Heslep]]                        |
 | [[Alyssa Barrack]]                       |
 | [[Favour Boluwade]]                      |
-| [[Kirk Lundblade]]                       |
+| [[Kirk M. Lundblade]]                       |
 | [[Matthew Bryan]]                        |
-| [[P.D. Edgar]]                           |
+| [[P. D. Edgar]]                           |
 | [[Glenn S. Ritchey III]]                 |
 | [[Mark C. Marino]]                       |
 | [[Zach Whalen]]                          |

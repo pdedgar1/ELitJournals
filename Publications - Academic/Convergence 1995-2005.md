@@ -314,7 +314,7 @@
 | [[John Scannell]]                   |
 | [[John V. Pavlik]]                  |
 | [[Jonathan James McCreadie Lillie]] |
-| [[Jonathan Lillie]]                 |
+| [[Jonathan James McCreadie Lillie]]                 |
 | [[José Pablo Zagal]]                |
 | [[Joshua Berman]]                   |
 | [[Juha Herkman]]                    |
@@ -337,7 +337,7 @@
 | [[Kris Kodrich]]                    |
 | [[Larissa Hiorth]]                  |
 | [[Lauren Kogen]]                    |
-| [[Lena Zhang]]                      |
+| [[Lena L. Zhang]]                      |
 | [[Letizia Caronia]]                 |
 | [[Lillian Dunlap]]                  |
 | [[Lincoln Dahlberg]]                |
@@ -434,13 +434,13 @@
 | [[Simon Roy]]                       |
 | [[Simone Murray]]                   |
 | [[Sonya Forte Duhe]]                |
-| [[Stephen Jones]]                   |
+| [[Stephen Graham Jones]]                   |
 | [[Stephen Lax]]                     |
 | [[Stephen Quinn]]                   |
 | [[Steven Maras]]                    |
 | [[Steven McCarthy]]                 |
 | [[Stuart L. Esrock]]                |
-| [[T.L. Taylor]]                     |
+| [[T. L. Taylor]]                     |
 | [[Terry Austrin]]                   |
 | [[Thomas E. Ruggiero]]              |
 | [[Urban Nuldén]]                    |

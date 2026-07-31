@@ -233,7 +233,7 @@
 - [[Gioele Barabucci]]
 
 ### Vol 31, Iss 3
-- [[Simon Rowberry]]
+- [[Simon Peter Rowberry]]
 - [[Jialing Zhao]]
 - [[Haiquan Wang]]
 - [[Hongwei Wang]]

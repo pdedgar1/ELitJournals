@@ -2,7 +2,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 
 |                                 |
 | ------------------------------- |
-| [[ John Nathan Anderson]]       |
+| [[John Nathan Anderson]]       |
 |                                 |
 | [[Abeer Ahmed Madini]]          |
 | [[Abigail De Kosnik]]           |
@@ -149,7 +149,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Erkki Huhtamo]]               |
 | [[Espen Ytreberg]]              |
 | [[Eva Giraud]]                  |
-| [[Eva-Karin Olsson ]]           |
+| [[Eva-Karin Olsson]]           |
 | [[Evan Barba]]                  |
 | [[Evelien D'heer]]              |
 | [[Evi Karathanasopoulou]]       |
@@ -310,7 +310,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Måns Svensson]]               |
 | [[Marc Garcelon]]               |
 | [[Marc Raboy]]                  |
-| [[Marc Ruppel]]                 |
+| [[Marc N. Ruppel]]                 |
 | [[Marc Tuters]]                 |
 | [[Marcin de Kaminski]]          |
 | [[Maria Bäcke]]                 |
@@ -398,7 +398,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Phil MacGregor]]              |
 | [[Philippa Jones]]              |
 | [[R. Lyle Skains]]              |
-| [[R.M. Milner]]                 |
+| [[R. M. Milner]]                 |
 | [[Rachel E Dubrofsky]]          |
 | [[Rafael Alarcón Medina]]       |
 | [[Ramon Lobato]]                |
@@ -421,7 +421,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Rose Roberto]]                |
 | [[Ross Tapsell]]                |
 | [[Rowan Wilken]]                |
-| [[Ruth ]]                       |
+| [[Ruth]]                       |
 | [[Ryan Lizardi]]                |
 | [[Sal Humphreys]]               |
 | [[Samantha Carroll]]            |

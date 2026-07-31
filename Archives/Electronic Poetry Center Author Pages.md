@@ -29,7 +29,7 @@
 | [[Bob Cobbing]]             |
 | [[Clark Coolidge]]          |
 | [[Robert Creeley]]          |
-| [[Michael Davidson ]]       |
+| [[Michael Davidson]]       |
 | [[Alan Davies]]             |
 | [[Jean Day]]                |
 | [[Stacy Doris]]             |
@@ -69,7 +69,7 @@
 | [[James Joyce]]             |
 | [[Bill Keith]]              |
 | [[Kevin Killian]]           |
-| [[John Kinsella ]]          |
+| [[John Kinsella]]          |
 | [[Myung Mi Kim]]            |
 | [[Joanne Kyger]]            |
 | [[Hank Lazer]]              |
@@ -85,7 +85,7 @@
 | [[Steve McCaffery]]         |
 | [[rob mclennan]]            |
 | [[Deborah Meadows]]         |
-| [[David Melnick ]]          |
+| [[David Melnick]]          |
 | [[David Meltzer]]           |
 | [[Douglas Messerli]]        |
 | [[Gustave Morin]]           |

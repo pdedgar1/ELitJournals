@@ -4,7 +4,7 @@
 | ----------------------------------------------------- |
 | [[]]                                                  |
 | Director]]                                            |
-| [[JASON LEWIS]]                                       |
+| [[Jason Edward Lewis]]                                       |
 | Research Associates]]                                 |
 | [[Scott Benesiinaabandan]]                            |
 | [[SKAWENNATI]]                                        |

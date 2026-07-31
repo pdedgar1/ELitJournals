@@ -122,8 +122,8 @@ CELL member : Portuguese Language E-lit
 |[[Anabela Galhardo Couto]]|
 |[[Anabela Garcia]]|
 |[[André Luiz do Amaral]]|
-|[[ Andreia Nogueira]]|
-|[[ Andrew Brenza]]|
+|[[Andreia Nogueira]]|
+|[[Andrew Brenza]]|
 |[[Angela Guida]]|
 |[[Ângelo de Lima]]|
 |[[Antonio Abernú]]|
@@ -370,7 +370,7 @@ CELL member : Portuguese Language E-lit
 |[[Ottfried Zielke]]|
 |[[Pablo del Barco]]|
 |[[Pádua Fernandes]]|
-|[[Patrícia Reina]]|
+|[[Patrícia Esteves Reina]]|
 |[[Patrícia Rosas Prior]]|
 |[[Paula Morão]]|
 |[[Pauline Bachmann]]|

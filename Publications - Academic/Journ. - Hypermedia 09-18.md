@@ -200,7 +200,7 @@
 - [[M. Şah]]
 - [[W. Hall]]
 - [[G. Ongena]]
-- [[L.A.L. van de Wijngaert]]
+- [[L. A. L. van de Wijngaert]]
 - [[E. Huizer]]
 
 ### Vol 19, Iss 2
@@ -393,7 +393,7 @@
 - [[Olga C. Santos]]
 - [[Mar Saneiro]]
 - [[Jesus G. Boticario]]
-- [[M.C. Rodriguez-Sanchez]]
+- [[M. C. Rodriguez-Sanchez]]
 - [[Carla Limongelli]]
 - [[Matteo Lombardi]]
 - [[Alessandro Marani]]

@@ -22,7 +22,7 @@
 | [[Annemarie Perez]]          |
 | [[Melanie Yergeau]]          |
 | [[Kathleen Blake Yancey]]    |
-| [[Brian Croxall]]            |
+| [[Brian L. Croxall]]            |
 | [[Quinn Warnick]]            |
 | [[Chris Forster]]            |
 | [[Colette Colligan]]         |

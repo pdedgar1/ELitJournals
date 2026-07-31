@@ -7,13 +7,13 @@ An International digital Poetry Festival
 | [[Tati Rapatzikou]]        |
 | [[Laura Shackelford]]      |
 | [[Giovanna di Rosario]]    |
-| [[ ]]                      |
-| [[benjamín moreno]]        |
+| [[]]                      |
+| [[raul benjamín moreno]]        |
 | [[Nick Montfort]]          |
 | [[Jeneen Naji]]            |
-| [[ ]]                      |
+| [[]]                      |
 | [[Marina Gingirof]]        |
-| [[ ]]                      |
+| [[]]                      |
 | [[Ali Abdali]]             |
 | [[Cardes Amâncio]]         |
 | [[Daniel Anderson]]        |
@@ -82,7 +82,7 @@ An International digital Poetry Festival
 | [[Diana Salazar]]          |
 | [[Catherine Siller]]       |
 | [[Mariusz Pisarski]]       |
-| [[Ian Smith]]              |
+| [[Ian C. Smith]]              |
 | [[Eric Snodgrass]]         |
 |                            |
 | [[Raluca Tanasescu]]       |
