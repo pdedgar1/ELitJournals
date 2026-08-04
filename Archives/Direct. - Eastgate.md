@@ -15,7 +15,7 @@ works by
 [[Robert Kendall]]
 [[Edward Falco]]
 [[Michael Joyce]]
-[[Gavin Inglis]] and [[Paul Shade]]
+[[Gavin D. Inglis]] and [[Paul Shade]]
 [[Rick Lazarus]]
 [[Geniwate aka Jenny Weight]]
 [[William Gillespie]], [[Scott Rettberg]], [[Dirk Stratton]] and [[Frank Marquardt]]

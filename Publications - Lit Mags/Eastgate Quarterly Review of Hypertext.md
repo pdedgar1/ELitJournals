@@ -3,7 +3,7 @@ Number 1
 
 Number 2
 - [[Mary-Kim Arnold]]
-- [[Jane Yellowlees Douglas]]
+- [[J. Yellowlees Douglas]]
 ## Volume 2 
 Number 1 
 

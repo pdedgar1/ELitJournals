@@ -70,7 +70,7 @@
 [[Everest Pipkin]]
 [[Fabrizio Venerandi]]
 [[Franci Greyling]]
-[[Gavin Inglis]]
+[[Gavin D. Inglis]]
 [[Gwyneth Nava]]
 [[Hazel Smith]]
 [[Ian Bogost]]

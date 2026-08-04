@@ -46,7 +46,7 @@
 [[William Poundstone]]
 [[Kate Pullinger]] + [[Chris Joseph]]
 [[Scott Rettberg]] + [[William Gillespie]] + [[Dirk Stratton]] + [[Frank Marquardt]]
-**[[Jaime Alejandro Rodríguez]]**
+**[[Jaime Alejandro Rodríguez Ruiz]]**
 **[[Braxton Soderman]]**
 **[[Stephanie Strickland]], [[Cynthia Lawson Jaramillo]] and [[Paul Ryan]]**
 **[[Stephanie Strickland]] and [[Cynthia Lawson Jaramillo]]**

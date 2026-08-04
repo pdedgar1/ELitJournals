@@ -108,7 +108,7 @@
 [[Scott Rettberg]]
 [[Scott Rettberg]]
 [[Margaret Rhee]]
-[[Jaime Alejandro Rodríguez]]
+[[Jaime Alejandro Rodríguez Ruiz]]
 [[Amílcar Romero]]
 [[Michał Rudolf]]
 [[Alexandra Saemmer]]

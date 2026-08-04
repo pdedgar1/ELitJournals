@@ -31,7 +31,7 @@
 [[Todd Napolitano]]
 [[Elisa Sheffield]]
 [[Greg Dyer]]
-[[George Landow]]
+[[George P. Landow]]
 [[Lidia Yukman]]
 [[Diane Goodman]]
 [[Lisa Joyce]]

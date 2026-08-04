@@ -534,7 +534,7 @@ CELL Member : French-language E-lit
 | IAP GmbH]]                                               |
 | [[Ana Ibáñez]]                                           |
 | [[Ricardo Iglesias]]                                     |
-| [[Gavin Inglis]]                                         |
+| [[Gavin D. Inglis]]                                         |
 | [[Jon Ingold]]                                           |
 | Invader]]                                                |
 | Iridescent]]                                             |
@@ -956,7 +956,7 @@ CELL Member : French-language E-lit
 | [[Joellyn Rock]]                                         |
 | [[Donald Rodney]]                                        |
 | [[Tania Jimena Rodríguez García]]                        |
-| [[Jaime Alejandro Rodríguez]]                            |
+| [[Jaime Alejandro Rodríguez Ruiz]]                            |
 | [[Thimothée Rolin]]                                      |
 | [[Gustavo Romano]]                                       |
 | [[Nicolas Rome]]                                         |

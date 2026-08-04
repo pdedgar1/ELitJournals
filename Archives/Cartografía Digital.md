@@ -175,13 +175,13 @@ Colaboradores
 | [[Gregorio Fontén]]                                          |
 | [[Gustavo Romano]]                                           |
 | [[Horacio Warpola]]                                          |
-| [[Horario Warpola]]                                          |
+| [[Horacio Warpola]]                                          |
 | [[Ignacio Nieto]]                                            |
 | [[Interspecifics]]                                           |
 | [[Isabel Zapata]]                                            |
 | [[Israel Martínez]]                                          |
 | [[Iván Palacios Ocaña]]                                      |
-| [[Jaime Alejandro Rodríguez]]                                |
+| [[Jaime Alejandro Rodríguez Ruiz]]                                |
 | [[Javier Guerra]]                                            |
 | [[Jenny Lam]]                                                |
 | [[José Aburto]]                                              |

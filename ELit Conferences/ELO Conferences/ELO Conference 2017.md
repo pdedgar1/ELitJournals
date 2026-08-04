@@ -131,7 +131,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Christian Roth]] (HKU U. of the Arts, Utrecht, Netherlands), [[Gabriele Ferri]] (Amsterdam U. Applied Sciences, Netherlands), and [[Mads Haahr]] (Trinity College Dublin, Ireland), "In-depth Analysis of Interactive Digital Narrative" @Auditório
 
 - [[Anna Gibbs]] (Western Sydney U., Australia) and [[Maria Angel]]*, "Cyberfeminism, Writing, and the Digital Ecology of Bodies"
-- [[Claudia Cristina da  Silva]] (M-ITI/Madeira Interactive Technologies Institute, Portugal) and [[Valentina Nisi]] (M-ITI/Madeira Interactive Technologies Institute, Portugal), "'I blamed this all on moving to Texas': Fostering Sense of Place through Locative Literature among US Latina Girls"
+- [[Claudia Cristina da Silva]] (M-ITI/Madeira Interactive Technologies Institute, Portugal) and [[Valentina Nisi]] (M-ITI/Madeira Interactive Technologies Institute, Portugal), "'I blamed this all on moving to Texas': Fostering Sense of Place through Locative Literature among US Latina Girls"
 - [[Anne Karhio]] (National U. Galway, Ireland), "Acts of Opposition: Digital Aesthetics, Electronic Literature and Irish Cultural Institutions"
 - [[D. Fox Harrell]] (Massachusetts Institute of Technology, USA), [[Pablo Ortiz]]*, [[Peter Downs]]*, [[Elizabeth Carré]]*, [[Annie Wang]]* and [[Maya Wagoner]]*, "'Chimeria:Grayscale:' An Interactive Narrative for Provoking Critical Reflection on Gender Discrimination"
 

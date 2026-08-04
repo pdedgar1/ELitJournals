@@ -36,7 +36,7 @@
 | [[Gabriela Golder]]                          |
 | [[Gustavo Romano]]                           |
 | I.                                           |
-| [[Jaime Alejandro Rodríguez]]                |
+| [[Jaime Alejandro Rodríguez Ruiz]]                |
 | [[Jesús Arellano]]                           |
 | [[Jesús del Toro]]                           |
 | [[José AZ]]                                  |

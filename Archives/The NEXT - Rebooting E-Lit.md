@@ -2,7 +2,7 @@
 ### Vol 1
 [[Sarah Smith]]
 [[David Kolb]]
-[[Jane Yellowlees Douglas]]
+[[J. Yellowlees Douglas]]
 [[Thomas M. Disch]]
 [[Robert Kendall]]
 [[Judy Malloy]]

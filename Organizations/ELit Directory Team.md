@@ -70,7 +70,7 @@
 | [[Juan B. Gutiérrez]]      |
 | [[Jaka Železnikar]]        |
 | [[Mark C. Marino]]            |
-| [[Talan Memmot]]           |
+| [[Talan Memmott]]           |
 | [[Rachel Morley]]          |
 | [[Jason Nelson]]           |
 | [[David Parry]]            |

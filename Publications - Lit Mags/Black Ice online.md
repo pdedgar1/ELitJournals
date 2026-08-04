@@ -32,7 +32,7 @@
 [[Ronald Sukenick]]
 [[Marienne Hauser]]
 [[Edy Poppy]]
-[[Adriene Greenheart]]
+[[Adrienne Greenheart]]
 [[Cynthia Kitchen]]
 [[Catilin Sullivan]]
 [[Eurydice]]

@@ -16,7 +16,7 @@ Last updated June 11 2001
 [[Kathryn Cramer]]
 [[Jackie Craven]]
 [[Charles Deemer]]
-[[Jane Yellowlees Douglas]]
+[[J. Yellowlees Douglas]]
 [[Edward Falco]]
 [[John Fowler]]
 [[Holly Franking]]
@@ -86,4 +86,4 @@ NYU Press
 [[Group Z]] (belgium)
 [[spidertangle wordroud]]
 [[TinkerNet]]
-[[Hyperizons]]: the search for Hypertext Fiction
+[[Directory - Hyperizons]]: the search for Hypertext Fiction

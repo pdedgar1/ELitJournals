@@ -33,7 +33,7 @@ CELL Member : French-language E-lit
 [[Jim Rosenberg]]
 [[Judy Malloy]]
 [[Mary-Kim Arnold]]
-[[Jane Yellowlees Douglas]]
+[[J. Yellowlees Douglas]]
 [[Hans Bjordahl]]
 [[John Mark Ockerbloom]], 
 [[David Madore]], [[Simon Brousseau]]

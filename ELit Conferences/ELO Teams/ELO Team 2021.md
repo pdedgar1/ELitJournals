@@ -7,7 +7,7 @@ https://conferences.au.dk/elo2021/program
 ### Partner Chairs 
 " DRA.FT " [[Nanditi Khilnani]], [[Ambika Joshi]], [[Agat Sharma]]
 Electronic Literature Lab — [[Dene Grigar]], [[Holly Slocum]], [[Greg Philbrook]], [[Richard Snyder]] [[Kathleen Zoller]], [[Dani Spinosa]], [[Claudia Kozak]]
-Digital Aesthetics Research Center, Aarhus University — [[Christian Ulrik Andersen]], [[Malthe Stavning Erslev]], [[Winnie Soon]], [[Magdalena Regina Tyzlik-Carver]], [[Søren Bro Pold]]
+Digital Aesthetics Research Center, Aarhus University — [[Christian Ulrik Andersen]], [[Malthe Stavning Erslev]], [[Winnie Soon]], [[Magdalena Regina Tyżlik-Carver]], [[Søren Bro Pold]]
 Bergen E-Lit Research Group — [[Scott Rettberg]], [[Jason Nelson]] , [[Astrid Ensslin]], [[Hannah Ackermans]]
 Global Coordinator [[Caitlin Fisher]]
 

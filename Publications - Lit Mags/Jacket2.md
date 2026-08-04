@@ -152,7 +152,7 @@ Founder [[John Tranter]]
 | [[Efe Murad]]                   |
 | [[Eleanor Johnson]]             |
 | [[Elena Fanailova]]             |
-| [[Elisabeth Joyce]]             |
+| [[Elizabeth Joyce]]             |
 | [[Elizabeth-Jane Burnett]]      |
 | [[Emily Skillings]]             |
 | [[Emily Wojcik]]                |

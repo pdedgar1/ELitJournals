@@ -7,13 +7,13 @@ Sources :
 [[AskTog]]. by [[Bruce Tognazzini]]
 [[CamWorld]]
 [[Clickz]]
-[[Dichtung Digital]] - German Hypertext Journal
+[[Journ. - Dichtung Digital]] - German Hypertext Journal
 [[Eastgate Systems]]
 [[Grafica]]
 [[ELO Exec + Lit Advisory Board]]
 [[HypertextNow]] with [[Mark Bernstein]]
 
-[[Hipertulia]] by [[Susana Pajares Tosca]]
+[[Directory - Hipertulia]] by [[Susana Pajares Tosca]]
 [[Hypertext Research and Resource Testbed]] by [[Rosemary Simpson]]
 [[Information Design]] by [[Peter Bogaards]]
 [[Netzwissenshaft.de]] by [[Reinhold Grether]]
@@ -44,4 +44,4 @@ LITMAGS
 [[Derek Powazek]]
 [[Justin Hall]]
 
-[[Hyperizons]]
+[[Directory - Hyperizons]]

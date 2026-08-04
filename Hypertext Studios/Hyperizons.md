@@ -1,2 +1,0 @@
-by [[Michael Shumate]]
-

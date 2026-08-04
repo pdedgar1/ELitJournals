@@ -2,7 +2,7 @@ https://elmcip.net/event/electronic-literature-organization-2010-archive-innovat
 
 Dedicated to [[Robert Coover]]
 plenaries : https://nickm.com/post/index.html%3Fp=922.html
-[[George Landow]], [[Angela Chang]] and [[Peggy Chi]], [[Paula Pizzichini]] and [[Mauro Carassai]], [[Lawrence Giffin]]
+[[George P. Landow]], [[Angela Chang]] and [[Peggy Chi]], [[Paula Pizzichini]] and [[Mauro Carassai]], [[Lawrence Giffin]]
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

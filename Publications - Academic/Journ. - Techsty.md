@@ -82,7 +82,7 @@ POLAND?
 [[Tomasz Wilmański]]
 
 [[Emilia Branny-Jankowska]]
-[[Magdalena Regina Tyzlik-Carver]]
+[[Magdalena Regina Tyżlik-Carver]]
 [[Andrzej Pająk]]
 [[Mariusz Pisarski]]
 [[Dorota Sikora]]

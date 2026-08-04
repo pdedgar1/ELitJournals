@@ -37,7 +37,7 @@
 [[Stephanie Tripp]]
 [[Kenneth J. Saltman]]
 [[Marc Bousquet]]
-[[George Landow]]
+[[George P. Landow]]
 [[Mark Poster]]
 [[Kembrew McLeod]]
 [[Caren Irr]]
