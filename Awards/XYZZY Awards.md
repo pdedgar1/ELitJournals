@@ -109,7 +109,7 @@
 - 2016: [[Astrid Dalmady]]
 - 2017: [[Victor Ojuel]]
 - 2018: [[Hanon Ondricek]]
-- 2019: [[Grim Baccaris]]
+- 2019: [[G.C. "Grim" Baccaris]]
 - 2020: [[Kreg Segall]]
 - 2021: [[Chin Kee Yong]]
 - 2022: [[Eliot M. B. Howard]]
@@ -330,7 +330,7 @@
 - 2016: [[Aaron A. Reed]] and [[Jacob Garbe]]
 - 2017: [[Liza Daly]]
 - 2018: [[Charlie Brooker]]
-- 2019: [[Provodnik Games]]; [[Grim Baccaris]] (tie)
+- 2019: [[Provodnik Games]]; [[G.C. "Grim" Baccaris]] (tie)
 - 2020: [[Ryan Veeder]], [[Harrison Gerard]]
 - 2021: [[grave snail games]]
 - 2022: [[AZ]] / [[ParserCommander]]

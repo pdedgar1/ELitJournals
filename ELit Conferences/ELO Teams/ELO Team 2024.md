@@ -31,7 +31,7 @@
 [[Jack Murray]], University of Texas at Dallas
 [[Mel Stanfill]], University of Central Florida
 [[R. Lyle Skains]], Bournemouth University
-[[Kenton T. Howard]], University of Central Florida
+[[Kenton Taylor Howard]], University of Central Florida
 [[Zach Whalen]], University of Mary Washington
 [[Lauren Rouse]], University of Central Florida
 [[Erik Loyer]], University of Southern California

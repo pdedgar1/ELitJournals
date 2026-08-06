@@ -24,7 +24,7 @@
 [[Amay Kataria]]
 [[Daniel C. Howe]]
 [[Brian James]]
-[[Kenton T. Howard]]
+[[Kenton Taylor Howard]]
 [[Will Luers]]
 [[Valerie Le Blanc]] and [[Daniel Dugas]]
 [[Daniel King]]

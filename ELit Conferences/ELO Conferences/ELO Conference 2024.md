@@ -6,7 +6,7 @@ Proceedings introduction
 [[Jack Murray]]
 [[Stuart Moulthrop]]
 [[Alexei Tikhonov]]
-[[Kenton T. Howard]]
+[[Kenton Taylor Howard]]
 [[Gayathri T]] & [[Merin Simi Raj]]
 [[Judy Malloy]]
 
@@ -134,7 +134,7 @@ Proceedings introduction
 | [[Judy Malloy]]                                                                                           |
 | [[Kavi Duvvoori]]                                                                                         |
 | [[Kavi Duvvoori]]                                                                                         |
-| [[Kenton T. Howard]]                                                                                      |
+| [[Kenton Taylor Howard]]                                                                                      |
 | [[Kristine N. Kelly]]                                                                                     |
 | [[Kyle Booten]]                                                                                           |
 | [[Madison Schmalzer]]                                                                                     |

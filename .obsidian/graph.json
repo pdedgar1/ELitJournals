@@ -104,6 +104,13 @@
         "a": 1,
         "rgb": 16753152
       }
+    },
+    {
+      "query": "path:\"ELit Conferences/Narrascope\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12386181
+      }
     }
   ],
   "collapse-display": true,
@@ -114,8 +121,8 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.845397676496872,
+  "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.0078125,
+  "scale": 0.03090529432882019,
   "close": true
 }

@@ -139,7 +139,7 @@ Advisory Board
 | [[Becky Halat]]                     |
 | [[Bekeh Ukelina]]                   |
 | [[Bella Hastreiter]]                |
-| [[Ben Schneider]]                   |
+| [[Benjamin Schneider]]                   |
 | [[Benjamin Zweig]]                  |
 | [[Beth Knazook]]                    |
 | [[Beth Secrist]]                    |

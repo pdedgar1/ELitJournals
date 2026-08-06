@@ -176,7 +176,7 @@
 
 [[Kenneth Sherwood]] is a poet with an interest in performance, orality, materiality, remix, and code. He co-edited RIF/T, one 
 
-Dr. [[Kenton T. Howard]] is a lecturer in the Games and Interactive Media program at the University of Central Florida in 
+Dr. [[Kenton Taylor Howard]] is a lecturer in the Games and Interactive Media program at the University of Central Florida in 
 
 [[Kiera Obbard]] is a poet and a SSHRC Postdoctoral Fellow at the University of Waterloo where 
 
