@@ -38,7 +38,7 @@ Design: [[Sarah Garcin]] & [[Angeline Ostinelli]]
 ## 5.1
 Edited by [[Christian Ulrik Andersen]] & [[Geoff Cox]].
 
-[[Christian Ulrik Andersen]], [[Mitra Azar]], [[Elisavet Christou]], [[Geoff Cox]], [[Aideen Doran]], Kristoffer Gansing, [[Pablo R. Velasco González]], [[Lone Koefoed hansen]], [[Nathan Jones]], [[Joasia Krysa]], [[Graziele Lautenschlaeger]], [[Lyndsay Mann]], [[Cornelia Sollfrank]], [[Wolfgang sützl]], [[Marie Louise Juul Søndergaard]], [[Cansu Topaloglu]], [[Scott Wark]], [[Tessa Zettel]]
+[[Christian Ulrik Andersen]], [[Mitra Azar]], [[Elisavet Christou]], [[Geoff Cox]], [[Aideen Doran]], Kristoffer Gansing, [[Pablo Rodrigo Velasco González]], [[Lone Koefoed hansen]], [[Nathan Jones]], [[Joasia Krysa]], [[Graziele Lautenschlaeger]], [[Lyndsay Mann]], [[Cornelia Sollfrank]], [[Wolfgang sützl]], [[Marie Louise Juul Søndergaard]], [[Cansu Topaloglu]], [[Scott Wark]], [[Tessa Zettel]]
 
 Design: The Laboratory of [[Manuel Bürger]], Manuel Bürger & [[Hendrike Nagel]]
 ## 4.1

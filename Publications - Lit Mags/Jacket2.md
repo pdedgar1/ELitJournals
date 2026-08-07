@@ -10,7 +10,7 @@ Contributors
 |[[Sarah Dowling]]|
 |[[Knar Gavin]]|
 |[[Katie L. Price]]|
-|[[Steve McLaughlin]]|
+|[[Stephen McLaughlin]]|
 |[[Ariel Resnikoff]]|
 |[[Danny Snelson]]|
 |[[Michelle Taransky]]|

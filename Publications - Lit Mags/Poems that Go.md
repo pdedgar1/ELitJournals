@@ -55,7 +55,7 @@ https://the-next.eliterature.org/collections/14&pg=1&display=100&sort=title
 [[Nick Montfort]], [[Rachel Stevens]]
 [[Jason Nelson]]
 [[Dan Shiovitz]]
-[[Neil Jenkins]], [[Max Dunlop]]
+[[Neil Jenkins]], [[Mac Dunlop]]
 [[Jörg Piringer]]
 [[Nicolas Clauss]], [[Jean-Jacques Birgé]]
 [[Michael Madsen]]

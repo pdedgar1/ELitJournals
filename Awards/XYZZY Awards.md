@@ -109,7 +109,7 @@
 - 2016: [[Astrid Dalmady]]
 - 2017: [[Victor Ojuel]]
 - 2018: [[Hanon Ondricek]]
-- 2019: [[G.C. "Grim" Baccaris]]
+- 2019: [[G. C. "Grim" Baccaris]]
 - 2020: [[Kreg Segall]]
 - 2021: [[Chin Kee Yong]]
 - 2022: [[Eliot M. B. Howard]]
@@ -300,7 +300,7 @@
 - 2018: [[Serhii Mozhaiskyi]]
 - 2019: [[Nick Walton]]
 - 2020: [[Linus Åkesson]]
-- 2021: [[Agnieszka Trzaska]]; [[J. J. Guest]], [[G. C. Baccaris]], and [[Duncan Bowsman]]; [[Milo van Mesdag]] (tie)
+- 2021: [[Agnieszka Trzaska]]; [[J. J. Guest]], [[G. C. "Grim" Baccaris]], and [[Duncan Bowsman]]; [[Milo van Mesdag]] (tie)
 - 2022: [[Agnieszka Trzaska]]
 
 #### Best Technological Development
@@ -330,7 +330,7 @@
 - 2016: [[Aaron A. Reed]] and [[Jacob Garbe]]
 - 2017: [[Liza Daly]]
 - 2018: [[Charlie Brooker]]
-- 2019: [[Provodnik Games]]; [[G.C. "Grim" Baccaris]] (tie)
+- 2019: [[Provodnik Games]]; [[G. C. "Grim" Baccaris]] (tie)
 - 2020: [[Ryan Veeder]], [[Harrison Gerard]]
 - 2021: [[grave snail games]]
 - 2022: [[AZ]] / [[ParserCommander]]

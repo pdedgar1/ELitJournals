@@ -4,7 +4,7 @@ An International digital Poetry Festival
 |                            |
 | -------------------------- |
 | [[Grigore Negrescu]]       |
-| [[Tati Rapatzikou]]        |
+| [[Tatiani G. Rapatzikou]]        |
 | [[Laura Shackelford]]      |
 | [[Giovanna di Rosario]]    |
 | [[]]                      |

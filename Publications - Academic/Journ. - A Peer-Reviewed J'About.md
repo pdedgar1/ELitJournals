@@ -61,7 +61,7 @@ Reviewers :
 ## issue 4 - 2015
 [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Ned Rossiter]], [[Soenke Zehle]], [[Renée Ridgway]], [[James Charlton]], [[Audrey Samson]]., [[Minka Stoyanova]], [[Winnie Soon]], [[Lea Muldtofte Olsen]], [[Daniel C. Howe]]
 ## issue 5 - 2016
-[[Christian Ulrik Andersen]], [[Geoff Cox]], [[Wolfgang sützl]], [[Aideen Doran]], [[Nathan Jones]], [[Marie Louise Juul Søndergaard]], [[Tessa Zettel]] , [[Sumugan Sivanesan]], [[Pablo R. Velasco González]] , [[Kasper Hedegård Schiølin]], [[Cornelia Sollfrank]], [[Wolfgang sützl]]
+[[Christian Ulrik Andersen]], [[Geoff Cox]], [[Wolfgang sützl]], [[Aideen Doran]], [[Nathan Jones]], [[Marie Louise Juul Søndergaard]], [[Tessa Zettel]] , [[Sumugan Sivanesan]], [[Pablo Rodrigo Velasco González]] , [[Kasper Hedegård Schiølin]], [[Cornelia Sollfrank]], [[Wolfgang sützl]]
 ## issue 6 - 2017
 [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Brian House]], [[Nathan Jones]]. [[John Hill]], [[David Young]], [[Maja Bak Herrie]], [[Maya Indira Ganesh]], [[Abelardo Gil-Fournier]]
 ## issue 7 - 2018

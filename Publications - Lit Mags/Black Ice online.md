@@ -21,7 +21,7 @@
 [[Kim Addonizio]]
 [[Kate Bernheimer]]
 [[R. M. Berry]]
-[[Marianne Hauser]]
+[[Marienne Hauser]]
 [[Stephen Graham Jones]]
 [[Michael Martone]]
 [[Lidia Yuknavitch]]

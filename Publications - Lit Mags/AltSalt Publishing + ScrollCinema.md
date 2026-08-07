@@ -12,7 +12,7 @@
 [[Layqa Nuna Yawar]]
 [[Lia Coleman]]
 [[Marisol Silva]]
-[[Charles Huang]]
+[[Charles H. Huang]]
 [[Rimay Raiz]]
 [[Sandy Enriquez]]
 [[Stephanie Barreto-Lastra]]

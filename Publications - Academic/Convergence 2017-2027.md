@@ -264,7 +264,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Darina Nikolova]]                  |
 | [[Dario Lolli]]                      |
 | [[Dariya Tsyrenzhapova]]             |
-| [[Dasol Kim]]                        |
+| [[Dasul Kim]]                        |
 | [[David Hesmondhalgh]]               |
 | [[David M Dozier]]                   |
 | [[David Mathieu]]                    |

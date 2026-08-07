@@ -74,7 +74,7 @@ Leads [[Khee Hoon Chan]], [[Sabrina Sgandurra]], [[Patrick R. Dolan]]
 [[Alex Adams]]
 [[Kylie Broderick]]
 [[Giorgio Chiappa]]
-[[Helene Sellier]]
+[[Hélène Sellier]]
 
 
 ### 2021 Issue

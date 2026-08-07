@@ -51,7 +51,7 @@
 [[Nick Montfort]]
 [[Nicole Tallman]]
 [[P. Scott Cunningham]]
-[[Patricia Echeverria]]
+[[Patricia Villalobos Echeverria]]
 [[Peter Mishler]]
 [[Pierre Gervois]]
 [[Robbie Barrat]]

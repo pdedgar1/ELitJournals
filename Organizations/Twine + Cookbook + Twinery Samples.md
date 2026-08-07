@@ -7,7 +7,7 @@ Cookbook Author
 [[Shawn Graham]]
 [[Akjosch]]
 [[Chapel]]
-[[G.C. "Grim" Baccaris]]
+[[G. C. "Grim" Baccaris]]
 [[Evelyn Mitchell]]
 [[James Skemp]]
 
@@ -41,7 +41,7 @@ Samples
 | [[plutoerebus]]                                           |
 | [[Badger Ciar]]                                           |
 | [[Janos Biro]]                                            |
-| [[G.A. Millsteed]]                                        |
+| [[G. A. Millsteed]]                                        |
 | [[cosmicwangst]]                                          |
 | [[Anna Anthropy]]                                         |
 | [[Stewart C. Baker]]                                      |
@@ -69,7 +69,7 @@ Samples
 | [[Seth Jones]]                                            |
 | [[Jared W. Cooper]]                                       |
 | [[Agnieszka Trzaska]]                                     |
-| [[G.C. "Grim" Baccaris]]                                  |
+| [[G. C. "Grim" Baccaris]]                                  |
 | [[Cyra Ezekeli]]                                          |
 | [[arjie]]                                                 |
 | [[Cressida Tseng]]                                        |

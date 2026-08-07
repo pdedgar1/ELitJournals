@@ -2,7 +2,7 @@
 
 |                                 |
 | ------------------------------- |
-| [[G.C. "Grim" Baccaris]]        |
+| [[G. C. "Grim" Baccaris]]        |
 | [[Tori Beaty]]                  |
 | [[Matt Campbell]]               |
 | [[Nessa Cannon]]                |
@@ -22,7 +22,7 @@
 | [[Kenton Taylor Howard]]        |
 | [[Elian E. Jentoft (eveghost)]] |
 | [[Michelle Jolley]]             |
-| [[Joey Jones]]                  |
+| [[Joey Donald Jones]]                  |
 | [[Alexis Kim]]                  |
 | [[Chris Klimas]]                |
 | [[Jonathan Lessard]]            |
@@ -34,7 +34,7 @@
 | [[Graham Nelson]]               |
 | [[Raluca Percec]]               |
 | [[Martin Pichlmair]]            |
-| [[Judith Pintar]]               |
+| [[Judith A. Pintar]]               |
 | [[Colin Post]]                  |
 | [[Charlene Putney]]             |
 | [[Aaron A. Reed]]               |
@@ -48,7 +48,7 @@
 | [[Josh Unsworth]]               |
 | [[Doug Valenta]]                |
 | [[Ian Michael Waddell]]         |
-| [[Damon Wakes]]                 |
+| [[Damon L. Wakes]]                 |
 | [[Anna C. Webster]]             |
 | [[Manda Whitney]]               |
 | [[Kathryn Yu]]                  |

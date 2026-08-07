@@ -120,7 +120,7 @@
 [[Mariusz Pisarski]]
 [[Mark C. Marino]]
 [[Mark L. Sample]]
-[[Maruem Kayna]]
+[[Maurem Kayna]]
 [[Meredith Morran]]
 [[Mez Breeze]]
 [[Michael Hurtado]]

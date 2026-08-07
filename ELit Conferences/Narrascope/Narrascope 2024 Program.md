@@ -38,9 +38,9 @@ Keynote : [[Nat Clayton]]
 |[[E. L. Meszaros]]|
 |[[Scott Nicholson]]|
 |[[Mairi Nolan]]|
-|[[Nicholas O’Brien]]|
-|[[Tabitha O’Connell]]|
-|[[Judith Pintar]]|
+|[[Nicholas O'Brien]]|
+|[[Tabitha O'Connell]]|
+|[[Judith A. Pintar]]|
 |[[Colin Post]]|
 |[[PRINCESS INTERNET CAFé]]|
 |[[Tim Rattray]]|
@@ -57,9 +57,9 @@ Keynote : [[Nat Clayton]]
 |[[M. Kristana Textor]]|
 |[[Jet Vellinga]]|
 |[[Matthew Vimislik]]|
-|[[Damon Wakes]]|
+|[[Damon L. Wakes]]|
 
 demo room authors [[Tess Wainwright]]
 [[Heather Albano]], [[Julian Heuser]], [[Nicholas O'Brien]]
-[[G.C. "Grim" Baccaris]] [[Trent Hergenrader]], [[Robin Ward]] ,[[Paris Buttfield-Addison]]
+[[G. C. "Grim" Baccaris]] [[Trent Hergenrader]], [[Robin Ward]] ,[[Paris Buttfield-Addison]]
 [[Geoffrey Golden]], [[Tess Wainwright]]

@@ -389,7 +389,7 @@ chief editor [[Kara De Folo]], SFF ed [[Richard Hacker]], managing [[Lorena Knig
 - [[Leissa Shahrak]] — "The Jihad of Agha-ye Rahimi"
 - [[Barbara Petronelli]] — "Consuming Angie"
 - [[Sharon Bippus]] — "What Levander Means"
-- [[Diane Tonnessen]] — "Approaching God"
+- [[Diana Tonnessen]] — "Approaching God"
 - [[Laura Castellanos]] — "Overpass"
 - [[Cara Wilhelm]] — "Shadowing Olivia"
 

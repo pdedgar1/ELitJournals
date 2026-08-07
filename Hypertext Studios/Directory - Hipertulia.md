@@ -1,11 +1,11 @@
-by [[Susana Pajares Tosca]] and developer [[Joaquin María Aguirre Romero]]
+by [[Susana Pajares Tosca]] and developer [[Joaquín María Aguirre Romero]]
 
 http://www.ucm.es/info/especulo/hipertul/
 
 [[Carlos Labbé]] - Pentagonal 
 [[Jerry Hoeg]] - Sci, Tech, LatAm Narr in 20th Cent / Beyond
 [[Gustavo Martín Garzo]] - La señora 
-[[Very Mayra]] - Pensar 
+[[Vera Mayra]] - Pensar 
 interview with [[M. D. Coverley aka Marjorie C. Luesebrink]] by [[José Luis Orihuela]]
 Cuatro hipertextos de Eastgate: 
 - Afternoon, 

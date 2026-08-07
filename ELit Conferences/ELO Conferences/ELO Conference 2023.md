@@ -139,7 +139,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[María Mencía]]                           |
 | [[Tina Escaja aka Alm@ Pérez]]                            |
 | [[Joel Ong]]                               |
-| [[Emanuel Santos]]                         |
+| [[Emanuelle Santos]]                         |
 | [[Daniele Giampà]]                         |
 | [[María Goicoechea de Jorge]]                       |
 | [[Talan Memmott]]                          |
