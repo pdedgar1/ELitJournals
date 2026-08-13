@@ -34,7 +34,7 @@ https://the-next.eliterature.org/collections/14&pg=1&display=100&sort=title
 [[James W. Johnson]]
 [[William Carlos Williams]], [[Charles Demuth]], [[Megan Sapnar]]
 [[Otagaki Rengetsu]], [[Ingrid Ankerson]]
-[[Thom Swiss]], [[Skye Giordano]]
+[[Thomas Swiss]], [[Skye Giordano]]
 [[Andy Campbell]]
 [[Joanna Sakellion]]
 [[Deena Larsen]]

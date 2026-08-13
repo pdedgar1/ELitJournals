@@ -6,7 +6,7 @@
 
 [[Robert Kendall]], [[Talan Memmott]], [[Nick Montfort]], [[Scott Rettberg]], [[Stephanie Strickland]], [[Noah Wardrip-Fruin]]
 [[Sandy Baldwin]]. [[Laura Borràs Castanyer]], [[Bertrand Gervais]], [[Juan B. Gutiérrez]], [[Mark C. Marino]], [[Jill Walker Rettberg]], 
-[[N. Katherine Hayles]]. [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Thom Swiss]], [[Kenneth Thibodeau]], [[Emily Warn]], [[Josh Weiner]]
+[[N. Katherine Hayles]]. [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Thomas Swiss]], [[Kenneth Thibodeau]], [[Emily Warn]], [[Josh Weiner]]
 ### Attendees
 - [[Joan Elies Adell Pitarch]] (University of Catalonia)
 - [[Rafael C. Alvarado]] (Dickinson College)
@@ -112,7 +112,7 @@
 - [[Jennifer J. Sterling]] (University of Maryland)
 - [[Jennifer S. Stevens]] (George Mason University)
 - [[Stephanie Strickland]] (Sarah Lawrence College)
-- [[Thom Swiss]] (University of Minnesota)
+- [[Thomas Swiss]] (University of Minnesota)
 - [[Joseph Tabbi]] (University of Chicago)
 - [[Thomas C. Templeton]] (University of Maryland)
 - [[Evelyn Timberlake]] (Library of Congress)

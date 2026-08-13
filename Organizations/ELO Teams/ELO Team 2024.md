@@ -39,7 +39,7 @@
 [[Johanna Rodgers]], City University of New York
 [[Samya Brata Roy]], IIT Jodhpur
 [[Emily K. Johnson]], University of Central Florida
-[[Maria Cecilia Reyes]], Universidad del Norte
+[[María Cecilia Reyes]], Universidad del Norte
 [[Kirk M. Lundblade]], University of Central Florida
 [[Deena Larsen]], Washington State University Vancouver
 [[Mike Shier]], University of Central Florida

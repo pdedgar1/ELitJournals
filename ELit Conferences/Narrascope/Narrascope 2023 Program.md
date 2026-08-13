@@ -8,7 +8,7 @@
 | [[Autumn Chen]]             |     |
 | [[Brendan Desilets]]        |     |
 | [[Sasha Fenn]]              |     |
-| [[Clara Fernandez-Vara]]    |     |
+| [[Clara Fernández-Vara]]    |     |
 | [[Aster Fialla]]            |     |
 | [[Diana Flindt]]            |     |
 | [[Luis Garcia]]             |     |

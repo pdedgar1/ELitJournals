@@ -74,7 +74,7 @@
 [[Alida Sun]]
 [[Ameni]]
 [[Anna Malina]]
-[[Anne Spalter]]
+[[Anne Morgan Spalter]]
 [[artist name 01]]
 [[Artsychaut (Kim Siew)]]
 [[Brook Getachew]]

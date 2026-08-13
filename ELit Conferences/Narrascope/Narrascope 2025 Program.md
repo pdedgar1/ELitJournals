@@ -48,5 +48,5 @@ Keynote' [[Hidetaka "SWERY" Suehiro]]
 [[Autumn Chen]], [[Jeremy Miles Johnson]], [[Daniel Lichtman]], [[Isabelle Smith]], [[Antonio Andrade]], [[Biagi Calicchia]]
 [[Jessica Creane]], [[Jet Vellinga]], [[Will Lowry]], [[Emily Hartford]], [[Zach Dodson]]
 [[Daniel Park]], [[Ari Gass]], [[Dain Saint]], [[Matthew Armstead]], [[A. E. Osworth]], [[Alex Hera]], [[Alexandra Leonhart]], [[Alex M. Lee]], [[Natalie Kendrick]], [[Richard Bisso]], [[Shawn French]], [[Yoshimoto Moriwaki]]
-[[Hartmut Koenitz]], [[Mirjam Palosaari Eladhari]], [[Jonathan Barbara]], [[Joshua A. Fisher]], [[Maria Cecilia Reyes]], [[Jonathan Barbara]]
+[[Hartmut Koenitz]], [[Mirjam Palosaari Eladhari]], [[Jonathan Barbara]], [[Joshua A. Fisher]], [[María Cecilia Reyes]], [[Jonathan Barbara]]
 

@@ -15,20 +15,6 @@
       }
     },
     {
-      "query": "path:\"ELit Conferences/ELO Exhibitions\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"ELit Conferences/MIX Conferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
       "query": "path:Organizations  ",
       "color": {
         "a": 1,
@@ -71,34 +57,6 @@
       }
     },
     {
-      "query": "path:\"ELit Conferences/ELO Conferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14075484
-      }
-    },
-    {
-      "query": "path:\"ELit Conferences/E-Poetry\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"ELit Conferences/ELO Teams\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:\"ELit Conferences/Unconferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 13162076
-      }
-    },
-    {
       "query": "path:Awards  ",
       "color": {
         "a": 1,
@@ -106,10 +64,17 @@
       }
     },
     {
-      "query": "path:\"ELit Conferences/Narrascope\"  ",
+      "query": "path:\"ELit Conferences/ELO Conferences\"  ",
       "color": {
         "a": 1,
-        "rgb": 12386181
+        "rgb": 14077696
+      }
+    },
+    {
+      "query": "path:\"ELit Conferences\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16767109
       }
     }
   ],
@@ -123,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.024979570854159815,
-  "close": true
+  "scale": 0.012244973299540553,
+  "close": false
 }

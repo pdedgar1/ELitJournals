@@ -824,7 +824,7 @@ CELL Member : French-language E-lit
 | [[Marye Musset]]                                         |
 | [[Bruno Nadeau]]                                         |
 | [[Motomichi Nakamura]]                                   |
-| [[Thom Swiss]]                                           |
+| [[Thomas Swiss]]                                           |
 | [[Yugo Nakamura]]                                        |
 | [[Napier]]                                               |
 | [[Mark Napier]]                                          |

@@ -26,7 +26,7 @@
 | [[Brittany Amell]]                               |
 | [[Anna Ananieva]]                                |
 | [[Katrina Anderson]]                             |
-| [[Mark Anderson]]                                |
+| [[Mark W. R. Anderson]]                                |
 | [[Steve F. Anderson]]                            |
 | [[Talea Anderson]]                               |
 | [[Melanie Andresen]]                             |
@@ -820,7 +820,7 @@
 | [[Glen Layne-Worthey]]                           |
 | [[Elina Leblanc]]                                |
 | [[Ashley S. Lee]]                                |
-| [[Benjamin Lee]]                                 |
+| [[Benjamin Charles Germain Lee]]                                 |
 | [[James Lee]]                                    |
 | [[Loren Lee]]                                    |
 | [[Sunkyu Lee]]                                   |

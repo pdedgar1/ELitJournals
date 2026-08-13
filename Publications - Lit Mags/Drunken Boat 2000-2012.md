@@ -50,7 +50,7 @@
 [[Richard Koenig]]
 [[Lisa DiLillo]]
 [[esfore-entropy]]
-[[Thom Swiss]]
+[[Thomas Swiss]]
 [[Linda Carroli]]
 [[Jody Zellen]]
 [[Liz Miller]]

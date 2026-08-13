@@ -39,7 +39,7 @@ Chair:[[M. D. Coverley aka Marjorie C. Luesebrink]]
 Break
 Session 6A Book, Archive, Narrative –Curtin 118
 Chair:[[Jessica Pressman]]
-❏[[Clara Fernandez-Vara]], ❏[[Jessica Pressman]], ❏[[Sandy Baldwin]] and [[Celeste Lantz]], Session 6B Preservation and Publishing–Curtin 175
+❏[[Clara Fernández-Vara]], ❏[[Jessica Pressman]], ❏[[Sandy Baldwin]] and [[Celeste Lantz]], Session 6B Preservation and Publishing–Curtin 175
 Chair:LeonardoFlores
 ❏[[Dene Grigar]], ❏[[Jim Rosenberg]], ❏[[Rob Wittig]], Catered Lunch–Golda Meir Library, Fourth Floor Conference Center
 Session 7A Teaching E-­‐Lit–Curtin 118

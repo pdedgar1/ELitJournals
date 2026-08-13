@@ -84,7 +84,7 @@ intro
 [[Katherine Frazer]]
 [[Cibelle Cavalli Bastos]]
 [[Mario Klingemann]]
-[[Anne Spalter]]
+[[Anne Morgan Spalter]]
 [[Sofia Crespo]]
 [[Helena Sarin]]
 [[Refik Anadol]]

@@ -2,7 +2,7 @@
 
 ### Vol 1, Iss 1
 - [[Patricia Baird]]
-- [[Theodor H. Nelson]]
+- [[Theodor Holm "Ted" Nelson]]
 - [[Virginia M. Doland]]
 - [[Elizabeth B. Duncan]]
 - [[Lynda Hardman]]
@@ -102,7 +102,7 @@
 - [[Peter J. Brown]]
 - [[Ben Shneiderman]]
 - [[Catherine Plaisant]]
-- [[Rodrigo Botafogo]]
+- [[Rodrigo A. Botafogo]]
 - [[Don Hopkins]]
 - [[William Weiland]]
 - [[Philip J. Gartshore]]
@@ -173,7 +173,7 @@
 ### Vol 5, Iss 2
 - [[Charles J. Kacmar]]
 - [[Gary Hill]]
-- [[Rob Wilkins]]
+- [[Rob J. Wilkins]]
 - [[Wendy Hall]]
 - [[Lesley A. Gardner]]
 - [[Ray J. Paul]]
@@ -190,7 +190,7 @@
 - [[Walter F. L. Bogaerts]]
 - [[Marios C. Angelides]]
 - [[Geraldine Gibson]]
-- [[Helen Ashman]]
+- [[Helen L. Ashman]]
 - [[Forbes Gibb]]
 - [[Brian Mooney]]
 
@@ -221,7 +221,7 @@
 - [[M. Landoni]]
 - [[F. Panetsos]]
 - [[Paulo C. Masiero]]
-- [[M. Cristina F. de Oliveira]]
+- [[Maria Cristina Ferreira De Oliveira]]
 - [[Fernão S. R. Germano]]
 - [[Gladys Pierri]]
 
@@ -234,7 +234,7 @@
 - [[Carl Taylor]]
 - [[Chris Jones]]
 - [[Janet Verbyla]]
-- [[Helen Ashman]]
+- [[Helen L. Ashman]]
 - [[Robert Clyde]]
 - [[Pauline Berry]]
 - [[Elisabeth Davenport]]
@@ -274,7 +274,7 @@
 - [[Y. C. Lee]]
 - [[Bridget Winstanley]]
 - [[Mike Beanie]]
-- [[Sara Jones]]
+- [[Sara Penrhyn Jones]]
 - [[Jill Hewitt]]
 - [[John Sapsford-Francis]]
 - [[Anita Sundaram]]

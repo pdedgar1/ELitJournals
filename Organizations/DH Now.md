@@ -12,7 +12,7 @@ TEam
 [[Kris Stinson]]
 [[Greta Swain]]
 [[Laura Crossley]]
-[[Lisa M. Rhody]]
+[[Lisa Marie Rhody]]
 [[Benjamin Schneider]]
 [[Jeri Wieringa]]
 [[Amanda Morton]]
@@ -432,7 +432,7 @@ Advisory Board
 | [[Lisa Munro]]                      |
 | [[Lisa Spiro]]                      |
 | [[Lincoln Mullen]]                  |
-| [[Lisa M. Rhody]]                      |
+| [[Lisa Marie Rhody]]                      |
 | [[Liz Rodrigues]]                   |
 | [[Lucy Appert]]                     |
 | [[Luke Yurchak]]                    |
@@ -558,7 +558,7 @@ Advisory Board
 | [[R. J. Lambert]]                    |
 | [[Robin Crigler]]                   |
 | [[Robyn Le Blanc]]                  |
-| [[Robert McDonald]]                 |
+| [[Robert H. McDonald]]                 |
 | [[Robert Galin]]                    |
 | [[Robert Voss]]                     |
 | [[Roger L. Martínez-Dávila]]        |

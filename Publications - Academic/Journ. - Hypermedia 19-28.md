@@ -91,7 +91,7 @@
 - [[Matus Tomlein]]
 - [[Martina Hanakova]]
 - [[Robert Moro]]
-- [[Maria Bielikova]]
+- [[Mária Bieliková]]
 - [[Isaac Alpizar-Chacon]]
 - [[Sergey Sosnovsky]]
 - [[Claus Atzenbeck]]

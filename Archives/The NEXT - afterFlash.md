@@ -14,7 +14,7 @@
 [[Reiner Strasser]] and [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Alan Sondheim]] and [[Reiner Strasser]]
 [[Stephanie Strickland]], [[Cynthia Lawson Jaramillo]] and [[Paul Ryan]]
-[[Thom Swiss]]
+[[Thomas Swiss]]
 [[John David Zuern]]
 [[Jason Edward Lewis]]
 [[Mark C. Marino]]

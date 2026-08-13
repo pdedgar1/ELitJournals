@@ -25,7 +25,7 @@
 [[Toiya Kristen Finley]], [[Laura Scott]], [[Heather Logas]]
 [[Dave Gilbert]]
 [[Claire Furkle]]
-[[Chris Martens]], [[Stephen Ware]], [[Stacey Mason]], [[Aaron A. Reed]]
+[[Chris Martens]], [[Stephen G. Ware]], [[Stacey Mason]], [[Aaron A. Reed]]
 [[Ian Thomas]]
 [[Mike Spivey]]
 [[Mike Spivey]], [[Naomi Hinchen]], [[Chris Jones]], [[Carl Muckenhoupt]], [[Jenni Polodna]], [[Emily Short]]

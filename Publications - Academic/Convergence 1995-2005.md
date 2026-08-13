@@ -186,7 +186,7 @@
 | [[Tom Payne]]                            |
 | [[Toni Downes]]                          |
 | [[Tugce Oklay]]                          |
-| [[V. Michael Bove, Jr.]]                 |
+| [[V. Michael Bove Jr.]]                 |
 | [[Victoria Bennett]] and [[Adam Clarke]] |
 | [[Walter Brenner]]                       |
 |                                          |
@@ -422,7 +422,7 @@
 | [[Ryszard W. Kluszczyński]]         |
 | [[San San Chow]]                    |
 | [[Sandy Kyrish]]                    |
-| [[Sasha Barab]]                     |
+| [[Sasha A. Barab]]                     |
 | [[Scott Higgins]]                   |
 | [[Scott McQuire]]                   |
 | [[Seamus Simpson]]                  |

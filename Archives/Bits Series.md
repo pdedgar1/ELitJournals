@@ -3,7 +3,7 @@
 
 [[Alan Liu]]
 [[Nick Montfort]]
-[[David Durand]]
+[[David G. Durand]]
 [[Merrilee Proffitt]]
 [[Liam R. E. Quin]]
 [[Jean-Hugues Réty]] 

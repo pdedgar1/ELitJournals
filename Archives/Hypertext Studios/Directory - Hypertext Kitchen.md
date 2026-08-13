@@ -14,7 +14,7 @@ Sources :
 [[HypertextNow]] with [[Mark Bernstein]]
 
 [[Directory - Hipertulia]] by [[Susana Pajares Tosca]]
-[[Hypertext Research and Resource Testbed]] by [[Rosemary Simpson]]
+[[Hypertext Research and Resource Testbed]] by [[Rosemary Michelle Simpson]]
 [[Information Design]] by [[Peter Bogaards]]
 [[Netzwissenshaft.de]] by [[Reinhold Grether]]
 [[PeterMe]] by [[Peter Merholz]]

@@ -83,7 +83,7 @@ eX.iC0n [[sade arellano]]
 
 #### Issue 4: 
 [[Cody B Strange]]
-[[Grace Lin]]
+[[Grace I. Lin]]
 [[Sidney Muntean]]
 [[Olivia Torres]]
 [[Eddie Lohmeyer]]

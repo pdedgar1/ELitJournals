@@ -14,7 +14,7 @@
 | [[Brendan Desilets]]            |
 | [[Jason Dyer]]                  |
 | [[Matthew Farber]]              |
-| [[Clara Fernandez-Vara]]        |
+| [[Clara Fernández-Vara]]        |
 | [[Karsten Feyerabend]]          |
 | [[Geoffrey Golden]]             |
 | [[Josh Grams]]                  |
@@ -45,7 +45,7 @@
 | [[Rebecca Slitt]]               |
 | [[Christopher J Smith]]         |
 | [[Lee Tusman]]                  |
-| [[Josh Unsworth]]               |
+| [[John Unsworth]]               |
 | [[Doug Valenta]]                |
 | [[Ian Michael Waddell]]         |
 | [[Damon L. Wakes]]                 |

@@ -28,7 +28,7 @@
 
 ### Artists 
 [[Aaron A. Reed]]
-[[James Ryan]], [[Ben Samuel]], [[Adam Summerville]]
+[[James Owen Ryan]], [[Ben Samuel]], [[Adam J. Summerville]]
 [[Alan Bigelow]]
 [[Alex Saum-Pascual]]
 [[Allison Parrish]]

@@ -316,7 +316,7 @@
 |                                   |     |
 | [[Héloïse d'Almeida]]             |     |
 | [[Yves Daoust]]                   |     |
-| [[Marcio Felipe da Silva]]        |     |
+| [[Márcio Felipe da Silva]]        |     |
 | [[Sylvain David]]                 |     |
 | [[Stéphane Degoutin]]             |     |
 | [[Jennifer J. Dellner]]              |     |
@@ -335,7 +335,7 @@
 |                                   |     |
 | [[Lai-Tze Fan]]                   |     |
 | [[Nola Farman]]                   |     |
-| [[Clara Fernandez-Vara]]          |     |
+| [[Clara Fernández-Vara]]          |     |
 | [[Aaron Finbloom]]                |     |
 | [[Caitlin Fisher]]                |     |
 | [[Harriet Fisher]]                |     |

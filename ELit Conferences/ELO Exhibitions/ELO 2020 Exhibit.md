@@ -32,7 +32,7 @@
 [[Judy Malloy]]
 [[María Mencía]]
 [[Anastasia Salter]] and [[John T. Murray]]
-[[Jasmine T. Otto]] and [[Angus G. Forbes]]
+[[Jasmine Tan Otto]] and [[Angus G. Forbes]]
 [[Sara Raffel]]
 [[Jason Nelson]]
 [[Daniel Roche]]

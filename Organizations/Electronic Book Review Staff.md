@@ -12,7 +12,7 @@
 ## International Advisory Board
 
 [[Joe Amato]], [[Tim Armstrong]], [[Jan Baetens]], [[Ralph Berry]], [[Serge Bouchardon]], [[Marc Bousquet]], [[Stephen J. Burn]], [[David Ciccoricco]], [[Darren Dougherty]],[[Martin Paul Eve]], [[Irene Fabbri]], [[Anna Gibbs]], [[Richard Grusin]], [[Mark B. N. Hansen]], [[Ursula Heise]]
-[[Stefan Herbrechter]], [[Matthew G. Kirschenbaum]], [[Brian Lennon]], [[Timothy Melley]], [[Dee Morris]], [[Timothy Morton]], [[Stuart Moulthrop]], [[Søren Bro Pold]], [[Manuel Portela]], [[Daniel Punday]], [[Rita Raley]], [[David S. Roh]], [[Anne Royston]], [[Allison Schifani]], [[Kelly Sultzbach]], [[Jörgen Schäfer]], [[Davis Schneiderman]], [[Rob Swigart]], [[Thom Swiss]], [[Regina Schober]], [[Rui Torres]], [[Phillip Wegner]], [[Birger Vanwesenbeeck]], [[Cary Wolfe]], [[Michael Wutz]], [[Eric Dean Rasmussen]]
+[[Stefan Herbrechter]], [[Matthew G. Kirschenbaum]], [[Brian Lennon]], [[Timothy Melley]], [[Dee Morris]], [[Timothy Morton]], [[Stuart Moulthrop]], [[Søren Bro Pold]], [[Manuel Portela]], [[Daniel Punday]], [[Rita Raley]], [[David S. Roh]], [[Anne Royston]], [[Allison Schifani]], [[Kelly Sultzbach]], [[Jörgen Schäfer]], [[Davis Schneiderman]], [[Rob Swigart]], [[Thomas Swiss]], [[Regina Schober]], [[Rui Torres]], [[Phillip Wegner]], [[Birger Vanwesenbeeck]], [[Cary Wolfe]], [[Michael Wutz]], [[Eric Dean Rasmussen]]
 
 
 ### Thread editors 

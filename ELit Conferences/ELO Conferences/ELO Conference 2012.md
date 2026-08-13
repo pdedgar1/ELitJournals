@@ -48,7 +48,7 @@
 [[Giselle Beiguelman]] [[Jeff Knowlton]]
 
 [[Paolo Javier]] [[Sueyeun Juliette Lee]]
-[[Clara Fernandez-Vara]] [[David Prater]] [[Alexandra Saemmer]]
+[[Clara Fernández-Vara]] [[David Prater]] [[Alexandra Saemmer]]
 [[Penny Florence]] [[Stuart Moulthrop]] [[Manuel Portela]] [[Urs Richle]]
 [[Mauro Carassai]]
 [[Mez Breeze]] [[Aden Evens]] [[Andrew Klobucar]]

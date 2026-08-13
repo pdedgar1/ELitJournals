@@ -897,7 +897,7 @@ study on digital fiction readers
 
 ELit as Digital Humanities
 
-[[Leonardo Flores]], [[Amanda Hodes]], [[James Ryan]], [[Nick Montfort]], [[Angela Chang]], [[Milton Läufer]], [[Andrew Haik Demirjian]] and [[Sarah Whitcomb Laiola]]
+[[Leonardo Flores]], [[Amanda Hodes]], [[James Owen Ryan]], [[Nick Montfort]], [[Angela Chang]], [[Milton Läufer]], [[Andrew Haik Demirjian]] and [[Sarah Whitcomb Laiola]]
 
 Lightning talks on Electronic Literature
 

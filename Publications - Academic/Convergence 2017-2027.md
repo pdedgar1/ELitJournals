@@ -918,7 +918,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Sebastian Cole]]                   |
 | [[Sebastian Randerath]]              |
 | [[Seonah Kim]]                       |
-| [[Sergio C Figueiredo]]              |
+| [[Sergio C. Figueiredo]]              |
 | [[Sergio Minniti]]                   |
 | [[Sha Zhu]]                          |
 | [[Shaheen Kanthawala]]               |

@@ -199,7 +199,7 @@
 | [[Jan Pieter Kaptein]]              |     |
 | [[Jan Robert Leegte]]               |     |
 | [[Jan Waatze Schuurman]]            |     |
-| [[Jane Lee]]                        |     |
+| [[Janet Lee]]                        |     |
 | [[Janice Deul]]                     |     |
 | [[Janine Zielman]]                  |     |
 | [[Jannes Heidinga]]                 |     |

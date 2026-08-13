@@ -110,7 +110,7 @@ Colaboradores
 | [[Santiago Muedano]]                                         |
 | [[Sergio Roncallo]]                                          |
 | [[Tábula Rasa]]                                              |
-| [[Vanessa García]]                                           |
+| [[Vanessa López García]]                                           |
 | [[Violeta Gau]]                                              |
 | [[Ximena Atristain]]                                         |
 | [[Adriana Díaz]]                                             |

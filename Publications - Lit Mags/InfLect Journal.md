@@ -8,7 +8,7 @@ University of Canberra Center for Writing
 [[Komninos Konstantinos Zervos]]
 [[Ana María Uribe]]
 [[Jason Nelson]]
-[[Thom Swiss]]
+[[Thomas Swiss]]
 [[Motomichi Nakamura]]
 [[Robot Friend]]
 [[Hazel Smith]]

@@ -6,7 +6,7 @@
 | [[Reham Hosny]]                | Egypt        |
 | [[Ibrahim Ahmed Melhem]]       | Jordan       |
 | [[Mohamed Asleem]]             | Morocco      |
-| [[Labeba Al-Khemar]]           | Morocco      |
+| [[Labiba Al-Khemar]]           | Morocco      |
 | [[Said Yaktine]]               | Morocco      |
 | [[Mhmed Dahi]]                 | Morocco      |
 | [[Zohor Gourram]]              | Morocco      |
@@ -67,7 +67,7 @@
 [[Ramsey Nasser]]
 [[Abdelouahid Stitou]]
 [[Nissmah Roshdy]]
-[[Smail El Bouyahyaoui]] and [[Labeba Al-Khemar]]
+[[Smail El Bouyahyaoui]] and [[Labiba Al-Khemar]]
 [[Ahmed Khalid Tawfiq]]
 [[Abdelouahid Stitou]]
 [[Nassir Mounis]]

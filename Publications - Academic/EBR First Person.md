@@ -88,7 +88,7 @@
 [[D. Fox Harrell]]
 [[Lee Sheldon]]
 [[Pat Harrigan]]
-[[Eric Lang]]
+[[Eric W. Lang]]
 [[G. Kevin Wilson]]
 [[Bruno Faidutti]]
 [[Eric Zimmerman]]

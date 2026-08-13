@@ -421,7 +421,7 @@ Founder [[John Tranter]]
 | [[Rob Mclennan]]                |
 | [[Rob Stanton]]                 |
 | [[Robert Bertholf]]             |
-| [[Robert Duncan]]               |
+| [[Robert O. Duncan]]               |
 | [[Robert Grenier]]              |
 | [[Robert Hampson]]              |
 | [[Robert Majzels]]              |

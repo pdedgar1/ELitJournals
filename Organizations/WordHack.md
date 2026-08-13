@@ -17,7 +17,7 @@
 - 5/20/21: [[Jörg Piringer]], [[Esther Alter]], [[Pamela Mishkin]], [[Jan Diehm]]
 - 3/18/21: [[Nick Montfort]], [[Angie Waller]], [[Alan Sondheim]]
 - 2/18/21: [[Golan Levin]], [[Tega Brain]], [[Kelli Anderson]], [[Artemio Morales]]
-- 12/17/20: [[James Ryan]], [[Olivia Jack]], [[Shannon Finnegan]]
+- 12/17/20: [[James Owen Ryan]], [[Olivia Jack]], [[Shannon Finnegan]]
 - 11/19/20: [[Mindy Seu]], [[Clarissa Littler]], [[Cowboy Elijah]]
 - 10/15/20: [[Xin Xin]], [[Em Lazer-Walker]], [[Milan Koerner-Safrata]], [[Neilson Koerner Safrata]]
 - 9/17/20: [[Dina Kelberman]], [[Sam Lavigne]], 
@@ -76,7 +76,7 @@
 - 12/17/15: [[Daniel Kolitz]], [[Mimi Cabell]], [[Daniel Temkin]], [[Jeremy P. Bushnell]]
 - 11/19/15: [[Jonathan Basile]], [[Jim Brown]], [[Michael Russo]], [[Flourish Klink]], [[Jason Huff]]
 - 10/15/15: [[Christopher T. Funkhouser]], [[Laura A. Warman]], [[Álvaro Seiça]], [[Amelia Winger-Bearskin]]
-- 9/17/15: [[Darren Angle]], [[Clara Fernandez-Vara]], [[Tim Szetela]]
+- 9/17/15: [[Darren Angle]], [[Clara Fernández-Vara]], [[Tim Szetela]]
 - 8/20/15: [[Reed Gaines]], [[Jane Friedhoff]], [[Kelly Donahue]], [[Todd Anderson]]
 - 7/16/15: [[Ranjit Bhatnagar]], [[Andrew Badr]], [[Claire Kwong]], [[Thomas Storey]]
 - 6/11/15: [[Steve Roggenbuck]], [[Zach Gage]], [[Angela Ferraiolo]], [[Anastasis Germanidis]]

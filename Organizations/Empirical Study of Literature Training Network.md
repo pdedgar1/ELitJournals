@@ -39,7 +39,7 @@ Researchers
 [[Ma Lovena Moneva]]
 [[Ainur Kakimova]]
 
-formerly [[Beatrice Schofield]], [[Soeun Park]]
+formerly [[Beatrice Schofield]], [[Soyun Park]]
 Non-academic partners 
 [[Simone C. Ehmig]]
 [[Carsten Sommerfeld]]

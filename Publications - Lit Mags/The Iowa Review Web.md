@@ -1,6 +1,6 @@
 #Litmag 
 https://the-next.eliterature.org/collections/8&pg=1&display=100&sort=date
-## Founded by [[Thom Swiss]]
+## Founded by [[Thomas Swiss]]
 donated by [[Lynne Nugent]]
 
 ##### Unknown date
@@ -18,7 +18,7 @@ donated by [[Lynne Nugent]]
 [[M. D. Coverley aka Marjorie C. Luesebrink]]
 [[Talan Memmott]]
 [[Jennifer Ley]]
-[[Thom Swiss]]
+[[Thomas Swiss]]
 [[Jim Andrews]]
 [[Claire Allen Dinsmore]]
 [[Diane Greco]]

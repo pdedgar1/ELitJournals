@@ -42,4 +42,44 @@ Storyspace writing environments with [[Michael Joyce]] and [[Jay David Bolter]] 
 [[Eric Steinhart]]
 [[George P. Landow]]
 [[George P. Landow]] and [[Jon Lanestedt]]
-[[Guiliano Franco]]
+[[Giuliano Franco]]
+
+
+## Eastgate Authors
+|                           |
+| ------------------------- |
+| [[Mary-Kim Arnold]]       |
+| [[Jay David Bolter]]      |
+| [[J. Yellowlees Douglas]] |
+| [[Diane Greco]]           |
+| [[Shelley Jackson]]       |
+| [[Nancy Kaplan]]          |
+| [[David Kolb]]            |
+| [[Kathy Mac]]             |
+| [[John McDaid]]           |
+| [[Christiane Paul]]       |
+| [[Richard Smyth]]         |
+| [[Rob Swigart]]           |
+| [[Mark Bernstein]]        |
+| [[M. D. Coverley]]        |
+| [[Edward Falco]]          |
+| [[Carolyn Guyer]]         |
+| [[Anne Johnstone]]        |
+| [[Robert Kendall]]        |
+| [[George P. Landow]]      |
+| [[Judy Malloy]]           |
+| [[Tim McLaughlin]]        |
+| [[Jim Rosenberg]]         |
+| [[Eric Steinhart]]        |
+| [[Michael van Mantgem]]   |
+| [[Bill Bly]]              |
+| [[Kathryn Cramer]]        |
+| [[Giuliano Franco]]       |
+| [[Clark Humphrey]]        |
+| [[Michael Joyce]]         |
+| [[Judy Kerman]]           |
+| [[Deena Larsen]]          |
+| [[Cathy Marshall]]        |
+| [[Stuart Moulthrop]]      |
+| [[Sarah Smith]]           |
+| [[Stephanie Strickland]]  |

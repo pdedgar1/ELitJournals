@@ -1,4 +1,4 @@
-[[Melven Wevers]]
+[[Melvin Wevers]]
 [[Folgert Karsdorp]]
 [[Alie Lassche]]
 [[Barbara McGillivray]]

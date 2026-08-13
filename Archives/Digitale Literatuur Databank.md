@@ -131,7 +131,7 @@ Scandinavian E-Lit :: CELL Member
 | [[Simon Mulder]]                                         |
 | [[Ted van Lieshout]]                                     |
 | [[Thijs Verster]]                                        |
-| [[Thom Swiss]]                                           |
+| [[Thomas Swiss]]                                           |
 | [[Timo Pennings]]                                        |
 | [[Tonnus Oosterhoff]]                                    |
 | [[Toon Tellegen]]                                        |

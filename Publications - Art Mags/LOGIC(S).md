@@ -74,7 +74,7 @@
 [[Dale Markowitz]]
 [[Wendy Liu]]
 [[Bermet Zhumakadyr kyzy]]
-[[Charlie Muller]]
+[[Charles Muller]]
 [[Devin Kennedy]]
 [[Ashley shew]]
 [[Nick Serpe]]

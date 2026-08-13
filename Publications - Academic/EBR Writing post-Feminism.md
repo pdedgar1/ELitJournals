@@ -24,7 +24,7 @@
 1996 - [[Martha Henn]]
 [[August Tarrier]]
 [[Dodie Bellamy]]
-[[Matin Rosenberg]]
+[[Martin Rosenberg]]
 [[Stacy Alaimo]]
 [[Lisa Joyce]]
 [[Cris Mazza]]

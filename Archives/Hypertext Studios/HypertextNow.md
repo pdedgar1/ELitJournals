@@ -1,0 +1,23 @@
+http://www.eastgate.com/HypertextNow/
+
+[[Eastgate Systems]]
+
+[[Mark Bernstein]]
+[[Joy Vitale]]
+[[Diane Greco]]
+[[Bill Bly]]
+[[Deena Larsen]]
+[[Randall H. Trigg]]
+[[M. A. Syverson]]
+[[Tennessee Rice Dixon]] and [[Jim Gasperini]]
+[[Brenda Laurel]] and [[Pamela Dell]]
+[[Frank G. Halasz]]
+[[Sven Birkerts]]
+[[David Eddy Spicer]]
+[[Nick Fisher]]
+[[David Siegel]]
+[[George Maestri]]
+[[Esther Dyon]]
+[[Tim McLaughlin]]
+[[Rebecca Blood]]
+[[Robert M. Akscyn]]

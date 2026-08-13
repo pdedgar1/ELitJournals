@@ -90,7 +90,7 @@
 |[[Joesér Alvarez]]|
 |[[Binho]]|
 |[[Carlos Moreira]]|
-|[[Bruno Vianna]]|
+|[[Bruno Caldas Vianna]]|
 |[[Gab Marcondes]]|
 |[[Marcelo Spalding]]|
 |[[Maurem Kayna]]|

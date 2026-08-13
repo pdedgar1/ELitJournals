@@ -34,7 +34,7 @@ Advisory editors
 [[Davin Heckman]]
 ### 04 - 2007
 [[Helen J. Burgess]]
-[[Thom Swiss]]
+[[Thomas Swiss]]
 [[Braxton Soderman]]
 [[Mark C. Marino]]
 [[Stephanie Strickland]] and [[Cynthia Lawson Jaramillo]]
@@ -99,10 +99,10 @@ Advisory editors
 
 ### 09 - 2012
 [[Hazel Smith]]
-[[David Gruber]] and [[David M. Rieder]]
+[[David R. Gruber]] and [[David M. Rieder]]
 [[Piotr Célinski]]
 [[Hazel Smith]], [[Joanna Still]], and [[Roger Dean]]
-[[David Gruber]] and [[David M. Rieder]]
+[[David R. Gruber]] and [[David M. Rieder]]
 [[David Ciccoricco]] and [[Jill DelSordi]]
 [[The Hanseatic Semiotic Traders League]] - 
 [[Mirona Magearu]]

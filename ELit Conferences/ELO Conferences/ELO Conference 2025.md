@@ -137,7 +137,7 @@
 | [[Malthe Stavning Erslev]]        |
 | [[Manuel Portela]]                |
 | [[Margot Machado Knuth]]                |
-| [[Maria Cecilia Reyes]]           |
+| [[María Cecilia Reyes]]           |
 | [[María Goicoechea de Jorge]]              |
 | [[Mariel Martinez]]               |
 | [[Mark C. Marino]]                |
@@ -161,7 +161,7 @@
 | [[Patrick Lichty]]                |
 | [[Paul Echeverria]]               |
 | [[Paulo Bala]]                    |
-| [[Pedro Campos]]                  |
+| [[Pedro F. Campos]]                  |
 | [[Perla B. Sassón-Henry]]            |
 | [[Piotr Małecki]]                 |
 | [[Quinn Carrick]]                 |

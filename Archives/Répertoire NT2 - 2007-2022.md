@@ -98,7 +98,7 @@ CELL Member : French-language E-lit
 | [[Andrew Bucksbarg]]                  |
 | [[Matthew Bullock]]                   |
 | [[Patrick-Henri Burgaud]]             |
-| [[Matthew S. Burns]]                  |
+| [[Matthew Seiji Burns]]                  |
 | [[Kevin Lee Burton]]                  |
 | [[Marco Cadioli]]                     |
 | [[Roland Cahen]]                      |
@@ -553,7 +553,7 @@ CELL Member : French-language E-lit
 | [[Joel Sugerman]]                     |
 | [[sumoto.iki]]                        |
 | [[Hugues Sweeney]]                    |
-| [[Thom Swiss]]                        |
+| [[Thomas Swiss]]                        |
 | [[Illya Szilak]]                      |
 | [[Matthew Taranto]]                   |
 | [[Tom Taylor]]                        |

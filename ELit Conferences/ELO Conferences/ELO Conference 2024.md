@@ -83,7 +83,7 @@ Proceedings introduction
 | [[Erik Loyer]]                                                                  |
 | [[Kavi Duvvoori]]                                                               |
 | [[Sarah Bricke]]                                                                |
-| [[Laura Santos]], [[Mara Dionisio]], [[Terhi Marttila]], & [[Pedro Campos]]     |
+| [[Laura Santos]], [[Mara Dionísio]], [[Terhi Marttila]], & [[Pedro F. Campos]]     |
 | [[Judd Morrissey]] & [[Ava Aviva Avnisan]]                                      |
 | [[Laura Shackelford]]                                                           |
 | [[Samuel Szoniecky]]                                                            |
@@ -167,7 +167,7 @@ Proceedings introduction
 | [[Giulia Carla Rossi]], [[Stella Wisdom]]                                                                 |
 | [[Jolene L. Armstrong]], [[Siobhan O'Flynn]], [[Monique Tschofen]], [[Kari Maaren]]                          |
 | [[Kirill Azernyi]]                                                                                        |
-| [[Laura Santos]], [[Mara Dionisio]], [[Terhi Marttila]], [[Pedro Campos]]                                 |
+| [[Laura Santos]], [[Mara Dionísio]], [[Terhi Marttila]], [[Pedro F. Campos]]                                 |
 | [[Matthew Campbell]] PhD, [[Jeff Morris]] D. Mus                                                           |
 | [[Maureen Engel]], [[Caitlin Fisher]]                                                                     |
 | [[Piotr Małecki]], [[Jan K. Argasiński]]                                                                  |

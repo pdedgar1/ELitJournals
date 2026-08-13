@@ -311,7 +311,7 @@
 [[Alan Shaw]]
 [[John Matthias]]
 # 1998
-[[Thom Swiss]]
+[[Thomas Swiss]]
 [[Stephanie Strickland]]
 [[Joel Felix]]
 [[Stuart Moulthrop]]

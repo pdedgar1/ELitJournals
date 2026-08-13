@@ -36,7 +36,7 @@
 | [[Richard Denner]]          |
 | [[Edward Dorn]]             |
 | [[Johanna Drucker]]         |
-| [[Robert Duncan]]           |
+| [[Robert O. Duncan]]           |
 | [[Rachel Blau DuPlessis]]   |
 | [[Patrick F. Durgin]]          |
 | [[Larry Eigner]]            |

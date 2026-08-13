@@ -86,4 +86,4 @@ https://the-next.eliterature.org/collections/4&pg=1&display=100&sort=date
 [[Brian M. Reed]]
 [[Nick Montfort]]
 [[Ted Warnell]]
-[[Thom Swiss]]
+[[Thomas Swiss]]
