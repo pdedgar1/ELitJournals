@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d4592c6afc9faaa",
+        "id": "ce60525fcc161264",
         "type": "tabs",
         "children": [
           {
-            "id": "cef45aa94dff360f",
+            "id": "5eb6cb68b2362968",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.6328125
+    "width": 338.6328125,
+    "collapsed": true
   },
   "right": {
     "id": "3558e22f65bf0dba",
@@ -179,8 +180,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "cef45aa94dff360f",
+  "active": "5eb6cb68b2362968",
   "lastOpenFiles": [
+    "ELit Conferences/MIX Conferences/MIX Conferences 2020s.md",
+    "ELit Conferences/MIX Conferences/MIX 2025 Writing With Technologies.md",
+    "ELit Conferences/MIX Conferences/MIX 2023.md",
+    "ELit Conferences/MIX Conferences/Mix 2021.md",
+    "ELit Conferences/MIX Conferences/Mix 2019.md",
+    "ELit Conferences/MIX Conferences/MIX Conferences 2010s.md",
+    "ELit Conferences/MIX Conferences/Mix 2017.md",
+    "ELit Conferences/MIX Conferences/Mix 2015.md",
+    "ELit Conferences/MIX Conferences/MIX 2013.md",
+    "ELit Conferences/MIX Conferences/Mix 2012.md",
+    "Untitled 1.md",
     "Alias Report.md",
     "Michael V. Yudelson.md",
     "Nathalie F. Colineau.md",
@@ -196,17 +208,6 @@
     "Polle T. Zellweger.md",
     "Rachel S. Horst.md",
     "Rachel Nicole Winter.md",
-    "Randall H. Trigg.md",
-    "Reagan W. Moore.md",
-    "Raquel da Cunha Recuero.md",
-    "Rodrigo A. Botafogo.md",
-    "Richard M. Crowder.md",
-    "Richard G. Webby.md",
-    "Rob J. Wilkins.md",
-    "Robert M. Akscyn.md",
-    "Robert O. Duncan.md",
-    "Rosemary M. Simpson.md",
-    "Robert H. McDonald.md",
     "ELit Conferences/CAS",
     "ELit Conferences/ACM",
     "ELit Conferences/ICIDS",
