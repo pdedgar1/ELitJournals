@@ -364,7 +364,7 @@
 | [[Candice Butts]]                   |
 | [[Michael Nitsche]]                 |
 | [[]]                                |
-| [[Cláudia Cristina da  Silva]]                   |
+| [[Cláudia Cristina da Silva]]                   |
 | [[María Cecilia Reyes]]             |
 | [[Hartmut Koenitz]]                 |
 | [[]]                                |
@@ -517,7 +517,7 @@ Part 1
 |[[Alessio Del Bue]]|
 |[[Nuno Jardim Nunes]]|
 |[[María Cecilia Reyes]]|
-|[[Cláudia Cristina da  Silva]]|
+|[[Cláudia Cristina da Silva]]|
 |[[Mirjam Vosmeer]]|
 |[[Ben Clothier]]|
 |[[David E. Millard]]|
@@ -708,7 +708,7 @@ Part 2
 |[[Christian Roth]]|
 |[[Breanne Pitt]]|
 |[[Rahmin Bender-Salazar]]|
-|[[Cláudia Cristina da  Silva]]|
+|[[Cláudia Cristina da Silva]]|
 |[[Rocio Zamora Medina]]|
 |[[Andrius Suminas]]|
 

@@ -60,7 +60,7 @@
 | [[Christopher A. Egert]]            |
 | [[Kelly Boudreau]]                  |
 | [[Mia Consalvo]]                    |
-| [[Cláudia Cristina da  Silva]]                   |
+| [[Cláudia Cristina da Silva]]                   |
 | [[Miguel Barreda-Ángeles]]          |
 | [[Daniel Echeverri]]                |
 | [[Svetlana Rudenko]]                |

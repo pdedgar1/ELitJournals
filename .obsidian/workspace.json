@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce60525fcc161264",
+        "id": "516b250008e0ec83",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb6cb68b2362968",
+            "id": "052fc262f8cc8619",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -180,8 +180,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5eb6cb68b2362968",
+  "active": "052fc262f8cc8619",
   "lastOpenFiles": [
+    "Alias Report.md",
+    "W. L. Carr.md",
+    "Daqiang Zhang.md",
+    "M. A. King.md",
+    "Juan Duchesne Winter.md",
+    "Carlos Solís.md",
+    "Cláudia Cristina da Silva.md",
+    "Organizations/Hidden Door Studio.md",
     "ELit Conferences/MIX Conferences/MIX Conferences 2020s.md",
     "ELit Conferences/MIX Conferences/MIX 2025 Writing With Technologies.md",
     "ELit Conferences/MIX Conferences/MIX 2023.md",
@@ -193,7 +201,6 @@
     "ELit Conferences/MIX Conferences/MIX 2013.md",
     "ELit Conferences/MIX Conferences/Mix 2012.md",
     "Untitled 1.md",
-    "Alias Report.md",
     "Michael V. Yudelson.md",
     "Nathalie F. Colineau.md",
     "Nicholas M. Gibbins.md",
@@ -201,13 +208,6 @@
     "Nuno Jardim Nunes.md",
     "Patrick A. S. Sinclair.md",
     "Paul H. Lewis.md",
-    "Paul V. Schmidt.md",
-    "Pedro F. Campos.md",
-    "Peter A. Gloor.md",
-    "Peter J. Nürnberg.md",
-    "Polle T. Zellweger.md",
-    "Rachel S. Horst.md",
-    "Rachel Nicole Winter.md",
     "ELit Conferences/CAS",
     "ELit Conferences/ACM",
     "ELit Conferences/ICIDS",

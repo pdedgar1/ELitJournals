@@ -134,7 +134,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Steve Seebol]]            |
 | [[Torquemada Jones]]        |
 |                             |
-| [[W L Carr]]                |
+| [[W. L. Carr]]                |
 ## 5 
 |                             |
 | --------------------------- |
@@ -252,7 +252,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | ------------------------ |
 | [[Levi Asher]]           |
 | [[]]                     |
-| [[W L Carr]]             |
+| [[W. L. Carr]]             |
 | [[]]                     |
 | [[Arthur E Crumlish]]    |
 | [[]]                     |
@@ -424,7 +424,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Mark Budman]]               |
 | [[Ian Campbell]]              |
 | [[Richard Carr]]              |
-| [[W L Carr]]                  |
+| [[W. L. Carr]]                  |
 | [[Jon Carroll]]               |
 | [[Bill Cassel]]               |
 | [[B. C. Cohen]]                |

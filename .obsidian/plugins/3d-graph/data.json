@@ -7,9 +7,9 @@
     "groups": []
   },
   "display": {
-    "nodeSize": 3,
-    "linkThickness": 7,
-    "particleSize": 10,
+    "nodeSize": 2,
+    "linkThickness": 4,
+    "particleSize": 9,
     "particleCount": 20
   }
 }

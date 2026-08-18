@@ -307,7 +307,7 @@ Founder [[John Tranter]]
 | [[Lyn Hejinian]]                |
 | [[Lynn Keller]]                 |
 | [[Lytle Shaw]]                  |
-| [[M A King]]                    |
+| [[M. A. King]]                    |
 | [[M. G. Stephens]]              |
 | [[M. Nourbese Philip]]          |
 | [[Maciej Melecki]]              |

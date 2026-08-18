@@ -679,7 +679,7 @@
 | [[Digdem Sezen]]                    |
 | [[Tonguc Ibrahim Sezen]]            |
 | [[Daniel Green]]                    |
-| [[Cláudia Cristina da  Silva]]                   |
+| [[Cláudia Cristina da Silva]]                   |
 | [[Joshua A. Fisher]]                |
 | [[Sarah Schoemann]]                 |
 | [[Teun Dubbelman]]                  |

@@ -199,7 +199,7 @@ Presiding, [[Paul De Bra]], [[Kaj Grønbæk]]
 |[[Kenneth M. Anderson]]|
 |[[Rasmus Rosenqvist Petersen]]|
 |[[Uffe Kock Wiil]]|
-|[[Carlos Solis]]|
+|[[Carlos Solís]]|
 |[[Nour Ali]]|
 |[[William Van Woensel]]|
 |[[Sven Casteleyn]]|
@@ -438,7 +438,7 @@ Presiding, [[Gerd Stumme]], [[Andreas Hotho]]
 |[[Michael O. Jewell]]|
 |[[Mark J. Weal]]|
 |[[Dingqi Yang]]|
-|[[Daqing Zhang]]|
+|[[Daqiang Zhang]]|
 |[[Zhiyong Yu]]|
 |[[Zhu Wang]]|
 |[[Ralf Krestel]]|

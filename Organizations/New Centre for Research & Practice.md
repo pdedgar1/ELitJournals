@@ -255,6 +255,6 @@
 | [[Keith Tilford]]                                                                                               |     |
 | [[Zoe Todd]]                                                                                                    |     |
 | [[Jeff VanderMeer]]                                                                                             |     |
-| [[Juan Winter]]                                                                                                 |     |
+| [[Juan Duchesne Winter]]                                                                                                 |     |
 | [[Ross Wolfe]]                                                                                                   |     |
 [[Parham Ghalamdar]] is a student there 
