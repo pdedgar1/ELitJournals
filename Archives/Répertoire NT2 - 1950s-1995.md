@@ -47,7 +47,7 @@ CELL Member : French-language E-lit
 [[Kathy Mac]]
 [[Kathryn Cramer]]
 [[Alan Sondheim]]
-[[antoni muntadas]]
+[[Antonio Muntadas]]
 [[Mathieu Simoneau]]
 [[Carl Steadman]]
 [[Adrianne Wortzel]]

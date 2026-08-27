@@ -8,7 +8,7 @@
 - [[Lawrence Weiner]] — HOMEPORT
 
 #### Influx (extended network works)
-- [[Antoni Muntadas]] — On Translation
+- [[Antonio Muntadas]] — On Translation
 - [[Keith Tyson]] — Replicators
 - [[Ben Kinmont]] — We Both Belong
 - [[Toland Grinnell]] — Captain's Lair

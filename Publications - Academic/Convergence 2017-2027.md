@@ -367,7 +367,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Federico Pilati]]                  |
 | [[Fern Conaghan]]                    |
 | [[Fernanda Pires]]                   |
-| [[Fernando N van der Vlist]]         |
+| [[Fernando N. van der Vlist]]         |
 | [[Fiona O'Rourke]]                   |
 | [[Florian Lefebvre]]                 |
 | [[Florian Sprenger]]                 |
@@ -950,7 +950,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Sophie Rosenbohm]]                 |
 | [[Sophie Théwissen-LeBlanc]]         |
 | [[Sophy Smith]]                      |
-| [[Stacy E Wood]]                     |
+| [[Stacy E. Wood]]                     |
 | [[Stef Aupers]]                      |
 | [[Stefan Werning]]                   |
 | [[Steffan Hooper]]                   |

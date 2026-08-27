@@ -282,7 +282,7 @@ Digital Poiesis, Digital Poetics 4 [Chair: [[Eugenio Tisselli]]
 - [[Stephanie Tripp]] (U. Tampa, USA), "Tampa Tarot"
 - [[José Aburto]] (Peru), "O Poema do Porto - Statistical Poetry"
 - [[Bruno Ministro]] (U. Coimbra, Portugal), "Collected Works (2008-2016)"
-- [[Nicholas Knouf]] (Wellesley College, USA), "'On Your Wrist is the Universe': Chrono- and Cosmo-poetics"
+- [[Nicholas A. Knouf]] (Wellesley College, USA), "'On Your Wrist is the Universe': Chrono- and Cosmo-poetics"
 
 E-Lit for Children [Chair: Astrid Ensslin]  
 

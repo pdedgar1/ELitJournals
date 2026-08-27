@@ -79,7 +79,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Caroline Pauwels]]            |
 | [[Caroline Seck Langill]]       |
 | [[Carolyn Guertin]]             |
-| [[Carolyn Kane]]                |
+| [[Carolyn L. Kane]]                |
 | [[CarrieLynn D. Reinhard]]      |
 | [[Casey O'Donnell]]             |
 | [[Cédric Courtois]]             |

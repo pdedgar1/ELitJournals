@@ -324,7 +324,7 @@
 | [[Deborah Hay]]                             |
 | [[Bill Hearn]]                              |
 | [[Joan Heemskerk]]                          |
-| [[Agnes Hegedüs]]                           |
+| [[Agnés Hegedüs]]                           |
 | [[Morton Heilig]]                           |
 | [[Isabell Heimerdinger]]                    |
 | [[Birgit Hein]]                             |
@@ -555,7 +555,7 @@
 | [[Victorine Müller]]                        |
 | [[Laura Mulvey]]                            |
 | [[Michael Naimark]]                         |
-| [[Antoni Muntadas]]                         |
+| [[Antonio Muntadas]]                         |
 | [[Friedrich Wilhelm Murnau]]                |
 | [[Frieder Nake]]                            |
 | [[Conlon Nancarrow]]                        |

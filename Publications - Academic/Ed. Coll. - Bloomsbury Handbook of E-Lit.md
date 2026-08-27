@@ -14,7 +14,7 @@
 [[Manuel Portela]]
 [[Mario Aquilina]]
 [[Aden Evens]]
-[[Nathan Jones]]
+[[Nathan Allen Jones]]
 
 [[Allison Schifani]]
 [[Brian Kim Stefans]]

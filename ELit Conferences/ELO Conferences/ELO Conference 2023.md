@@ -118,7 +118,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Sarah Thorne]]                           |
 | [[Elizabeth Losh]]                         |
 | [[Zach Whalen]]                            |
-| [[Nathan Jones]]                           |
+| [[Nathan Allen Jones]]                           |
 | [[J. R. Carpenter]]                        |
 | [[Jules Rawlinson]]                        |
 | [[Richard A. Carter]]                      |

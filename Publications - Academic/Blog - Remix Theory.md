@@ -1,0 +1,20 @@
+Run by [[Eduardo Navas]] for "remix" itself in opposition to "remix culture"
+
+
+[[DJ Spooky]]
+[[Elisa Kreisinger]]
+[[Gina Neff]]
+[[Janneke Adema]]
+[[Jeff Chang]]
+[[Kodwo Eshun]]
+[[Lawrence Lessig]]
+[[Lev Manovich]]
+[[Christine Schat]]
+[[Margie Borschke]]
+[[MIxLit]]
+[[Nelson George]]
+[[Paule Mackrous]]
+[[Mark Amerika]]
+[[Simon Reynolds]]
+[[Owen Gallagher]]
+[[Ulf Poschardt]]

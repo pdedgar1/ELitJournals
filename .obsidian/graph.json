@@ -11,83 +11,83 @@
       "query": "path:\"Publications - Lit Mags\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:Organizations  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "path:\"Publications - Academic\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6082262
-      }
-    },
-    {
-      "query": "path:Anthologies  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "path:People  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "path:Archives  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "path:\"Publications - Art Mags\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
-      }
-    },
-    {
-      "query": "path:Awards  ",
-      "color": {
-        "a": 1,
-        "rgb": 16753152
+        "rgb": 16724787
       }
     },
     {
       "query": "path:\"ELit Conferences/ELO Conferences\"  ",
       "color": {
         "a": 1,
-        "rgb": 14077696
+        "rgb": 14725458
       }
     },
     {
       "query": "path:\"ELit Conferences\"  ",
       "color": {
         "a": 1,
-        "rgb": 16767109
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Publications - Academic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6087935
+      }
+    },
+    {
+      "query": "path:Anthologies  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:People  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Archives  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Publications - Art Mags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Awards  ",
+      "color": {
+        "a": 1,
+        "rgb": 13404928
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 2.00385416666667,
-  "lineSizeMultiplier": 0.198042534722222,
+  "nodeSizeMultiplier": 1.73689119749777,
+  "lineSizeMultiplier": 0.513806970509383,
   "collapse-forces": false,
-  "centerStrength": 0.0987488829311886,
+  "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.903485254691689,
+  "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.01469599207324796,
+  "scale": 0.024478252482253157,
   "close": true
 }

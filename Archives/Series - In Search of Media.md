@@ -19,7 +19,7 @@
 |[[Leonardo Impett]] and [[Fabian Offert]]|
 |[[M. Beatrice Fazi]], [[Alexander R. Galloway]], [[Matthew Handelman]] and [[Leif Weatherby]]|
 |[[Paula Bialski]], [[Finn Brunton]] and [[Mercedes Bunz]]|
-|[[Ranjodh Singh Dhaliwal]], [[Théo LePage Richer]] and [[Lucy A. Suchman]]|
+|[[Ranjodh Singh Dhaliwal]], [[Théo Lepage-Richer]] and [[Lucy A. Suchman]]|
 |[[Rutvica Andrijasevic]], [[Melissa Gregg]], [[Marc Steinberg]] and [[Julie Yujie Chen]]|
 |[[Tero Karppi]], [[Urs Stäheli]], [[Clara Wieghorst]] and [[Lea Zierott]]|
 |[[Thomas Pringle]], [[Gertrud Koch]] and [[Bernard Stiegler]]|

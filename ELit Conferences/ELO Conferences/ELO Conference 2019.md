@@ -74,7 +74,7 @@
 | [[Serge Bouchardon]]                                                                                    |
 | [[Vincent Cellucci]]                                                                                    |
 | [[Jesse Allison]]                                                                                       |
-| [[Derick Ostrenko]]                                                                                     |
+| [[Derek Ostrenko]]                                                                                     |
 | [[Susana Sulic]]                                                                                        |
 | [[Sandra Araújo]]                                                                                       |
 | [[Tina Lumbis]]                                                                                         |
@@ -338,7 +338,7 @@
 | [[John Cayley]]                                                                                         |
 | [[Mairéad Byrne]]                                                                                       |
 | [[Lai-Tze Fan]]                                                                                         |
-| [[Nathan Jones]]                                                                                        |
+| [[Nathan Allen Jones]]                                                                                        |
 | [[J. R. Carpenter]]                                                                                     |
 | [[Søren Bro Pold]]                                                                                      |
 | [[Malthe Stavning Erslev]]                                                                              |

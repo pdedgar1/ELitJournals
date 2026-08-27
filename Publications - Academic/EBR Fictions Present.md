@@ -43,7 +43,7 @@
 [[James Corby]]
 ## 2019
 [[David Jhave Johnston]]
-[[Chris Ingraham]], [[Joseph Tabbi]], [[Kjersti Aarstein]], [[Nathan Jones]], [[Scott Rettberg]], [[Søren Bro Pold]]
+[[Chris Ingraham]], [[Joseph Tabbi]], [[Kjersti Aarstein]], [[Nathan Allen Jones]], [[Scott Rettberg]], [[Søren Bro Pold]]
 [[Martin Paul Eve]]
 ## 2018
 [[Daniel Schulz]]

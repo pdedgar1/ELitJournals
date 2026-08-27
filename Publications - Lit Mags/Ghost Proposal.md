@@ -3,7 +3,7 @@ Past ediotrs [[Naomi Washer]], [[Patrick Thornton]], [[Zachary Zalman Green]]
 Ultraslant Prizes—
 - [[Chantine Akiyama Poh]]
 - [[Ty Little]]
-[[Kondo Heller]], [[P.D. Edgar]], [[Julianne Neely]], [[Lorraine]], [[grace (ge) gilbert]]
+[[Kondo Heller]], [[P. D. Edgar]], [[Julianne Neely]], [[Lorraine]], [[grace (ge) gilbert]]
 
 
 |                                            |
@@ -17,7 +17,7 @@ Ultraslant Prizes—
 | [[Theo Ellin Ballew]]                      |
 | [[Kelly Hoffer]]                           |
 | [[Cate Peebles]]                           |
-| Editors’ note ]]                           |
+| Editors’ note ]]                           |
 | [[]]                                       |
 | Issue 13]]                                 |
 | [[Inna Krasnoper]]                         |
@@ -26,7 +26,7 @@ Ultraslant Prizes—
 | [[Lolia Copacabana]]                       |
 | [[Michael Joseph Walsh]]                   |
 | [[Tasia Trevino]]                          |
-| [[P.D. Edgar]]                             |
+| [[P. D. Edgar]]                             |
 | [[Lindsey Webb]]                           |
 | [[William Hazard]]                         |
 | [[Funto Omojola]]                          |
@@ -34,7 +34,7 @@ Ultraslant Prizes—
 | [[Anaïs Duplan]] on [[Kamden Hilliard]]    |
 | Editors’ note]]                            |
 | [[]]                                       |
-| GP12 ]]                                    |
+| GP12 ]]                                    |
 | [[Valerie Hsiung]]                         |
 | [[Michael Robins]]                         |
 | [[Erica Trabold]]                          |
@@ -49,7 +49,7 @@ Ultraslant Prizes—
 | [[Alicia Byrne Keane]]                     |
 | [[Maria Griffin]]                          |
 | [[E. Kristin Anderson]]                    |
-| [[Liam October O’Brien]]                   |
+| [[Liam October O'Brien]]                   |
 | [[]]                                       |
 | [[]]                                       |
 | GP11]]                                     |
@@ -64,7 +64,7 @@ Ultraslant Prizes—
 | [[]]                                       |
 | GP10]]                                     |
 | [[Benhamin Renne]]                         |
-| [[Caroline O’Connor Thomas]]               |
+| [[Caroline O'Connor Thomas]]               |
 | [[Chris Caruso]]                           |
 | [[Emmet Penney]]                           |
 | [[Jacqueline Doyle]]                       |
@@ -99,7 +99,7 @@ Ultraslant Prizes—
 | [[Adam Stutz]]                             |
 | [[ali lanzetta]]                           |
 | [[Ashley Roach-Freiman]] & [[Emma Bolden]] |
-| [[B.J. Best]]                              |
+| [[B. J. Best]]                              |
 | [[Brent Armendinger]]                      |
 | [[Carrie Bennett]]                         |
 | [[Dynas Johnson]]                          |
@@ -188,7 +188,7 @@ Ultraslant Prizes—
 | [[Abraham Smith]]                          |
 | [[Adam Clay]]                              |
 | [[Amy Lipman]]                             |
-| [[B.J. Hollars]]                           |
+| [[B. J. Hollars]]                           |
 | [[Brian Miles]]                            |
 | [[Cameron Decker]]                         |
 | [[Chen Chen]]                              |
@@ -197,7 +197,7 @@ Ultraslant Prizes—
 | [[F. Daniel Rzicznek]]                     |
 | [[Hannah Kucharzak]]                       |
 | [[Heather Cox]]                            |
-| [[K.T. Billey]]                            |
+| [[K. T. Billey]]                            |
 | [[Kelly Connor]]                           |
 | [[Kylan Rice]]                             |
 | [[Laura Kochman]]                          |

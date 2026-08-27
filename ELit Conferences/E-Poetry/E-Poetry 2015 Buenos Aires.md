@@ -136,7 +136,7 @@ Organizadora local E-Poetry 2015 Buenos Aires / E-Poetry 2015 Buenos Aires Conve
 
 Coordinador operativo E-Poetry 2015 / E-Poetry 2015 Events Coordinator: [[Miguel Rosetti]]
 
-Asistente de curaduría E-Poetry 2015 / E-Poetry 2015 Assistant Curator: [[Jazmin Adler]]
+Asistente de curaduría E-Poetry 2015 / E-Poetry 2015 Assistant Curator: [[Jazmín Adler]]
 
 Comité asesor E-Poetry / E-Poetry Advisory Board: [[Amaranth Borsuk]] (USA), [[Serge Bouchardon]] (France),
 

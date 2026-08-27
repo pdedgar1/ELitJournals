@@ -83,7 +83,7 @@ Advisory editors
 [[Brett Phares]]
 [[Jason Nelson]]
 [[Angela Ferraiolo]] and [[Mary Flanagan]]
-[[Nicholas Knouf]]
+[[Nicholas A. Knouf]]
 [[Neil Hennessy]]
 [[Dene Grigar]]
 ### 08 - 2011

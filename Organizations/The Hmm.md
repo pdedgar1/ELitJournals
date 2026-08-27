@@ -464,7 +464,7 @@
 | [[Shumon Basar]]                    |     |
 | [[Silvia Dal Dosso]]                |     |
 | [[Silvio Lorusso]]                  |     |
-| [[Simone Niquille]]                 |     |
+| [[Simone C. Niquille]]                 |     |
 | [[Simone Zeefuik]]                  |     |
 | [[Sjef van Beers]]                  |     |
 | [[Sjoerd ter Borg]]                 |     |

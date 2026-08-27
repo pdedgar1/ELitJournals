@@ -679,7 +679,7 @@ Track Chairs [[Sam Brooker]], [[Alessandro Adamou]], [[Lovro Škopljanac]] and [
 |[[Matthew Bradley]]|
 |[[Carson Gross]]|
 |[[Dillon Shaffer]]|
-|[[Matt Revelle]]|
+|[[Matthew Revelle]]|
 |[[Mark Bernstein]]|
 |[[Mark W. R. Anderson]]|
 |[[Joey Donald Jones]]|

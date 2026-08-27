@@ -32,13 +32,13 @@ Edited by [[Christian Ulrik Andersen]], [[César Escudero Andaluz]], [[Emanuele 
 
 Design: [[Sarah Garcin]] & [[Angeline Ostinelli]]
 ## 6.1
-Edited by [[Roel Roscam Abbing]], [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Maya Indira Ganesh]], [[Abelardo Gil-Fournier]], [[Maja Bak Herrie]], [[John Hill]], [[Brian House]], [[Nathan Jones]], [[Nicolas Malevé]], [[Rosa Menkman]], [[An Mertens]], [[Martino Morandi]], [[Michael Murtaugh]], [Søren Bro Pold], [[Søren Rasmussen]], [[Renée Ridgway]], [[Jara Rocha]], [[Sam Skinner]], [[Femke Snelting]]
+Edited by [[Roel Roscam Abbing]], [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Maya Indira Ganesh]], [[Abelardo Gil-Fournier]], [[Maja Bak Herrie]], [[John Hill]], [[Brian House]], [[Nathan Allen Jones]], [[Nicolas Malevé]], [[Rosa Menkman]], [[An Mertens]], [[Martino Morandi]], [[Michael Murtaugh]], [Søren Bro Pold], [[Søren Rasmussen]], [[Renée Ridgway]], [[Jara Rocha]], [[Sam Skinner]], [[Femke Snelting]]
 
 Design: [[Sarah Garcin]] & [[Angeline Ostinelli]]
 ## 5.1
 Edited by [[Christian Ulrik Andersen]] & [[Geoff Cox]].
 
-[[Christian Ulrik Andersen]], [[Mitra Azar]], [[Elisavet Christou]], [[Geoff Cox]], [[Aideen Doran]], Kristoffer Gansing, [[Pablo Rodrigo Velasco González]], [[Lone Koefoed hansen]], [[Nathan Jones]], [[Joasia Krysa]], [[Graziele Lautenschlaeger]], [[Lyndsay Mann]], [[Cornelia Sollfrank]], [[Wolfgang sützl]], [[Marie Louise Juul Søndergaard]], [[Cansu Topaloglu]], [[Scott Wark]], [[Tessa Zettel]]
+[[Christian Ulrik Andersen]], [[Mitra Azar]], [[Elisavet Christou]], [[Geoff Cox]], [[Aideen Doran]], Kristoffer Gansing, [[Pablo Rodrigo Velasco González]], [[Lone Koefoed hansen]], [[Nathan Allen Jones]], [[Joasia Krysa]], [[Graziele Lautenschlaeger]], [[Lyndsay Mann]], [[Cornelia Sollfrank]], [[Wolfgang sützl]], [[Marie Louise Juul Søndergaard]], [[Cansu Topaloglu]], [[Scott Wark]], [[Tessa Zettel]]
 
 Design: The Laboratory of [[Manuel Bürger]], Manuel Bürger & [[Hendrike Nagel]]
 ## 4.1

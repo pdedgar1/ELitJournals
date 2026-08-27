@@ -60,8 +60,8 @@
 | [[mmmm....]]                   |
 |                                |
 | [[raul benjamín moreno]]            |
-| [[antoni muntadas]]            |
-| [[antoni muntadas]]            |
+| [[Antonio Muntadas]]            |
+| [[Antonio Muntadas]]            |
 | [[Ciro Múseres]]               |
 | [[]]                           |
 | [[Élika Ortega]]               |

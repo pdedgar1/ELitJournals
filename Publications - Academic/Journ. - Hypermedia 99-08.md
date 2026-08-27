@@ -84,7 +84,7 @@
 - [[Peter Brusilovsky]]
 - [[Riccardo Rizzo]]
 - [[Mohamed Ramzy Zakaria]]
-- [[Tim J. Brailsford]]
+- [[Timothy J. Brailsford]]
 - [[James Ohene-Djan]]
 - [[Alvaro A. A. Fernandes]]
 - [[Débora Christina Muchaluat-Saade]]

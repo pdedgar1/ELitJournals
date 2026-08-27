@@ -1,6 +1,6 @@
 ### 2025 Award Winners
 
-- Gold Award: MORAKANA ([[Tiri Kananuruk]] & [[Sebastián Morales]])
+- Gold Award: MORAKANA ([[Tiri Kananuruk]] & [[Sebastián Diaz Morales]])
 - Still Image Award: [[Ana María Caballero]]
 - Moving Image Award: [[Carlos Velandia]] and [[Angélica Restrepo]]
 - Performance & Music Award: [[Laura Mannelli]] and [[Sonia Killmann]]

@@ -36,7 +36,7 @@ Reviewers :
 | [[Matthew Fuller]]               |     |
 | [[Mette-Marie Zacher Sørensen]]  |     |
 | [[Morten Suder Riis]]                  |     |
-| [[Nathan Jones]]                 |     |
+| [[Nathan Allen Jones]]                 |     |
 | [[Ned Rossiter]]                 |     |
 | [[Nicolas Malevé]]               |     |
 | [[Nóra Ó Murchú]]                |     |
@@ -61,9 +61,9 @@ Reviewers :
 ## issue 4 - 2015
 [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Ned Rossiter]], [[Soenke Zehle]], [[Renée Ridgway]], [[James Charlton]], [[Audrey Samson]]., [[Minka Stoyanova]], [[Winnie Soon]], [[Lea Muldtofte Olsen]], [[Daniel C. Howe]]
 ## issue 5 - 2016
-[[Christian Ulrik Andersen]], [[Geoff Cox]], [[Wolfgang sützl]], [[Aideen Doran]], [[Nathan Jones]], [[Marie Louise Juul Søndergaard]], [[Tessa Zettel]] , [[Sumugan Sivanesan]], [[Pablo Rodrigo Velasco González]] , [[Kasper Hedegård Schiølin]], [[Cornelia Sollfrank]], [[Wolfgang sützl]]
+[[Christian Ulrik Andersen]], [[Geoff Cox]], [[Wolfgang sützl]], [[Aideen Doran]], [[Nathan Allen Jones]], [[Marie Louise Juul Søndergaard]], [[Tessa Zettel]] , [[Sumugan Sivanesan]], [[Pablo Rodrigo Velasco González]] , [[Kasper Hedegård Schiølin]], [[Cornelia Sollfrank]], [[Wolfgang sützl]]
 ## issue 6 - 2017
-[[Christian Ulrik Andersen]], [[Geoff Cox]], [[Brian House]], [[Nathan Jones]]. [[John Hill]], [[David Young]], [[Maja Bak Herrie]], [[Maya Indira Ganesh]], [[Abelardo Gil-Fournier]]
+[[Christian Ulrik Andersen]], [[Geoff Cox]], [[Brian House]], [[Nathan Allen Jones]]. [[John Hill]], [[David Young]], [[Maja Bak Herrie]], [[Maya Indira Ganesh]], [[Abelardo Gil-Fournier]]
 ## issue 7 - 2018
 [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Pip Thornton]], [[Luke Munn]], [[Mitra Azar]], [[Lea Laura N. Michelsen]], [[Francis Hunger]], [[César Escudero Andaluz]], [[Martín Nadal]], [[Maria Eriksson]], [[Dionysia Mylonaki]], [[Panagiotis Tigas]], [[Marc Garrett]], [[Ashley Lee Wong]], [[Konstanze Scheidt]], [[Calum Bowden]], [[Tega Brain]]
 ## issue 8 - 2019

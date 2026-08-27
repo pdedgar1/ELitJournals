@@ -219,7 +219,7 @@
 |[[Peter Brandl]]|
 |[[Ana Respício]]|
 |[[]]|
-|[[Carlos Teixeira]]|
+|[[José Carlos Teixeira]]|
 |[[Oliviero Stock]]|
 |[[Charles B. Callaway]]|
 |[[Mei Si]]|

@@ -256,7 +256,7 @@ Presiding, [[James Blustein]], [[Robert B. Allen]], [[Ken Anderson]], [[Stuart M
 |[[Mark Bernstein]]|
 |[[Nick Montfort]]|
 ### 2003
-Presiding, [[Helen L. Ashman]], [[Tim J. Brailsford]], [[Lynda Hardman]], [[Les Carr]]
+Presiding, [[Helen L. Ashman]], [[Timothy J. Brailsford]], [[Lynda Hardman]], [[Les Carr]]
 |   |
 |---|
 |[[Theodor Holm "Ted" Nelson]]|
@@ -353,7 +353,7 @@ Presiding, [[Helen L. Ashman]], [[Tim J. Brailsford]], [[Lynda Hardman]], [[Les 
 |[[M. R. Zakaria]]|
 |[[A. Moore]]|
 |[[C. D. Stewart]]|
-|[[Tim J. Brailsford]]|
+|[[Timothy J. Brailsford]]|
 |[[Nor Aniza Abdullah]]|
 |[[Hugh C. Davis]]|
 |[[Emilia Mendes]]|
@@ -457,7 +457,7 @@ Presiding, [[Jim Whitehead]], [[David C. De Roure]]
 | [[R. A. Bacon]]                    |
 | [[Adam Moore]]                     |
 | [[James Goulding]]                 |
-| [[Tim J. Brailsford]]                 |
+| [[Timothy J. Brailsford]]                 |
 | [[Helen L. Ashman]]                   |
 | [[Michael J. McGuffin]]            |
 | [[monica m. c. schraefel]]                |

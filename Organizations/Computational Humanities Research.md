@@ -46,7 +46,7 @@ Advisory
 [[Fotis Jannidis]]
 [[Anne Kandler]]
 [[Andres Karjus]]
-[[Vojtech Kase]]
+[[Vojtěch Kaše]]
 [[Henri Kauhanen]]
 [[Mike Kestemont]]
 [[Marijn Koolen]]

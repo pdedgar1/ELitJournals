@@ -215,7 +215,7 @@ Presiding, [[Simon Harper]], [[Helen L. Ashman]], [[Mark Bernstein]], [[Alexandr
 | [[Sean K. Bechhofer]]                                                                                                                                                    |
 | [[Mária Bieliková]]                                                                                                                                                      |
 | [[Shannon Bradshaw]]                                                                                                                                                     |
-| [[Tim J. Brailsford]]                                                                                                                                                       |
+| [[Timothy J. Brailsford]]                                                                                                                                                       |
 | [[Elizabeth Brown]]                                                                                                                                                      |
 | [[Peter Brusilovsky]]                                                                                                                                                    |
 | [[José A. Camacho-Guerrero]]                                                                                                                                             |
@@ -349,7 +349,7 @@ Presiding, [[Peter Brusilovsky]], [[Hugh C. Davis]]
 - [[Matthew Bonner]]
 - [[Allan Borodin]]
 - [[Niels Olof Bouvin]]
-- [[Tim J. Brailsford]]
+- [[Timothy J. Brailsford]]
 - [[Javier Bravo]]
 - [[Jörg Brunstein]]
 - [[Peter Brusilovsky]]
