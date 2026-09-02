@@ -41,7 +41,7 @@
 |[[Roland Fields]]|
 |[[Regina Silveira]]|
 |[[Guilherme Ranoya]]|
-|[[Thiago R]]|
+|[[Thiago R.]]|
 |[[Priscilla Davanzo]]|
 |[[Peter de Brito]]|
 |[[Pedro Shisto]]|

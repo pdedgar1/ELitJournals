@@ -24,7 +24,7 @@
 [[John Padula]]
 [[Pam Avoledo]]
 [[Lucy Rumble]]
-[[Don B]]
+[[Don B.]]
 [[Audrey T. Carroll]]
 [[Ewen Glass]]
 [[Eve Chairez]]

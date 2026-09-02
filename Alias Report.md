@@ -1,89 +1,16 @@
 # Alias duplicate scan
-Vault: ELitJournals — 40484 distinct link targets
+Vault: ELitJournals — 40424 distinct link targets
 
-## Strong candidates (identical after normalizing punctuation/spacing/accents): 149
+## Strong candidates (identical after normalizing punctuation/spacing/accents): 89
 
-- **Brian D Loader ≈ Brian D. Loader**
-  - `[[Brian D Loader]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Brian D. Loader]]` — 27 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
-- **Mark R Johnson ≈ Mark R. Johnson**
-  - `[[Mark R Johnson]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Mark R. Johnson]]` — 8 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
-- **Ariadna Matamoros Fernandez ≈ Ariadna Matamoros Fernández ≈ Ariadna Matamoros-Fernandez ≈ Ariadna Matamoros-Fernández**
-  - `[[Ariadna Matamoros Fernandez]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Ariadna Matamoros Fernández]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Ariadna Matamoros-Fernandez]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Ariadna Matamoros-Fernández]]` — 4 use(s) in 3 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-
-- **Francis L. F. Lee ≈ Francis LF Lee**
-  - `[[Francis L. F. Lee]]` — 6 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-  - `[[Francis LF Lee]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-
-- **Tommaso Trillo ≈ Tommaso Trillò**
-  - `[[Tommaso Trillo]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Tommaso Trillò]]` — 8 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Michael A Xenos ≈ Michael A. Xenos**
-  - `[[Michael A Xenos]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Michael A. Xenos]]` — 8 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Bernard Miege ≈ Bernard Miège**
-  - `[[Bernard Miege]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
-  - `[[Bernard Miège]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-
-- **Jenny L Davis ≈ Jenny L. Davis**
-  - `[[Jenny L Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Jenny L. Davis]]` — 7 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
-- **Amanda D Lotz ≈ Amanda D. Lotz**
-  - `[[Amanda D Lotz]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Amanda D. Lotz]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
-- **Andre Brock ≈ André Brock**
-  - `[[Andre Brock]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[André Brock]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Organizations/MLA Task Force on AI in Research and Teaching.md, Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
-
-- **Bonnie "Bo" Ruberg ≈ Bonnie 'Bo' Ruberg**
-  - `[[Bonnie "Bo" Ruberg]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Bonnie 'Bo' Ruberg]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
-
-- **Dan M Kotliar ≈ Dan M. Kotliar**
-  - `[[Dan M Kotliar]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Dan M. Kotliar]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **David B Nieborg ≈ David B. Nieborg**
-  - `[[David B Nieborg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[David B. Nieborg]]` — 5 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-
-- **Ellen J Helsper ≈ Ellen J. Helsper**
-  - `[[Ellen J Helsper]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Ellen J. Helsper]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
 
 - **Jerome Bourdon ≈ Jérôme Bourdon**
   - `[[Jerome Bourdon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Jérôme Bourdon]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
 
-- **Benjamin N Jacobsen ≈ Benjamin N. Jacobsen**
-  - `[[Benjamin N Jacobsen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Benjamin N. Jacobsen]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
 - **Chris K. K. Tan ≈ Chris KK Tan**
   - `[[Chris K. K. Tan]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Chris KK Tan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-
-- **David W Hill ≈ David W. Hill**
-  - `[[David W Hill]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[David W. Hill]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Fernando N van der Vlist ≈ Fernando N. van der Vlist**
-  - `[[Fernando N van der Vlist]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Fernando N. van der Vlist]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Jean K Chalaby ≈ Jean K. Chalaby**
-  - `[[Jean K Chalaby]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Jean K. Chalaby]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **Joelle Swart ≈ Joëlle Swart**
   - `[[Joelle Swart]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -105,29 +32,13 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Patrik Wikstrom]]` — 4 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Patrik Wikström]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
-- **Robert W Gehl ≈ Robert W. Gehl**
-  - `[[Robert W Gehl]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Robert W. Gehl]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Seth C Lewis ≈ Seth C. Lewis**
-  - `[[Seth C Lewis]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Seth C. Lewis]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
 - **Agnes Gulyas ≈ Ágnes Gulyás**
   - `[[Agnes Gulyas]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Humanities Research.md, ELit Conferences/Computational Humanities Research 2025.md
   - `[[Ágnes Gulyás]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
 
-- **Christine H Tran ≈ Christine H. Tran**
-  - `[[Christine H Tran]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Christine H. Tran]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
 - **Clemencia Rodriguez ≈ Clemencia Rodríguez**
   - `[[Clemencia Rodriguez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
   - `[[Clemencia Rodríguez]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-
-- **D. E Wittkower ≈ D. E. Wittkower**
-  - `[[D. E Wittkower]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[D. E. Wittkower]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Desiree Schmuck ≈ Desirée Schmuck**
   - `[[Desiree Schmuck]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -157,18 +68,6 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Marie Hermanova]]` — 3 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Marie Heřmanová]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
-- **Marwan M Kraidy ≈ Marwan M. Kraidy**
-  - `[[Marwan M Kraidy]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Marwan M. Kraidy]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Mike S Schäfer ≈ Mike S. Schäfer**
-  - `[[Mike S Schäfer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Mike S. Schäfer]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Sofia P Caldeira ≈ Sofia P. Caldeira**
-  - `[[Sofia P Caldeira]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Sofia P. Caldeira]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
 - **Young Rim Kim ≈ Youngrim Kim**
   - `[[Young Rim Kim]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Youngrim Kim]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -177,30 +76,18 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Zoe Glatt]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Zoë Glatt]]` — 3 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **A Miriam B Lips ≈ A. Miriam B. Lips**
-  - `[[A Miriam B Lips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+- **A Miriam B. Lips ≈ A. Miriam B. Lips**
+  - `[[A Miriam B. Lips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[A. Miriam B. Lips]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **Alcides Velasquez ≈ Alcides Velásquez**
   - `[[Alcides Velasquez]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Alcides Velásquez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Alison B Powell ≈ Alison B. Powell**
-  - `[[Alison B Powell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Alison B. Powell]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Andrea L Guzman ≈ Andrea L. Guzman**
-  - `[[Andrea L Guzman]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Andrea L. Guzman]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
 - **Andres Monroy-Hernandez ≈ Andrés Monroy-Hernandez ≈ Andrés Monroy-Hernández**
   - `[[Andres Monroy-Hernandez]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Andrés Monroy-Hernandez]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
   - `[[Andrés Monroy-Hernández]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Anirban K Baishya ≈ Anirban K. Baishya**
-  - `[[Anirban K Baishya]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Anirban K. Baishya]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
 - **Carlos D'Andrea ≈ Carlos d'Andréa**
   - `[[Carlos D'Andrea]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -210,45 +97,17 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Cecile Meadel]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
   - `[[Cécile Méadel]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
-- **Courtney N Johnson ≈ Courtney N. Johnson**
-  - `[[Courtney N Johnson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Courtney N. Johnson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-
 - **Daniel Biltereyst ≈ Daniël Biltereyst**
   - `[[Daniel Biltereyst]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Daniël Biltereyst]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **David J Phillips ≈ David J. Phillips**
-  - `[[David J Phillips]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[David J. Phillips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
 
 - **Didem Ozkul ≈ Didem Özkul**
   - `[[Didem Ozkul]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Didem Özkul]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Donna Z Davis ≈ Donna Z. Davis**
-  - `[[Donna Z Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Donna Z. Davis]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **José M Tomasena ≈ José M. Tomasena**
-  - `[[José M Tomasena]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[José M. Tomasena]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Kevin G Barnhurst ≈ Kevin G. Barnhurst**
-  - `[[Kevin G Barnhurst]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Kevin G. Barnhurst]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
 - **Kwang-Suk Lee ≈ Kwangsuk Lee**
   - `[[Kwang-Suk Lee]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Kwangsuk Lee]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **M Bjørn von Rimscha ≈ M. Bjørn von Rimscha**
-  - `[[M Bjørn von Rimscha]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[M. Bjørn von Rimscha]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-
-- **Margaret E Foster ≈ Margaret E. Foster**
-  - `[[Margaret E Foster]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Margaret E. Foster]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Marton Bene ≈ Márton Bene**
   - `[[Marton Bene]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -257,10 +116,6 @@ Vault: ELitJournals — 40484 distinct link targets
 - **Mireia Fernández Ardèvol ≈ Mireia Fernández-Ardèvol**
   - `[[Mireia Fernández Ardèvol]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Mireia Fernández-Ardèvol]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Miriam E Sweeney ≈ Miriam E. Sweeney**
-  - `[[Miriam E Sweeney]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Miriam E. Sweeney]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Monika Fratczak ≈ Monika Frątczak**
   - `[[Monika Fratczak]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -278,14 +133,6 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Oscar H. Gandy Jr.]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Oscar H. Gandy, Jr.]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
 
-- **Paul K Jones ≈ Paul K. Jones**
-  - `[[Paul K Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Paul K. Jones]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-
-- **Rachel E Moran ≈ Rachel E. Moran**
-  - `[[Rachel E Moran]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Rachel E. Moran]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
 - **Raul Ferrer Conill ≈ Raul Ferrer-Conill**
   - `[[Raul Ferrer Conill]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Raul Ferrer-Conill]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -298,17 +145,9 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Salome Viljoen]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Salomé Viljoen]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/LOGIC(S).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Samuel C Woolley ≈ Samuel C. Woolley**
-  - `[[Samuel C Woolley]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Samuel C. Woolley]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
 - **Sandra Gonzalez-Bailon ≈ Sandra González-Bailón**
   - `[[Sandra Gonzalez-Bailon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
   - `[[Sandra González-Bailón]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Sarah J Jackson ≈ Sarah J. Jackson**
-  - `[[Sarah J Jackson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
-  - `[[Sarah J. Jackson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
 - **Stephane Couture ≈ Stéphane Couture**
   - `[[Stephane Couture]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -322,10 +161,6 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Tony Chung Li Liao]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Tony Chung-Li Liao]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
-- **Trisha T. C Lin ≈ Trisha T. C. Lin**
-  - `[[Trisha T. C Lin]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Trisha T. C. Lin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
 - **Víctor Ávila Torres ≈ Víctor Ávila-Torres**
   - `[[Víctor Ávila Torres]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Víctor Ávila-Torres]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
@@ -337,10 +172,6 @@ Vault: ELitJournals — 40484 distinct link targets
 - **Yu-li Patrick Hsieh ≈ Yuli Patrick Hsieh**
   - `[[Yu-li Patrick Hsieh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
   - `[[Yuli Patrick Hsieh]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
-- **Amit M Schejter ≈ Amit M. Schejter**
-  - `[[Amit M Schejter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Amit M. Schejter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
 
 - **Ana Sofia Cardenal ≈ Ana Sofía Cardenal**
   - `[[Ana Sofia Cardenal]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -358,10 +189,6 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Antonia Hernandez]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Antonia Hernández]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md
 
-- **Armond R Towns ≈ Armond R. Towns**
-  - `[[Armond R Towns]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Armond R. Towns]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
 - **Aurelia Tamò Larrieux ≈ Aurelia Tamò-Larrieux**
   - `[[Aurelia Tamò Larrieux]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Aurelia Tamò-Larrieux]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -370,45 +197,21 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Bondy Valdovinos Kaye]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[Bondy Valdovinos-Kaye]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Brandon C Harris ≈ Brandon C. Harris**
-  - `[[Brandon C Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Brandon C. Harris]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Britt S Paris ≈ Britt S. Paris**
-  - `[[Britt S Paris]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Britt S. Paris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Critical AI.md
-
 - **Carrie A Rentschler ≈ Carrie A. Rentschler**
   - `[[Carrie A Rentschler]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Carrie A. Rentschler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
-- **Corey W Johnson ≈ Corey W. Johnson**
-  - `[[Corey W Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Corey W. Johnson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **César Albarran-Torres ≈ César Albarrán-Torres**
   - `[[César Albarran-Torres]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[César Albarrán-Torres]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
-- **Daniel C Hallin ≈ Daniel C. Hallin**
-  - `[[Daniel C Hallin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Daniel C. Hallin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
 - **Debora Gomes Salles ≈ Débora Gomes Salles**
   - `[[Debora Gomes Salles]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Débora Gomes Salles]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Diana C Parry ≈ Diana C. Parry**
-  - `[[Diana C Parry]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Diana C. Parry]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
 - **Diego Trujillo Pisanty ≈ Diego Trujillo-Pisanty**
   - `[[Diego Trujillo Pisanty]]` — 1 use(s) in 1 file(s), e.g. Awards/Lumen Prize.md
   - `[[Diego Trujillo-Pisanty]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Dimitra L Milioni ≈ Dimitra L. Milioni**
-  - `[[Dimitra L Milioni]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
-  - `[[Dimitra L. Milioni]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
 
 - **Dominique A Montiel Valle ≈ Dominique A. Montiel Valle**
   - `[[Dominique A Montiel Valle]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -418,17 +221,13 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Douglas A Parry]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[Douglas A. Parry]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Edson C Tandoc, Jr ≈ Edson C. Tandoc Jr.**
-  - `[[Edson C Tandoc, Jr]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+- **Edson C. Tandoc Jr. ≈ Edson C. Tandoc, Jr**
   - `[[Edson C. Tandoc Jr.]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Edson C. Tandoc, Jr]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
 - **Eduard Fosch Villaronga ≈ Eduard Fosch-Villaronga**
   - `[[Eduard Fosch Villaronga]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Eduard Fosch-Villaronga]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Eric T Meyer ≈ Eric T. Meyer**
-  - `[[Eric T Meyer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
-  - `[[Eric T. Meyer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **Fanni Toth ≈ Fanni Tóth**
   - `[[Fanni Toth]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
@@ -450,10 +249,6 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Gunes Tavmen]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Güneş Tavmen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
 
-- **H Leslie Steeves ≈ H. Leslie Steeves**
-  - `[[H Leslie Steeves]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[H. Leslie Steeves]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
-
 - **Heather A Horst ≈ Heather A. Horst**
   - `[[Heather A Horst]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[Heather A. Horst]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
@@ -461,26 +256,6 @@ Vault: ELitJournals — 40484 distinct link targets
 - **Hibai Lopez-Gonzalez ≈ Hibai López-González**
   - `[[Hibai Lopez-Gonzalez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
   - `[[Hibai López-González]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Inga K Trauthig ≈ Inga K. Trauthig**
-  - `[[Inga K Trauthig]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Inga K. Trauthig]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **James F Hamilton ≈ James F. Hamilton**
-  - `[[James F Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[James F. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-
-- **James P Walsh ≈ James P. Walsh**
-  - `[[James P Walsh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[James P. Walsh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
-- **Jeffrey M Binder ≈ Jeffrey M. Binder**
-  - `[[Jeffrey M Binder]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Jeffrey M. Binder]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - Debates in Digital Humanities.md
-
-- **John L Sullivan ≈ John L. Sullivan**
-  - `[[John L Sullivan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[John L. Sullivan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Jose Luis Benavides ≈ José Luis Benavides**
   - `[[Jose Luis Benavides]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md
@@ -490,29 +265,9 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Julia Koltai]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Júlia Koltai]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Julian M Groves ≈ Julian M. Groves**
-  - `[[Julian M Groves]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Julian M. Groves]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-
-- **Justin D Martin ≈ Justin D. Martin**
-  - `[[Justin D Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Justin D. Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Katharina E Kinder-Kurlanda ≈ Katharina E. Kinder-Kurlanda**
-  - `[[Katharina E Kinder-Kurlanda]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Katharina E. Kinder-Kurlanda]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Katy E Pearce ≈ Katy E. Pearce**
-  - `[[Katy E Pearce]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Katy E. Pearce]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
 - **Lars E. F. Johannessen ≈ Lars EF Johannessen**
   - `[[Lars E. F. Johannessen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Lars EF Johannessen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-
-- **Lauren B McInroy ≈ Lauren B. McInroy**
-  - `[[Lauren B McInroy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Lauren B. McInroy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Manisha Pathak Shelat ≈ Manisha Pathak-Shelat**
   - `[[Manisha Pathak Shelat]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -526,10 +281,6 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Mathias Felipe de-Lima-Santos]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Mathias-Felipe de-Lima-Santos]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
-- **Meghan B Moran ≈ Meghan B. Moran**
-  - `[[Meghan B Moran]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Meghan B. Moran]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
 - **Michele Ferris Dobles ≈ Michele Ferris-Dobles**
   - `[[Michele Ferris Dobles]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Michele Ferris-Dobles]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -541,10 +292,6 @@ Vault: ELitJournals — 40484 distinct link targets
 - **Natalia Sánchez Querubín ≈ Natalia Sánchez-Querubín**
   - `[[Natalia Sánchez Querubín]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
   - `[[Natalia Sánchez-Querubín]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Nathan J Jackson ≈ Nathan J. Jackson**
-  - `[[Nathan J Jackson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Nathan J. Jackson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Nestor García Canclini ≈ Néstor García Canclini**
   - `[[Nestor García Canclini]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Culture Machine.md
@@ -566,14 +313,6 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Patricia Silva]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Electronic Book Review/EBR Electropoetics.md
   - `[[Patrícia Silva]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Phoebe V Moore ≈ Phoebe V. Moore**
-  - `[[Phoebe V Moore]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Phoebe V. Moore]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Sheetal D Agarwal ≈ Sheetal D. Agarwal**
-  - `[[Sheetal D Agarwal]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Sheetal D. Agarwal]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
 - **Shira Dvir Gvirsman ≈ Shira Dvir-Gvirsman**
   - `[[Shira Dvir Gvirsman]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Shira Dvir-Gvirsman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -586,30 +325,18 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Suay Melisa Ozkula]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Suay Melisa Özkula]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Téwodros W Workneh ≈ Téwodros W. Workneh**
-  - `[[Téwodros W Workneh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Téwodros W. Workneh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+- **V. Buckenham ≈ v buckenham**
+  - `[[V. Buckenham]]` — 1 use(s) in 1 file(s), e.g. Organizations/WordHack.md
+  - `[[v buckenham]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Taper Zine.md
 
 - **Xiao Qian ≈ XiaoQian**
   - `[[Xiao Qian]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[XiaoQian]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
 
-- **Zachary J McDowell ≈ Zachary J. McDowell**
-  - `[[Zachary J McDowell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Zachary J. McDowell]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Zelly C Martin ≈ Zelly C. Martin**
-  - `[[Zelly C Martin]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Zelly C. Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-## Fuzzy candidates (same surname, similar/subset names — review needed): 807
+## Fuzzy candidates (same surname, similar/subset names — review needed): 776
 
 - **Zelly C. Martin ≈ Zelly Martin** (similarity 0.99)
-  - `[[Zelly C. Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Zelly Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Zelly C Martin ≈ Zelly Martin** (similarity 0.99)
-  - `[[Zelly C Martin]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Zelly C. Martin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Zelly Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Zari A. Taylor ≈ Zari Taylor** (similarity 0.99)
@@ -621,20 +348,16 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Zane Griffin Talley Cooper]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Archives/Series - In Search of Media.md
 
 - **Zachary J. McDowell ≈ Zachary McDowell** (similarity 0.99)
-  - `[[Zachary J. McDowell]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Zachary McDowell]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Zachary J McDowell ≈ Zachary McDowell** (similarity 0.99)
-  - `[[Zachary J McDowell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Zachary J. McDowell]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Zachary McDowell]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Yvonne Eadon ≈ Yvonne Melisande Eadon** (similarity 0.99)
   - `[[Yvonne Eadon]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Yvonne Melisande Eadon]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Yvonne Eadon ≈ Yvonne M Eadon** (similarity 0.99)
+- **Yvonne Eadon ≈ Yvonne M. Eadon** (similarity 0.99)
   - `[[Yvonne Eadon]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Yvonne M Eadon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Yvonne M. Eadon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
 - **Yong Volz ≈ Yong Z. Volz** (similarity 0.99)
   - `[[Yong Volz]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
@@ -676,9 +399,9 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[W. Bennett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
   - `[[W. Lance Bennett]]` — 9 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
 
-- **Volodymyr Lysenko ≈ Volodymyr V Lysenko** (similarity 0.99)
+- **Volodymyr Lysenko ≈ Volodymyr V. Lysenko** (similarity 0.99)
   - `[[Volodymyr Lysenko]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Volodymyr V Lysenko]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
+  - `[[Volodymyr V. Lysenko]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
 
 - **Vincent Adakole Obia ≈ Vincent Obia** (similarity 0.99)
   - `[[Vincent Adakole Obia]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -778,11 +501,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Sofia Caldeira ≈ Sofia P. Caldeira** (similarity 0.99)
   - `[[Sofia Caldeira]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Sofia P. Caldeira]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Sofia Caldeira ≈ Sofia P Caldeira** (similarity 0.99)
-  - `[[Sofia Caldeira]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Sofia P Caldeira]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Sofia P. Caldeira]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Simeon J. Yates ≈ Simeon Yates** (similarity 0.99)
   - `[[Simeon J. Yates]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
@@ -813,11 +532,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Shaul Shenhav]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Seth C. Lewis ≈ Seth Lewis** (similarity 0.99)
-  - `[[Seth C. Lewis]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Seth Lewis]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Seth C Lewis ≈ Seth Lewis** (similarity 0.99)
-  - `[[Seth C Lewis]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Seth C. Lewis]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Seth Lewis]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Sebastian S. K. Svegaard ≈ Sebastian Svegaard** (similarity 0.99)
@@ -849,11 +564,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Sander Schwartz]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Samuel C. Woolley ≈ Samuel Woolley** (similarity 0.99)
-  - `[[Samuel C. Woolley]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Samuel Woolley]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Samuel C Woolley ≈ Samuel Woolley** (similarity 0.99)
-  - `[[Samuel C Woolley]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Samuel C. Woolley]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Samuel Woolley]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Samantha A. Adams ≈ Samantha Adams** (similarity 0.99)
@@ -880,8 +591,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Robin E. Mansell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
   - `[[Robin Mansell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
-- **Robert M Tynes ≈ Robert Tynes** (similarity 0.99)
-  - `[[Robert M Tynes]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+- **Robert M. Tynes ≈ Robert Tynes** (similarity 0.99)
+  - `[[Robert M. Tynes]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Robert Tynes]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Robert Gehl ≈ Robert William Gehl** (similarity 0.99)
@@ -890,11 +601,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Robert Gehl ≈ Robert W. Gehl** (similarity 0.99)
   - `[[Robert Gehl]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Robert W. Gehl]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Robert Gehl ≈ Robert W Gehl** (similarity 0.99)
-  - `[[Robert Gehl]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Robert W Gehl]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Robert W. Gehl]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Robert D. Smith ≈ Robert Smith** (similarity 0.99)
   - `[[Robert D. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md
@@ -924,8 +631,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Rebekah Jane Willett]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Rebekah Willett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
-- **Rebekah J Willett ≈ Rebekah Willett** (similarity 0.99)
-  - `[[Rebekah J Willett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+- **Rebekah J. Willett ≈ Rebekah Willett** (similarity 0.99)
+  - `[[Rebekah J. Willett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Rebekah Willett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
 - **Raquel Recuero ≈ Raquel da Cunha Recuero** (similarity 0.99)
@@ -952,9 +659,9 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Priya C. Kumar]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Priya Kumar]]` — 4 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Philippa Adams ≈ Philippa R Adams** (similarity 0.99)
+- **Philippa Adams ≈ Philippa R. Adams** (similarity 0.99)
   - `[[Philippa Adams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Philippa R Adams]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Philippa R. Adams]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Philip M. Napoli ≈ Philip Napoli** (similarity 0.99)
   - `[[Philip M. Napoli]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -982,11 +689,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Paul Jones ≈ Paul K. Jones** (similarity 0.99)
   - `[[Paul Jones]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-  - `[[Paul K. Jones]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-
-- **Paul Jones ≈ Paul K Jones** (similarity 0.99)
-  - `[[Paul Jones]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-  - `[[Paul K Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Paul K. Jones]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **Paul J. Reilly ≈ Paul Reilly** (similarity 0.99)
   - `[[Paul J. Reilly]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -1000,6 +703,10 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Paul A. Taylor]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
   - `[[Paul Taylor]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
 
+- **Patricia G. Lange ≈ Patricia Lange** (similarity 0.99)
+  - `[[Patricia G. Lange]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Patricia Lange]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
 - **Patricia G. C. Rossini ≈ Patrícia Rossini** (similarity 0.99)
   - `[[Patricia G. C. Rossini]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Patrícia Rossini]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -1007,10 +714,6 @@ Vault: ELitJournals — 40484 distinct link targets
 - **Patricia G. C. Rossini ≈ Patricia Rossini** (similarity 0.99)
   - `[[Patricia G. C. Rossini]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Patricia Rossini]]` — 3 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Patricia G Lange ≈ Patricia Lange** (similarity 0.99)
-  - `[[Patricia G Lange]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Patricia Lange]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Patricia Colleen Cormack ≈ Patricia Cormack** (similarity 0.99)
   - `[[Patricia Colleen Cormack]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
@@ -1032,13 +735,13 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Otavio Vinhas]]` — 3 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Otávio Iost Vinhas]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Olivia Conti ≈ Olivia G Conti** (similarity 0.99)
+- **Olivia Conti ≈ Olivia G. Conti** (similarity 0.99)
   - `[[Olivia Conti]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Olivia G Conti]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Olivia G. Conti]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
-- **Oliver Haimson ≈ Oliver L Haimson** (similarity 0.99)
+- **Oliver Haimson ≈ Oliver L. Haimson** (similarity 0.99)
   - `[[Oliver Haimson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Oliver L Haimson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Oliver L. Haimson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Nina B. Huntemann ≈ Nina Huntemann** (similarity 0.99)
   - `[[Nina B. Huntemann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
@@ -1052,8 +755,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Nigel A. Jackson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
   - `[[Nigel Jackson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
-- **Nicole K Stewart ≈ Nicole Stewart** (similarity 0.99)
-  - `[[Nicole K Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+- **Nicole K. Stewart ≈ Nicole Stewart** (similarity 0.99)
+  - `[[Nicole K. Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
   - `[[Nicole Stewart]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Nicholas Bowman ≈ Nicholas David Bowman** (similarity 0.99)
@@ -1069,11 +772,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Neil T. Gavin]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
 
 - **Nathan J. Jackson ≈ Nathan Jackson** (similarity 0.99)
-  - `[[Nathan J. Jackson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Nathan Jackson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Nathan J Jackson ≈ Nathan Jackson** (similarity 0.99)
-  - `[[Nathan J Jackson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Nathan J. Jackson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Nathan Jackson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Natalie Ann Hendry ≈ Natalie Hendry** (similarity 0.99)
@@ -1113,11 +812,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Minh Nguyen]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
 
 - **Mike S. Schäfer ≈ Mike Schäfer** (similarity 0.99)
-  - `[[Mike S. Schäfer]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Mike Schäfer]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Mike S Schäfer ≈ Mike Schäfer** (similarity 0.99)
-  - `[[Mike S Schäfer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Mike S. Schäfer]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Mike Schäfer]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Michi Fujii ≈ Michi S. Fujii** (similarity 0.99)
@@ -1182,11 +877,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Marwan Kraidy ≈ Marwan M. Kraidy** (similarity 0.99)
   - `[[Marwan Kraidy]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Marwan M. Kraidy]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Marwan Kraidy ≈ Marwan M Kraidy** (similarity 0.99)
-  - `[[Marwan Kraidy]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Marwan M Kraidy]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Marwan M. Kraidy]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **Martin Gibbs ≈ Martin Ross Gibbs** (similarity 0.99)
   - `[[Martin Gibbs]]` — 7 use(s) in 5 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
@@ -1216,9 +907,9 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Marco Bastos]]` — 9 use(s) in 3 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Marco Toledo Bastos]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, ELit Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
 
-- **Marco Bastos ≈ Marco T Bastos** (similarity 0.99)
+- **Marco Bastos ≈ Marco T. Bastos** (similarity 0.99)
   - `[[Marco Bastos]]` — 9 use(s) in 3 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Marco T Bastos]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Marco T. Bastos]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Marcelo Alves dos Santos ≈ Marcelo Santos** (similarity 0.99)
   - `[[Marcelo Alves dos Santos]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
@@ -1284,9 +975,9 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Kelly Lewis]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Kelly Marie Lewis]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Kelly Dillon ≈ Kelly P Dillon** (similarity 0.99)
+- **Kelly Dillon ≈ Kelly P. Dillon** (similarity 0.99)
   - `[[Kelly Dillon]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Kelly P Dillon]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Kelly P. Dillon]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Kelly A. Quinn ≈ Kelly Quinn** (similarity 0.99)
   - `[[Kelly A. Quinn]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -1305,15 +996,11 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Katherine M. FitzGerald]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Katharina E. Kinder-Kurlanda ≈ Katharina Kinder-Kurlanda** (similarity 0.99)
-  - `[[Katharina E. Kinder-Kurlanda]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Katharina E. Kinder-Kurlanda]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Katharina Kinder-Kurlanda]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Katharina E Kinder-Kurlanda ≈ Katharina Kinder-Kurlanda** (similarity 0.99)
-  - `[[Katharina E Kinder-Kurlanda]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Katharina Kinder-Kurlanda]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Kate M Miltner ≈ Kate Miltner** (similarity 0.99)
-  - `[[Kate M Miltner]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+- **Kate M. Miltner ≈ Kate Miltner** (similarity 0.99)
+  - `[[Kate M. Miltner]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
   - `[[Kate Miltner]]` — 4 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Kate Farfan ≈ Kate O'Connor Farfan** (similarity 0.99)
@@ -1336,9 +1023,9 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Julia DeCook]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Julia Rose DeCook]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Julia DeCook ≈ Julia R DeCook** (similarity 0.99)
+- **Julia DeCook ≈ Julia R. DeCook** (similarity 0.99)
   - `[[Julia DeCook]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Julia R DeCook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Julia R. DeCook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
 - **João Carlos Magalhães ≈ João Magalhães** (similarity 0.99)
   - `[[João Carlos Magalhães]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -1357,11 +1044,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[John Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **John L. Sullivan ≈ John Sullivan** (similarity 0.99)
-  - `[[John L. Sullivan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[John Sullivan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **John L Sullivan ≈ John Sullivan** (similarity 0.99)
-  - `[[John L Sullivan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[John L. Sullivan]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[John Sullivan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **John K. Lewis ≈ John Lewis** (similarity 0.99)
@@ -1400,8 +1083,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Joanne Elizabeth Gray]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Joanne Gray]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Joanne E Gray ≈ Joanne Gray** (similarity 0.99)
-  - `[[Joanne E Gray]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Joanne E. Gray ≈ Joanne Gray** (similarity 0.99)
+  - `[[Joanne E. Gray]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Joanne Gray]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Jingsi Christina Wu ≈ Jingsi Wu** (similarity 0.99)
@@ -1430,11 +1113,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Jenny Davis ≈ Jenny L. Davis** (similarity 0.99)
   - `[[Jenny Davis]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Jenny L. Davis]]` — 7 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
-- **Jenny Davis ≈ Jenny L Davis** (similarity 0.99)
-  - `[[Jenny Davis]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Jenny L Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Jenny L. Davis]]` — 8 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **Jennifer Ayres ≈ Jennifer Lynn Ayres** (similarity 0.99)
   - `[[Jennifer Ayres]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
@@ -1468,16 +1147,16 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Jason A. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Jason Smith]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
-- **Jasmine E McNealy ≈ Jasmine McNealy** (similarity 0.99)
-  - `[[Jasmine E McNealy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+- **Jasmine E. McNealy ≈ Jasmine McNealy** (similarity 0.99)
+  - `[[Jasmine E. McNealy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
   - `[[Jasmine McNealy]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **James Meese ≈ James Michael Meese** (similarity 0.99)
   - `[[James Meese]]` — 5 use(s) in 4 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[James Michael Meese]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **James K Stewart ≈ James Stewart** (similarity 0.99)
-  - `[[James K Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+- **James K. Stewart ≈ James Stewart** (similarity 0.99)
+  - `[[James K. Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[James Stewart]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
 
 - **James Hamilton ≈ James W. Hamilton** (similarity 0.99)
@@ -1493,20 +1172,16 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[James Webster]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **James F. Hamilton ≈ James Hamilton** (similarity 0.99)
-  - `[[James F. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[James Hamilton]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
-- **James F Hamilton ≈ James Hamilton** (similarity 0.99)
-  - `[[James F Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[James F. Hamilton]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[James Hamilton]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
 
 - **James E. Katz ≈ James Katz** (similarity 0.99)
   - `[[James E. Katz]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[James Katz]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **James Brown ≈ James J Brown** (similarity 0.99)
+- **James Brown ≈ James J. Brown** (similarity 0.99)
   - `[[James Brown]]` — 5 use(s) in 4 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2017.md, Organizations/ELO Teams/ELO Team 2016.md, Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2005-2015.md
-  - `[[James J Brown]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[James J. Brown]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Jacqueline Ryan Vickery ≈ Jacqueline Vickery** (similarity 0.99)
   - `[[Jacqueline Ryan Vickery]]` — 8 use(s) in 3 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -1633,11 +1308,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Filipa Neto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Fernando N. van der Vlist ≈ Fernando van der Vlist** (similarity 0.99)
-  - `[[Fernando N. van der Vlist]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Fernando van der Vlist]]` — 5 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Fernando N van der Vlist ≈ Fernando van der Vlist** (similarity 0.99)
-  - `[[Fernando N van der Vlist]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Fernando N. van der Vlist]]` — 5 use(s) in 4 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
   - `[[Fernando van der Vlist]]` — 5 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Felix Münch ≈ Felix Victor Münch** (similarity 0.99)
@@ -1678,11 +1349,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Ellen Helsper ≈ Ellen J. Helsper** (similarity 0.99)
   - `[[Ellen Helsper]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Ellen J. Helsper]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
-
-- **Ellen Helsper ≈ Ellen J Helsper** (similarity 0.99)
-  - `[[Ellen Helsper]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Ellen J Helsper]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Ellen J. Helsper]]` — 6 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
 - **Elizabeth Evans ≈ Elizabeth Jane Evans** (similarity 0.99)
   - `[[Elizabeth Evans]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, ELit Conferences/MIX Conferences/MIX Conferences 2010s.md
@@ -1736,8 +1403,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Earvin Charles Borja Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Earvin Charles Cabalquinto]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Earvin Charles B Cabalquinto ≈ Earvin Charles Cabalquinto** (similarity 0.99)
-  - `[[Earvin Charles B Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+- **Earvin Charles B. Cabalquinto ≈ Earvin Charles Cabalquinto** (similarity 0.99)
+  - `[[Earvin Charles B. Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[Earvin Charles Cabalquinto]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Earvin Cabalquinto ≈ Earvin Charles Cabalquinto** (similarity 0.99)
@@ -1748,9 +1415,9 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Earvin Cabalquinto]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Earvin Charles Borja Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Earvin Cabalquinto ≈ Earvin Charles B Cabalquinto** (similarity 0.99)
+- **Earvin Cabalquinto ≈ Earvin Charles B. Cabalquinto** (similarity 0.99)
   - `[[Earvin Cabalquinto]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Earvin Charles B Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Earvin Charles B. Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
 - **E. Gabriella Coleman ≈ Gabriella Coleman** (similarity 0.99)
   - `[[E. Gabriella Coleman]]` — 5 use(s) in 4 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Art Mags/LOGIC(S).md, Publications - Academic/Books/Ed. Coll. - Johns Hopkins Guide to Digital Media.md
@@ -1774,11 +1441,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Donna Davis ≈ Donna Z. Davis** (similarity 0.99)
   - `[[Donna Davis]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Donna Z. Davis]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Donna Davis ≈ Donna Z Davis** (similarity 0.99)
-  - `[[Donna Davis]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Donna Z Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Donna Z. Davis]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Dominique Carlon ≈ Dominique Maree Carlon** (similarity 0.99)
   - `[[Dominique Carlon]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
@@ -1829,11 +1492,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[David S. Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **David J. Phillips ≈ David Phillips** (similarity 0.99)
-  - `[[David J. Phillips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
-  - `[[David Phillips]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/Directory - Web Hyperfiction Reading List.md
-
-- **David J Phillips ≈ David Phillips** (similarity 0.99)
-  - `[[David J Phillips]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[David J. Phillips]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
   - `[[David Phillips]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/Directory - Web Hyperfiction Reading List.md
 
 - **David Hopmann ≈ David Nicolas Hopmann** (similarity 0.99)
@@ -1842,11 +1501,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **David Hill ≈ David W. Hill** (similarity 0.99)
   - `[[David Hill]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[David W. Hill]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **David Hill ≈ David W Hill** (similarity 0.99)
-  - `[[David Hill]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[David W Hill]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[David W. Hill]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
 - **David E. Morrison ≈ David Morrison** (similarity 0.99)
   - `[[David E. Morrison]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md
@@ -1861,11 +1516,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[David R. Brake]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **David B. Nieborg ≈ David Nieborg** (similarity 0.99)
-  - `[[David B. Nieborg]]` — 5 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[David Nieborg]]` — 9 use(s) in 3 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Solo Journals/Journ. - Computational Culture.md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **David B Nieborg ≈ David Nieborg** (similarity 0.99)
-  - `[[David B Nieborg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[David B. Nieborg]]` — 6 use(s) in 3 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[David Nieborg]]` — 9 use(s) in 3 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Solo Journals/Journ. - Computational Culture.md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **David A. Smith ≈ David Smith** (similarity 0.99)
@@ -1901,11 +1552,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Daniel Heslep]]` — 2 use(s) in 1 file(s), e.g. Organizations/ELO Teams/ELO Team 2026.md
 
 - **Daniel C. Hallin ≈ Daniel Hallin** (similarity 0.99)
-  - `[[Daniel C. Hallin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-  - `[[Daniel Hallin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Daniel C Hallin ≈ Daniel Hallin** (similarity 0.99)
-  - `[[Daniel C Hallin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Daniel C. Hallin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Daniel Hallin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Daniel Alejandro Gómez ≈ Daniel Gomez** (similarity 0.99)
@@ -1914,11 +1561,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Dan Kotliar ≈ Dan M. Kotliar** (similarity 0.99)
   - `[[Dan Kotliar]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Dan M. Kotliar]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Dan Kotliar ≈ Dan M Kotliar** (similarity 0.99)
-  - `[[Dan Kotliar]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Dan M Kotliar]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Dan M. Kotliar]]` — 6 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Curd Benjamin Knüpfer ≈ Curd Knüpfer** (similarity 0.99)
   - `[[Curd Benjamin Knüpfer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -2074,11 +1717,7 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Britt Paris ≈ Britt S. Paris** (similarity 0.99)
   - `[[Britt Paris]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Britt S. Paris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Critical AI.md
-
-- **Britt Paris ≈ Britt S Paris** (similarity 0.99)
-  - `[[Britt Paris]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Britt S Paris]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Britt S. Paris]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Critical AI.md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Bridget Blodgett ≈ Bridget Marie Blodgett** (similarity 0.99)
   - `[[Bridget Blodgett]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
@@ -2089,11 +1728,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Briana Trifiro]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Brian D. Loader ≈ Brian Loader** (similarity 0.99)
-  - `[[Brian D. Loader]]` — 27 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Brian Loader]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
-
-- **Brian D Loader ≈ Brian Loader** (similarity 0.99)
-  - `[[Brian D Loader]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Brian D. Loader]]` — 28 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Brian Loader]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
 
 - **Brett A. Halperin ≈ Brett Halperin** (similarity 0.99)
@@ -2101,11 +1736,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Brett Halperin]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2024.md
 
 - **Brandon C. Harris ≈ Brandon Harris** (similarity 0.99)
-  - `[[Brandon C. Harris]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Brandon Harris]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Brandon C Harris ≈ Brandon Harris** (similarity 0.99)
-  - `[[Brandon C Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Brandon C. Harris]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Brandon Harris]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Bondy Valdovinos Kaye ≈ David Bondy Valdovinos Kaye** (similarity 0.99)
@@ -2164,13 +1795,13 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Anu A Harju]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[Anu Harju]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Antonia C Vaughan ≈ Antonia Vaughan** (similarity 0.99)
-  - `[[Antonia C Vaughan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Antonia C. Vaughan ≈ Antonia Vaughan** (similarity 0.99)
+  - `[[Antonia C. Vaughan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Antonia Vaughan]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Annette Markham ≈ Annette N Markham** (similarity 0.99)
+- **Annette Markham ≈ Annette N. Markham** (similarity 0.99)
   - `[[Annette Markham]]` — 4 use(s) in 3 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Annette N Markham]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Annette N. Markham]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Anne-Mette Albrechtslund ≈ Anne-Mette Bech Albrechtslund** (similarity 0.99)
   - `[[Anne-Mette Albrechtslund]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
@@ -2200,13 +1831,13 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Anita Chan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Anita Say Chan]]` — 1 use(s) in 1 file(s), e.g. Organizations/HASTAC Leadership.md
 
-- **Angele L Christin ≈ Angèle Christin** (similarity 0.99)
-  - `[[Angele L Christin]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Angele L. Christin ≈ Angèle Christin** (similarity 0.99)
+  - `[[Angele L. Christin]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Angèle Christin]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
 
-- **Angela Cirucci ≈ Angela M Cirucci** (similarity 0.99)
+- **Angela Cirucci ≈ Angela M. Cirucci** (similarity 0.99)
   - `[[Angela Cirucci]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Angela M Cirucci]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Angela M. Cirucci]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **André Lemos ≈ André Luiz Martins Lemos** (similarity 0.99)
   - `[[André Lemos]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -2242,18 +1873,14 @@ Vault: ELitJournals — 40484 distinct link targets
 
 - **Andrea Guzman ≈ Andrea L. Guzman** (similarity 0.99)
   - `[[Andrea Guzman]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Andrea L. Guzman]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Andrea Guzman ≈ Andrea L Guzman** (similarity 0.99)
-  - `[[Andrea Guzman]]` — 3 use(s) in 2 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Andrea L Guzman]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Andrea L. Guzman]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Anders Larsson ≈ Anders Olof Larsson** (similarity 0.99)
   - `[[Anders Larsson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Anders Olof Larsson]]` — 14 use(s) in 6 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
-- **Anders E Larsson ≈ Anders Larsson** (similarity 0.99)
-  - `[[Anders E Larsson]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Kontradiction.md
+- **Anders E. Larsson ≈ Anders Larsson** (similarity 0.99)
+  - `[[Anders E. Larsson]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Kontradiction.md
   - `[[Anders Larsson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Anandam Kavoori ≈ Anandam P. Kavoori** (similarity 0.99)
@@ -2296,8 +1923,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Amanda Catharine Cote]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Amanda Cote]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Amanda C Cote ≈ Amanda Cote** (similarity 0.99)
-  - `[[Amanda C Cote]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+- **Amanda C. Cote ≈ Amanda Cote** (similarity 0.99)
+  - `[[Amanda C. Cote]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
   - `[[Amanda Cote]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Alistair Duff ≈ Alistair S. Duff** (similarity 0.99)
@@ -2305,11 +1932,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Alistair S. Duff]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
 
 - **Alison B. Powell ≈ Alison Powell** (similarity 0.99)
-  - `[[Alison B. Powell]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Alison Powell]]` — 3 use(s) in 3 file(s), e.g. Anthologies/Critical Making.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-
-- **Alison B Powell ≈ Alison Powell** (similarity 0.99)
-  - `[[Alison B Powell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Alison B. Powell]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Alison Powell]]` — 3 use(s) in 3 file(s), e.g. Anthologies/Critical Making.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **Alice Emily Marwick ≈ Alice Marwick** (similarity 0.99)
@@ -2324,8 +1947,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Alice E. Marwick]]` — 4 use(s) in 3 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Alice Marwick]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
 
-- **Alice E A Witt ≈ Alice Witt** (similarity 0.99)
-  - `[[Alice E A Witt]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Alice E. A Witt ≈ Alice Witt** (similarity 0.99)
+  - `[[Alice E. A Witt]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Alice Witt]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Ali Mohamed ≈ Ali Sayed Mohamed** (similarity 0.99)
@@ -2340,8 +1963,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Alexander Monea]]` — 2 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Alexander Paul Monea]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2010s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Alexander M Ross ≈ Alexander Ross** (similarity 0.99)
-  - `[[Alexander M Ross]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Alexander M. Ross ≈ Alexander Ross** (similarity 0.99)
+  - `[[Alexander M. Ross]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Alexander Ross]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Alexander Halavais ≈ Alexander M. C. Halavais** (similarity 0.99)
@@ -2376,22 +1999,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Aaron Ng]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[Aaron Yikai Ng]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Aaron K Martin ≈ Aaron Martin** (similarity 0.99)
-  - `[[Aaron K Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Aaron Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **A. Miriam B. Lips ≈ Miriam Lips** (similarity 0.99)
-  - `[[A. Miriam B. Lips]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Miriam Lips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **A. King ≈ M. A. King** (similarity 0.99)
-  - `[[A. King]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 99-08.md
-  - `[[M. A. King]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
-
-- **A Miriam B Lips ≈ Miriam Lips** (similarity 0.99)
-  - `[[A Miriam B Lips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Miriam Lips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
+## similarity less than 99% 
 - **Tobia Ebbrecht-Hartmann ≈ Tobias Ebbrecht-Hartmann** (similarity 0.98)
   - `[[Tobia Ebbrecht-Hartmann]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Tobias Ebbrecht-Hartmann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
@@ -2567,6 +2175,7 @@ Vault: ELitJournals — 40484 distinct link targets
 - **Philin Schlesinger ≈ Philip Schlesinger** (similarity 0.94)
   - `[[Philin Schlesinger]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
   - `[[Philip Schlesinger]]` — 39 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+## similarity less than 95% 
 
 - **Min Zhang ≈ Ming Zhang** (similarity 0.94)
   - `[[Min Zhang]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
@@ -2613,11 +2222,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Yin Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
 
 - **Sheetal D. Agarwal ≈ Sheetal K. Agarwal** (similarity 0.93)
-  - `[[Sheetal D. Agarwal]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Sheetal K. Agarwal]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
-
-- **Sheetal D Agarwal ≈ Sheetal K. Agarwal** (similarity 0.93)
-  - `[[Sheetal D Agarwal]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Sheetal D. Agarwal]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Sheetal K. Agarwal]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
 
 - **Marion Schneider ≈ Martin Schneider** (similarity 0.93)
@@ -2685,19 +2290,11 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[James W. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
 
 - **James F. Hamilton ≈ James W. Hamilton** (similarity 0.93)
-  - `[[James F. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[James F. Hamilton]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[James W. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
 
 - **James F. Hamilton ≈ James T. Hamilton** (similarity 0.93)
-  - `[[James F. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[James T. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **James F Hamilton ≈ James W. Hamilton** (similarity 0.93)
-  - `[[James F Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[James W. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
-- **James F Hamilton ≈ James T. Hamilton** (similarity 0.93)
-  - `[[James F Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[James F. Hamilton]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[James T. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Hongjiang Zhang ≈ Hongliang Zhang** (similarity 0.93)
@@ -2716,8 +2313,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Andrew J. Solberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Intertext.md
   - `[[Andrew L. Solberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
 
-- **Earvin Charles B Cabalquinto ≈ Earvin Charles Borja Cabalquinto** (similarity 0.93)
-  - `[[Earvin Charles B Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+- **Earvin Charles B. Cabalquinto ≈ Earvin Charles Borja Cabalquinto** (similarity 0.93)
+  - `[[Earvin Charles B. Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[Earvin Charles Borja Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Yuan He ≈ Yulan He** (similarity 0.92)
@@ -2760,8 +2357,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Jin Shi]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
   - `[[Jing Shi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **J Bates ≈ Jo Bates** (similarity 0.92)
-  - `[[J Bates]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **J. Bates ≈ Jo Bates** (similarity 0.92)
+  - `[[J. Bates]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Jo Bates]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Dara Greenwald ≈ Sara Greenwald** (similarity 0.92)
@@ -2876,8 +2473,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Rin Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Tagvverk.md
   - `[[Robin Johnson]]` — 3 use(s) in 3 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md, Awards/XYZZY Awards.md, Awards/IF Comp.md
 
-- **Rebekah J Willett ≈ Rebekah Jane Willett** (similarity 0.91)
-  - `[[Rebekah J Willett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+- **Rebekah J. Willett ≈ Rebekah Jane Willett** (similarity 0.91)
+  - `[[Rebekah J. Willett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Rebekah Jane Willett]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Micha Klein ≈ Michael Klein** (similarity 0.91)
@@ -2984,8 +2581,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Ben Anderson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
   - `[[Ken Anderson]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
 
-- **Aymar J Christian ≈ Aymar Jean Christian** (similarity 0.91)
-  - `[[Aymar J Christian]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Aymar J. Christian ≈ Aymar Jean Christian** (similarity 0.91)
+  - `[[Aymar J. Christian]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Aymar Jean Christian]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Anna Howard ≈ Joanna Howard** (similarity 0.91)
@@ -3196,9 +2793,9 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Michael Shumate]]` — 8 use(s) in 6 file(s), e.g. Archives/Direct. - Eastgate.md, Archives/Hypertext Studios/Directory - Hyperizons.md, Publications - Academic/Solo Journals/Computer-Mediated Communication Magazine.md
   - `[[Michelle Shumate]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
-- **Michael L. Nelson ≈ Michelle R Nelson** (similarity 0.90)
+- **Michael L. Nelson ≈ Michelle R. Nelson** (similarity 0.90)
   - `[[Michael L. Nelson]]` — 9 use(s) in 5 file(s), e.g. ELit Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md, ELit Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md, Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
-  - `[[Michelle R Nelson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Michelle R. Nelson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
 - **Laura Goldstein ≈ Lauren Goldstein** (similarity 0.90)
   - `[[Laura Goldstein]]` — 2 use(s) in 2 file(s), e.g. ELit Conferences/ELO Conferences/ELO Conference 2010.md, Publications - Lit Mags/Jacket2.md
@@ -3320,8 +2917,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Lei Zhang]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
   - `[[Lemei Zhang]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
 
-- **Julia R DeCook ≈ Julia Rose DeCook** (similarity 0.89)
-  - `[[Julia R DeCook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+- **Julia R. DeCook ≈ Julia Rose DeCook** (similarity 0.89)
+  - `[[Julia R. DeCook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[Julia Rose DeCook]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Jonathan Gibson ≈ Nathan P. Gibson** (similarity 0.89)
@@ -3625,11 +3222,7 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Andrew J. Nelson]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Andrea L. Guzman ≈ Andres Guzman** (similarity 0.88)
-  - `[[Andrea L. Guzman]]` — 1 use(s) in 1 file(s), e.g. ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Andres Guzman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Andrea L Guzman ≈ Andres Guzman** (similarity 0.88)
-  - `[[Andrea L Guzman]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Andrea L. Guzman]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Andres Guzman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Alondra Nelson ≈ Andrea Nelson** (similarity 0.88)
@@ -3800,8 +3393,8 @@ Vault: ELitJournals — 40484 distinct link targets
   - `[[Jia Zhang]]` — 1 use(s) in 1 file(s), e.g. Anthologies/OUTPUT.md
   - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, ELit Conferences/ELO Exhibitions/ELO 2015 Exhibit.md, Awards/New Media Writing Prize.md
 
-- **Ib T Gulbrandsen ≈ Ib Tunby Gulbrandsen** (similarity 0.88)
-  - `[[Ib T Gulbrandsen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+- **Ib T. Gulbrandsen ≈ Ib Tunby Gulbrandsen** (similarity 0.88)
+  - `[[Ib T. Gulbrandsen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Ib Tunby Gulbrandsen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **Fengqi Li ≈ Mengqi Li** (similarity 0.88)

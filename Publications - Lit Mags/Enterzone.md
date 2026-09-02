@@ -254,7 +254,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[]]                     |
 | [[W. L. Carr]]             |
 | [[]]                     |
-| [[Arthur E Crumlish]]    |
+| [[Arthur E. Crumlish]]    |
 | [[]]                     |
 | [[Christian Crumlish]]   |
 | [[Cort Day]]             |
@@ -429,7 +429,7 @@ with contributing writers [[Barclay Dunn]], [[Peter Gannon Crumlish]],[[David Pe
 | [[Bill Cassel]]               |
 | [[B. C. Cohen]]                |
 | [[Martha Conway]]             |
-| [[Arthur E Crumlish]]         |
+| [[Arthur E. Crumlish]]         |
 | [[Christian Crumlish]]        |
 | [[Peter Gannon Crumlish]]            |
 | [[Cort Day]]                  |

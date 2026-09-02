@@ -26,7 +26,7 @@
 
 | [[Daniel Lichtman]] |
 | ------------------- |
-| [[O Neace]]         |
+| [[O. Neace]]         |
 | [[mk zariel]]       |
 | [[Mez Breeze]]      |
 | [[Mica England]]    |

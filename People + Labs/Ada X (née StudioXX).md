@@ -4,7 +4,7 @@ founded [[Kim Sawchuck]], [[Patricia Kearns]], [[Kathy Kennedy]], [[Sheryl N. Ha
 | --------------------------- |
 | [[Aglaë Brown]]             |
 | [[Alexis Bertin]]           |
-| [[Arlene J Havrot]]         |
+| [[Arlene J. Havrot]]         |
 | [[Athena Holmes]]           |
 | [[Celia Martin]]            |
 | [[Clara Micheau]]           |
@@ -49,7 +49,7 @@ founded [[Kim Sawchuck]], [[Patricia Kearns]], [[Kathy Kennedy]], [[Sheryl N. Ha
 | [[Marie-Ann LaRoche]]       |
 | [[Maryam Pourarya]]         |
 | [[Ahmed Najeeba]]           |
-| [[Nyoka H]]                 |
+| [[Nyoka H.]]                 |
 | [[Olive Zeynep Kartal]]     |
 | [[Vanessa Massera]]         |
 | [[Vladim Vilain]]           |

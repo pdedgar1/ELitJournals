@@ -43,7 +43,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[David Elstein]]
 - [[Giovanni Cesareo]]
 - [[Cees J. Hamelink]]
-- [[Bernard Miege]]
+- [[Bernard Miége]]
 - [[Nicholas Garnham]]
 - [[James Carey]]
 - [[Simon Watney]]
@@ -272,8 +272,8 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[David Cardiff]]
 - [[Manjunath Pendakur]]
 - [[Philip Whitehead]]
-- [[Bernard Miege]]
-- [[Bernard Miege]]
+- [[Bernard Miége]]
+- [[Bernard Miége]]
 
 ### Vol. 6, Issue 1 (January 1984)
 
@@ -285,8 +285,8 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Mallory Wober]]
 - [[Stuart Hood]]
 - [[Claudio Aguirre-Bianchi]]
-- [[Bernard Miège]]
-- [[Bernard Miège]]
+- [[Bernard Miége]]
+- [[Bernard Miége]]
 - [[Philip Elliott]]
 - [[Michael Jacoby-Croft]]
 - [[Nicholas Garnham]]
@@ -480,7 +480,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 
 - [[Nicholas Garnham]]
 - [[Philip Schlesinger]]
-- [[Bernard Miège]]
+- [[Bernard Miége]]
 - [[Jean G. Padioleau]]
 - [[Jean-Marie Charon]]
 - [[Philippe Urfalino]]
@@ -572,7 +572,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Nicholas Garnham]]
 - [[Vincent Porter]]
 - [[Preben Sepstrup]]
-- [[Bernard Miège]]
+- [[Bernard Miége]]
 - [[Jean-Michel Salaun]]
 - [[Enrique Bustamante]]
 - [[Desmond Bell]]

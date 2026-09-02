@@ -14,7 +14,7 @@ https://computer-arts-society.com/casarchive/cas/page.html
 | 64     |                                                                                           |
 | 65     |                                                                                           |
 | 66     |                                                                                           |
-| 67     | [[Nick Lambert]], [[Alan Sutcliffe]] and [[Gustav Metzger]] with [[R Buckminster Fuller]] |
+| 67     | [[Nick Lambert]], [[Alan Sutcliffe]] and [[Gustav Metzger]] with [[R. Buckminster Fuller]] |
 | 68     |                                                                                           |
 | 69     |                                                                                           |
 | 70     |                                                                                           |

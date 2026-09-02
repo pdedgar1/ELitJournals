@@ -75,7 +75,7 @@ ed by [[Cary Wolfe]]
 | Preface by [[Cary Wolfe]]                                     |
 | [[Raymond Ruyer]]                                             |
 | [[Roberto Esposito]]                                          |
-| [[Roger F Cook]]                                              |
+| [[Roger F. Cook]]                                              |
 | [[Ron Broglio]]                                               |
 | [[Siegfried Zielinski]]                                       |
 | [[Stacy Alaimo]]                                              |
@@ -91,8 +91,8 @@ ed by [[Cary Wolfe]]
 | Translated by [[Brett Buchanan]]                              |
 | Translated by [[Christopher John Müller]]                     |
 | Translated by [[Geoffrey Bennington]] and [[David Wills]]     |
-| Translated by [[Joseph D O'Neil]]                             |
-| Translated by [[Lauren K Wolfe]]                              |
+| Translated by [[Joseph D. O'Neil]]                             |
+| Translated by [[Lauren K. Wolfe]]                              |
 | Translated by [[Louise Burchill]]                             |
 | Translated by [[Mark William Epstein]]                        |
 | Translated by [[Ned Lukacher]]                                |

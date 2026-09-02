@@ -59,7 +59,7 @@ Samples
 | [[manonamora]]                                            |
 | [[Clayn]]                                                 |
 | [[Chromatic Destruction]]                                 |
-| [[Perry P]]                                               |
+| [[Perry P.]]                                               |
 | [[Laura Michet]]                                          |
 | [[quorpheus]]                                             |
 | [[Brendan Patrick Hennessy]]                              |

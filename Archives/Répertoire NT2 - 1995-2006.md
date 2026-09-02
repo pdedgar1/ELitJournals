@@ -858,7 +858,7 @@ CELL Member : French-language E-lit
 | [[Pat O'Neill]]                                          |
 | [[Karen O'Rourke]]                                       |
 | [[Mendi Obadike]]                                        |
-| [[J Oda]]                                                |
+| [[J. Oda]]                                                |
 | [[Dietmar Offenhuber]]                                   |
 | [[Ragnar Helgi Olafsson]]                                |
 | [[Ainara Echaniz Olaizola]]                              |

@@ -169,7 +169,7 @@
 | [[Richard Lewei Huang]]           |
 | [[Ricky Finch]]                   |
 | [[Roderick Coover]]               |
-| [[S Anas Ahmad]]                  |
+| [[S. Anas Ahmad]]                  |
 | [[Sam Bendix]]                    |
 | [[Sam Brooker]]                   |
 | [[Sam Heckle]]                    |
@@ -229,7 +229,7 @@
 | [[Rob Wittig]]                    |
 | [[Roberto Valdivia]]              |
 | [[Rui Torres]]                    |
-| [[Shanmugapriya T]]               |
+| [[Shanmugapriya T.]]               |
 | [[Stephanie Tripp]]               |
 | [[Tony Vieira]]                   |
 | [[Yufeng Zhao]]                   |

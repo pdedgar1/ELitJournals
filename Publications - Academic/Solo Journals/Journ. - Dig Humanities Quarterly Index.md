@@ -372,7 +372,7 @@
 | [[Michelle Doran]]                               |
 | [[Marian Dörk]]                                  |
 | [[Jeremy Douglass]]                              |
-| [[David O Dowling]]                                |
+| [[David O. Dowling]]                                |
 | [[Nicole Dresselhaus]]                           |
 | [[Johanna Drucker]]                              |
 | [[Keli Du]]                                      |
@@ -1285,7 +1285,7 @@
 | [[Guy Schofield]]                                |
 | [[Tom Schofield]]                                |
 | [[Susan Schreibman]]                             |
-| [[Caroline T Schroeder]]                         |
+| [[Caroline T. Schroeder]]                         |
 | [[Franziska Schropp]]                            |
 | [[Julien Schuh]]                                 |
 | [[Daniel Schüller]]                              |
@@ -1305,7 +1305,7 @@
 | [[Cosma Shalizi]]                                |
 | [[John Shanahan]]                                |
 | [[Wenyi Shang]]                                  |
-| [[Shanmugapriya T]]                              |
+| [[Shanmugapriya T.]]                              |
 | [[Erik Kenneth Shell]]                           |
 | [[Deanna Shemek]]                                |
 | [[Yvette Shen]]                                  |
@@ -1395,7 +1395,7 @@
 | [[Patrik BO Svensson]]                           |
 | [[Lisa Swanstrom]]                               |
 | [[Nick Szydlowski]]                              |
-| [[Shanmugapriya T]]                              |
+| [[Shanmugapriya T.]]                              |
 | [[Edin Tabak]]                                   |
 | [[Joseph Tabbi]]                                 |
 | [[Andrea Taddei]]                                |
@@ -1475,7 +1475,7 @@
 | [[Quintus van Galen]]                            |
 | [[Jasmijn Van Gorp]]                             |
 | [[René van Horik]]                               |
-| [[Nicholas M Van Horn]]                          |
+| [[Nicholas M. Van Horn]]                          |
 | [[Victoria Van Hyning]]                          |
 | [[Nanne van Noord]]                              |
 | [[Menno van Zaanen]]                             |

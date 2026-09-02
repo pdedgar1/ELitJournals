@@ -8,7 +8,7 @@
 - 4/21/22: [[Allison Parrish]], [[Martin O'Leary]]
 - 3/17/22: [[Alejandro Miguel Jusino Crawford]], [[Kathy Wu]], [[Geoffrey Golden]]
 - 2/17/22: [[Rob Wittig]], [[Zainab Aliyu]]
-- 1/20/22: [[V Buckenham]], [[Emily Saltz]]
+- 1/20/22: [[V. Buckenham]], [[Emily Saltz]]
 - 11/18/21: [[Nicole He]], [[Joannes Truyens]]
 - 10/21/21: [[Rena J. Mosteirin]], [[Andy Wallace]], [[Galen Macdonald]], 
 - 8/19/21: [[Andy Simionato]], [[Karen Ann Donnachie]], [[Noa Chazan]], [[Sam Von Ehren]]

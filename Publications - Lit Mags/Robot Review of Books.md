@@ -9,7 +9,7 @@ references [[Kyle Booten]]
 
 1. - intro
 2. on [[Kate Crawford]]
-3. on [[K Allado-McDowell]]
+3. on [[K. Allado-McDowell]]
 4. on [[Matteo Pasquinelli]]
 5. - 
 6. on [[Natalie Fenton]], [[Des Freedman]], [[Gholam Khiabany]], [[Milly Williamson]]
@@ -33,7 +33,7 @@ It's an online audio-visual lit mag, but the reviews, well, they might be writte
 
 **RRB** [**#**](https://mastodon.social/tags/pr)**2** [[Kate Crawford]], _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_ (New Haven and London: Yale University Press, 2021).
 
-**RRB** [**#**](https://mastodon.social/tags/pr)**3** [[K Allado-McDowell]], _Amor Cringe_ (Los Angeles: Deluge Books 2022); K Allado-McDowell, _Pharmako-AI_ (London: Ignota Books 2020).
+**RRB** [**#**](https://mastodon.social/tags/pr)**3** [[K. Allado-McDowell]], _Amor Cringe_ (Los Angeles: Deluge Books 2022); K Allado-McDowell, _Pharmako-AI_ (London: Ignota Books 2020).
 
 **RRB** [**#**](https://mastodon.social/tags/pr)**4** [[Matteo Pasquinelli]], _The Eye of the Master: A Social History of Artificial Intelligence_ (London: Verso, 2023).
 

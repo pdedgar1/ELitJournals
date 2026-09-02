@@ -132,7 +132,7 @@ Colaboradores
 | [[Raul Benjamín Moreno]]                                          |
 | [[Bernardo Arroyo]]                                          |
 | [[Boriss Mejías]]                                            |
-| [[Boriss Mejías C]]                                          |
+| [[Boriss Mejías C.]]                                          |
 | [[brkn]]                                                     |
 | [[Camila Gormaz]]                                            |
 | [[Canek Zapata]]                                             |

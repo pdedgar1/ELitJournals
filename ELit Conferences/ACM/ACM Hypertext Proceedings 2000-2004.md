@@ -194,7 +194,7 @@ Presiding, [[James Blustein]], [[Robert B. Allen]], [[Ken Anderson]], [[Stuart M
 |---|
 |[[Peter Brusilovsky]]|
 |[[Riccardo Rizzo]]|
-|[[Christopher D Staff]]|
+|[[Christopher D. Staff]]|
 |[[Paul De Bra]]|
 |[[Ad Aerts]]|
 |[[David Smits]]|

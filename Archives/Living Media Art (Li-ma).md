@@ -36,7 +36,7 @@
     
 - [[Anika Schwarzlose]]
     
-- [[Anika Schwarzlose]] & [[Brian D McKenna]]
+- [[Anika Schwarzlose]] & [[Brian D. McKenna]]
     
 - [[Anna Winteler]]
     
@@ -928,7 +928,7 @@
     
 - [[Oshri Even-Zohar]]
     
-- [[P. J Roggeband]]
+- [[P. J. Roggeband]]
     
 - [[Pablo Pijnappel]]
     
@@ -1080,7 +1080,7 @@
     
 - [[Samira Elagoz]]
     
-- [[Samira Elagoz]] & [[Z Walsh]]
+- [[Samira Elagoz]] & [[Z. Walsh]]
     
 - [[Samuel Beckett]]
     
@@ -1268,7 +1268,7 @@
     
 - [[Wim Liebrand]]
     
-- [[Wim T Schippers]]
+- [[Wim T. Schippers]]
     
 - [[Winfred Evers]]
     

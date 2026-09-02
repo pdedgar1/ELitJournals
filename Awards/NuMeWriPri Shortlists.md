@@ -10,12 +10,12 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Jaka]]                                                                                                                                                    |
 | [[Mehulkumar Desai]]                                                                                                                                        |
 | [[Miriam Culy]]                                                                                                                                             |
-| [[Shanmugapriya T]]                                                                                                                                         |
+| [[Shanmugapriya T.]]                                                                                                                                         |
 | [[Anna Nacher]]                                                                                                                                             |
 | [[Collier Nogues]]                                                                                                                                          |
 | [[Halim Madi]]                                                                                                                                              |
 | [[Judy Malloy]]                                                                                                                                             |
-| [[Rakshitha R]]                                                                                                                                             |
+| [[Rakshitha R.]]                                                                                                                                             |
 | [[Nanette Wylde]]                                                                                                                                           |
 | [[Prakruti K. Bhatt]]                                                                                                                                          |
 | [[Annie Grosshans]]                                                                                                                                         |
@@ -150,7 +150,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Maria Ivanova]], [[Maria Kotova]], [[Tatiana Zaidal]]                                                                                                     |
 | [[Moritz Schwenger]]                                                                                                                                        |
 | [[IHIABE PAULINE LUCIA]]                                                                                                                                    |
-| [[Amulya B]]                                                                                                                                                |
+| [[Amulya B.]]                                                                                                                                                |
 | [[Dylan McNulty-Holmes]]                                                                                                                                    |
 | [[Mark C. Marino]]                                                                                                                                          |
 | [[Rob Wittig]], [[Mark C. Marino]]                                                                                                                          |
@@ -195,14 +195,14 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 [[Maria Oluwabukola Oni]]
 [[Pauline Genee]]
 [[Caitlin McDonald]], [[Wendy Schultz]], [[Peter Humphreys]], [[Simone Lewis]], [[James Stevens]], [[Victoria Ward]]
-[[Shanmugapriya T]], [[Simran Bhimjyani]], [[K Kavitha]], [[Gayathri T]], [[Mehulkumar Desai]]
+[[Shanmugapriya T.]], [[Simran Bhimjyani]], [[K. Kavitha]], [[Gayathri T.]], [[Mehulkumar Desai]]
 [[Kavya Benara]]
 [[Marina Milad]]
 [[Halim Madi]]
 
 [[Kavya Benara]]
 [[Prakruti K. Bhatt]] and [[Deena Larsen]]
-[[Rakshitha R]]
-[[Shanmugapriya T]]
+[[Rakshitha R.]]
+[[Shanmugapriya T.]]
 [[Nikhil Chawdhary]]
 

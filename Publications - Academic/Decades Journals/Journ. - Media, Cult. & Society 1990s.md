@@ -298,7 +298,7 @@
 - [[Nicholas Garnham]]
 - [[Richard Collins]]
 - [[Yves Achille]]
-- [[Bernard Miège]]
+- [[Bernard Miége]]
 - [[Heikki Hellman]]
 - [[Tuomo Sauri]]
 - [[R. Karthigesu]]

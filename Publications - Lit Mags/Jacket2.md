@@ -258,7 +258,7 @@ Founder [[John Tranter]]
 | [[Juliana Spahr]]               |
 | [[Julie Carr]]                  |
 | [[Julie Phillips Brown]]        |
-| [[K Prevallet]]                 |
+| [[K. Prevallet]]                 |
 | [[Kacper Bartczak]]             |
 | [[Kaegan Sparks]]               |
 | [[Kaia Sand]]                   |

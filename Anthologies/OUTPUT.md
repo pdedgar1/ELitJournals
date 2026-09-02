@@ -172,7 +172,7 @@
 [[Johannes Heldén]] and [[HÅKAN JONSON]]
 [[Sterling Crispin]]
 [[Simone Balloccu]], [[Steffen Pauws]], and [[Ehud Reiter]]
-[[K Allado-McDowell]]
+[[K. Allado-McDowell]]
 [[Deimorz]] et al.]]
 [[Matt Nish-Lapidus]]
 [[Jonas Bendiksen]]

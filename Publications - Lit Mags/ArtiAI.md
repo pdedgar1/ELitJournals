@@ -14,7 +14,7 @@ Honorable Mentions
 [[Veronika Pell]]
 
 Featured Artists 
-[[X Machina Flora]]
+[[X. Machina Flora]]
 [[Infrarouge]]
 [[Faedriel]]
 [[Marta Pang]]

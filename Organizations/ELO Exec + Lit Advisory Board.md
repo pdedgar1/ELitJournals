@@ -15,7 +15,7 @@
 [[Claudia Kozak]]
 [[Jason Nelson]]
 [[Alex Saum-Pascual]]
-[[Shanmugapriya T]]
+[[Shanmugapriya T.]]
 [[Joseph Tabbi]]
 
 [[Annie Abrahams]]

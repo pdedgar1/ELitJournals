@@ -24,7 +24,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | Black Ring-[[Akdogan Ali]] & [[Umusu Samson Iruo]]                  |
 | [[Stef Bos]]                                                        |
 | [[Johann P. Boshoff]]                                               |
-| [[Herman L Bosman]]                                                 |
+| [[Herman L. Bosman]]                                                 |
 | [[Helen Brain]]                                                     |
 | [[A Floris Brown]]                                                  |
 | Celestial games]]                                                   |

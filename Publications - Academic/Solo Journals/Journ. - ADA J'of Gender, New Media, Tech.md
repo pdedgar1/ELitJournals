@@ -26,7 +26,7 @@
 |                                 |
 | [[Micha Cárdenas]]              |
 | [[Laurie Ann Carlson]]          |
-| [[Monica J Casper]]             |
+| [[Monica J. Casper]]             |
 | [[Josue Chavez]]                |
 | [[Sarah Ciston]]                |
 | [[Mia Consalvo]]                |
@@ -73,8 +73,8 @@
 | [[Mary Ingram-Waters]]          |
 | [[Karl Irmi]]                   |
 | [[Korey Jackson]]               |
-| [[Sarah J Jackson]]             |
-| [[Marla L Jaksch]]              |
+| [[Sarah J. Jackson]]             |
+| [[Marla L. Jaksch]]              |
 | [[Sun Hye Jeong]]               |
 | [[Alexandra Juhasz]]            |
 | [[Kat Jungnickel]]              |
@@ -91,7 +91,7 @@
 | [[Jenny Ungbha Korn]]           |
 | [[Sasha Kruger]]                |
 | [[Susan Kuchera]]               |
-| [[Janet D Kwami]]               |
+| [[Janet D. Kwami]]               |
 | [[Antoinette LaFarge]]          |
 | [[Liz Lane]]                    |
 | [[Alex Layne]]                  |
@@ -103,16 +103,16 @@
 | [[Krista Geneviève Lynes]]      |
 | [[Maggie MacAulay]]             |
 | [[Azle Malinao-Alvarez]]        |
-| [[Christine L Masters]]         |
+| [[Christine L. Masters]]         |
 | [[Vicki Mayer]]                 |
 | [[David McCallum]]              |
 | [[Lisa McClaughlin]]            |
 | [[Dayna McLeod]]                |
 | [[B. Afeni McNeely Cobham]]     |
-| [[Monica K Miller]]             |
+| [[Monica K. Miller]]             |
 | [[Mobilus in Mobili]]           |
 | [[Wunpini Fatimata Mohammed]]   |
-| [[K Mohrman]]                   |
+| [[K. Mohrman]]                   |
 | [[Shehram Mokhtar]]             |
 | [[Darnell Moore]]               |
 | [[Michelle Moravec]]            |
@@ -143,7 +143,7 @@
 | [[Roopika Risam]]               |
 | [[Sara Rodríguez]]             |
 | [[Lucía Egaña Rojas]]           |
-| [[Bonnie 'Bo' Ruberg]]               |
+| [[Bonnie "Bo" Ruberg]]               |
 | [[Roxanne Samer]]               |
 | [[Selena Savić]]                |
 | [[Kim Sawchuck]]                |
@@ -161,7 +161,7 @@
 |                                 |
 | [[Maria Stehle]]                |
 | [[Jenny Sundén]]                |
-| [[Cara K Synder]]               |
+| [[Cara K. Synder]]               |
 | [[Leonie Tanczer]]              |
 | [[Nicholas Taylor]]             |
 | [[Sophie Toupin]]               |

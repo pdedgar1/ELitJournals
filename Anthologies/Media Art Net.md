@@ -6,7 +6,7 @@
 | [[Marina Abramovic]]                        |
 | [[Vito Acconci]]                            |
 |                                             |
-| [[Robert Adrian X]]                         |
+| [[Robert Adrian X.]]                         |
 | [[Mark Adrian]]                             |
 | [[Eija-Liisa Ahtila]]                       |
 | [[Doug Aitken]]                             |
@@ -386,7 +386,7 @@
 | [[Markus Käch]]                             |
 | [[Wolf Kahlen]]                             |
 | [[Marcus Kaiser]]                           |
-| [[Kanal X]]                                 |
+| [[Kanal X.]]                                 |
 | [[Wassily Kandinsky]]                       |
 | [[Thomas Kapielski]]                        |
 | [[Allan Kaprow]]                            |

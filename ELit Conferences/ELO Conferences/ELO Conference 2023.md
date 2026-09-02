@@ -154,7 +154,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Mark Wolff]]                             |
 | [[Leonardo Flores]]                        |
 | [[Samya Brata Roy]]                        |
-| [[Shanmugapriya T]]                        |
+| [[Shanmugapriya T.]]                        |
 | [[Zahra Rizvi]]                            |
 | [[Paulina Chorzewska-Rubik]]               |
 | [[Luca Messarra]]                          |
@@ -234,7 +234,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Nohelia Meza]]                           |
 | [[Maria Shahid]]                           |
 | [[Bushra Ahmad]]                           |
-| [[S Anas Ahmad]]                           |
+| [[S. Anas Ahmad]]                           |
 | [[Anna Nacher]]                            |
 | [[Paulina Chorzewska-Rubik]]               |
 | [[Yantao Sun]]                             |

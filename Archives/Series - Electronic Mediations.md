@@ -3,7 +3,7 @@ Unviersity Minnesota Press
 
 | Edited by                                                                                              |
 | ------------------------------------------------------------------------------------------------------ |
-| [[Aaron Jaffe]], [[Michael F Miller]], [[Silvia Wagnermaier]] and [[Siegfried Zielinski]]              |
+| [[Aaron Jaffe]], [[Michael F. Miller]], [[Silvia Wagnermaier]] and [[Siegfried Zielinski]]              |
 | [[Byron Hawk]], [[David M. Rieder]] and [[Ollie Oviedo]]                                               |
 | [[Darin Barney]], [[E. Gabriella Coleman]], [[Christine Ross]], [[Jonathan Sterne]] and [[Tamar Tembeck]] |
 | [[Grant Wythoff]]                                                                                      |
@@ -37,8 +37,8 @@ Unviersity Minnesota Press
 | [[Ian Bogost]]                                              |
 | [[Ian Bogost]]                                              |
 | [[Mark Poster]]                                             |
-| [[Jaishree K Odin]]                                         |
-| [[James J Hodge]]                                           |
+| [[Jaishree K. Odin]]                                         |
+| [[James J. Hodge]]                                           |
 | [[Janet Kraynak]]                                           |
 | [[Jennifer Gabrys]]                                         |
 | [[Joseph Tabbi]]                                            |
@@ -84,7 +84,7 @@ Unviersity Minnesota Press
 | ------------------------------------------- |
 | [[Andrew Battaglia]] and [[Daniel Raschke]] |
 | [[Charles Marcrum II]]                      |
-| [[Dominic J Bonfiglio]]                     |
+| [[Dominic J. Bonfiglio]]                     |
 | [[Eric Hayot]] and [[Lea Pao]]              |
 | [[Joanna Zylinska]]                         |
 | [[Nancy Ann Roth]]                          |

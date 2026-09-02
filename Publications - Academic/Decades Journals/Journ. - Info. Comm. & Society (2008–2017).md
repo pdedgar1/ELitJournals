@@ -1134,7 +1134,7 @@
 - [[Michael Restivo]]
 - [[Arnout van de Rijt]]
 - [[Carrie B. Sanders]]
-- [[Jenny L Davis]]
+- [[Jenny L. Davis]]
 - [[Nathan Jurgenson]]
 - [[Zeynep Tufekci]]
 - [[Matthew E. Brashears]]

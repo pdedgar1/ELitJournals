@@ -23,7 +23,7 @@
 - [[Mia Kammeyer-Mueller]] — "With The Greatest of Ease"
 - [[Susan Morgan]] — "The Curve of The Earth"
 - [[Peter A. Balaskas]] — "Blessed Are Those"
-- [[L B Gschwandtner]] — "Piney's Way"
+- [[L. B. Gschwandtner]] — "Piney's Way"
 - [[Flaminia Ocampo]] — "Wrong Husband" *(reprint)*
 - [[Nan Leslie]] — "Listening Hours" *(reprint)*
 - [[Andy Mozina]] — "She Was Moist" *(reprint)*
@@ -193,7 +193,7 @@
 - [[Meg Pokrass]] — "Barista"
 - [[Nels Hanson]] — "Rumors"
 - [[Matthew Dexter]] — "Kegger in the Primordial Woods"
-- [[Marie H Curran]] — "The spring when nothing grew"
+- [[Marie H. Curran]] — "The spring when nothing grew"
 - [[Anna Lowe Weber]] — "After Watching the HBO Special, Olive Kitteridge" / "Apiary"
 - [[Alexandria Peary]] — "Self-Portrait with Figure in Ski Mask"
 - [[Don Wellman]] — "In Search of a Conclusion"

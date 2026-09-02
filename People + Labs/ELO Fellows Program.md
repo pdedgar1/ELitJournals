@@ -3,7 +3,7 @@
 [[Calvin Olsen]]
 [[Nathanael Moore]]
 [[Samya Brata Roy]]
-[[Shanmugapriya T]]
+[[Shanmugapriya T.]]
 [[Shweta Khilnani]]
 ### 2021-2022
 - [[Hannah Ackermans]]

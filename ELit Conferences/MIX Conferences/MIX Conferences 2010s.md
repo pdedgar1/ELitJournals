@@ -40,7 +40,7 @@ speakers [[Mark Amerika]], [[Kate Pullinger]], [[Tom Konyves]]
 | [[Liz Greenfield and Rebecca Tantony]]    |
 | [[Bohdan Piasecki]]                       |
 | [[Gerry Smith]]                           |
-| [[Sheri D]]                               |
+| [[Sheri D.]]                               |
 | [[Laurie Yule]]                           |
 | [[Richard Stamp]]                         |
 | [[Dani Landau]]                           |

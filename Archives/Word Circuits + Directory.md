@@ -83,7 +83,7 @@ Compiled by [[Robert Kendall]]
 NYU Press
 [[Ubuweb "Contemporary"]]
 
-[[Group Z]] (belgium)
+[[Group Z.]] (belgium)
 [[spidertangle wordroud]]
 [[TinkerNet]]
 [[Directory - Hyperizons]]: the search for Hypertext Fiction

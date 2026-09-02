@@ -45,7 +45,7 @@
 [[Ana Gago]], [[Diogo Marques]]
 [[Dani Spinosa]]
 [[Erika Fülöp]], [[Serge Bouchardon]]
-[[Deborah Sutton]], [[Shanmugapriya T]]
+[[Deborah Sutton]], [[Shanmugapriya T.]]
 [[María Goicoechea de Jorge]]
 [[Fernanda Mugica]]
 [[Samya Brata Roy]]
@@ -227,7 +227,7 @@
 ## 2007
 [[Lori Emerson]]
 [[Charles Bernstein]]
-[[Jaishree K Odin]]
+[[Jaishree K. Odin]]
 [[Marjorie Perloff]]
 [[Douglas Manson]]
 [[Douglas Barbour]]

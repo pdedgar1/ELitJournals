@@ -530,7 +530,7 @@
 ##### Poetics Feature 
 |                                                                                                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[P O E M S]]                                                                                                                                                                                                                                                                                                                                 |
+| [[P. O. E. M. S.]]                                                                                                                                                                                                                                                                                                                                 |
 | [[]]                                                                                                                                                                                                                                                                                                                                          |
 | [[Meena Alexander]]                                                                                                                                                                                                                                                                                                                           |
 | [[Sandra Beasley]]                                                                                                                                                                                                                                                                                                                            |
@@ -777,7 +777,7 @@
 # Issue 11
 
 #### Life in a Time of Contraction
-[[M Bromberg]]
+[[M. Bromberg]]
 [[Jessie Carty]]
 [[Rand Richards Cooper]]
 [[Mojie Crigler]]
@@ -1122,7 +1122,7 @@
 [[nila northSun]]
 [[Craig Santos Perez]]
 [[Vivian Faith Prescott]]
-[[Sally M Steedman]]
+[[Sally M. Steedman]]
 [[Zdravka Evtimova]]
 [[Greta Schuler]]
 
@@ -1174,7 +1174,7 @@
 
 #### Fiction
 [[Dolores Alfieri]]
-[[Q Lindsey Barrett]]
+[[Q. Lindsey Barrett]]
 [[Vanessa Blakeslee]]
 [[Jeanie Chung]]
 [[j. s. davis]]

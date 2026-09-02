@@ -33,7 +33,7 @@ transition to youtube
 |33|[[Lia Black]], [[Giuseppe Femia]], [[Chris Lawrence]], [[Sabrina Sgandurra]]
 |32|[[Lia Black]], [[Sarah Stang]]
 |31|[[Chris Lawrence]], [[Lia Black]],[[Patrick R. Dolan]]
- -queer game issue [[Elise Vist]], [[Betsy Brey]], [[Jess Marcotte]], [[Bonnie 'Bo' Ruberg]],[[Kara Stone]]
+ -queer game issue [[Elise Vist]], [[Betsy Brey]], [[Jess Marcotte]], [[Bonnie "Bo" Ruberg]],[[Kara Stone]]
 |30|[[Betsy Brey]], [[Sarah Stang]], [[Chris Lawrence]], [[Justin Carpenter]]
 |29|[[Jason Lajoie]], [[Betsy Brey]], [[Chris Lawrence]], [[Jeremy Antley]], [[Will Fast]], [[Rob Parker]], [[Elise Vist]]
 |28| [[Betsy Brey]], [[Pierson Browne]], [[Will Fast]], [[Rob Parker]], [[Jason Lajoie]]

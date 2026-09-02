@@ -10,7 +10,7 @@
 [[Trevor Paglen]]
 [[Holly Herndon]] and [[Matt Dryhurst]]
 [[Kira Xonorika]]
-[[K Allado-McDowell]]
+[[K. Allado-McDowell]]
 [[Sander Veenhof]]
 [[AIxDesign]]
 [[The Hmm]]

@@ -43,7 +43,7 @@ ed . [[Edwin Torres]]
 |[[Georgiana Peacher]]|
 |[[Rit Premnath]]|
 |[[Kristin Prevallet]]|
-|[[Q aka Kyoo Lee]]|
+|[[Q. aka Kyoo Lee]]|
 |[[George Quasha]]|
 |[[David Rothenberg]]|
 |[[Leeny Sack]]|

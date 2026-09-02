@@ -4,20 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "e62c1967afb67287",
-        "type": "tabs",
+        "id": "87c82210f048a7b5",
+        "type": "split",
         "children": [
           {
-            "id": "88f18363c7f841e5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+            "id": "cf9e827572699937",
+            "type": "tabs",
+            "dimension": 32.86350148367953,
+            "children": [
+              {
+                "id": "bbc3af1d10360792",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Alias Report.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Alias Report"
+                }
+              }
+            ]
+          },
+          {
+            "id": "99d7540ca0679e57",
+            "type": "tabs",
+            "dimension": 67.13649851632047,
+            "children": [
+              {
+                "id": "826b15398d46802e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -51,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tegan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.69140625
+    "width": 231.86868286132812
   },
   "right": {
     "id": "3558e22f65bf0dba",
@@ -175,45 +204,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "88f18363c7f841e5",
+  "active": "826b15398d46802e",
   "lastOpenFiles": [
-    "Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md",
+    "Alias Report.md",
+    "Organizations/Electronic Book Review Staff.md",
+    "ELit Conferences/DLC+ Keywords in Digital Literary Culture.md",
+    "Bonnie \"Bo\" Ruberg.md",
+    "André Brock.md",
+    "Bernard Miége.md",
+    "Michael A. Xenos.md",
+    "Tommaso Trilló.md",
+    "Francis L. F. Lee.md",
+    "Ariadna Matamoros-Fernández.md",
+    "Aaron K. Martin.md",
+    "A. Miriam B. Lips.md",
+    "Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed Newspaper.md",
+    "Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md",
+    "Publications - Academic/Blogs/Blog - I <3 E-Poetry.md",
+    "People + Labs/Ada X (née StudioXX).md",
+    "Archives/Collected Writings of William K Gillespie and friends.md",
+    "Anthologies/Lit E Lat 2.md",
+    "Anthologies/Lit E Lat 1.md",
+    "People + Labs/Ada X. (née StudioXX).md",
+    "Archives/Collected Writings of William K. Gillespie and friends.md",
+    "Publications - Academic/Solo Journals/Journ. - A. Peer-Reviewed J'About.md",
+    "Publications - Academic/Solo Journals/Journ. - A. Peer-Reviewed Newspaper.md",
+    "Publications - Academic/Blogs/Blog - I. <3 E-Poetry.md",
+    "Anthologies/Lit E. Lat 2.md",
+    "Anthologies/Lit E. Lat 1.md",
+    "__pycache__/normalize_chars.cpython-310.pyc",
+    "__pycache__",
     "Publications - Academic/Presses 2",
     "Publications - Academic/Books 2",
     "Publications - Academic/Solo Journals 2",
     "Publications - Academic/Podcasts 2",
-    "Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md",
-    "Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md",
-    "Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md",
-    "Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md",
-    "Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md",
-    "Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md",
-    "Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md",
-    "Publications - Academic/Presses/Press - ALT-X Press.md",
     "Publications - Academic/Presses",
-    "Publications - Academic/Solo Journals/Computer-Mediated Communication Magazine.md",
-    "Publications - Academic/Presses/Press - The Data-Sitters Club.md",
-    "Publications - Academic/Solo Journals/Journ. - Vectors.md",
     "Publications - Academic/Podcasts",
-    "Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md",
-    "Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md",
     "Publications - Academic/Solo Journals",
-    "Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md",
-    "Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md",
-    "Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md",
-    "Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md",
-    "Publications - Academic/Decades Journals/Journ. - Book 2.0 2011-2020.md",
-    "Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md",
-    "Publications - Academic/Books/Ed. Coll. - Bloomsbury Handbook of Digital Humanities.md",
-    "Publications - Academic/Electronic Book Review/EBR Critical Ecologies.md",
-    "Publications - Academic/Books",
-    "Publications - Academic/Blogs/Blog - Netartery.md",
-    "Publications - Academic/Electronic Book Review",
-    "Publications - Academic/Decades Journals",
-    "ELit Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md",
-    "ELit Conferences/AoIR Selected Papers (SPIR) (2011-2017).md"
+    "Publications - Academic/Books"
   ]
 }

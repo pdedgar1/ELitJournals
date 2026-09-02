@@ -45,7 +45,7 @@ Founded [[Hilda Forss]] and [[Jolin Slotte]]
 | [[Antonia Henn]] & [[Nicole Hjelt]] & [[Mona Tärk]]                                                  |
 | # 1 (2022)                                                                                           |
 | [[Heidi von Wright]] & [[Viljam Nybacka]]                                                            |
-| [[Anders E Larsson]]                                                                                 |
+| [[Anders E. Larsson]]                                                                                 |
 | [[Danni Storm]]                                                                                      |
 | [[Jason Nelson]]                                                                                     |
 | [[Azadé Azad]] & [[Patricia Rodas]]                                                                  |
@@ -59,7 +59,7 @@ Founded [[Hilda Forss]] and [[Jolin Slotte]]
 | [[Valentina Gelain]]                                                                                 |
 | [[Azra Arnautović]], [[Sofie Carlson]], [[Alexandra Marina]], [[Hanna Molona]], [[Charlotte Qvandt]] |
 ### 7 
-[[Anders E Larsson]]
+[[Anders E. Larsson]]
 [[Hilda Forss]]
 [[Sabina Ivenäs]]
 [[Anna Nero]]

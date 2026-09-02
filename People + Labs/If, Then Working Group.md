@@ -51,7 +51,7 @@
 | [[Fereshteh Toosi]]               |
 | [[Fi]]                           |
 | [[Francesca Tripodi]]             |
-| [[Fred L Joiner]]                 |
+| [[Fred L. Joiner]]                 |
 | [[Freia Lobo]]                    |
 | [[Grant Glass]]                   |
 | [[Gregory Schare]]                |

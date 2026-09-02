@@ -34,7 +34,7 @@
 - [[Emma Cocker]]
 - [[Courtney Hopf]]
 - [[Anastasia Salter]]
-- [[Bonnie 'Bo' Ruberg]]
+- [[Bonnie "Bo" Ruberg]]
 - [[Phil Smith]]
 - [[Desiree Hellegers]]
 - [[Sudipto Sanyal]]
@@ -86,7 +86,7 @@
 - [[Lloyd Isaac Vayo]]
 
 #### Rhizomes #24 (2012)
-- [[Billy J Stratton]]
+- [[Billy J. Stratton]]
 - [[Varpu Rantala]]
 - [[Justin Prystash]]
 - [[Richard Gilman-Opalsky]]
@@ -113,7 +113,7 @@
 - [[Matthew Seiji Burns]]
 
 #### Rhizomes #26 (2014)
-- [[Erin K Stapleton]]
+- [[Erin K. Stapleton]]
 - [[Erin K. Johns Speese]]
 - [[Miriam Ross]] and [[Maddy Glen]]
 - [[Zafer Aracagök]]

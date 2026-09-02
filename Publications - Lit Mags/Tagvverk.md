@@ -99,7 +99,7 @@
 | [[Jennifer Fossenbell]]                                                   |
 | [[Jeremy Hoevenaar]]                                                      |
 | [[Jesie Gaston]]                                                          |
-| [[Jessica K Baer]]                                                        |
+| [[Jessica K. Baer]]                                                        |
 | [[Jessica Rae Elsaesser]]                                                 |
 | [[JFK Randhawa]]                                                          |
 | [[Jo Barchi]]                                                             |

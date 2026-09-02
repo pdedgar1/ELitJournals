@@ -408,7 +408,7 @@ Advisory Board
 | [[Kate Sedor]]                      |
 | [[Kris Stinson]]                    |
 | [[Kurt Luther]]                     |
-| [[Kwinn H Doran]]                   |
+| [[Kwinn H. Doran]]                   |
 | [[Kyle Skinner]]                    |
 | [[Laura Braunstein]]                |
 | [[Laura McGrath]]                   |
@@ -639,7 +639,7 @@ Advisory Board
 | [[Tim Kenny]]                       |
 | [[Tom Lewek]]                       |
 | [[Tracy Jentzsch]]                  |
-| [[Trent M Kays]]                    |
+| [[Trent M. Kays]]                    |
 | [[Trish Harris]]                    |
 | [[Todd Suomela]]                    |
 | [[Vailur Rahaman]]                  |

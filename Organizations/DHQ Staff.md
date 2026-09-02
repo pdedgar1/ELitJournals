@@ -107,7 +107,7 @@
 | [[Mara Oliva]]                         |
 |                                        |
 |                                        |
-| [[Shanmugapriya T]]                    |
+| [[Shanmugapriya T.]]                    |
 |                                        |
 |                                        |
 | [[Timothy C. Duguid]]                     |

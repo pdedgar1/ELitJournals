@@ -78,7 +78,7 @@ Source: [Ars Electronica Archive – Prix](https://archive.aec.at/prix/) (all 19
 - 2000 – _20' to 2000_ – [[Carsten Nicolai]]
 - 2001 – _Matrix_ – [[Ryoji Ikeda]]
 - 2002 – _Man'yo Wounded 2001_ – [[Yasunao Tone]]
-- 2003 – _astro twin / cosmos_ – [[Ami Yoshida]], [[Sachiko M]], [[Utah Kawasaki]]
+- 2003 – _astro twin / cosmos_ – [[Ami Yoshida]], [[Sachiko M.]], [[Utah Kawasaki]]
 - 2004 – _Banlieue du Vide_ – [[Thomas Köner]]
 - 2005 – _TEO! A Sonic Sculpture_ – [[Maryanne Amacher]]
 - 2006 – _L'Île ré-sonante_ – [[Éliane Radigue]], [[shiiin]]

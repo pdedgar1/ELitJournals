@@ -1,9 +1,9 @@
 Created by [[Karmel Allison]]
 #Litmag 
 
-[[Deep Gimble II]] and [[K]]
+[[Deep Gimble II]] and [[K.]]
 [[Poetry Potty]]
-[[SU17]] and [[O Mayeux]]
+[[SU17]] and [[O. Mayeux]]
 [[jNN Austen]]
 [[Tolstoyish]]
 [[ANN]] trained by [[Ray Alez]]

@@ -25,7 +25,7 @@
 |[[Daniel Chandler]]|
 |[[I-chin Chang]]|
 |[[Damon A Chaplin]]|
-|[[Brittney G Chenault]]|
+|[[Brittney G. Chenault]]|
 |[[Sue Church]]|
 |[[Steve Cisler]]|
 |[[Ian Clark]]|
@@ -45,15 +45,15 @@
 |[[John December]]|
 |[[Amelia DeLoach]]|
 |[[Vanessa DiMauro]]|
-|[[Andrew P Dinsdale]]|
+|[[Andrew P. Dinsdale]]|
 |[[Stephen Doheny-Farina]]|
 |[[Stephen Doheny-Farina]]|
 |[[Mick Doherty]]|
-|[[Michael E Doherty]]|
+|[[Michael E. Doherty]]|
 |[[Greg Dropkin]]|
 |[[Andrew Dunn]]|
 |[[Susan Dwyer]]|
-|[[Kathyrn D Ellis]]|
+|[[Kathyrn D. Ellis]]|
 |[[Greg Elmer]]|
 |[[Charles Ess]]|
 |[[Denise Ethier]]|
@@ -67,21 +67,21 @@
 |[[Sharmilla Pixy Ferris]]|
 |[[Tove Forgo]]|
 |[[Susan Fox]]|
-|[[H Fuller]]|
+|[[H. Fuller]]|
 |[[Gary G. Gach]]|
-|[[Flora J Garcia]]|
+|[[Flora J. Garcia]]|
 |[[John Gardner]]|
 |[[Karin Geiselhart]]|
 |[[Jennifer Gold]]|
 |[[Jennifer Gold]]|
 |[[Tara Grant]]|
-|[[David G Green]]|
+|[[David G. Green]]|
 |[[Michael Grosso]]|
 |[[Jonathan Grudin]]|
 |[[Laura J. Gurak]]|
 |[[Laura J. Gurak]]|
 |[[Bruce Hahne]]|
-|[[S Halloran]]|
+|[[S. Halloran]]|
 |[[Chris Hand]]|
 |[[Christopher Harper]]|
 |[[Christopher Harper]]|
@@ -105,26 +105,26 @@
 |[[Kevin Hunt]]|
 |[[Peter Jerram]]|
 |[[Steven E. Jones]]|
-|[[Anthony J Judge]]|
+|[[Anthony J. Judge]]|
 |[[Nancy Kaplan]]|
 |[[Rob Kling]]|
 |[[Rob Kling]]|
-|[[Van W Kloempken]]|
+|[[Van W. Kloempken]]|
 |[[Erna Koch]]|
-|[[J Kosokoff]]|
+|[[J. Kosokoff]]|
 |[[Steve Krause]]|
 |[[Mark Kraynak]]|
 |[[Christopher Kresser]]|
-|[[Kelly L]]|
+|[[Kelly L.]]|
 |[[Daniel LaLiberte]]|
 |[[Don Langham]]|
 |[[Chris Lapham]]|
 |[[Christine Lapham]]|
 |[[Chris Lapham]]|
 |[[Christine Lapham]]|
-|[[Angela E Lauria]]|
+|[[Angela E. Lauria]]|
 |[[Jon Lebkowsky]]|
-|[[Susan G Lesch]]|
+|[[Susan G. Lesch]]|
 |[[Tari Lin Fanderclai]]|
 |[[Jeb Livingood]]|
 |[[Chris MacDonald]]|
@@ -137,7 +137,7 @@
 |[[Sean McCandless]]|
 |[[Rory McGreal]]|
 |[[Margaret McLaughlin]]|
-|[[Brock N Meeks]]|
+|[[Brock N. Meeks]]|
 |[[Joyce Menges]]|
 |[[Sue Mings]]|
 |[[Steve Mizrach]]|
@@ -145,9 +145,9 @@
 |[[John Monberg]]|
 |[[Gale Moore]]|
 |[[Barrett Mosbacker]]|
-|[[Arthur R Murphy]]|
+|[[Arthur R. Murphy]]|
 |[[John T. Murray]]|
-|[[Peter J Murray]]|
+|[[Peter J. Murray]]|
 |[[Ted Nellen]]|
 |[[Gina O'Connor]]|
 |[[Bob O'Keefe]]|
@@ -170,7 +170,7 @@
 |[[Gary Ritzenthaler]]|
 |[[Nino Rodriguez]]|
 |[[Duska Rosenberg]]|
-|[[Louis B Rosenfeld]]|
+|[[Louis B. Rosenfeld]]|
 |[[Wade Rowland]]|
 |[[Avis Winifred Rupert]]|
 |[[Christian Sandvig]]|
@@ -182,23 +182,23 @@
 |[[Camille Shandor]]|
 |[[David Shenk]]|
 |[[Michael Shumate]]|
-|[[Greg J Siering]]|
+|[[Greg J. Siering]]|
 |[[Chris Silker]]|
 |[[Solveig Singleton]]|
 |[[Mark Skipper]]|
-|[[Robert M Slade]]|
-|[[Dirk H Spennemann]]|
+|[[Robert M. Slade]]|
+|[[Dirk H. Spennemann]]|
 |[[Kairos Staff]]|
 |[[CMC Magazine Staff]]|
 |[[Jillian Stamos-Kaschke]]|
 |[[Michael Strangelove]]|
-|[[Steven J Stratford]]|
+|[[Steven J. Stratford]]|
 |[[Cyd Strickland]]|
 |[[David Strom]]|
 |[[Jason Teague]]|
 |[[Jessica Thaler]]|
 |[[Richard Thieme]]|
-|[[Néstor G Trillo]]|
+|[[Néstor G. Trillo]]|
 |[[Carlos Velasco]]|
 |[[Dirk vom Lehn]]|
 |[[Janice R. Walker]]|

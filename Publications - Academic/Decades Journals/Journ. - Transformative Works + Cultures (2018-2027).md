@@ -117,7 +117,7 @@ Note: as of this writing (2026), the journal has not yet reached 2027 — Vol. 4
 
 - [[Paul J. Booth]]
 - [[David Peyron]]
-- [[Bonnie 'Bo' Ruberg]]
+- [[Bonnie "Bo" Ruberg]]
 - [[Eric Andrew James]]
 - [[Sarah Elizabeth Lerner]]
 - [[Naomi Jacobs]]

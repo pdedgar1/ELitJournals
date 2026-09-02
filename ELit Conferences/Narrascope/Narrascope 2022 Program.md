@@ -43,7 +43,7 @@
 | [[Valentin SERRI]]              |
 | [[Tanya X. Short]]              |
 | [[Rebecca Slitt]]               |
-| [[Christopher J Smith]]         |
+| [[Christopher J. Smith]]         |
 | [[Lee Tusman]]                  |
 | [[John Unsworth]]               |
 | [[Doug Valenta]]                |

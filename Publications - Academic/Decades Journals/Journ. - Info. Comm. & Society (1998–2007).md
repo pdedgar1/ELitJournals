@@ -267,7 +267,7 @@
 - [[J. A. English-Lueck]]
 - [[Charles N. Darrah]]
 - [[Andrea Saveri]]
-- [[Lonny J Brooks]]
+- [[Lonny J. Brooks]]
 - [[Geoffrey Bowker]]
 
 ---

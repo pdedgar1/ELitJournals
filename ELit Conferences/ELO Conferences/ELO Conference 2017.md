@@ -73,7 +73,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Piotr Małecki]] (Jagiellonian U., Poland) and [[Jan K. Argasiński]] (Jagiellonian U., Poland), "Internet of Things and Electronic Literature. Tadeusz Peiper's Spatially Blossoming Poem"
 
 - [[Salif Silva]] (U. Cape Verde), "Metafor[ma]: Metamorphoses of Cape Verdean Poetry"
-- [[Shanmugapriya T]] (Indian Institute of Technology Indore, India) and Nirmala Menon*, "Locating Literary Practices/Expressions in Indian Digital Spaces"
+- [[Shanmugapriya T.]] (Indian Institute of Technology Indore, India) and Nirmala Menon*, "Locating Literary Practices/Expressions in Indian Digital Spaces"
 - [[Susie Cronin]] (U. Cambridge, UK), "Can we (still) Speak of a 'French' Digital Literature?"
 - [[Roberta Iadevaia]] (International U. Languages and Media, Italy), "(Ghosts of the) Generative Literature in Italy Between Past, Present and Future"
 

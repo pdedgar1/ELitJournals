@@ -33,7 +33,7 @@ Presiding, [[Mark H. Chignell]], [[Elaine Toms]]
 |[[Binxing Fang]]|
 |[[Moran Feldman]]|
 |[[Alessandro Flammini]]|
-|[[Jonathan G K Foss]]|
+|[[Jonathan G. K. Foss]]|
 |[[Wolfgang Gassler]]|
 |[[Riddhiman Ghosh]]|
 |[[Bela Gipp]]|

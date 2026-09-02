@@ -16,7 +16,7 @@
 - [[Matthew Ritchie]] — The Hard Way, Phase 2
 - [[General Idea]] (artist collective) — General Idea
 - [[Joshua Decter]] (curator) — Screen (an exhibition-as-website)
-- [[Group Z]] (Belgian net art collective) — various early HTML works
+- [[Group Z.]] (Belgian net art collective) — various early HTML works
 
 #### Context (associated/hosted projects)
 - [[JODI]] ([[Joan Heemskerk]] & [[Dirk Paesmans]]) — jodi.org demo

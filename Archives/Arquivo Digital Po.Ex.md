@@ -361,7 +361,7 @@ CELL member : Portuguese Language E-lit
 |[[Nei Leandro de Castro]]|
 |[[Nelson Veríssimo]]|
 |[[Nuno F. Ferreira]]|
-|[[Nuno M Cardoso]]|
+|[[Nuno M. Cardoso]]|
 |[[Nuno Miguel Neves]]|
 |[[Omar Khouri]]|
 |[[Oscar Araripe]]|

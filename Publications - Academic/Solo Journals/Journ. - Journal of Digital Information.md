@@ -142,7 +142,7 @@
 - [[Georgia D. Solomou]]
 - [[Theodore S. Papatheodorou]]
 - [[Kate Byrne]]
-- [[Paul D Clough]]
+- [[Paul D. Clough]]
 - [[Neil Ireson]]
 - [[Jennifer Marlow]]
 
@@ -203,7 +203,7 @@
 - [[Chei Sian Lee]]
 - [[Dion Hoe-Lian Goh]]
 - [[Khasfariyati Razikin]]
-- [[Alton Y. K Chua]]
+- [[Alton Y. K. Chua]]
 - [[Alexey Maslov]]
 - [[Adam Mikeal]]
 - [[Katherine Weimer]]
@@ -218,7 +218,7 @@
 - [[Jeffrey Pomerantz]]
 
 #### Vol. 9 No. 1 (2008)
-- [[J Indratmo]]
+- [[J. Indratmo]]
 - [[Julita Vassileva]]
 - [[Marie R. Kennedy]]
 - [[Katrien Verbert]]
@@ -676,7 +676,7 @@
 - [[Cliff McKnight]]
 - [[Carolyn Pritchett]]
 - [[Jack Meadows]]
-- [[Robert D Cameron]]
+- [[Robert D. Cameron]]
 
 #### Vol. 1 No. 2 (1997) — Open Hypermedia
 - [[Uffe Kock Wiil]]
@@ -687,7 +687,7 @@
 - [[Andy Lewis]]
 - [[Hugh C. Davis]]
 - [[Kenneth M. Anderson]]
-- [[Richard N Taylor]]
+- [[Richard N. Taylor]]
 - [[E. James Whitehead, Jr.]]
 
 #### Vol. 1 No. 1 (1997)

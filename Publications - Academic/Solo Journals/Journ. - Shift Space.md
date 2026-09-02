@@ -12,7 +12,7 @@ Fellows
 [[James Allister Sprang]], [[Complex Movements]], [[Ryan Kuo]], [[Mary Maggic]]. [[Mother Cyborg]]
 
 Contributors 
-[[Natalia Zuluaga]], [[K Allado-McDowell]], [[Darla Migan]] on [[Ryan Kuo]], [[Stefanie Hessler]] with [[Mary Maggic]], [[Ernesto Oroza]], [[Simone Brown]] with [[Mother Cyborg]], [[Robin D. G. Kelley]] on [[Complex Movements]], [[Tao Leigh Goffe]], [[Ade J. Omotasho]] on [[James Allister Sprang]], [[Natalia Zuluaga]] with [[Alenda Y. Chang]] and [[Jason Edward Lewis]]
+[[Natalia Zuluaga]], [[K. Allado-McDowell]], [[Darla Migan]] on [[Ryan Kuo]], [[Stefanie Hessler]] with [[Mary Maggic]], [[Ernesto Oroza]], [[Simone Brown]] with [[Mother Cyborg]], [[Robin D. G. Kelley]] on [[Complex Movements]], [[Tao Leigh Goffe]], [[Ade J. Omotasho]] on [[James Allister Sprang]], [[Natalia Zuluaga]] with [[Alenda Y. Chang]] and [[Jason Edward Lewis]]
 
 ## 1.0
 Fellows 

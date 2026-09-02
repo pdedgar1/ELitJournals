@@ -382,7 +382,7 @@ https://the-next.eliterature.org/collections/17
 [[John Neilson]]
 [[Lord Knows Compost]]
 [[Nick Didkovsky]]
-[[X]] - Russian author - tasmania? 
+[[X.]] - Russian author - tasmania? 
 
 ## 1996
 [[Christine Baczewska]]

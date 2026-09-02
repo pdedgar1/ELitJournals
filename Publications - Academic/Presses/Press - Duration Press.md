@@ -8,7 +8,7 @@
 | [[Andrei Molotiu]]                                                                                                                                                                                            |
 | [[ANGLE Magazine]] (edited by [[Brian Lucas]]                                                                                                                                                                 |
 | [[Anne-Marie Albiach]]                                                                                                                                                                                        |
-| [[Apex of the M]] (edited by [[Lew Daly]]                                                                                                                                                                     |
+| [[Apex of the M.]] (edited by [[Lew Daly]]                                                                                                                                                                     |
 | [[Brian Strang]]                                                                                                                                                                                              |
 | [[Claude Royet-Journoud]]                                                                                                                                                                                     |
 | [[Coral Bracho]]                                                                                                                                                                                              |

@@ -1,4 +1,4 @@
-## Edited by [[Nirmala Menon]], [[Shanmugapriya T]], [[Justy Joseph]], [[Deborah Sutton]]
+## Edited by [[Nirmala Menon]], [[Shanmugapriya T.]], [[Justy Joseph]], [[Deborah Sutton]]
 
 [[R. Vidya]]
 [[Meghna Gangadharan]]

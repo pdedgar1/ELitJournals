@@ -10,7 +10,18 @@ SCOPE — deliberately narrow:
     3. double spaces        -> single space
     4. missing space after an initial -> [[E.M. de Melo]] -> [[E. M. de Melo]]
        (single capital + period + capital; ACRONYMS below are exempt)
+    5. bare single-capital-letter initial -> [[Brian D Loader]] -> [[Brian D. Loader]]
+       (a whole space-delimited token that is exactly one A-Z letter gets a
+       trailing period; multi-letter words and lowercase connectors like
+       "de"/"e"/"e Silva" are untouched since they never match)
   Note files whose names change under 2-4 are renamed to match, so links stay intact.
+  Rule 5 is LINK-TEXT ONLY and never renames a file: it fires on lone
+  capital letters like "A"/"I" that are sometimes ordinary words (an
+  article, a pronoun) rather than initials, so it's too blunt to trust
+  against real note titles. Applying it only to link occurrences means a
+  few outgoing links may end up not matching their target file's exact
+  name — alias_scan.py will surface those as new candidates for review,
+  rather than the script silently renaming a real note.
 
 Usage: python3 normalize_chars.py [VAULT_DIR] [--dry]
 """
@@ -32,6 +43,11 @@ ACRONYMS = {'U.S.', 'U.S.A.', 'U.K.', 'U.N.', 'E.U.', 'A.I.', 'D.C.',
 
 RUN  = re.compile(r'(?<![A-Za-z0-9])((?:[A-Z]\.){1,5})(?=[A-Z])')
 LINK = re.compile(r'\[\[([^\[\]\n]+)\]\]')
+LONE_INITIAL = re.compile(r'^[A-Z]$')  # exactly one bare capital letter, e.g. "D"
+# "A" and "I" are almost always the article/pronoun, not an initial, when they
+# stand alone in a title (e.g. "A List Apart", "I <3 E-Poetry") -- confirmed
+# against real vault titles, so they're exempt from rule 5.
+LONE_INITIAL_EXEMPT = {'A', 'I'}
 
 def space_initials(s):
     def fix(m):
@@ -43,11 +59,24 @@ def space_initials(s):
         return run.replace('.', '. ').rstrip() + ' '
     return RUN.sub(fix, s)
 
-def normalize_target(s):
-    """Apply rules 2-4 to the inside of a wikilink (or to a note filename)."""
+def dot_lone_initials(s):
+    """Space-delimited tokens that are exactly one capital letter get a
+    trailing period ("D" -> "D."). Multi-letter words (names) and lowercase
+    single-letter connectors ("e", as in Portuguese "e Silva") never match,
+    so they're left for manual review."""
+    return ' '.join(w + '.' if LONE_INITIAL.match(w) and w not in LONE_INITIAL_EXEMPT else w
+                    for w in s.split(' '))
+
+def normalize_target(s, lone_initials=True):
+    """Apply rules 2-4 (+5 unless disabled) to link text or a note filename.
+    lone_initials=False is used for filename/rename purposes, since rule 5
+    is too blunt to trust against real note titles (see module docstring)."""
     for k, v in QUOTES.items(): s = s.replace(k, v)
     s = re.sub(r'  +', ' ', s)
-    return space_initials(s).strip()
+    s = space_initials(s)
+    if lone_initials:
+        s = dot_lone_initials(s)
+    return s.strip()
 
 def fix_links(text):
     """Rewrite only the text inside [[...]]; everything else untouched."""
@@ -73,7 +102,7 @@ for dirpath, dirnames, filenames in os.walk(VAULT):
         c = fix_links(c)                                     # links only
         if c != orig: changes[p] = c
         stem = fn[:-3]
-        new_stem = normalize_target(stem.replace('\xa0', ' ').replace('​', ''))
+        new_stem = normalize_target(stem.replace('\xa0', ' ').replace('​', ''), lone_initials=False)
         if new_stem != stem:
             renames.append((p, os.path.join(dirpath, new_stem + '.md')))
 

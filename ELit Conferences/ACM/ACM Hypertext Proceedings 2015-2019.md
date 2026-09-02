@@ -341,7 +341,7 @@ Presiding, [[Peter Dolog]], [[Peter Vojtas]], [[Francesco Bonchi]], [[Denis Heli
 - [[Eelco Herder]]
 - [[Sanghyun Hong]]
 - [[Ghaith Husari]]
-- [[Ganesh J]]
+- [[Ganesh J.]]
 - [[Adam Jatowt]]
 - [[Yukiko Kawai]]
 - [[Nicolas Kourtellis]]

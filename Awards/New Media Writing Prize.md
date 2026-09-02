@@ -105,11 +105,11 @@
 [[Selma Victoria Fyllingsnes]]
 [[Clayton Aldern]] and [[Chad Small]]
 [[Pau i au]]
-[[Kavya Benara]] and [[Shanmugapriya T]]
+[[Kavya Benara]] and [[Shanmugapriya T.]]
 
 ### 2026
 [[Hadeel Arja]] and [[Khalil Ashawi]]
 [[Selma Victoria Fyllingsnes]]
 [[Chad Small]], [[Clayton Aldern]]
 [[Pau i au]]
-[[Kavya Benara]] and [[Shanmugapriya T]]
+[[Kavya Benara]] and [[Shanmugapriya T.]]

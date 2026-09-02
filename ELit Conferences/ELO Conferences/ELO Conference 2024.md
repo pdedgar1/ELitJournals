@@ -7,7 +7,7 @@ Proceedings introduction
 [[Stuart Moulthrop]]
 [[Alexei Tikhonov]]
 [[Kenton Taylor Howard]]
-[[Gayathri T]] & [[Merin Simi Raj]]
+[[Gayathri T.]] & [[Merin Simi Raj]]
 [[Judy Malloy]]
 
 ### Panels and workshops and Performances
@@ -19,7 +19,7 @@ Proceedings introduction
 | [[R. Lyle Skains]]                                                              |
 | [[Richard Snyder]]                                                              |
 | [[Samya Brata Roy]]                                                             |
-| [[Shanmugapriya T]]                                                             |
+| [[Shanmugapriya T.]]                                                             |
 | [[Anyssa Gonzalez]]                                                             |
 | [[Alia Hall]]                                                                   |
 | [[Yingzi (Kathryn) Kong]]                                                       |
@@ -145,7 +145,7 @@ Proceedings introduction
 | [[Richard A. Carter]]                                                                                     |
 | [[Rui Torres]]                                                                                            |
 | [[Sam Hunter]]                                                                                            |
-| [[Shanmugapriya T]]                                                                                       |
+| [[Shanmugapriya T.]]                                                                                       |
 | [[Siobhan O'Flynn]]                                                                                       |
 | [[Stuart Moulthrop]]                                                                                      |
 | [[Tegan Pyke]]                                                                                            |
@@ -163,7 +163,7 @@ Proceedings introduction
 | [[Elizabeth Varkey]]                                                                                      |
 | [[Emmanuelle Lescouet]], [[Pierre Gabriel Dumoulin]], [[Amélie Vallières]]                                |
 | [[Eric Kaltman]], [[Joseph C. Osborn]]                                                                    |
-| [[Gayathri T]], [[Merin Simi Raj]]                                                                        |
+| [[Gayathri T.]], [[Merin Simi Raj]]                                                                        |
 | [[Giulia Carla Rossi]], [[Stella Wisdom]]                                                                 |
 | [[Jolene L. Armstrong]], [[Siobhan O'Flynn]], [[Monique Tschofen]], [[Kari Maaren]]                          |
 | [[Kirill Azernyi]]                                                                                        |

@@ -11,7 +11,7 @@
 #### Fiction
 [[Catherine Campbell]], [[Dan Townsend]], [[Daniel Browne]], [[Daniel Denecke]], [[Joe Clifford]], [[Kelli Ford]], [[Kimberly Lojewski]], [[Laura Jane Faulds]], [[Melissa Fraterrigo]], [[Monika Zobel]], [[Muhammad Ashfaq]], [[Nora Maynard]], [[Randall Brown]], [[Rosalind Palermo Stevenson]], [[Russell Helms]]
 #### Open City/AAWW
-[[Angela Narciso Torres]], [[Angie Mazakis]], [[Celina Su]], [[Cristiana Baik]], [[Deanna Fei]] & [[Jessica Fei]], [[Deepak Unnikrishnan]], [[Hai-Dang Phan]], [[Iris A. Law]], [[Kaveh Bassiri]], [[Kimberly Alidio]], [[Lawrence Dizon Sumulong]], [[Mark Anthony Cayanan]], [[Murli Melwani]], [[Peggy Lee]], [[Raj K Ramaswamy]], [[Rajiv Mohabir]], [[Rathanak Michael Keo]], [[Sahar Muradi]] & [[Zohra Saed]], [[W. Todd Kaneko]], [[Wah-Ming Chang]]
+[[Angela Narciso Torres]], [[Angie Mazakis]], [[Celina Su]], [[Cristiana Baik]], [[Deanna Fei]] & [[Jessica Fei]], [[Deepak Unnikrishnan]], [[Hai-Dang Phan]], [[Iris A. Law]], [[Kaveh Bassiri]], [[Kimberly Alidio]], [[Lawrence Dizon Sumulong]], [[Mark Anthony Cayanan]], [[Murli Melwani]], [[Peggy Lee]], [[Raj K. Ramaswamy]], [[Rajiv Mohabir]], [[Rathanak Michael Keo]], [[Sahar Muradi]] & [[Zohra Saed]], [[W. Todd Kaneko]], [[Wah-Ming Chang]]
 #### Sound Art/Dissonance
 [[Big Daddy Mugglestone]], [[Carlo Simoni]], [[Christopher Burns]], [[Elio Martusciello]], [[Gregory Moore]], [[James Fei]], [[Ma++ Ingalls]], [[Micah Silver]], [[Nathan Davis]], [[Ramón Sender Barayón]], [[Theresa Wong]]
 #### Speculative
@@ -65,7 +65,7 @@
 # Issue 20
 
 #### Affrilachian Arts
-[[Jeremy Dae Paden]], [[Frank X Walker]], [[Shayla Lawson]], [[Steven Paul Alvarez]], [[Charles A. Swanson]], [[Joy Priest]], [[Charter Weeks]] & [[Keith Flynn]], [[Autumn McClintock]], [[Colena Corbett]], [[Kenzie Allen]], [[Keith S. Wilson]], [[Ellen Hagan]], [[Bianca Spriggs]], [[Glenis Redmond]], [[Randall Horton]]
+[[Jeremy Dae Paden]], [[Frank X. Walker]], [[Shayla Lawson]], [[Steven Paul Alvarez]], [[Charles A. Swanson]], [[Joy Priest]], [[Charter Weeks]] & [[Keith Flynn]], [[Autumn McClintock]], [[Colena Corbett]], [[Kenzie Allen]], [[Keith S. Wilson]], [[Ellen Hagan]], [[Bianca Spriggs]], [[Glenis Redmond]], [[Randall Horton]]
 #### Translation
 [[Tony Brinkley]] (trans. [[Arthur Rimbaud]]), [[Charlotte Mandell]] (trans. [[Arthur Rimbaud]]), [[Esther Allen]] (trans. [[Arthur Rimbaud]]), [[Marcella Durand]] (trans. [[Arthur Rimbaud]]), [[Judith Goldman]] (trans. [[Arthur Rimbaud]]), [[Jonathan C. Stalling]] (trans. [[Arthur Rimbaud]]), [[Ian Monk]] (trans. [[Arthur Rimbaud]]), [[Erín Moure]] (trans. [[Arthur Rimbaud]]), [[Chris Clarke]] (trans. [[Arthur Rimbaud]]), [[Rachel Galvin]] (trans. [[Arthur Rimbaud]]), [[Marie Buck]] (trans. [[Arthur Rimbaud]]), [[John Beer]] (trans. [[Arthur Rimbaud]]), [[Bob Perelman]] (trans. [[Arthur Rimbaud]]), [[Paul Legault]] (trans. [[Arthur Rimbaud]]), [[Laura Mullen]] (trans. [[Arthur Rimbaud]]), [[Sandra Simonds]] (trans. [[Arthur Rimbaud]]), [[Tom LaFarge]] (trans. [[Arthur Rimbaud]]), [[Brandon Brown]] (trans. [[Arthur Rimbaud]])
 
@@ -145,11 +145,11 @@
 ## Fiction
 [[YZ Chin]], [[Camille Wanliss]], [[Naheed Phiroze Patel]], [[Jennifer Lee]], [[Andi Boyd]], [[Stacy Hardy]], [[Serena W. Lin]], [[Larry Menlove]]
 ## Himalayan Arts
-[[Arun Budhathoki]], [[Bhupi Sherchan]], [[Bimal Nibha]], [[Bishwa Sigdel]], [[Buddhi Sagar Chepain]], [[Chetnath Dhamala]], [[Chunky Shrestha]], [[Gopal Prasad Rimal]], [[Hari Adhikari]], [[Hari Khadka]], [[Jeevan Rajopadhyay]], [[Keshab Silwal]], [[Kiran Manandhar]], [[Krishna Bhakta Shrestha]], [[Lal Kaji Lama]], [[Mani Lohani]], [[N B Gurung]], [[Nakul Silwal]], [[Naresh Saiju]], [[Nem Bahadur Gole]], [[Padam Gautam]], [[Pramod Snehi]], [[Punya Gautam 'Bishwas']], [[Purna Infada]], [[Purna Viram]], [[R. M. Dongol]], [[Ragini Upadhayay Grela]], [[Ratna Kaji Shakya]], [[Ramesh Khanal]], [[Shailendra Sakar]], [[Shashi Shaha]], [[Shayamal]], [[Shreejana Bhandari]], [[Shyam Rimal]], [[Tanka Uprety]], [[Tek Bir Mukhya]], [[Yuyutsu Sharma]]
+[[Arun Budhathoki]], [[Bhupi Sherchan]], [[Bimal Nibha]], [[Bishwa Sigdel]], [[Buddhi Sagar Chepain]], [[Chetnath Dhamala]], [[Chunky Shrestha]], [[Gopal Prasad Rimal]], [[Hari Adhikari]], [[Hari Khadka]], [[Jeevan Rajopadhyay]], [[Keshab Silwal]], [[Kiran Manandhar]], [[Krishna Bhakta Shrestha]], [[Lal Kaji Lama]], [[Mani Lohani]], [[N. B. Gurung]], [[Nakul Silwal]], [[Naresh Saiju]], [[Nem Bahadur Gole]], [[Padam Gautam]], [[Pramod Snehi]], [[Punya Gautam 'Bishwas']], [[Purna Infada]], [[Purna Viram]], [[R. M. Dongol]], [[Ragini Upadhayay Grela]], [[Ratna Kaji Shakya]], [[Ramesh Khanal]], [[Shailendra Sakar]], [[Shashi Shaha]], [[Shayamal]], [[Shreejana Bhandari]], [[Shyam Rimal]], [[Tanka Uprety]], [[Tek Bir Mukhya]], [[Yuyutsu Sharma]]
 ## Nonfiction
 [[Janelle DolRayne]], [[Jason Spears]], [[Katharine Haake]], [[Kisha Lewellyn Schlegel]], [[Rajiv Mohabir]], [[Stephanie Sauer]]
 ## Poetry
-[[Alison Prine]], [[Angela Penaredondo]], [[Ashley Keyser]], [[Cameron Awkward-Rich]], [[Deseree Probasco]], [[Dilruba Ahmed]], [[Emilio Sotelo]], [[Esther Lin]], [[Franny Choi]], [[J. H Yun]], [[Lena Tuffaha]], [[Lesya Bazylewicz]], [[Michael Wasson]], [[Michelle Lewis]], [[Muriel Leung]], [[Nandini Dhar]], [[Natalie Wee]], [[Samiya Bashir]], [[Shamala Gallagher]], [[Siwar Masannat]]
+[[Alison Prine]], [[Angela Penaredondo]], [[Ashley Keyser]], [[Cameron Awkward-Rich]], [[Deseree Probasco]], [[Dilruba Ahmed]], [[Emilio Sotelo]], [[Esther Lin]], [[Franny Choi]], [[J. H. Yun]], [[Lena Tuffaha]], [[Lesya Bazylewicz]], [[Michael Wasson]], [[Michelle Lewis]], [[Muriel Leung]], [[Nandini Dhar]], [[Natalie Wee]], [[Samiya Bashir]], [[Shamala Gallagher]], [[Siwar Masannat]]
 ## Translation
 [[Alex Niemi]] (trans. [[Vincent Tholomé]]), [[Nancy Naomi Carlson]] & [[Catherine Maigret Kellogg]] (trans. [[Suzanne Dracius]]), [[Catherine Jagoe]] (trans. [[Roberto Echavarren]]), [[Henry Zhang]] (trans. [[Feng Na]]), [[Anita Gopalan]] (trans. [[Geet Chaturvedi]]), [[Mary Jane White]] (trans. [[Marina Tsvetaeva]]), [[Mercedes Claire Gilliom]] (trans. [[Daniel Bourrion]]), [[Layla Benitez-James]] (trans. [[Óscar Curieses]]), [[Alix Anne Shaw]] (trans. [[Ludwig Wittgenstein]]), [[David Hadbawnik]] (trans. [[Virgil]])
 #### Women & Non-Binary Noir

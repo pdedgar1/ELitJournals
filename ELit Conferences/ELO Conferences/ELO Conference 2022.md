@@ -923,7 +923,7 @@ Open Discussion Panel
 
 Education on diversity and sustainability
 
-[[Anna Nacher]], [[Andrew Klobucar]], [[Margaret Rhee]], [[Samya Brata Roy]] and [[Shanmugapriya T]]
+[[Anna Nacher]], [[Andrew Klobucar]], [[Margaret Rhee]], [[Samya Brata Roy]] and [[Shanmugapriya T.]]
 
 Whose e-lit is it anyway?
 

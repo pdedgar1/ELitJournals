@@ -502,7 +502,7 @@
 | [[Amber Strother]]                |     |
 | [[Anne Sullivan]]                 |     |
 |                                   |     |
-| [[Shanmugapriya T]]               |     |
+| [[Shanmugapriya T.]]               |     |
 | [[Joseph Tabbi]]                  |     |
 | [[Yuya Takeda]]                   |     |
 | [[Marjorie Terral Artiste]]       |     |

@@ -95,7 +95,7 @@
 - [[Kate North]]
 - [[Cathy Treadaway]]
 - [[Varuni Kanagasundaram]]
-- [[D A Calf]]
+- [[D. A Calf]]
 - [[Edwin Pickstone]]
 - [[Paul Maguire]]
 - [[Frances Robertson]]

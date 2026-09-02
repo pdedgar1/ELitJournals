@@ -47,7 +47,7 @@
 | [[P. D. Edgar]]                           |
 | [[Ricky Finch]]                          |
 | [[Samya Brata Roy]]                      |
-| [[Shanmugapriya T]]                      |
+| [[Shanmugapriya T.]]                      |
 | [[Stuart Moulthrop]]                     |
 | [[Vee Kennedy]]                          |
 | [[Yingzi (Kathryn) Kong]]                |

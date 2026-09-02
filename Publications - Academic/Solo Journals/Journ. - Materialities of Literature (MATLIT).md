@@ -194,7 +194,7 @@ Nair Renata Amâncio
 | [[Yue-Jin Ho]]                                                                |
 | [[Ana Sabino]]                                                                |
 | [[Amy Spencer]]                                                               |
-| [[Shanmugapriya T]], [[Nirmala Menon]]                                        |
+| [[Shanmugapriya T.]], [[Nirmala Menon]]                                        |
 | [[Karen ann Donnachie]], [[Andy Simionato]]                                   |
 | [[Luis Leite]], [[Rui Torres]], [[Luís Aly]]                                  |
 | [[Stephanie Tripp]]                                                           |

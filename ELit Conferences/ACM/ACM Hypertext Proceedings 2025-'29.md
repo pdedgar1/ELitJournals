@@ -18,11 +18,11 @@ Presiding,  [[Yong Zheng]], [[Ludovico Boratto]], [[Charlie Hargood]], [[Dongwon
 | [[Jian Wu]]                  |
 | [[Jiaqing Yuan]]             |
 | [[Ruijie Xi]]                |
-| [[Munindar P Singh]]         |
+| [[Munindar P. Singh]]         |
 | [[Kallol Naha]]              |
-| [[Sajratul Y Rubaiat]]       |
+| [[Sajratul Y. Rubaiat]]       |
 | [[Syed N. Sakib]]            |
-| [[Hasan M Jamil]]            |
+| [[Hasan M. Jamil]]            |
 | [[Masafumi Iwanaga]]         |
 | [[Keishi Tajima]]            |
 | [[Muhammad Taimoor Khan]]    |
@@ -41,7 +41,7 @@ Presiding,  [[Yong Zheng]], [[Ludovico Boratto]], [[Charlie Hargood]], [[Dongwon
 | [[Sai Puppala]]              |
 | [[Sajedul Talukder]]         |
 | [[Ruijie Xi]]                |
-| [[Munindar P Singh]]         |
+| [[Munindar P. Singh]]         |
 | [[Ashfaq Ali Shafin]]        |
 | [[Khandaker Mamun Ahmed]]    |
 | [[Tarannum Zaki]]            |

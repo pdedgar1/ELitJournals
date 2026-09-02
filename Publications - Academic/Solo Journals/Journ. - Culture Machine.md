@@ -85,7 +85,7 @@ Authors: [[Wolfgang Ernst]], [[Erhard Schüttpelz]], [[Samir Bhowmik]], [[Paula 
 # Vol. 18 (2019): The Nature of Data Centres
 Date: 2019
 Editors: [[Mél Hogan]], [[Asta Vonderau]]
-Authors: [[Adam Fish]], [[Bradley L. Garrett]], [[Alix Johnson]], [[Anthony M Levenda]], [[Dillon Mahmoudi]], [[Vicki Mayer]], [[Matt Parker]], [[Anne Pasek]], [[A. R. E Taylor]], [[Julia Velkova]], [[Sean RM Willett]]
+Authors: [[Adam Fish]], [[Bradley L. Garrett]], [[Alix Johnson]], [[Anthony M. Levenda]], [[Dillon Mahmoudi]], [[Vicki Mayer]], [[Matt Parker]], [[Anne Pasek]], [[A. R. E. Taylor]], [[Julia Velkova]], [[Sean RM Willett]]
 
 # Vol. 19 (2020): Media Populism
 Date: 2020
