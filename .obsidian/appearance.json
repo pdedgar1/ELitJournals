@@ -1,4 +1,5 @@
 {
   "accentColor": "#63bf73",
-  "theme": "obsidian"
+  "theme": "system",
+  "interfaceFontFamily": "Krungthep"
 }

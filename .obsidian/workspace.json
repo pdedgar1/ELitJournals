@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.69140625,
-    "collapsed": true
+    "width": 380.69140625
   },
   "right": {
     "id": "3558e22f65bf0dba",
@@ -176,8 +175,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "3d-graph:3D Graph": false
+      "bases:Create new base": false
     }
   },
   "active": "88f18363c7f841e5",
