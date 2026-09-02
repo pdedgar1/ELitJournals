@@ -4,7 +4,7 @@
 | ------------------------------- |
 | [[G. C. "Grim" Baccaris]]        |
 | [[Tori Beaty]]                  |
-| [[Matt Campbell]]               |
+| [[Matthew Campbell]]               |
 | [[Nessa Cannon]]                |
 | [[VerBon Cheung]]               |
 | [[Adam Clare]]                  |

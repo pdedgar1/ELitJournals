@@ -814,14 +814,14 @@
 | [[David Lassner]]                                |
 | [[Davor Lauc]]                                   |
 | [[Antoine Laurent]]                              |
-| [[Matthew Lavin]]                                |
+| [[Matthew J. Lavin]]                                |
 | [[Stacy Lavin]]                                  |
 | [[Colin Layfield]]                               |
 | [[Glen Layne-Worthey]]                           |
 | [[Elina Leblanc]]                                |
 | [[Ashley S. Lee]]                                |
 | [[Benjamin Charles Germain Lee]]                                 |
-| [[James Lee]]                                    |
+| [[James Jaehoon Lee]]                                    |
 | [[Loren Lee]]                                    |
 | [[Sunkyu Lee]]                                   |
 | [[Inger Leemans]]                                |
@@ -1017,7 +1017,7 @@
 | [[Vincent Neyt]]                                 |
 | [[Griffin Ng]]                                   |
 | [[Ryan Nichols]]                                 |
-| [[Kristoffer L. Nielbo]]                         |
+| [[Kristoffer Laigaard Nielbo]]                         |
 | [[Angel David Nieves]]                           |
 | [[Dmitri Nikulin]]                               |
 | [[Asko Nivala]]                                  |
@@ -1043,7 +1043,7 @@
 | [[Mark Olsen]]                                   |
 | [[Björn Ommer]]                                  |
 | [[Louis Onrust]]                                 |
-| [[Dawn Opel]]                                    |
+| [[Dawn S. Opel]]                                    |
 | [[Brett Oppegaard]]                              |
 | [[Peter Organisciak]]                            |
 | [[Élika Ortega]]                                 |
@@ -1232,8 +1232,8 @@
 | [[Nick Ruest]]                                   |
 | [[Giovanni Ruffini]]                             |
 | [[Teemu Ruokolainen]]                            |
-| [[John Ryan]]                                    |
-| [[Yann Ryan]]                                    |
+| [[Johnny Ryan]]                                    |
+| [[Yann C. Ryan]]                                    |
 | [[Jan Rybicki]]                                  |
 | [[Jeffrey A. Rydberg-Cox]]                          |
 | [[Matthia Sabatelli]]                            |

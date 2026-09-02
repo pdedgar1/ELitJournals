@@ -11,7 +11,7 @@ Presiding [[Anastasia Salter]], [[John F. Barber]], [[Ujwal Gadiraju]]
 - [[Vikas Ashok]]
 - [[Claus Atzenbeck]]
 - [[Dmitriy Babichenko]]
-- [[Carissa Baker]]
+- [[Carissa Ann Baker]]
 - [[Silvia Basile]]
 - [[Francesca Benatti]]
 - [[Fabrício Benevenuto]]
@@ -411,7 +411,7 @@ Presiding, [[Alejandro Bellogín]], [[Ludovico Boratto]], [[Federica Cena]]
 | [[Bernardo Pereira Nunes]]        |
 | [[Xiaolei Huang]]                 |
 | [[Alexandra Wormley]]             |
-| [[Adam Cohen]]                    |
+| [[Adam Nicholas Cohen]]                    |
 | [[Daniel Roßner]]                 |
 | [[Claus Atzenbeck]]               |
 | [[Tom Gross]]                     |

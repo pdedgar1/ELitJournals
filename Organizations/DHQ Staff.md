@@ -20,7 +20,7 @@
 | [[Benjamin Grey]]                      |
 | [[Elizabeth Hopwood]]                  |
 | [[Jonathan Fitzgerald]]                |
-| [[Melanie Kohnen]]                     |
+| [[Melanie E. S. Kohnen]]                     |
 | [[Jacob Murel]]                        |
 | [[Duyen Nguyen]]                       |
 | [[Kristin Økland]]                     |

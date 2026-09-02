@@ -180,7 +180,7 @@ Presiding, [[Peter J. Nürnberg]], [[Jessica Rubart]]
 |[[Mohammad Zubair]]|
 |[[Kurt Maly]]|
 |[[Manolis Tzagarakis]]|
-|[[Michail Vaitis]]|
+|[[Michailis Vaitis]]|
 |[[Nikos Karousos]]|
 |[[Kaj Grønbæk]]|
 |[[Frank Allan Hansen]]|

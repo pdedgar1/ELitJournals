@@ -28,7 +28,7 @@
 | [[Colette Colligan]]         |
 | [[Michelle Levy]]            |
 | [[Abdul Zahir]]              |
-| [[André Carrington]]         |
+| [[André m. Carrington]]         |
 | [[Amanda Phillips]]          |
 | [[Anne Cong-Huyen]]          |
 | [[Marisa Parham]]            |

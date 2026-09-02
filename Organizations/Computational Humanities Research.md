@@ -2,13 +2,13 @@
 [[Folgert Karsdorp]]
 [[Alie Lassche]]
 [[Barbara McGillivray]]
-[[Kristoffer L. Nielbo]]
+[[Kristoffer Laigaard Nielbo]]
 [[Lucy Li]]
 [[Judith Bottrager]]
 
 #### Editorial Team
 
-[[Kristoffer L. Nielbo]]
+[[Kristoffer Laigaard Nielbo]]
 [[Lauren Tilton]]
 
 associate 
@@ -61,7 +61,7 @@ Advisory
 [[Richard McElreath]]
 [[Barbara McGillivray]]
 [[Olivier Morin]]
-[[Fabian Moss]]
+[[Fabian C. Moss]]
 [[Lincoln Mullen]]
 [[Andrea Nini]]
 [[Emily Ohman]]

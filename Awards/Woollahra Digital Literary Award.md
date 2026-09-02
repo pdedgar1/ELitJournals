@@ -55,4 +55,4 @@ Judges—[[Brett Osmond]]
 [[Jane Rawson]]
 ## 2017
 [[Vanessa Berry]]
-[[Melissa Bruce]]
+[[Melissa N. Bruce]]

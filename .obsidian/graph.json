@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:People  ",
+      "query": "path:\"People + Labs\"  ",
       "color": {
         "a": 1,
         "rgb": 5395168
@@ -81,13 +81,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1.73689119749777,
-  "lineSizeMultiplier": 0.513806970509383,
+  "nodeSizeMultiplier": 2.42711684539768,
+  "lineSizeMultiplier": 0.277893208221626,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 1,
+  "linkStrength": 0.946548257372654,
   "linkDistance": 500,
-  "scale": 0.024478252482253157,
+  "scale": 0.014498704562634645,
   "close": true
 }

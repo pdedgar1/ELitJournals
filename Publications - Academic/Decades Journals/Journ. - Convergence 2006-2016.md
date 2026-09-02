@@ -93,7 +93,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Christina Davidson]]          |
 | [[Christina Neumayer]]          |
 | [[Christina Nitsou]]            |
-| [[Christopher Moore]]           |
+| [[Christopher Luke Moore]]           |
 | [[Christy Dena]]                |
 | [[Chuck Tryon]]                 |
 | [[Chuen-Tsai Sun]]              |
@@ -381,7 +381,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Patrick Crogan]]              |
 | [[Patrick Vonderau]]            |
 | [[Pau Alsina]]                  |
-| [[Paul Booth]]                  |
+| [[Paul J. Booth]]                  |
 | [[Paul Genoni]]                 |
 | [[Paul McDonald]]               |
 | [[Paul Smith]]                  |

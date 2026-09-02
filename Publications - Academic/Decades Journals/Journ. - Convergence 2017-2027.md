@@ -210,7 +210,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Christoffer Bagger]]               |
 | [[Christoph Klimmt]]                 |
 | [[Christoph Sommer]]                 |
-| [[Christopher Moore]]                |
+| [[Christopher Luke Moore]]                |
 | [[Christopher J. Persaud]]              |
 | [[Christothea Herodotou]]            |
 | [[Claes Thorén]]                     |
@@ -560,7 +560,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Joseph Seering]]                   |
 | [[Josie Barnard]]                    |
 | [[J. R. Carpenter]]                     |
-| [[Judith Fathallah]]                 |
+| [[Judith May Fathallah]]                 |
 | [[Judy Malloy]]                      |
 | [[Juho Kahila]]                      |
 | [[Julia Dalton]]                     |
@@ -674,7 +674,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Marcelo Santos]]                   |
 | [[Mareike Sperzel]]                  |
 | [[Maria Gemma Brown]]                |
-| [[Maria K Alberto]]                  |
+| [[Maria K. Alberto]]                  |
 | [[María L Urbina Montana]]           |
 | [[Maria Stella Tirol]]               |
 | [[Maria Tartari]]                    |
@@ -815,7 +815,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Patrik Wikström]]                  |
 | [[Patryk Galuszka]]                  |
 | [[Paul Atkinson]]                    |
-| [[Paul Booth]]                       |
+| [[Paul J. Booth]]                       |
 | [[Paul Martin]]                      |
 | [[Paul Spence]]                      |
 | [[Pedro Moura]]                      |

@@ -43,7 +43,7 @@ It's an online audio-visual lit mag, but the reviews, well, they might be writte
 
 **RRB 7** [[Monica Ali]], '[Bookpocalypse: AI and the Risks to Literature and Free Expression](https://pentransmissions.com/2023/12/01/bookpocalypse-ai-and-the-risks-to-literature-and-free-expression/)', _PEN Transmissions_, December 1, 2023.
 
-**RRB 8** '[How To Be A Pirate: An Interview with Alexandra Elbakyan and Gary Hall by Holger Briel'](https://www.liverpooluniversitypress.co.uk/pb-assets/OA%20chapters/Briel_9781802076622_ch5_OA-1687267442.pdf) in [_The Piracy Years: Internet File Sharing in a Global Context_](https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781802070545), edited by [[Michael High]], [[Markus Heidingsfelder]] and [[Holger Briel]] (Liverpool: Liverpool University Press, 2023).
+**RRB 8** '[How To Be A Pirate: An Interview with Alexandra Elbakyan and Gary Hall by Holger Briel'](https://www.liverpooluniversitypress.co.uk/pb-assets/OA%20chapters/Briel_9781802076622_ch5_OA-1687267442.pdf) in [_The Piracy Years: Internet File Sharing in a Global Context_](https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781802070545), edited by [[Michael D. High]], [[Markus Heidingsfelder]] and [[Holger Briel]] (Liverpool: Liverpool University Press, 2023).
 
 **RRB** [**#**](https://mastodon.social/tags/pr)**17** [[Ester Freider]], [_I'm Like a PDF but a Girl: Girlblogging as a Nomadic Pedagogy_](https://www.are.na/block/20684314) (2022/[2023](https://femmesocialpress.bigcartel.com/product/im-like-a-pdf-but-a-girl))
 

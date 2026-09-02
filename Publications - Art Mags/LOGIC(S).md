@@ -257,7 +257,7 @@
 [[Todd Wolfson]], [[Malav Kanuga]]
 [[Anna Wiener]]
 [[Ben Tarnoff]], [[Alex Blasdel]], [[Xiaowei R. Wang]], [[Moira Weigel]], [[Jim Fingal]]
-[[Jasmine Sun]], [[Jessica Dai]], [[Emily Liu]]
+[[Jasmine Sun]], [[Jessica Dai]], [[Emily Xueyue Liu]]
 # 019 - 2023
 [[Zainab Aliyu]]
 [[Meredith Whittaker]]

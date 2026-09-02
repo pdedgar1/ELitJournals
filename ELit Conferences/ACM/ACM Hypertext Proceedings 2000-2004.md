@@ -385,7 +385,7 @@ Presiding, [[Jim Whitehead]], [[David C. De Roure]]
 | [[D. Berleant]]                    |
 | [[J. Miao]]                        |
 | [[M. Arvold]]                      |
-| [[J. Brown]]                       |
+| [[P. J. Brown]]                       |
 | [[R. DeVries]]                     |
 | [[T. Drucker]]                     |
 | [[L. Elkin]]                       |

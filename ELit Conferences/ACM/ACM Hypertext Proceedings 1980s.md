@@ -96,7 +96,7 @@
 | [[D. B. Crouch]]        |
 | [[C. J. Crouch]]        |
 | [[G. Andreas]]          |
-| [[J. Nielsen]]          |
+| [[E. J. Nielsen]]          |
 | [[S. J. DeRose]]        |
 | [[Stuart Moulthrop]]    |
 | [[M. P. Consens]]       |

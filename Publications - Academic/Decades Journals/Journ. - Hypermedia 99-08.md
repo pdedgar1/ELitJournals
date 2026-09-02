@@ -209,7 +209,7 @@
 ### Vol 12, Iss 2
 - [[Peter J. Nürnberg]]
 - [[Manolis Tzagarakis]]
-- [[Michail Vaitis]]
+- [[Michailis Vaitis]]
 - [[Nikos Karousos]]
 - [[William Van Lepthien]]
 - [[Kenneth M. Anderson]]

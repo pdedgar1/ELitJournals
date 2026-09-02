@@ -472,7 +472,7 @@ Advisory Board
 | [[Matt Bernico]]                    |
 | [[Matthew Heston]]                  |
 | [[Matthew N. Hannah]]                  |
-| [[Matthew Lavin]]                   |
+| [[Matthew J. Lavin]]                   |
 | [[Matthew Lincoln]]                 |
 | [[Matthew Williamson]]              |
 | [[Matthias Arnold]]                 |

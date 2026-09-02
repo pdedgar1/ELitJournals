@@ -5,6 +5,7 @@
 [[Kimberly Lyle]]
 [[Chelsea Thompto]]
 [[Nassem Navab]]
+[[Chanee Choi]]
 [[Constanza Salazar]]
 [[René Cepeda]]
 
@@ -24,8 +25,9 @@
 [[Daniel Fine]]
 [[Roopesh Sitharan]]
 [[Diana Rojas]]
-[[Joyce Yu]]
+[[Joyce Yu-Jean Lee]]
 [[Jonah King]]
 
+Previous ALumns / Leaders
 [[Sue Huang]]
 [[Martin Calvino]]

@@ -8,7 +8,7 @@
 | [[Schwartz Andy]]               |
 | [[Dorothy Atuhura]]             |
 | [[Moya Bailey]]                 |
-| [[Lucy Baker]]                  |
+| [[Lucy Irene Baker]]                  |
 | [[Anne Balsamo]]                |
 | [[Tully Barnett]]               |
 | [[Marleen Barr]]                |

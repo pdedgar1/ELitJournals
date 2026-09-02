@@ -24,7 +24,7 @@ Author names by paper, from the ACH Volume 3 proceedings.
 
 ### Reading Beyond the Center. Modeling Book Encounters in the Danish Periphery (1800-1850)
 
-[[Alie Lassche]] [[Rie Eriksen]] [[Pascale Feldkamp]] [[Johan Heinsen]] [[Katrine Baunvig]] [[Kristoffer Nielbo]]
+[[Alie Lassche]] [[Rie Schmidt Eriksen]] [[Pascale Feldkamp]] [[Johan Heinsen]] [[Katrine Baunvig]] [[Kristoffer Laigaard Nielbo]]
 
 ### Cluster Ambiguity in Networks as Substantive Knowledge
 
@@ -84,7 +84,7 @@ Author names by paper, from the ACH Volume 3 proceedings.
 
 ### Framing the Canon: A Computational Study of Canonicity in Danish Golden Age Paintings (1750-1870)
 
-[[Louise Brix Pilegaard Hansen]] [[Rie Schmidt Eriksen]] [[Pascale Feldkamp]] [[Alie Lassche]] [[Kristoffer Nielbo]] [[Katrine Baunvig]] [[Yuri Bizzoni]]
+[[Louise Brix Pilegaard Hansen]] [[Rie Schmidt Eriksen]] [[Pascale Feldkamp]] [[Alie Lassche]] [[Kristoffer Laigaard Nielbo]] [[Katrine Baunvig]] [[Yuri Bizzoni]]
 
 ### Classification of Script Types and Modes for Medieval Hebrew Manuscripts
 
@@ -108,7 +108,7 @@ Author names by paper, from the ACH Volume 3 proceedings.
 
 ### Continuous Sentiment Scores for Literary and Multilingual Contexts
 
-[[Laurits Lyngbaek]] [[Pascale Feldkamp]] [[Yuri Bizzoni]] [[Kristoffer L. Nielbo]] [[Kenneth Enevoldsen]]
+[[Laurits Lyngbaek]] [[Pascale Feldkamp]] [[Yuri Bizzoni]] [[Kristoffer Laigaard Nielbo]] [[Kenneth Enevoldsen]]
 
 ### Embedded in the Labyrinth: Investigating Latin Word Senses through Transformer-Based Contextual Embeddings and Attention
 
@@ -340,7 +340,7 @@ Author names by paper, from the ACH Volume 3 proceedings.
 
 ### Canons in the Shadows–A Critical Catalogue of AI’s Unseen Reading List
 
-[[Antoine Mazières]] [[Thierry Poibeau]]
+[[Antoine Mazieres]] [[Thierry Poibeau]]
 
 ### Blind Text Image Super-resolution for Enhancing the Readability of Fragments Hidden in Book Bindings
 

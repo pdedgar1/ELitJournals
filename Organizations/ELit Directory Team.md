@@ -47,7 +47,7 @@
 | [[Kent Aardse]]            |
 | [[Crystal K. Alberts]]     |
 | [[Maria Angel]]            |
-| [[James Ascher]]           |
+| [[James P. Ascher]]           |
 | [[Tia Azulay]]             |
 | [[Alice Bell]]             |
 | [[Kiki Benzon]]            |

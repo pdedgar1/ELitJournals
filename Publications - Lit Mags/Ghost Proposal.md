@@ -179,7 +179,7 @@ Ultraslant Prizes—
 | [[Megan Kaminski]]                         |
 | [[Muriel Leung]]                           |
 | [[Natalie Shapero]]                        |
-| [[Sefania Heim]]                           |
+| [[Stefania Heim]]                           |
 | [[Steven Teref]]                           |
 | [[Zach Savich]]                            |
 | [[]]                                       |

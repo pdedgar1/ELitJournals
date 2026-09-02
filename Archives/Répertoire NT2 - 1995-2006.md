@@ -1063,7 +1063,7 @@ CELL Member : French-language E-lit
 | [[Jyanni Steffenson]]                                    |
 | [[Darcey Steinke]]                                       |
 | [[Shirley Stephenson]]                                   |
-| [[Richard Stevens]]                                      |
+| [[J. Richard Stevens]]                                      |
 | [[Still Water Lab]]                                      |
 | [[Storybeat]]                                            |
 | [[Lynn Stowe]]                                           |
