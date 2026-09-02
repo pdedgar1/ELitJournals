@@ -10,7 +10,7 @@
           {
             "id": "cf9e827572699937",
             "type": "tabs",
-            "dimension": 32.86350148367953,
+            "dimension": 27.818991097922847,
             "children": [
               {
                 "id": "bbc3af1d10360792",
@@ -31,7 +31,7 @@
           {
             "id": "99d7540ca0679e57",
             "type": "tabs",
-            "dimension": 67.13649851632047,
+            "dimension": 72.18100890207715,
             "children": [
               {
                 "id": "826b15398d46802e",
@@ -211,6 +211,8 @@
   "active": "826b15398d46802e",
   "lastOpenFiles": [
     "Alias Report.md",
+    "People + Labs/Center for Digital Narrative at UIB.md",
+    "Jill Walker Rettberg.md",
     "Organizations/Electronic Book Review Staff.md",
     "ELit Conferences/DLC+ Keywords in Digital Literary Culture.md",
     "Bonnie \"Bo\" Ruberg.md",
@@ -234,8 +236,6 @@
     "Publications - Academic/Solo Journals/Journ. - A. Peer-Reviewed J'About.md",
     "Publications - Academic/Solo Journals/Journ. - A. Peer-Reviewed Newspaper.md",
     "Publications - Academic/Blogs/Blog - I. <3 E-Poetry.md",
-    "Anthologies/Lit E. Lat 2.md",
-    "Anthologies/Lit E. Lat 1.md",
     "__pycache__/normalize_chars.cpython-310.pyc",
     "__pycache__",
     "Publications - Academic/Presses 2",

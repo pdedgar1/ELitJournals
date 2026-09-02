@@ -1,9 +1,6 @@
 # Alias duplicate scan
 Vault: ELitJournals — 40424 distinct link targets
 
-## Strong candidates (identical after normalizing punctuation/spacing/accents): 89
-
-
 - **Jerome Bourdon ≈ Jérôme Bourdon**
   - `[[Jerome Bourdon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Jérôme Bourdon]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
