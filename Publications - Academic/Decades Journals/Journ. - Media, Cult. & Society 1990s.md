@@ -616,7 +616,7 @@
 - [[Sheue Yun Chen]]
 - [[Liu Hong]]
 - [[Zhao Bin]]
-- [[Paul S.N. Lee]]
+- [[Paul S. N. Lee]]
 - [[Leonard L. Chu]]
 - [[Andrew L. Roth]]
 - [[Meryl Aldridge]]

@@ -764,7 +764,7 @@ Note: 2026 (Vol. 48) is a partial/in-progress year — only Issues 1–6 (throug
 - [[Anilesh Kumar]]
 - [[Daya Thussu]]
 - [[Jeremy Tintiangko]]
-- [[Anthony Y.H. Fung]]
+- [[Anthony Y. H. Fung]]
 - [[Jindong Leo-Liu]]
 - [[Christina Corfield]]
 - [[Elaine Jing Zhao]]

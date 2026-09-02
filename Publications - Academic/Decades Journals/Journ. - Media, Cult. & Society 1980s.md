@@ -22,7 +22,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 ### Vol. 1, Issue 2 (April 1979)
 
 - [[Nicholas Garnham]]
-- [[J.W. Freiberg]]
+- [[J. W. Freiberg]]
 - [[Haluk Sahin]]
 - [[Jan Wieten]]
 - [[Andrew McBarnet]]
@@ -125,7 +125,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[James Curran]]
 - [[Pat O'Malley]]
 - [[H. Sahin]]
-- [[J.P. Robinson]]
+- [[J. P. Robinson]]
 - [[Andrew Goodwin]]
 - [[Michael Chanan]]
 
@@ -266,8 +266,8 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Marc Raboy]]
 - [[Y. De La Haye]]
 - [[B. Miege]]
-- [[L.M.S. Lau]]
-- [[T.G. Gough]]
+- [[L. M. S. Lau]]
+- [[T. G. Gough]]
 - [[Robert E. Peck]]
 - [[David Cardiff]]
 - [[Manjunath Pendakur]]

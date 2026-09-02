@@ -38,7 +38,7 @@
 - [[Margaret Tan]]
 - [[Christopher May]]
 - [[Tora K. Bikson]]
-- [[J.D. Eveland]]
+- [[J. D. Eveland]]
 - [[Eileen Green]]
 - [[Alison Adam]]
 - [[Anthony G. Wilhelm]]
@@ -81,8 +81,8 @@
 
 #### Volume 2 / Issue 2
 
-- [[Philip H.J. Davies]]
-- [[Alice Y.L. Lee]]
+- [[Philip H. J. Davies]]
+- [[Alice Y. L. Lee]]
 - [[Neil Selwyn]]
 - [[T. Andrew Finn]]
 - [[Juliet Webster]]
@@ -264,7 +264,7 @@
 - [[Andy C. Pratt]]
 - [[Daniel Marschall]]
 - [[Rosalind Gill]]
-- [[J.A. English-Lueck]]
+- [[J. A. English-Lueck]]
 - [[Charles N. Darrah]]
 - [[Andrea Saveri]]
 - [[Lonny J Brooks]]
@@ -378,7 +378,7 @@
 #### Volume 6 / Issue 4
 
 - [[Bob Rehak]]
-- [[T.L. Taylor]]
+- [[T. L. Taylor]]
 - [[Beth Kolko]]
 - [[Dmitri Williams]]
 - [[Bernadette Flynn]]
