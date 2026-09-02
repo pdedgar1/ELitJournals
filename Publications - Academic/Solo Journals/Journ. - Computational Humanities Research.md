@@ -37,7 +37,7 @@
 | [[Barak Sober]]                                                           |
 | CHR Expanding the Toolkit: Large Language Models in Humanities Research]] |
 | [[Simona Bisiani]]                                                        |
-| [[Agnes Gulyas]]                                                          |
+| [[Ágnes Gulyás]]                                                          |
 | [[Bahareh Heravi]]                                                        |
 | [[Tristan Karch]]                                                         |
 | [[Jakhongir Saydaliev]]                                                   |

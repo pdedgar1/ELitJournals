@@ -151,7 +151,7 @@
 - [[alejandro t. acierto]] and [[KT Duffy]] — May Your Rage Inform Your Actions
 - [[Lorelei d'Andriole]] — Nightmares and Dreams on Progesterone
 - [[Sky Syzygy]] — gender.network
-- [[Jose Luis Benavides]] — Here Comes the Hurricane
+- [[José Luis Benavides]] — Here Comes the Hurricane
 - [[Kemi Adeyemi]] — Just Happy Flesh? (Review)
 
 ## 2025–Present

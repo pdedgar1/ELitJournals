@@ -112,7 +112,7 @@
 - [[Mélanie Millette]]
 - [[Stefano De Paoli]]
 - [[Cristiano Storni]]
-- [[Yu-Wei Lin]]
+- [[YuWei Lin]]
 - [[Gary Geisler]]
 - [[Geoff Willard]]
 - [[Carlos Ovalle]]
@@ -315,7 +315,7 @@
 ### Vol 20, Iss 3
 - [[Markos Zampoglou]]
 - [[Athanasios G. Malamos]]
-- [[Yu-Wei Lin]]
+- [[YuWei Lin]]
 - [[Alan E. Williams]]
 - [[Wu He]]
 - [[Feng-Kwei Wang]]

@@ -174,7 +174,7 @@ https://the-next.eliterature.org/collections/17
 
 ## 2006
 [[Troy Innocent]]
-[[XiaoQian]]
+[[Xiao Qian]]
 [[Yury Gitman]]
 [[Roch Forowicz]]
 [[Christina McPhee]]

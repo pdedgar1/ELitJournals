@@ -76,7 +76,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 
 ### Vol. 2, Issue 2 (April 1980)
 
-- [[Oscar H. Gandy, Jr.]]
+- [[Oscar H. Gandy Jr.]]
 - [[Michael Chanan]]
 - [[Horst Holzer]]
 - [[Graham Murdock]]
@@ -430,7 +430,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Andrew Goodwin]]
 - [[Simon Frith]]
 - [[Antoine Hennion]]
-- [[Cecile Meadel]]
+- [[Cécile Méadel]]
 - [[John Shepherd]]
 - [[Dave Laing]]
 - [[Motti Regev]]

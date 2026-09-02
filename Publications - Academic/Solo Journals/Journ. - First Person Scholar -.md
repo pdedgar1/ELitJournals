@@ -14,7 +14,7 @@
 | [[Elise Vist]]                |
 | [[Michael Hancock]]           |
 | [[Jason Hawreliak]]           |
-| [[Meghan Blythe-Adams]]       |
+| [[Meghan Blythe Adams]]       |
 | [[Kent Aardse]]               |
 | [[Phil Miletic]]              |
 | [[Alex Fleck]]                |

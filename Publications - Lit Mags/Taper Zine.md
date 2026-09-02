@@ -87,7 +87,7 @@
 
 ## #7
 [[Chris Arnold]] & [[David Thomas Henry Wright]]
-[[v buckenham]]
+[[v. buckenham]]
 [[Angela Chang]]
 [[Jan de Weille]]
 [[A. Dorsk]]

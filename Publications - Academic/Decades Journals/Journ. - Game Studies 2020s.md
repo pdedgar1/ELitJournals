@@ -115,7 +115,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[PS Berge]]
     
-- [[Rebecca K Britt]]
+- [[Rebecca K. Britt]]
     
 - [[Matthew Farber]]
     
@@ -123,9 +123,9 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Dom Ford]]
     
-- [[Daniel L Gardner]]
+- [[Daniel L. Gardner]]
     
-- [[Theresa J Tanenbaum]]
+- [[Theresa J. Tanenbaum]]
     
 - [[Abbie Hartman]]
     

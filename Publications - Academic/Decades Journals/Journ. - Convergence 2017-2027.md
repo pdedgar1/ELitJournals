@@ -300,7 +300,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Douglas M. McLeod]]                 |
 | [[Dustin Edwards]]                   |
 | [[Eddy Borges-Rey]]                  |
-| [[Edgar Gómez-Cruz]]                 |
+| [[Edgar Gómez Cruz]]                 |
 | [[Edgar Simpson]]                    |
 | [[Editorial]]                      |
 | [[Ediz Ozelkan]]                     |
@@ -617,7 +617,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Larissa Nicholls]]                 |
 | [[Larissa Pschetz]]                  |
 | [[Lars de Wildt]]                    |
-| [[Lars EF Johannessen]]              |
+| [[Lars E. F. Johannessen]]              |
 | [[Lasse Juel Larsen]]                |
 | [[Laura Formenti]]                   |
 | [[Laura Vodden]]                     |
@@ -748,7 +748,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Min-Woo Kwon]]                     |
 | [[Ming Zhang]]                       |
 | [[Mingyi Hou]]                       |
-| [[Mireia Fernández-Ardèvol]]         |
+| [[Mireia Fernández Ardèvol]]         |
 | [[Miriam Lind]]                      |
 | [[Miriam Rahali]]                    |
 | [[Miriam Ross]]                      |

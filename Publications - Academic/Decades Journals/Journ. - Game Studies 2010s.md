@@ -59,7 +59,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Olli Tapio Leino]]
     
-- [[Jan H.G. Klabbers]]
+- [[Jan H. G. Klabbers]]
     
 - [[Stewart Woods]]
     
@@ -328,7 +328,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Dom Ford]]
     
-- [[Kevin O’Neill]]
+- [[Kevin O'Neill]]
     
 - [[Bill Feenstra]]
     

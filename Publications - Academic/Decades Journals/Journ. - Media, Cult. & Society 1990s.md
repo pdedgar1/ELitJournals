@@ -344,7 +344,7 @@
 - [[Michael Griffin]]
 - [[K. Viswanath]]
 - [[Dona Schwartz]]
-- [[Clemencia Rodriguez]]
+- [[Clemencia Rodríguez]]
 - [[Martyn Lee]]
 - [[Angela Spindler-Brown]]
 - [[Nigel Llewellyn]]

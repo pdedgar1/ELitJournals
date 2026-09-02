@@ -38,7 +38,7 @@
 [[Jeffrey Gonzalez]]
 [[Jeremy Douglass]], [[Mark C. Marino]]
 [[Meredith Finkelstein]]
-[[Patricia Silva]]
+[[Patrícia Silva]]
 [[Kalila Shapiro]]
 [[Richard A. Carter]]
 [[Davin Heckman]]

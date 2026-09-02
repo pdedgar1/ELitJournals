@@ -161,8 +161,8 @@
 |[[Jon Franklin Ramsoomair]]|
 |[[John Ratliff]]|
 |[[Arden Rauch]]|
-|[[Leslie Regan-Shade]]|
-|[[Leslie Regan-Shade]]|
+|[[Leslie Regan Shade]]|
+|[[Leslie Regan Shade]]|
 |[[Elizabeth Reid]]|
 |[[Arlene Remz]]|
 |[[Howard Rheingold]]|
@@ -178,7 +178,7 @@
 |[[Lisa Schlegel]]|
 |[[Lisa Schmeiser]]|
 |[[Lisa Schmesier]]|
-|[[Leslie Regan-Shade]]|
+|[[Leslie Regan Shade]]|
 |[[Camille Shandor]]|
 |[[David Shenk]]|
 |[[Michael Shumate]]|

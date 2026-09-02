@@ -178,7 +178,7 @@
 [[Jed Wagner]]
 
 # 012 - 2020
-[[Oscar H. Gandy, Jr.]]
+[[Oscar H. Gandy Jr.]]
 [[Erin McElroy]] and [[Azad Amir-Ghassemi]]
 [[Audrey Eschright]]
 [[Anonymous]]

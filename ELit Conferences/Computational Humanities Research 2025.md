@@ -196,7 +196,7 @@ Author names by paper, from the ACH Volume 3 proceedings.
 
 ### Mapping News Geography: A Computational Framework for Classifying Local Media Through Geographic Coverage Patterns
 
-[[Simona Bisiani]] [[Agnes Gulyas]] [[Bahareh Heravi]]
+[[Simona Bisiani]] [[Ágnes Gulyás]] [[Bahareh Heravi]]
 
 ### Mind the Language Gap in Digital Humanities: LLM-Aided Translation of SKOS Thesauri
 

@@ -509,7 +509,7 @@
 - [[Deepa Kumar]]
 - [[Dilara Sezgin]]
 - [[Melissa A. Wall]]
-- [[Kwang-Suk Lee]]
+- [[KwangSuk Lee]]
 - [[Charles MacDonald]]
 - [[James Hamilton]]
 - [[Mary P. Wood]]
