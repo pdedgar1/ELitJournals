@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "87c82210f048a7b5",
-        "type": "split",
+        "id": "9540d3eb89bf16e2",
+        "type": "tabs",
         "children": [
           {
-            "id": "cf9e827572699937",
-            "type": "tabs",
-            "dimension": 27.818991097922847,
-            "children": [
-              {
-                "id": "bbc3af1d10360792",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Alias Report.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Alias Report"
-                }
-              }
-            ]
-          },
-          {
-            "id": "99d7540ca0679e57",
-            "type": "tabs",
-            "dimension": 72.18100890207715,
-            "children": [
-              {
-                "id": "826b15398d46802e",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
+            "id": "8ab163a8f34539f8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tegan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.86868286132812
+    "width": 269.26788330078125
   },
   "right": {
     "id": "3558e22f65bf0dba",
@@ -208,34 +179,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "826b15398d46802e",
+  "active": "8ab163a8f34539f8",
   "lastOpenFiles": [
     "Alias Report.md",
-    "People + Labs/Center for Digital Narrative at UIB.md",
-    "Jill Walker Rettberg.md",
-    "Organizations/Electronic Book Review Staff.md",
-    "ELit Conferences/DLC+ Keywords in Digital Literary Culture.md",
-    "Bonnie \"Bo\" Ruberg.md",
-    "André Brock.md",
-    "Bernard Miége.md",
-    "Michael A. Xenos.md",
-    "Tommaso Trilló.md",
-    "Francis L. F. Lee.md",
-    "Ariadna Matamoros-Fernández.md",
-    "Aaron K. Martin.md",
-    "A. Miriam B. Lips.md",
-    "Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed Newspaper.md",
-    "Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md",
-    "Publications - Academic/Blogs/Blog - I <3 E-Poetry.md",
-    "People + Labs/Ada X (née StudioXX).md",
-    "Archives/Collected Writings of William K Gillespie and friends.md",
-    "Anthologies/Lit E Lat 2.md",
-    "Anthologies/Lit E Lat 1.md",
-    "People + Labs/Ada X. (née StudioXX).md",
-    "Archives/Collected Writings of William K. Gillespie and friends.md",
-    "Publications - Academic/Solo Journals/Journ. - A. Peer-Reviewed J'About.md",
-    "Publications - Academic/Solo Journals/Journ. - A. Peer-Reviewed Newspaper.md",
-    "Publications - Academic/Blogs/Blog - I. <3 E-Poetry.md",
+    "Lucia Grossberger Morales.md",
+    "Jan OndŘej.md",
+    "Guillermina Joël.md",
+    "Edson C. Tandoc Jr..md",
+    "Boris Müller.md",
+    "Balázs Hargittai.md",
+    "André Rabello Mestre.md",
+    "A. L. copley.md",
+    "Óscar Coromina.md",
+    "René van Peer.md",
+    "Péter Érdi.md",
+    "Özge Samanci.md",
+    "Miroslav Kouřil.md",
+    "KwangYun Wohn.md",
+    "Gebhard Sengmüller.md",
+    "Fábio Oliveira Nunes.md",
+    "Enrique García Alcalá.md",
+    "Cécile Chevalier.md",
+    "J. B. Deręgowski.md",
+    "Jayne Fenton Keane.md",
+    "Jonas Löwgren.md",
+    "Marc Böhlen.md",
+    "Nicolas Schöffer.md",
+    "René Beekman.md",
+    "Xárene Eskandar.md",
     "__pycache__/normalize_chars.cpython-310.pyc",
     "__pycache__",
     "Publications - Academic/Presses 2",

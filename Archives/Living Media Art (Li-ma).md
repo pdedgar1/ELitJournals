@@ -1150,7 +1150,7 @@
     
 - [[Stephen Littman]]
     
-- [[Stephen s' Soreff]]
+- [[Stephen s'Soreff]]
     
 - [[Steve Hawley]]
     

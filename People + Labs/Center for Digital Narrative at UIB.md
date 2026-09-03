@@ -35,7 +35,7 @@ LEAD |[[Jason Nelson]]|
 |[[Joseph Paul Tabbi]]|
 |[[Haoyuan Tang]]|
 |[[Yağmur Çisem Vik]]|
-|[[Rafael Perez Y Perez]]|
+|[[Rafael Pérez y Pérez]]|
 |[[Zahra Rizvi]]|
 |[[Dom Ford]]|
 |[[Jakob Kusnick]]|

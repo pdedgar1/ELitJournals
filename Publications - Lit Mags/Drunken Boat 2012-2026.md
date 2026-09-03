@@ -15,7 +15,7 @@
 #### Sound Art/Dissonance
 [[Big Daddy Mugglestone]], [[Carlo Simoni]], [[Christopher Burns]], [[Elio Martusciello]], [[Gregory Moore]], [[James Fei]], [[Ma++ Ingalls]], [[Micah Silver]], [[Nathan Davis]], [[Ramón Sender Barayón]], [[Theresa Wong]]
 #### Speculative
-[[Casey Alt]], [[Christopher O'Leary]], [[Claudia Salamanca]], [[Jeff Cain]], [[Micha Cárdenas]] & [[Elle Mehrmand]], [[Michael Kontopoulos]], [[Pinar Yoldas]], [[Xarene Eskandar]], [[Zach Blas]]
+[[Casey Alt]], [[Christopher O'Leary]], [[Claudia Salamanca]], [[Jeff Cain]], [[Micha Cárdenas]] & [[Elle Mehrmand]], [[Michael Kontopoulos]], [[Pinar Yoldas]], [[Xárene Eskandar]], [[Zach Blas]]
 #### Trance Poetics
 [[Sarah Boothroyd]], [[Ambrose Bye]], [[Brian Lucas]], [[Edwin Torres]], [[Jared Schickling]], [[j/j hastain]], [[Felicia Shenker]] & [[Marie Béland]], [[Marjorie Tesser]], [[Zachary Wollard]], [[Abou Farman]], [[Adrienne Rosenberg]], [[Geoffrey Olsen]], [[Holly Melgard]], [[Jesse Patrick Ferguson]], [[John Sims]], [[Laynie Browne]], [[Michael Bradburn-Ruster]], [[Michael Peters]], [[Brenda Hillman]], [[Emil DeAndreis]], [[Faizal Deen]], [[Megan Burns]], [[Tyrone Williams]], [[Carlos Hernández Peña]], [[Chelsea R. G. Kachman]], [[Christopher Warner]], [[Jamie Townsend]], [[Marco Maisto]] & [[Caroline DeVane]], [[Susan Berger-Jones]], [[Eléna Rivera]], [[Jennifer Firestone]], [[Kyle Vaughn]], [[Seldon Yuan]], [[Shanita Bigelow]], [[Stacy Szymaszek]], [[Alexis Myre]], [[Esfand Pourmand]] & [[Kristin Prevallet]], [[Hannah Fries]], [[Leah Givens]], [[Tony Trigilio]], [[Candy Shue]], [[Eric McKinley]], [[Hugh Behm-Steinberg]], [[John Overdurf]], [[Michael Ruby]], [[Shelley Marlow]], [[Toni Simon]]
 

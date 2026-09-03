@@ -253,7 +253,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - Volume/Issue: 4.3
     
-- [[Ej Nielsen]]
+- [[E. j. Nielsen]]
     
 - [[Katherine Larsen]]
     
@@ -323,7 +323,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Kavita Mudan Finn]]
     
-- [[J. S. A. Lowe]]
+- [[JSA Lowe]]
     
 - [[Jennifer Otter Bickerdike]]
     

@@ -3987,7 +3987,7 @@
 - [[Rita Gsenger]]
 - [[Bernhard Rieder]]
 - [[Adrián Padilla]]
-- [[Òscar Coromina]]
+- [[Óscar Coromina]]
 - [[Hernan Galperin]]
 - [[François Bar]]
 - [[Angel Chavez Penate]]

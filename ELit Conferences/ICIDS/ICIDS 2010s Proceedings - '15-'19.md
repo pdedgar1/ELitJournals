@@ -574,7 +574,7 @@
 | [[Colm O. Fearghail]]               |
 | [[Cagri Ozcinar]]                   |
 | [[Sebastian Knorr]]                 |
-| [[Aljosa Smolic]]                   |
+| [[Aljoša Smolic]]                   |
 | [[Asim Hameed]]                     |
 | [[Andrew Perkis]]                   |
 | [[]]                                |
@@ -592,10 +592,10 @@
 | [[Jieun Kim]]                       |
 | [[Néill O'Dwyer]]                   |
 | [[]]                                |
-| [[Jan Ondrej]]                      |
+| [[Jan OndŘej]]                      |
 | [[Rafael Pagés]]                    |
 | [[Konstantinos Amplianitis]]        |
-| [[Aljosa Smolic]]                   |
+| [[Aljoša Smolic]]                   |
 | [[Torbjörn Svensson]]               |
 | [[Lissa Holloway-Attaway]]          |
 | [[Etienne Beroldy]]                 |
@@ -605,7 +605,7 @@
 | [[Alyea Sandovar]]                  |
 | [[Declan Dowling]]                  |
 | [[Colm O. Fearghail]]               |
-| [[Aljosa Smolic]]                   |
+| [[Aljoša Smolic]]                   |
 | [[Sebastian Knorr]]                 |
 | [[Sojung Bahng]]                    |
 | [[Rebecca Rouse]]                   |

@@ -817,7 +817,7 @@ Note: 2026 (Vol. 48) is a partial/in-progress year — only Issues 1–6 (throug
 - [[Xiaomei Sun]]
 - [[Errol Salamon]]
 - [[Seth Seet]]
-- [[Edson C. Tandoc Jr]]
+- [[Edson C. Tandoc Jr.]]
 - [[Kari Spjeldnæs]]
 - [[Faltin Karlsen]]
 - [[Rikke Frank Jørgensen]]

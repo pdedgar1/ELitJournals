@@ -374,7 +374,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Oliver Füg]]                  |
 | [[Olli Sotamaa]]                |
 | [[Ori Schwarz]]                 |
-| [[Ozge Samanci]]                |
+| [[Özge Samanci]]                |
 | [[P. David Marshall]]           |
 | [[Pat Brereton]]                |
 | [[Patricia Prieto Blanco]]      |

@@ -384,7 +384,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Kirsty Sedgman]]
     
-- [[Lauren Alex O’Hagan]]
+- [[Lauren Alex O'Hagan]]
     
 - [[Eric Vero]]
     

@@ -798,7 +798,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Olu Jenzen]]                       |
 | [[Onurcan Güden]]                    |
 | [[Orlando Woods]]                    |
-| [[Òscar Coromina]]                   |
+| [[Óscar Coromina]]                   |
 | [[Osnat Roth-Cohen]]                 |
 | [[Other]]                          |
 | [[Oxana Mikhaylova]]                 |

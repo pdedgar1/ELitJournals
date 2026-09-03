@@ -419,7 +419,7 @@
 | [[Andrée Korpys]]                            |
 | [[Andrée Korpys]]                           |
 | [[Joseph Kosuth]]                           |
-| [[Miroslav Kouril]]                         |
+| [[Miroslav Kouřil]]                         |
 | [[Ludwig KP John]]                          |
 | [[Rüdiger Kramm]]                           |
 | [[Rassim Krastev]]                          |
