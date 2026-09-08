@@ -1,4 +1,4 @@
-[[Computational Humanities Research]]
+[[Ed. Board - Computational Humanities Research]]
 ### 2025 -Vol1 
 |                                                                           |
 | ------------------------------------------------------------------------- |
