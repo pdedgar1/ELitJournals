@@ -438,7 +438,7 @@
 | [[Steven Maras]]                    |
 | [[Steven McCarthy]]                 |
 | [[Stuart L. Esrock]]                |
-| [[T. L. Taylor]]                     |
+| [[TL Taylor]]                     |
 | [[Terry Austrin]]                   |
 | [[Thomas E. Ruggiero]]              |
 | [[Urban Nuldén]]                    |

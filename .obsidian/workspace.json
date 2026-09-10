@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ab163a8f34539f8",
+            "id": "3e5d12371cbce969",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "e777ae60bb077ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthologies/Ctrl_Alt_Lit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ctrl_Alt_Lit"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.26788330078125
+    "width": 234.90255737304688,
+    "collapsed": true
   },
   "right": {
     "id": "3558e22f65bf0dba",
@@ -179,34 +195,35 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "8ab163a8f34539f8",
+  "active": "e777ae60bb077ccf",
   "lastOpenFiles": [
+    "README.md",
+    "Anthologies/Ctrl_Alt_Lit.md",
+    "Anthologies/Genealogía de la poesía electrónica peruana.md",
+    "People + Labs/Laboratoire 1P1.md",
+    "People + Labs/Masmédulab.md",
+    "Anthologies/Antologia de Poesia Electronica.md",
+    "Publications - Lit Mags/BrokenEnglish.lol.md",
+    "People + Labs/TROPOS - LEETHI.md",
+    "Anthologies/Cronologia de literatura electronica en Mexico.md",
+    "Conferences/New Media Conferences/Currents New Media Festival 2020s.md",
+    "Conferences/New Media Conferences/Currents New Media Festival 2010s.md",
+    "Archives/Rhizome Artbase.md",
+    "Conferences/New Media Conferences",
+    "Archives/Litnet - Netzliteratur.md",
+    "Publications - Lit Mags/LitNet - South Africa.md",
+    "Archives/MAELD & ADELD.md",
     "Alias Report.md",
-    "Lucia Grossberger Morales.md",
-    "Jan OndŘej.md",
-    "Guillermina Joël.md",
-    "Edson C. Tandoc Jr..md",
-    "Boris Müller.md",
-    "Balázs Hargittai.md",
-    "André Rabello Mestre.md",
-    "A. L. copley.md",
-    "Óscar Coromina.md",
-    "René van Peer.md",
-    "Péter Érdi.md",
-    "Özge Samanci.md",
-    "Miroslav Kouřil.md",
-    "KwangYun Wohn.md",
-    "Gebhard Sengmüller.md",
-    "Fábio Oliveira Nunes.md",
-    "Enrique García Alcalá.md",
-    "Cécile Chevalier.md",
-    "J. B. Deręgowski.md",
-    "Jayne Fenton Keane.md",
-    "Jonas Löwgren.md",
-    "Marc Böhlen.md",
-    "Nicolas Schöffer.md",
-    "René Beekman.md",
-    "Xárene Eskandar.md",
+    "Publications - Lit Mags/Dada Poetry (Catalá).md",
+    "Publications - Lit Mags/FENCE Digital.md",
+    "Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md",
+    "Awards/Lumen Prize.md",
+    "Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md",
+    "TL Taylor.md",
+    "Organizations/Ed. Board - Creator and Influencer Studies.md",
+    "Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md",
+    "People + Labs/Institute for Computational Vandalism.md",
+    "Publications - Lit Mags/Superficial Intelligence - Issue 1.md",
     "__pycache__/normalize_chars.cpython-310.pyc",
     "__pycache__",
     "Publications - Academic/Presses 2",
@@ -215,7 +232,6 @@
     "Publications - Academic/Podcasts 2",
     "Publications - Academic/Presses",
     "Publications - Academic/Podcasts",
-    "Publications - Academic/Solo Journals",
-    "Publications - Academic/Books"
+    "Publications - Academic/Solo Journals"
   ]
 }

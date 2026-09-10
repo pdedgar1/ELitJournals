@@ -17,7 +17,7 @@ http://www.tekka.net/index.html
 | [[Dylan Kinnett]]           |
 | [[Elin J. Sjursen]]            |
 | [[Jeffrey Radcliffe]]       |
-| [[Jill Walker]]             |
+| [[Jill Walker Rettberg]]             |
 | [[Jon Buscall]]             |
 | [[Kathryn Cramer]]          |
 | [[Liz Klastrup]]            |
@@ -57,7 +57,7 @@ http://www.tekka.net/index.html
 - [[Stuart Moulthrop]]
 - [[J. Nathan Matias]]
 - [[Francisco J. Ricardo]]
-- [[Jill Walker]]
+- [[Jill Walker Rettberg]]
 - [[Judy Malloy]]
 
 #### TEKKA 6 (Volume 2, Number 2)

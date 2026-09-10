@@ -17,10 +17,10 @@ Universidade Federal Fluminense, Brazil
 **[[Qian Huang]]**  
 University of Groningen, The Netherlands
 
-**[[Daniela Jaramillo-Dent]]**  
+[[Daniela Jaramillo-Dent]]**  
 Universität Zürich, Switzerland
 
-**[[Jess Rauchberg]]**  
+[[Jess Rauchberg]]**  
 Seton Hall University, United States
 
 **Editorial Board  
@@ -31,7 +31,7 @@ Curtin University, Australia
 **[[Carolina Are]]**  
 London School of Economics, United Kingdom
 
-[[**Arturo Arriagada**]]  
+[[Arturo Arriagada]]  
 Universidad Adolfo Ibáñez, Chile
 
 **[[Tuğçe Bidav]]**  
@@ -64,7 +64,7 @@ Loyola University Chicago, United States
 **[[Brooke Erin Duffy]]**  
 Cornell University, United States
 
-**[[Zoe Glatt]]**  
+**[[Zoë Glatt]]**  
 London School of Economics, United Kingdom
 
 **[[Catalina Goanta]]**  

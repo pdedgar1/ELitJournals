@@ -1,6 +1,6 @@
 ## 1990
 [[Gail E. Hawisher]], [[Cynthia L. "Cindy" Selfe]]
-[[Paul Le Blanc]]
+[[Paul LeBlanc]]
 [[Mark Mabrito]]
 [[Janis Forman]]
 [[Diane Thompson]]

@@ -430,7 +430,7 @@ Note: Leonardo launched in January 1968, so there is no standalone "1960s" file 
 - [[LeGrace Benson]]
 - [[Harold Cousins]]
 - [[László Németh]]
-- [[Lászlo Németh]]
+- 
 - [[FranGois Baschet]]
 - [[John Grayson]]
 - [[Donald L. Weismann]]

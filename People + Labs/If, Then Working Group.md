@@ -38,20 +38,20 @@
 | [[Danny Elfanbaum]]               |
 | [[Daria Koshkina]]                |
 | [[David Lo]]                      |
-| [[David M. Rieder]]                  |
+| [[David M. Rieder]]               |
 | [[Dorothy R. Santos]]             |
 | [[Doug Stark]]                    |
 | [[Dzidzor Azaglo]]                |
-| [[E. L. Guerrero]]                 |
+| [[E. L. Guerrero]]                |
 | [[Edward Wells]]                  |
 | [[emma k.shibley]]                |
 | [[Evan Tysinger]]                 |
-| [[Eyal Yehowa Gruss]]                    |
+| [[Eyal Yehowa Gruss]]             |
 | [[farrell]]                       |
 | [[Fereshteh Toosi]]               |
-| [[Fi]]                           |
+| [[Fi]]                            |
 | [[Francesca Tripodi]]             |
-| [[Fred L. Joiner]]                 |
+| [[Fred L. Joiner]]                |
 | [[Freia Lobo]]                    |
 | [[Grant Glass]]                   |
 | [[Gregory Schare]]                |
@@ -66,7 +66,7 @@
 | [[Jon Stapleton]]                 |
 | [[Jonathan W. Y. Gray]]           |
 | [[Josh Grams]]                    |
-| [[Kate Alexandrite (Guillen)]]   |
+| [[Kate Alexandrite (Guillen)]]    |
 | [[Katelin Ten/geya]]              |
 | [[Katherine Diemert]]             |
 | [[Katherine Yang]]                |
@@ -77,7 +77,7 @@
 | [[Kieran Patel]]                  |
 | [[kofi oduro]]                    |
 | [[Lauren Alcindor]]               |
-| [[Dana LeTriece Calhoun]]              |
+| [[Dana LeTriece Calhoun]]         |
 | [[Lillian-Yvonne Bertram]]        |
 | [[Liza Daly]]                     |
 | [[Logan K. Young]]                |
@@ -88,7 +88,7 @@
 | [[Manuel Schmalstieg]]            |
 | [[Marija Solarevic]]              |
 | [[Mark Olson]]                    |
-| [[Mark L. Sample]]                   |
+| [[Mark L. Sample]]                |
 | [[Megan McKissack]]               |
 | [[Mike Panciera]]                 |
 | [[monét cooper]]                  |
@@ -102,7 +102,7 @@
 | [[Omayeli Arenyeka]]              |
 | [[Priya Chandrasegaram]]          |
 | [[Randy Lubin]]                   |
-| [[Rebecca Uliasz]]               |
+| [[Rebecca Uliasz]]                |
 | [[Rebekkah Leigh LaBlue]]         |
 | [[remmah]]                        |
 | [[Roberta Iadevaia]]              |
@@ -116,3 +116,10 @@
 | [[Tina Huey]]                     |
 | [[Vailur Rahaman]]                |
 | [[Zach Whalen]]                   |
+[[Jess Skyleson]]
+[[Kathy Wu]]
+[[Mark L. Sample]]
+[[Nkosi Nkululeko]]
+[[Sacharja Cunningham]]
+[[Zach Whalen]]
+organized by [[Carly Schnitzler]], [[Lillian-Yvonne Bertram]]

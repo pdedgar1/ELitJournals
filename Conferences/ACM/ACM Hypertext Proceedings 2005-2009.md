@@ -16,7 +16,7 @@ Presiding, [[Siegfried Reich]], [[Manolis Tzagarakis]]
 |[[Athanasios Manitsaris]]|
 |[[Angelo Di Iorio]]|
 |[[Fabio Vitali]]|
-|[[Jill Walker]]|
+|[[Jill Walker Rettberg]]|
 |[[David E. Millard]]|
 |[[Nicholas M. Gibbins]]|
 |[[Danius T. Michaelides]]|

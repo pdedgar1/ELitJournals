@@ -1,5 +1,6 @@
 African Electronic Literature Alliance & African Diaspora Electronic Literature (AELA & ADELI)
 Multilingual African Electronic Literature Database & African Diasporic Electronic Literature Database (MAELD & ADELD)
+https://african-elit.org/index.php
 
 Founded by [[Yohanna Joseph Waliya]] and designed by [[Alex Boyd]]; another admin [[Elijah William]]
 at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Ajah]]
@@ -19,15 +20,15 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Joel 'Kachi Benson]]                                              |
 | [[Lauren Beukes]]                                                   |
 | [[Zandra Bezuidenhout]]                                             |
-| Black Division games]]                                              |
+| [[Black Division games]]                                            |
 | Black Fantasia]]                                                    |
 | Black Ring-[[Akdogan Ali]] & [[Umusu Samson Iruo]]                  |
 | [[Stef Bos]]                                                        |
 | [[Johann P. Boshoff]]                                               |
-| [[Herman L. Bosman]]                                                 |
+| [[Herman L. Bosman]]                                                |
 | [[Helen Brain]]                                                     |
 | [[A Floris Brown]]                                                  |
-| Celestial games]]                                                   |
+| [[Celestial games]]                                                 |
 | [[Christopher]]                                                     |
 | ChopUp ([[Zubair Abubakar]], [[Bayo Puddicombe]], [[Daniel Micah)]] |
 | [[Mohammed Ashwikeh Chouika]]                                       |
@@ -37,10 +38,10 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Nana Awere Damoah]]                                               |
 | Deluxe Creative Studios-[[Edu Shola]]                               |
 | DigitalMania]]                                                      |
-| DivisiOn games]]                                                    |
+| [[DivisiOn games]]                                                  |
 | [[Dope Apps]]                                                       |
 | [[Douwlina du Plessis]]                                             |
-| [[Smail El Bouyahyaoui]]                                           |
+| [[Smail El Bouyahyaoui]]                                            |
 | [[Abdelouahid Stitou]]                                              |
 | [[Sue Franco]]                                                      |
 | Funsoft Team Rangi]]                                                |
@@ -59,29 +60,29 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Reham Hosny]]                                                     |
 | Internet of Elephants]]                                             |
 | Instead]]                                                           |
-| Irooko games]]                                                      |
-| Jana games Studios]]                                                |
-| Janub Games]]                                                       |
+| [[Irooko games]]                                                    |
+| [[Jana games Studios]]                                              |
+| [[Janub Games]]                                                     |
 | [[Jesse Jojo Johnson]]                                              |
 | [[Aryan Kaganof]]                                                   |
 | [[Andrew Kaggia]]                                                   |
 | [[Martin Kalimukwa]]                                                |
-| Kente games]]                                                       |
+| [[Kente games]]                                                     |
 | [[Wesley Kirinya]]                                                  |
-| Kiro'o games]]                                                      |
+| [[Kiro'o games]]                                                    |
 | [[Antjie Krog]]                                                     |
-| Kuluya games]]                                                      |
+| [[Kuluya games]]                                                    |
 | [[Jennifer Kyler]] & [[Sekuru Tute Chimanga]]                       |
 | [[Lucas Ledwaba]]                                                   |
-| Leso Immersive Stories]]                                            |
+| [[Leso Immersive Stories]]                                          |
 | Leti Arts-[[Eyram Tawia]]                                           |
-| Limpio Studio]]                                                     |
+| [[Limpio Studio]]                                                   |
 | [[Byron Loker]]                                                     |
-| Lomay games]]                                                       |
+| [[Lomay games]]                                                     |
 | [[Derek Lubangakene]]                                               |
 | [[Mahaman Sani Housseyn Issa]]                                      |
 | [[Ayo Makinde]]                                                     |
-| Maliyo games]]                                                      |
+| [[Maliyo games]]                                                    |
 | [[Foday Mannah]]                                                    |
 | Masseka game]]                                                      |
 | [[Nathan Masyuko]]                                                  |
@@ -96,7 +97,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Sylvester Ngqongqwana]]                                           |
 | Nigerian Nostalgia Project (NNP)]]                                  |
 | [[Simion Simo Nkanunu]]                                             |
-| Noohkema Interactive]]                                              |
+| [[Noohkema Interactive]]                                            |
 | [[Isaac Ntabankulu]]                                                |
 | [[Basil Jr Okpara]]                                                 |
 | [[Ayodele Olofintuade]]                                             |
@@ -110,18 +111,18 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Ben Ray]]                                                         |
 | [[Nissmah Roshdy]]                                                  |
 | [[Sanlam]]                                                          |
-| SDK games Africa]]                                                  |
+| [[SDK games Africa]]                                                |
 | [[Ribka Sibhatu]]                                                   |
 | [[Trevor Sinkala]]                                                  |
 | [[Kaya Somgqeza]]                                                   |
-| Studio Starburst]]                                                  |
+| [[Studio Starburst]]                                                |
 | [[Joseph Nelly Sugu Sugira]]                                        |
 | [[Kiru Taye]]                                                       |
 | [[Serge Abraham Thaddée]]                                           |
 | [[Njenji Pierre-Valéry Tchetgen]]                                   |
 | TheWallgames]]                                                      |
 | The Nrb Bus]]                                                       |
-| Usiku Games]]                                                       |
+| [[Usiku Games]]                                                     |
 | [[Madeleine Volschenk]]                                             |
 | [[Yohanna Joseph Waliya]]                                           |
 | Weza Interactive Entertainment]]                                    |
@@ -129,7 +130,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Johannes de Witt]]                                                |
 | Work-D]]                                                            |
 | [[Yinola-Yinka Iyinolakan]]                                         |
-| Ghirmai Yohannes]]                                                  |
+| [[Ghirmai Yohannes]]                                                |
 | 100 Story Africa]]                                                  |
 | 360 Ghana-Dobiison]]                                                |
 | @africantalespoem]]                                                 |
@@ -143,17 +144,17 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Nolan Oswald Dennis]]                                             |
 | @KorzakD]]                                                          |
 | [[Mariusz Pisarski]]                                                |
-| Joe Technologies]]                                                  |
-| NetTenk Technology]]                                                |
+| [[Joe Technologies]]                                                |
+| [[NetTenk Technology]]                                              |
 | MPLGMG]]                                                            |
-| Merizek Works]]                                                     |
+| [[Merizek Works]]                                                   |
 | [[Tech Ani Ibrahim]]                                                |
 | [[Ousseni Nikiéma]]                                                 |
 | [[Issa Diallo]]                                                     |
 | [[Sanou Aïssata Dakuyo]]                                            |
 | [[Tigré, Larlé Naaba & Patrice Kouraogo]]                           |
 | Comité de Traduction de la Bible en Kusaal]]                        |
-| Bantu Games]]                                                       |
+| [[Bantu Games]]                                                     |
 | [[Zuinder Manico]]                                                  |
 | [[Raafat Mohamed Mohamed ELsenousi]]                                |
 | [[JUMOKE VERISSIMO AND JAMES YEKU]]                                 |

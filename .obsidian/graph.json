@@ -11,83 +11,76 @@
       "query": "path:\"Publications - Lit Mags\"  ",
       "color": {
         "a": 1,
-        "rgb": 16724787
+        "rgb": 15872305
       }
     },
     {
-      "query": "path:\"ELit Conferences/ELO Conferences\"  ",
+      "query": "path:\"Conferences\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"ELit Conferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
+        "rgb": 15262543
       }
     },
     {
       "query": "path:Organizations  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"Publications - Academic\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6087935
-      }
-    },
-    {
-      "query": "path:Anthologies  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 60230
       }
     },
     {
       "query": "path:\"People + Labs\"  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 6054102
+      }
+    },
+    {
+      "query": "path:\"Publications - Academic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:Anthologies  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     },
     {
       "query": "path:Archives  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 10837206
       }
     },
     {
       "query": "path:\"Publications - Art Mags\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 16349166
       }
     },
     {
       "query": "path:Awards  ",
       "color": {
         "a": 1,
-        "rgb": 13404928
+        "rgb": 16753152
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 2.89278216843665,
+  "nodeSizeMultiplier": 1.03942282044949,
   "lineSizeMultiplier": 0.1,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 20,
+  "repelStrength": 18.709167544784,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.019708859894182303,
-  "close": false
+  "scale": 0.02972298591718728,
+  "close": true
 }

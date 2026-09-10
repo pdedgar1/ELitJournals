@@ -495,7 +495,7 @@ CELL Member : French-language E-lit
 | [[Steven Read]]                       |
 | [[David Rees]]                        |
 | [[Scott Rettberg]]                    |
-| [[Rhizome]]                           |
+| [[Rhizome Artbase]]                           |
 | [[Phil "Overman" Rice]]               |
 | [[Matt Richardson]]                   |
 | [[David M. Rieder]]                   |

@@ -281,7 +281,7 @@ Presiding, [[Jörg Westbomke]], [[Uffe Kock Wiil]], [[John J. Leggett]], [[Klaus
 |[[Helen L. Ashman]]|
 |[[Niels Olof Bouvin]]|
 |[[Licia Calvi]]|
-|[[Jill Walker]]|
+|[[Jill Walker Rettberg]]|
 |[[Anja Rau]]|
 |[[Frank Major Shipman]]|
 |[[Catherine C. Marshall]]|

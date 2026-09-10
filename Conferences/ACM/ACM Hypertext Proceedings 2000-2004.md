@@ -214,7 +214,7 @@ Presiding, [[James Blustein]], [[Robert B. Allen]], [[Ken Anderson]], [[Stuart M
 |[[Deena Larsen]]|
 |[[David C. De Roure]]|
 |[[Mark K. Thompson]]|
-|[[Jill Walker]]|
+|[[Jill Walker Rettberg]]|
 |[[Tim Brody]]|
 |[[Leslie A. Carr]]|
 |[[Stevan Harnad]]|

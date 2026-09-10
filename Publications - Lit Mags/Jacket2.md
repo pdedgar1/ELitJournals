@@ -194,7 +194,7 @@ Founder [[John Tranter]]
 | [[Ira Livingston]]              |
 | [[Ivan Emil Labayne]]           |
 | [[J. Gordon Faylor]]            |
-| [[J. Peter Moore]]              |
+| [[Jonathan Peter Moore]]              |
 | [[J. R. Carpenter]]             |
 | [[Jacek Gutorow]]               |
 | [[Jacob Edmond]]                |

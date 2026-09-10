@@ -108,7 +108,7 @@
 
 - Gold Award: [[Thijs Biersteker]]
 - Founder's Award: [[Nicole Ruggiero]], [[Molly Soda]] & [[Refrakt]]
-- 3D/Sculpture Award: [[Lien-cheng, Wang]]
+- 3D/Sculpture Award: [[Lien-cheng Wang]]
 - Moving Image Award: [[Isabelle Arvers]]
 - VR/AR Award: [[Michelle Kranot]] & [[Uri Kranot]]
 - Web-Based Award: [[Fabio Dartizio]]

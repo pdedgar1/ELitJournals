@@ -378,7 +378,7 @@
 #### Volume 6 / Issue 4
 
 - [[Bob Rehak]]
-- [[T. L. Taylor]]
+- [[TL Taylor]]
 - [[Beth Kolko]]
 - [[Dmitri Williams]]
 - [[Bernadette Flynn]]

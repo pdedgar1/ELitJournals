@@ -503,7 +503,7 @@
 
 #### Vol. 3 No. 3 (2003) — Hypertext Criticism: Writing about Hypertext
 - [[Susana Pajares Tosca]]
-- [[Jill Walker]]
+- [[Jill Walker Rettberg]]
 - [[Various Authors]]
 
 #### Vol. 3 No. 2 (2002) — Chinese Collections in the Digital Library
@@ -632,7 +632,7 @@
 #### Vol. 1 No. 7 (2001) — Hypertext Criticism
 - [[Susana Pajares Tosca]]
 - [[Adrian Miles]]
-- [[Jill Walker]]
+- [[Jill Walker Rettberg]]
 - [[Anja Rau]]
 - [[Martin Engebretsen]]
 
