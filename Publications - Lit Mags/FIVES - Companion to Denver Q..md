@@ -52,7 +52,7 @@
 | [[Oak Morse]]                                            |
 | [[Olivia Muenz]]                                         |
 | [[Petra Kupper]]                                         |
-| [[Raina K Puels]]                                        |
+| [[Raina K. Puels]]                                        |
 | [[Sarah Bitter]]                                         |
 | [[Sarah Minor]]                                          |
 | [[Sharony Green]]                                        |

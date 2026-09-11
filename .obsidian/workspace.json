@@ -1,34 +1,34 @@
 {
   "main": {
-    "id": "543276aecd24422d",
+    "id": "fbed125583bbb211",
     "type": "split",
     "children": [
       {
-        "id": "9540d3eb89bf16e2",
+        "id": "5074306314cb771a",
         "type": "tabs",
         "children": [
           {
-            "id": "3e5d12371cbce969",
+            "id": "c3577ed46b4c40ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alias Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alias Report"
+            }
+          },
+          {
+            "id": "c836eda35dee5608",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "e777ae60bb077ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthologies/Ctrl_Alt_Lit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ctrl_Alt_Lit"
             }
           }
         ],
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "985c459bc733490a",
+    "id": "2948b84e0a8a6b13",
     "type": "split",
     "children": [
       {
-        "id": "d372bdcb9a3e4770",
+        "id": "35bdc0e8962b93ab",
         "type": "tabs",
         "children": [
           {
-            "id": "3b6ed8b0ea2831a4",
+            "id": "ecb6fae674628991",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "d17f467eb3a797d1",
+            "id": "59d97a7559e39c70",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,11 +78,14 @@
             }
           },
           {
-            "id": "573d1de6ea765a94",
+            "id": "4053b907c0256763",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -91,19 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.90255737304688,
+    "width": 301.5920715332031,
     "collapsed": true
   },
   "right": {
-    "id": "3558e22f65bf0dba",
+    "id": "5749d4d94d08711c",
     "type": "split",
     "children": [
       {
-        "id": "7cf9798bb9843818",
+        "id": "b5c50e13b07db98a",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e05ab5a5a47327",
+            "id": "6bd160d82ae207ee",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -121,7 +124,7 @@
             }
           },
           {
-            "id": "7ee78e72c297e99c",
+            "id": "fbf07afe7a4d29e1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -134,7 +137,7 @@
             }
           },
           {
-            "id": "3408ec9e05b746dd",
+            "id": "f4f1fc1e6113c5ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +152,7 @@
             }
           },
           {
-            "id": "1550677df151fc73",
+            "id": "4f45340772b2e3db",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,7 +166,7 @@
             }
           },
           {
-            "id": "b00bd4b155443f95",
+            "id": "c58d1527957cb2b2",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -195,43 +198,33 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e777ae60bb077ccf",
+  "active": "c836eda35dee5608",
   "lastOpenFiles": [
-    "README.md",
-    "Anthologies/Ctrl_Alt_Lit.md",
-    "Anthologies/Genealogía de la poesía electrónica peruana.md",
-    "People + Labs/Laboratoire 1P1.md",
-    "People + Labs/Masmédulab.md",
-    "Anthologies/Antologia de Poesia Electronica.md",
-    "Publications - Lit Mags/BrokenEnglish.lol.md",
-    "People + Labs/TROPOS - LEETHI.md",
-    "Anthologies/Cronologia de literatura electronica en Mexico.md",
-    "Conferences/New Media Conferences/Currents New Media Festival 2020s.md",
-    "Conferences/New Media Conferences/Currents New Media Festival 2010s.md",
-    "Archives/Rhizome Artbase.md",
-    "Conferences/New Media Conferences",
-    "Archives/Litnet - Netzliteratur.md",
-    "Publications - Lit Mags/LitNet - South Africa.md",
-    "Archives/MAELD & ADELD.md",
+    "Júlio Mendonça.md",
     "Alias Report.md",
-    "Publications - Lit Mags/Dada Poetry (Catalá).md",
-    "Publications - Lit Mags/FENCE Digital.md",
-    "Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md",
-    "Awards/Lumen Prize.md",
-    "Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md",
-    "TL Taylor.md",
-    "Organizations/Ed. Board - Creator and Influencer Studies.md",
-    "Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md",
-    "People + Labs/Institute for Computational Vandalism.md",
-    "Publications - Lit Mags/Superficial Intelligence - Issue 1.md",
-    "__pycache__/normalize_chars.cpython-310.pyc",
-    "__pycache__",
-    "Publications - Academic/Presses 2",
-    "Publications - Academic/Books 2",
-    "Publications - Academic/Solo Journals 2",
-    "Publications - Academic/Podcasts 2",
-    "Publications - Academic/Presses",
-    "Publications - Academic/Podcasts",
-    "Publications - Academic/Solo Journals"
+    "critical artware.md",
+    "TS Eliot.md",
+    "SungJae Lee.md",
+    "Luz María Bedoya.md",
+    "Karl heinz Jeron.md",
+    "Juan García Hernández.md",
+    "joesér alvarez.md",
+    "Émilie Pitoiset.md",
+    "Diana Sánchez.md",
+    "Andreja Kulunčić.md",
+    "Patrícia Lino.md",
+    "John F. Simon Jr..md",
+    "Elizabeth Jane Burnett.md",
+    "Anna-Marié Radloff.md",
+    "Esteban García.md",
+    "fernando sánchez.md",
+    "Sebastián Martínez Sánchez.md",
+    "a. bill miller.md",
+    "Christian Oyarzún.md",
+    "Felipe Páros.md",
+    "Eugéne M. Ashton.md",
+    "François Bloemhof.md",
+    "JimPunk.md",
+    "Kuan-Ju Wu.md"
   ]
 }

@@ -2,7 +2,7 @@
 
 #### masthead
 [[Stefanie Syman]]
-[[Steven Johnson]]
+[[Steven L. Johnson]]
 [[Sam Lipsyte]]
 
 #### beats

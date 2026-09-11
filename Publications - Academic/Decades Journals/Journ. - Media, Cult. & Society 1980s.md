@@ -310,7 +310,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Janet Wasko]]
 - [[Dallas W. Smythe]]
 - [[Fred Fejes]]
-- [[Sarah Douglas]]
+- [[Sarah A. Douglas]]
 - [[Thomas Guback]]
 - [[Jennifer Daryl Slack]]
 - [[Eileen R. Meehan]]

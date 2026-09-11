@@ -46,7 +46,7 @@
 | [[Robby Nadler]]                                                       |
 | [[Ryan M. Omizo]]                                                      |
 | [[Ryan P. Shepherd]]                                                   |
-| [[Sarah Young]]                                                        |
+| [[Sarah Jackson Young]]                                                        |
 | [[Scott Sundvall]]                                                     |
 | [[Stuart A. Selber]]                                                   |
 | [[Xiao Tan]], [[Paul Kei Matsuda]]                                     |

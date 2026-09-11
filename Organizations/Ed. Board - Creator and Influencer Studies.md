@@ -124,7 +124,7 @@ University of Alaska Southeast, United States
 **[[Krysten Stein]]**  
 University of Cincinnati Blue Ash, United States
 
-**[[Zari Taylor]]**  
+**[[Zari A. Taylor]]**  
 New York University, United States
 
 **[[TL Taylor]]**  

@@ -372,7 +372,7 @@
 | [[Christian Jankowski]]                     |
 | [[Adriene Jenik]]                           |
 | [[Natalie Jeremijenko]]                     |
-| [[Karlheinz Jeron]]                         |
+| [[Karl heinz Jeron]]                         |
 | [[Lisa Jevbratt]]                           |
 | [[Norman Jewison]]                          |
 | [[Jodi]]                                    |
@@ -431,7 +431,7 @@
 | [[Mischa Kuball]]                           |
 | [[Christina Kubisch]]                       |
 | [[Shigeko Kubota]]                          |
-| [[Andreja Kuluncic]]                        |
+| [[Andreja Kulunčić]]                        |
 | [[Kunst-Raum-Schiff MS Stubnitz]]           |
 | [[KUNSTKANAL]]                              |
 | [[Edmund Kuppel]]                           |

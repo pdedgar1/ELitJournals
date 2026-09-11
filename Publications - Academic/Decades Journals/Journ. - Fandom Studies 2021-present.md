@@ -16,7 +16,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Renee Ann Drouin]]
     
-- [[Sarah Ford]]
+- [[Sarah Michele Ford]]
     
 - [[Ann McClellan]]
     
@@ -120,7 +120,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - Volume/Issue: 10.2-3
     
-- [[Victoria Godwin]]
+- [[Victoria L. Godwin]]
     
 - [[Courtney Bliss]]
     

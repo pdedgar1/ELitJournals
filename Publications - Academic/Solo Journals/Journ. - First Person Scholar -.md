@@ -22,7 +22,7 @@
 | [[Pierson Browne]]            |
 | [[Justin Carpenter]]          |
 | [[Rob Parker]]                |
-| [[Sarah Stang]]               |
+| [[Sarah Marie Stang]]               |
 | [[Alex Chalk]]                |
 | [[Andrew Bailey]]            |
 | [[Scott DeJong]]              |

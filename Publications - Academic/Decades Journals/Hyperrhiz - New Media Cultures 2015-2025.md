@@ -89,7 +89,7 @@ Advisory editors
 [[Markus Wust]]
 [[James J. Brown, Jr.]]
 [[Sarah Beth Evans]]
-[[Sarah Stang]]
+[[Sarah Marie Stang]]
 
 
 ### 19 - Winter 2019

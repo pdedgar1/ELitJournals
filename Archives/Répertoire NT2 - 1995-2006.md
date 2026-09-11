@@ -1072,7 +1072,7 @@ CELL Member : French-language E-lit
 | [[Cynthia Lawson]]                                       |
 | [[Kim Stringfellow]]                                     |
 | [[Eugene Stroble]]                                       |
-| [[Igor Stromajer]]                                       |
+| [[Igor Štromajer]]                                       |
 | [[Beth Stryker]]                                         |
 | [[Shao-lien Su]]                                         |
 | sumoto.iki]]                                             |

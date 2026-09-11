@@ -662,7 +662,7 @@ Source: [TWC Archives](https://journal.transformativeworks.org/index.php/twc/iss
 - [[April S. Callis]]
 - [[Samantha Anne Close]]
 - [[Jan Švelch]]
-- [[Tereza Krobová]]
+- [[Tereza Fousek Krobová]]
 - [[Amber Davisson]]
 - [[Jessica Leonora Whitehead]]
 - [[Jeremy Groskopf]]

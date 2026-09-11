@@ -4,7 +4,7 @@
 |                                                |
 | ---------------------------------------------- |
 | [[Janez Strehovec]]                            |
-| [[Jerome Fletcher]]                            |
+| [[Jérôme Fletcher]]                            |
 | [[Jill Walker Rettberg and Patricia Tomaszek]] |
 | [[Maria Engberg]]                              |
 | [[Maria Engberg and Talan Memmott]]            |

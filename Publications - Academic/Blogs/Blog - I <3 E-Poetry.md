@@ -159,7 +159,7 @@ Tags:
 - [[Jey Biddulph]]
 - [[Jim Andrews]]
 - [[Jim Andrews: The Cauldron]]
-- [[Jim Punk]]
+- [[JimPunk]]
 - [[Jim Rosenberg]]
 - [[Jody Zellen]]
 - [[Joe Keenan]]

@@ -79,7 +79,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Henry Jenkins]]
     
-- [[Victoria Godwin]]
+- [[Victoria L. Godwin]]
     
 - [[Maria Lindgren Leavenworth]]
     
@@ -131,7 +131,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Katherine Larsen]]
     
-- [[Victoria Godwin]]
+- [[Victoria L. Godwin]]
     
 - [[Michael Lachney]]
     
@@ -294,7 +294,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Stephen Reysen]]
     
-- [[Sharon Roberts]]
+- [[Sharon E. Roberts]]
     
 - [[Kathleen Gerbasi]]
     
@@ -523,7 +523,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Michael Hitchens]]
     
-- [[Stephanie Garrison]]
+- [[Stephanie T. Garrison]]
     
 
 ---

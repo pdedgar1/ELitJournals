@@ -22,7 +22,7 @@
 | [[Martin Allman]]                                   |
 | [[Udi Aloni]]                                       |
 | [[Kai Altmann]]                                     |
-| [[joeser alvarez]]                                  |
+| [[joesér alvarez]]                                  |
 | [[tete alvarez]]                                    |
 | [[Ulysses Alvarez]]                                 |
 | [[Francis Alÿs]]                                    |
@@ -33,7 +33,7 @@
 | [[Jason Van Anden]]                                 |
 | [[Laurie Anderson]]                                 |
 | [[Nadia Anderson]]                                  |
-| [[Steve Anderson]]                                  |
+| [[Steve F. Anderson]]                                  |
 | [[A. Andreas]]                                      |
 | [[Jim Andrews]]                                     |
 | [[Sukanya Aneja]]                                   |
@@ -126,7 +126,7 @@
 | [[manon de boer]]                                   |
 | [[Ian Bogost]]                                      |
 | [[Philippe Boisnard]]                               |
-| [[stephanie boisset]]                               |
+| [[stéphanie boisset]]                               |
 | [[Martin Bonadeo]]                                  |
 | [[Natalie Bookchin]]                                |
 | [[Boredomresearch]]                                 |
@@ -221,7 +221,7 @@
 | [[nicolas clauss]]                                  |
 | [[wayne clements]]                                  |
 | [[Karl Cleveland]]                                  |
-| [[Sebastien Cliche]]                                |
+| [[Sébastien Cliche]]                                |
 | [[Alison Clifford]]                                 |
 | [[curt cloninger]]                                  |
 | [[Claude Closky]]                                   |
@@ -242,7 +242,7 @@
 | [[Roderick Coover]]                                 |
 | [[Jason Corace]]                                    |
 | [[Tom Corby]]                                       |
-| [[Luis M Cordeiro]]                                 |
+| [[Luis M. Cordeiro]]                                 |
 | [[Petra Cortright]]                                 |
 | [[Vuk Ćosić]]                                       |
 | [[Bob Cotton]]                                      |
@@ -504,7 +504,7 @@
 | [[Jeremy Hight]]                                    |
 | [[Susan Hiller]]                                    |
 | [[David Hinojosa]]                                  |
-| [[P Hintsanen]]                                     |
+| [[P. Hintsanen]]                                     |
 | [[Ann Hirsch]]                                      |
 | [[max hofmann]]                                     |
 | [[Haik Hoisington]]                                 |
@@ -515,8 +515,8 @@
 | [[Beverley Hood]]                                   |
 | [[guillaume horen]]                                 |
 | [[Peter Horvath]]                                   |
-| [[G.H. Hovagimyan]]                                 |
-| [[Daniel C Howe]]                                   |
+| [[G. H. Hovagimyan]]                                 |
+| [[Daniel C. Howe]]                                   |
 | [[taras hrabowsky]]                                 |
 | [[Hsin-Chien Huang]]                                |
 | [[Kathy Rae Huffman]]                               |
@@ -639,7 +639,7 @@
 | [[Ryan Kuo]]                                        |
 | [[lucas kuzma]]                                     |
 | [[Joshua L. Davis]]                                 |
-| [[Tina La Porta]]                                   |
+| [[Tina LaPorta]]                                   |
 | [[Jean-Francois Lacombe]]                           |
 | [[Lewis LaCook]]                                    |
 | [[Alexandro Ladaga]]                                |
@@ -783,14 +783,14 @@
 | [[ali miharbi]]                                     |
 | [[Mike Mike]]                                       |
 | [[Adrian Miles]]                                    |
-| [[a bill miller]]                                   |
+| [[a. bill miller]]                                   |
 | [[Dave Miller]]                                     |
 | [[Ethan Miller]]                                    |
 | [[Paul D. Miller]]                                  |
 | [[Steve Miller]]                                    |
 | [[Simon Mills]]                                     |
 | [[Hidekazu Minami]]                                 |
-| [[ : O l g a : : M i n k :]]                        |
+| [[: O. l g a : : M. i n k :]]                        |
 | [[Sally Minker]]                                    |
 | [[maria miranda]]                                   |
 | [[Naeem Mohaiemen]]                                 |
@@ -843,7 +843,7 @@
 | [[Bret Nicely]]                                     |
 | [[peter nidzgorski]]                                |
 | [[Wyatt Niehaus]]                                   |
-| [[Ole B Nielsen]]                                   |
+| [[Ole B. Nielsen]]                                   |
 | [[sonya nielsen]]                                   |
 | [[Josh Nimoy]]                                      |
 | [[valentina nisi]]                                  |
@@ -879,9 +879,9 @@
 | [[Tony Oursler]]                                    |
 | [[Jimmy Owenns]]                                    |
 | [[Stephanie Owens]]                                 |
-| [[Christian Oyarzun]]                               |
+| [[Christian Oyarzún]]                               |
 | [[Arzu Ozkal Telhan]]                               |
-| [[Conor O’Boyle]]                                   |
+| [[Conor O'Boyle]]                                   |
 | [[maximiliano paccagnella]]                         |
 | [[Randall Packer]]                                  |
 | [[Laurent Padiou]]                                  |
@@ -904,7 +904,7 @@
 | [[Ian Alan Paul]]                                   |
 | [[Valerie Pawlowski]]                               |
 | [[Noah Pedrini]]                                    |
-| [[Per Pegelow \| Interactive Arts]]                 |
+| [[Per Pegelow \|Interactive Arts]]                 |
 | [[submeta pehuet xavier]]                           |
 | [[horit herman peled]]                              |
 | [[Ivan Peledov]]                                    |
@@ -921,7 +921,7 @@
 | [[Regina Pinto]]                                    |
 | [[joerg piringer]]                                  |
 | [[pirusanta]]                                       |
-| [[Emilie Pitoiset]]                                 |
+| [[Émilie Pitoiset]]                                 |
 | [[Frank Plant]]                                     |
 | [[Alexandre Plennevaux]]                            |
 | [[Angelo Plessas]]                                  |
@@ -1009,7 +1009,7 @@
 | [[Adam Sammons]]                                    |
 | [[Sarah Samy]]                                      |
 | [[Gemma San Cornelio]]                              |
-| [[fernando sanchez]]                                |
+| [[fernando sánchez]]                                |
 | [[Sam Sanford]]                                     |
 | [[david sansone]]                                   |
 | [[Mario Santamaría]]                                |
@@ -1059,14 +1059,14 @@
 | [[Timur Si-Qin]]                                    |
 | [[Greg Sidal]]                                      |
 | [[Aaron Siegel]]                                    |
-| [[andre sier]]                                      |
+| [[andré sier]]                                      |
 | [[Rick Silva]]                                      |
 | [[Nate Silver]]                                     |
 | [[Andy Simionato]]                                  |
 | [[Maxwell Simmer]]                                  |
 | [[Gary Simmons]]                                    |
 | [[Joao Simoes]]                                     |
-| [[John F. Simon, Jr.]]                              |
+| [[John F. Simon Jr.]]                              |
 | [[Justin Simoni]]                                   |
 | [[Kimberly Simpson]]                                |
 | [[Dejan Sinadinovic]]                               |

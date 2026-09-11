@@ -10,7 +10,7 @@
 
 Articles on /by
 [[Sofia Garcia]] on [[Dave Whyte]]
-[[Sebastian Sanchez]] on [[Sofia Crespo]]
+[[Sebastián Martínez Sánchez]] on [[Sofia Crespo]]
 [[Aaron Penne]]
 [[Helena Sarin]]
 [[Marcel Schwittlick]]

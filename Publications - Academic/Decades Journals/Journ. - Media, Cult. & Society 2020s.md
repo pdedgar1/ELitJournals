@@ -188,7 +188,7 @@ Note: 2026 (Vol. 48) is a partial/in-progress year — only Issues 1–6 (throug
 - [[Jack Andersen]]
 - [[Baptiste Kotras]]
 - [[Alexia Smit]]
-- [[Tanja Bosch]]
+- [[Tanja Estella Bosch]]
 - [[Miha Šepec]]
 - [[Jan Stajnko]]
 - [[Klara Avsec]]
@@ -509,7 +509,7 @@ Note: 2026 (Vol. 48) is a partial/in-progress year — only Issues 1–6 (throug
 - [[Liron Simatzkin-Ohana]]
 - [[Paul Frosh]]
 - [[Natalie Ingraham]]
-- [[Timothy Neff]]
+- [[Timothy James Neff]]
 - [[Agana-Nsiire Agana]]
 - [[Charles Prempeh]]
 - [[Juan Manuel González-Aguilar]]
@@ -634,7 +634,7 @@ Note: 2026 (Vol. 48) is a partial/in-progress year — only Issues 1–6 (throug
 - [[Teairah Taylor]]
 - [[Daniel Meyerend]]
 - [[Christian Schulz]]
-- [[Tanja Bosch]]
+- [[Tanja Estella Bosch]]
 - [[Herman Wasserman]]
 - [[Chafic Tony Najem]]
 
@@ -1147,7 +1147,7 @@ Note: 2026 (Vol. 48) is a partial/in-progress year — only Issues 1–6 (throug
 - [[Barbara Prainsack]]
 - [[Christiane Wendehorst]]
 - [[Payal Arora]]
-- [[Vincent Obia]]
+- [[Vincent Adakole Obia]]
 - [[Simone Natale]]
 - [[Federico Biggio]]
 - [[Andrea L. Guzman]]
@@ -1230,7 +1230,7 @@ Note: 2026 (Vol. 48) is a partial/in-progress year — only Issues 1–6 (throug
 - [[Chi-Kit Chan]]
 - [[Stephanie ZQ Yang]]
 - [[Hans Tse]]
-- [[Tanja Bosch]]
+- [[Tanja Estella Bosch]]
 
 ### Vol. 48, Issue 1 (January 2026)
 

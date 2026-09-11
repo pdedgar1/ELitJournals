@@ -8,7 +8,7 @@ https://michaelhurtado.github.io/mapa_poesia_peruana/
 [[Juan Ramirez Ruiz]]
 [[Teresa Burga]]
 [[Jorge Diaz Untiveros]]
-[[Jose Aburto]]
+[[José Aburto]]
 [[Jose Ignacio Lopez]]
 [[Oswaldo Chanove]]
 [[Enrique Beo]]
@@ -21,6 +21,6 @@ https://michaelhurtado.github.io/mapa_poesia_peruana/
 [[Vera Jimenez]]
 [[Miluska Falero]]
 [[Paola Torres]]
-[[Luz Maria Bedoya]]
+[[Luz María Bedoya]]
 
 by [[Michael Hurtado]]

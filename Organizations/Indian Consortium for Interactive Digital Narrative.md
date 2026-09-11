@@ -28,7 +28,7 @@ partner [[Deena Larsen]]
 | [[Michael Joyce]]             |
 | [[Monica Storss]]             |
 | [[Nick Montfort]]             |
-| [[Noah-Wardrip Fruin]]        |
+| [[Noah Wardrip-Fruin]]        |
 | [[Oliver Ruf]]                |
 | [[Pamella Lach]]              |
 | [[Richard Carter]]            |

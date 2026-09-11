@@ -66,7 +66,7 @@ Authors: [[Bernard Stiegler]], [[Tiziana Terranova]], [[Jonathan Beller]], [[Sy 
 # Vol. 14 (2013): Platform Politics
 Date: 2013
 Editors: [[Joss Hands]], [[Greg Elmer]], [[Ganaele Langlois]]
-Authors: [[Neal Thomas]], [[Paul Caplan]], [[Harry Halpin]], [[Eugenia Siapera]], [[Nick Dyer-Witheford]], [[Tim Jordan]], [[Tero Karppi]], [[Jussi Parikka]], [[Cornelia Sollfrank]]
+Authors: [[Neal Thomas]], [[Paul Caplan]], [[Harry Halpin]], [[Eugenia Siapera]], [[Nick Dyer-Witheford]], [[Tim Jordan]], [[Tero Jukka Karppi]], [[Jussi Parikka]], [[Cornelia Sollfrank]]
 
 # Vol. 15 (2014): Latin American Mediations
 Date: 2014

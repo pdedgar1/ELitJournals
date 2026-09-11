@@ -108,7 +108,7 @@
 | [[Jawid Faizi]]                     |
 | [[Pedro R. Ribeiro]]                |
 | [[]]                                |
-| [[Tiago Silva]]                     |
+| [[Tiago Lapa da Silva]]                     |
 | [[Rui José]]                        |
 | [[Ido Aharon Iurgel]]                      |
 | [[Stuart Jones]]                    |

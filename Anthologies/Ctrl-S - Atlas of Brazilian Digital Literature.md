@@ -45,7 +45,7 @@
 |[[Priscilla Davanzo]]|
 |[[Peter de Brito]]|
 |[[Pedro Shisto]]|
-|[[Paulo Miranda.]]|
+|[[Paulo Miranda]]|
 |[[Gongora]]|
 |[[Omar Khouri]]|
 |[[Omar Guedes.]]|
@@ -101,7 +101,7 @@
 |[[Taina Camila dos Santos]]|
 |[[Simone Campos.]]|
 |[[Roberto Valdivia]]|
-|[[Pedro Veneroso.]]|
+|[[Pedro Veneroso]]|
 |[[Marco Antonio Pajola]]|
 |[[Julia Debasse]]|
 |[[José Carlos Silvestre]]|

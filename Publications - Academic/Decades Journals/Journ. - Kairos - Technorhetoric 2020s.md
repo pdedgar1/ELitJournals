@@ -56,7 +56,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 ### Vol. 25, Issue 1 (Fall 2020): Data Visualization in Composition Studies
 
 - [[John R. Gallagher]]
-- [[Dànielle Nicole DeVoss]]
+- [[Dánielle Nicole DeVoss]]
 - [[Cheryl Ball]]
 - [[Krystin Gollihue]]
 - [[Mai Nou Xiong-Gum]]
@@ -119,7 +119,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 - [[Eric Rodriguez]]
 - [[Cecilia Valenzuela]]
 - [[Magnolia Landa-Posas]]
-- [[S.D.C. Parker]]
+- [[S. D. C. Parker]]
 - [[Sarah Snyder]]
 - [[Holly Hassel]]
 - [[Mark Blaauw-Hara]]
@@ -319,7 +319,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 - [[Jenna Hejnar]]
 - [[Jennifer Wojton]]
 - [[Jessica Snitko]]
-- [[Sarah Young]]
+- [[Sarah Jackson Young]]
 - [[Simone Driessen]]
 - [[Jason Pridmore]]
 - [[Teresa Davis]]

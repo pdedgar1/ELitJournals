@@ -26,7 +26,7 @@ _LitNet's Afrikaans fiction platform, open to published and unpublished writers,
 - [[Willem de Vries]]
 - [[Frikkie de Waal]]
 - [[Edna Deudney]]
-- [[Jacobus D’Oliviera]]
+- [[Jacobus D'Oliviera]]
 - [[Jan Durand]]
 - [[Elsa Engelbrecht]]
 - [[Kobus Erasmus]]
@@ -61,7 +61,7 @@ _LitNet's Afrikaans fiction platform, open to published and unpublished writers,
 - [[Ivor Price]]
 - [[Oliver Findlay Price]]
 - [[Ronelle Rademeyer]]
-- [[Anna-Marie Radloff]]
+- [[Anna-Marié Radloff]]
 - [[Johann Rossouw]]
 - [[Riette Rust]]
 - [[Susan Samuel]]
@@ -86,8 +86,8 @@ _LitNet's Afrikaans fiction platform, open to published and unpublished writers,
 - [[Paul Bosman]]
 - [[Danie Botha]]
 - [[Jaco Botha]]
-- [[Jac J Brits]]
-- [[Abraham H de Vries]]
+- [[Jac J. Brits]]
+- [[Abraham H. de Vries]]
 - [[Izak de Vries]]
 - [[Carina Diedericks-Hugo]]
 - [[Tom Dreyer]]
@@ -95,10 +95,10 @@ _LitNet's Afrikaans fiction platform, open to published and unpublished writers,
 - [[Heilna du Plooy]]
 - [[Diana Ferrus]]
 - [[Jaco Fouché]]
-- [[Charles J Fourie]]
+- [[Charles J. Fourie]]
 - [[Franci Greyling]]
 - [[Joan Hambidge]]
-- [[E W S Hammond]]
+- [[E. W. S. Hammond]]
 - [[Marlize Hobbs]]
 - [[Emile Joubert]]
 - [[Coenie Kukkuk]]
@@ -106,7 +106,7 @@ _LitNet's Afrikaans fiction platform, open to published and unpublished writers,
 - [[Peter Louw]]
 - [[Anlen Marais]]
 - [[Johann Lodewyk Marais]]
-- [[Elias P Nel]]
+- [[Elias P. Nel]]
 - [[Thijs Nel]]
 - [[Vincent Pienaar]]
 - [[Dan Roodt]]
@@ -124,7 +124,7 @@ _LitNet's Afrikaans fiction platform, open to published and unpublished writers,
 _LitNet's English fiction platform, showcasing both unpublished and previously published South African short-story authors._
 
 - [[Carel Alberts]]
-- [[Eugène M Ashton]]
+- [[Eugéne M. Ashton]]
 - [[Bonile Ngqiyaza]]
 - [[Patrick Cairns]]
 - [[Dave Chislett]]
@@ -166,10 +166,10 @@ _LitNet's English fiction platform, showcasing both unpublished and previously p
 - [[Luke Alfred]]
 - [[Diane Awerbuck]]
 - [[Lauren Beukes]]
-- [[Johann P Boshoff]]
+- [[Johann P. Boshoff]]
 - [[Helen Brain]]
 - [[David Brooks]]
-- [[K Sello Duiker]]
+- [[K. Sello Duiker]]
 - [[Annesu de Vos]]
 - [[Douwlina du Plessis]]
 - [[Hagen Engler]]
@@ -204,7 +204,7 @@ _PoetryNet, LitNet's English-language poetry platform: unpublished poets' sectio
 - [[Carel Alberts]]
 - [[Alia]]
 - [[Nicole Ardley]]
-- [[Eugéne M Ashton]]
+- [[Eugéne M. Ashton]]
 - [[Joel Assiazky]]
 - [[Krissi Banzon]]
 - [[Irene Barnard]]
@@ -231,7 +231,7 @@ _PoetryNet, LitNet's English-language poetry platform: unpublished poets' sectio
 - [[Abdoeragmaan Badir Harris]]
 - [[Louis Harris]]
 - [[Elodee Haupt]]
-- [[Bernard L Hellberg]]
+- [[Bernard L. Hellberg]]
 - [[Gavin Hesqua]]
 - [[Richard Higgs]]
 - [[Sandy Immelman]]
@@ -270,7 +270,7 @@ _PoetryNet, LitNet's English-language poetry platform: unpublished poets' sectio
 - [[Helena Reid]]
 - [[Karen Rossouw]]
 - [[Lara van Rooyen]]
-- [[Ian B Saxon]]
+- [[Ian B. Saxon]]
 - [[Ayla Scott]]
 - [[Daniel Swanepoel]]
 - [[Troy Thiel]]
@@ -328,7 +328,7 @@ _PoetryNet, LitNet's English-language poetry platform: previously published poet
 - [[Candy Gourlay]]
 - [[Bandile Gumbi]]
 - [[Joan Hambidge]]
-- [[Rosemund J Handler]]
+- [[Rosemund J. Handler]]
 - [[Joanne Hart]]
 - [[Silke Heiss]]
 - [[Colleen Higgs]]
@@ -400,7 +400,7 @@ _IsiXhosa poetry and prose contributions to LitNet's Isikhundla Sababhali sectio
 - [[Bulelani Zantsi]]
 - [[Makhosandile Daniso]]
 - [[Thandiswa Zenzile]]
-- [[N B Ngomela]]
+- [[N. B. Ngomela]]
 - [[Avela Mviko]]
 
 ---
@@ -426,8 +426,8 @@ _LitNet's Dutch-language literary section: poetry, prose, translations and revie
 - [[Ingrid Hoogervorst]]
 - [[Rosita Steenbeek]]
 - [[Peer Wittenbols]]
-- [[J J Voskuil]]
-- [[H C ten Berge]]
+- [[J. J. Voskuil]]
+- [[H. C. ten Berge]]
 - [[Jan Siebelink]]
 - [[Joop Leibbrand]]
 - [[AHM Scholtz]]
@@ -470,7 +470,7 @@ _A themed poetry project gathering South African poets' responses to the Iraq wa
 - [[Joan Hambidge]]
 - [[Henk Havenga]]
 - [[Penny Hlakula]]
-- [[D Hunt]]
+- [[D. Hunt]]
 - [[Tommie Immelman]]
 - [[Stephan Jones]]
 - [[James Kinnear]]
@@ -539,7 +539,7 @@ _Mont du Toit Kelder and LitNet invited twenty established poets to each write a
 
 
 # Die Mont du Toit Keller Wynkwatryn project
- **|   |
+ **|   |
 |---|
 |[[Zandra Bezuidenhout]]|
 |[[Johann Lodewyk Marais]]|
@@ -583,7 +583,7 @@ SkryfNet was LitNet's online writing school: each ~3-month round paired two esta
 _Prose round: Hennie Aucamp and André P Brink mentor five emerging short-story writers._
 
 - [[Hennie Aucamp]]
-- [[André P Brink]]
+- [[André P. Brink]]
 - [[Merle Grace]]
 - [[Jaco Jacobs]]
 - [[François Loots]]
@@ -611,10 +611,10 @@ _Prose round: Petra Müller and George Weideman mentor five emerging short-story
 _Prose round: Marlene van Niekerk and Francois Bloemhof mentor five emerging short-story writers._
 
 - [[Marlene van Niekerk]]
-- [[Francois Bloemhof]]
+- [[François Bloemhof]]
 - [[Trisa Hugo]]
 - [[Susan Lombaard]]
-- [[Anna-Marie Radloff]]
+- [[Anna-Marié Radloff]]
 - [[Marita van Aswegen]]
 - [[Fanie Viljoen]]
 
@@ -695,7 +695,7 @@ _Poetry round: Johann Lodewyk Marais and Charl-Pierre Naudé mentor five emergin
 _Prose round: Eben Venter and Abraham H de Vries mentor five emerging short-story writers._
 
 - [[Eben Venter]]
-- [[Abraham H de Vries]]
+- [[Abraham H. de Vries]]
 - [[Johann Crafford]]
 - [[Theo Kemp]]
 - [[Janet Maree]]

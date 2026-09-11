@@ -249,7 +249,7 @@
 - [[Kenneth E. Pigg]]
 - [[Margaret Page]]
 - [[Anne Scott]]
-- [[Stephen Webb]]
+- [[Stephen A. Webb]]
 - [[Ben O'Loughlin]]
 - [[Lincoln Dahlberg]]
 - [[Brian D. Loader]]
@@ -348,7 +348,7 @@
 
 #### Volume 6 / Issue 2
 
-- [[W. Bennett]]
+- [[W. Lance Bennett]]
 - [[Maja Mikula]]
 - [[Randal Pinkett]]
 - [[Richard O'Bryant]]
@@ -494,7 +494,7 @@
 - [[Tony Wilson]]
 - [[Huey Pyng Tan]]
 - [[Hokyoung Ryu]]
-- [[Volodymyr Lysenko]]
+- [[Volodymyr V. Lysenko]]
 - [[Bharat Mehra]]
 - [[Sonia Liff]]
 - [[Karenza Moore]]

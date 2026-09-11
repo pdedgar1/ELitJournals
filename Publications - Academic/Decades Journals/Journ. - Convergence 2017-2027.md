@@ -897,7 +897,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Sam Hind]]                         |
 | [[Samantha Bennett]]                 |
 | [[Samantha J. Rayner]]                |
-| [[Samuel Woolley]]                   |
+| [[Samuel C. Woolley]]                   |
 | [[Sana Akram]]                       |
 | [[Sandra Martorell]]                 |
 | [[Sanni Kahila]]                     |
@@ -1032,7 +1032,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Veli-Matti Karhulahti]]            |
 | [[Venessa Paech]]                    |
 | [[Venetia Papa]]                     |
-| [[Verity Trott]]                     |
+| [[Verity Anne Trott]]                     |
 | [[Veysel Bozan]]                     |
 | [[Vicente Navarro-Adelantado]]       |
 | [[Vicki Clifton]]                    |
@@ -1079,7 +1079,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Yuhua Hanna Wu]]                   |
 | [[Yun Kyung Oh]]                     |
 | [[Yuxin Liu]]                        |
-| [[Yvonne M. Eadon]]                   |
+| [[Yvonne Melisande Eadon]]                   |
 | [[Zachary J. McDowell]]               |
 | [[Zane Griffin Talley Cooper]]       |
 | [[Zhen Ye]]                          |

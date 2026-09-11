@@ -193,7 +193,7 @@
 
 - [[Rachel Clarke]] — Editorial Statement
 - [[Jessica Westbrook]] and [[Adam Trowbridge]] — Guest Editors' Statement
-- [[Shannon McMullen]] and [[Fabian Winkler]] — Featured Conversation: A Conversation About Collaboration
+- [[Shannon C. McMullen]] and [[Fabian Winkler]] — Featured Conversation: A Conversation About Collaboration
 - [[Petra Bachmaier]] and [[Sean Gallero]] — Dialogue (Luftwerk)
 - [[Annette Barbier]] and [[Drew Browning]] — Dialogue (Un-real Estates)
 - [[Margarita Benitez]] and [[Markus Vogl]] — Dialogue (benitez_vogl)
@@ -227,7 +227,7 @@
 - [[Claudia Herbst-Tait]] — Can 3D Art Be Taught? A Reflection on Challenges and Strategies
 - [[Joshua Mosley]] — The Industry Is OK
 - [[Daniela Krautsack]] — 3D Projection Mapping and its Impact on Media & Architecture in Contemporary and Future Urban Spaces
-- [[Shannon McMullen]] — AUDO: Alternative Practices in Sound and Alternative Models for Exchange
+- [[Shannon C. McMullen]] — AUDO: Alternative Practices in Sound and Alternative Models for Exchange
 
 ### CAA Conference Edition 2011 (Vol. 07 No. 02) — Fall 2011
 

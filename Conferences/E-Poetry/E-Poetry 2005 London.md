@@ -10,7 +10,7 @@ An International digital Poetry Festival
 | [[Ceridwen Buckmaster]]                                                   |
 | [[Elizabeth James]]                                                       |
 | [[Elizabeth Knipe]]                                                       |
-| [[Elizabeth-Jane Burnett]]                                                |
+| [[Elizabeth Jane Burnett]]                                                |
 | [[Gavin Stewart]]                                                         |
 | [[Janis Jefferies]]                                                       |
 | [[Jean-Pierre Balpe]]                                                     |

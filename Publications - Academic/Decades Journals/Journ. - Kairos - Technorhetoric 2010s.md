@@ -12,7 +12,7 @@
 - [[Virginia Kuhn]]
 - [[DJ Johnson]]
 - [[Dave Lopez]]
-- [[Dànielle Nicole DeVoss]]
+- [[Dánielle Nicole DeVoss]]
 - [[Claire Lutkewitte]]
 
 ### Vol. 14, Issue 3 (Summer 2010): dot mil: Rhetoric, Technology, and the Military
@@ -390,7 +390,7 @@
 - [[Jennifer deWinter]]
 - [[Stephanie Vie]]
 - [[Laura Gonzales]]
-- [[Dànielle Nicole DeVoss]]
+- [[Dánielle Nicole DeVoss]]
 - [[Douglas Eyman]]
 - [[Cheryl E. Ball]]
 - [[Jeremy Boggs]]
@@ -463,7 +463,7 @@
 - [[Tanya K. Rodrigue]]
 - [[Kate Artz]]
 - [[Julia Bennett]]
-- [[M.P. Carver]]
+- [[M. P. Carver]]
 - [[Megan Grandmont]]
 - [[Dan Harris]]
 - [[Danah Hashem]]

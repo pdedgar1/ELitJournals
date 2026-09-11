@@ -19,5 +19,5 @@ Editor [[Adrián Salcedo Toca]]
 [[Unica Zürn]]
 
 1 
-[[T. S. Eliot]]
+[[TS Eliot]]
 [[Adrián Salcedo Toca]]

@@ -210,7 +210,7 @@ CELL Member : French-language E-lit
 | [[Remote Location Flying Lotus]]      |
 | [[Andrew Forster]]                    |
 | [[Tristan Fortin Le Breton]]          |
-| [[Stephen Foster]]                    |
+| [[Stephen C. Foster]]                    |
 | [[Foundland Collective]]              |
 | [[Hooshla Fox]]                       |
 | [[Francesco Urbano Ragazzi]]          |
@@ -548,7 +548,7 @@ CELL Member : French-language E-lit
 | [[Tyler Sticka]]                      |
 | [[Reiner Strasser]]                   |
 | [[Stephanie Strickland]]              |
-| [[Igor Stromajer]]                    |
+| [[Igor Štromajer]]                    |
 | [[Studio Moniker]]                    |
 | [[Joel Sugerman]]                     |
 | [[sumoto.iki]]                        |

@@ -43,7 +43,7 @@ Edited by [[Annette Vee]], [[Tim Laquintano]], [[Carly Schnitzler]]
 
 
 ### Aug 2024
-AI Literacy — [[Joao Gonçalez]], [[Sarah Young]], [[Victoria VanProoyen]], [[Elizabeth Velazquez]], [[Joshua J. Wells]]
+AI Literacy — [[Joao Gonçalez]], [[Sarah Jackson Young]], [[Victoria VanProoyen]], [[Elizabeth Velazquez]], [[Joshua J. Wells]]
 Creative Explorations — [[Amy Anderson]], [[Carly Schnitzler]], [[Annette Vee]], [[Tristan B. Taylor]]
 Ethics — [[Whitney Gegg-Harrison]], [[Margaret Poncin Reeves]], [[Shu Wan]]
 Prompt Engineering — [[Aaron Meskin]], [[Lindsey Harding]], [[Wei Xu]], 

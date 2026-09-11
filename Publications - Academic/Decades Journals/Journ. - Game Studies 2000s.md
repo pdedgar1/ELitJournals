@@ -58,7 +58,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - [[Jairo Lugo]]
     
-- [[Tony Sampson]]
+- [[Tony D. Sampson]]
     
 - [[Merlyn Lossada]]
     

@@ -7,7 +7,7 @@
 |[[Andy Campbell and Kate Pullinger]]|
 |[[Angela A. Thomas]]|
 |[[Annie Abrahams]]|
-|[[Aya Karpinska]]|
+|[[Aya karpińska]]|
 |[[Brendan Howell]]|
 |[[Cécile Chevalier]]|
 |[[Chris Funkhouser and Andrew Klobucar]]|
@@ -18,7 +18,7 @@
 |[[Donna Leishman]]|
 |[[Donna Leishman]]|
 |[[Elena Cooper]]|
-|[[J.R. Carpenter]]|
+|[[J. R. Carpenter]]|
 |[[James Leach]]|
 |[[Janez Strehovec]]|
 |[[Jason Nelson]]|

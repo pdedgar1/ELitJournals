@@ -28,7 +28,7 @@ LEAD |[[Jason Nelson]]|
 |[[Jill Walker Rettberg]]|
 |[[Scott Rettberg]]|
 |[[Colin Robinson]]|
-|[[Sérgio Galvão Roxo]]|
+|[[Sérgio Cunha Galvão Roxo]]|
 |[[Doris Carmen Rusch]]|
 |[[Ida Martine Gard Rysjedal]]|
 |[[Debarun Sarkar]]|

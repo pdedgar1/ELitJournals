@@ -252,7 +252,7 @@
 - [[Janet Wasko]]
 - [[Mark Phillips]]
 - [[Chris Purdie]]
-- [[William Melody]]
+- [[William H. Melody]]
 - [[Tony Mitchell]]
 - [[Charlotte Brunsdon]]
 - [[Kevin Robins]]

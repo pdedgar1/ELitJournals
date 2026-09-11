@@ -10,7 +10,7 @@ edited by [[Maria Engberg]], [[Talan Memmott]] and [[David Prater]]
 |[[J. R. Carpenter]]|
 |[[Johannes Heldén]]|
 |[[Zuzana Husárová]]|
-|[[Andreas Maria Jacobs]]|
+|[[Andreas María Jacobs]]|
 |[[María Mencía]]|
 |[[Martine Neddam]]|
 |[[Tonnus Oosterhoff]]|

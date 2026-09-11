@@ -22,7 +22,7 @@ _A loose, ongoing collection of individually published poems and text pieces, mo
 - [[Fernando Vigueras]]
 - [[Alexa Palacios]]
 - [[Andrea Muriel]]
-- [[Maria Cristina Hall]]
+- [[María Cristina Hall]]
 - [[Crhistian Bafomec]]
 - [[David Martínez]]
 - [[Melissa Cerrillo]]

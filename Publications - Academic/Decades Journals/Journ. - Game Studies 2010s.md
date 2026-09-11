@@ -146,7 +146,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[David Myers]]
     
-- [[Torill Mortensen]]
+- [[Torill Elvira Mortensen]]
     
 
 ---
@@ -388,7 +388,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Maxime Deslongchamps-Gagnon]]
     
-- [[Torill Mortensen]]
+- [[Torill Elvira Mortensen]]
     
 - [[Daniel Vella]]
     
@@ -494,7 +494,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - Volume/Issue: 19.1
     
-- [[Sarah Stang]]
+- [[Sarah Marie Stang]]
     
 - [[Phillip Lobo]]
     
@@ -660,7 +660,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Jean-Charles Ray]]
     
-- [[Timothy Welsh]]
+- [[Timothy J. Welsh]]
     
 - [[Esther MacCallum-Stewart]]
     

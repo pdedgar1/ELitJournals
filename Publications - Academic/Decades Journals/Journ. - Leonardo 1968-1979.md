@@ -961,7 +961,7 @@ Note: Leonardo launched in January 1968, so there is no standalone "1960s" file 
 - [[Stephen Willats]]
 - [[J. Lukasiewicz]]
 - [[John H. Holloway]]
-- [[Trevor Tolhurst]]
+- [[Trevor R. Tolhurst]]
 - [[Allan Shields]]
 - [[P. T. Landsberg]]
 - [[Grace Marmor Spruch]]
