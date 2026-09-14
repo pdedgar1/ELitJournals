@@ -110,7 +110,7 @@
 - 
 - [[Annette Vee]]
 - [[James J. Brown, Jr.]]
-- [[Steve Holmes]]
+- [[Steven K. Holmes]]
 - [[John Tinnell]]
 - [[Kevin Brock]]
 - [[Elizabeth Losh]]

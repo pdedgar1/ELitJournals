@@ -39,7 +39,7 @@
 ### MESA 5 — comunicações (sessão paralela) (8.11)
 
 - [[Lorenzo Menoud]]
-- [[Dimosthenis Agrafiotis]]
+- [[Démosthènes Agrafiotis]]
 - [[Héloïse Elisabeth Marie-Vincent Ghislaine Ducatteau]]
 - [[Anne Courtois]]
 
@@ -52,7 +52,7 @@
 
 ### MESA 7 — Tradições e Novos Caminhos Intermídia (9.11)
 
-- [[Jaques Donguy]]
+- [[Jacques Donguy]]
 - [[Giovanni Fontana]]
 - [[Patrícia Lino]]
 - [[Valentina Cantori]]
@@ -90,7 +90,7 @@
 ### MESA 12 — O Centro em Toda Parte (9.11)
 
 - [[Delmo Montenegro]]
-- [[Sergio Medeiros]]
+- [[Sergio Augusto Medeiros]]
 - [[Paulo Bruscky]]
 - [[Antonio V. S. Pietroforte]]
 
@@ -139,7 +139,7 @@
 ### MESA 19 — Formas Poéticas em Trânsito (11.11)
 
 - [[Clemente Padín]]
-- [[Gazhal Mosadeq]]
+- [[Ghazal Mosadeq]]
 - [[Ting Huang]]
 - [[Maíra Mendes Galvão]]
 
@@ -313,7 +313,7 @@
 - [[Yasmin Bidim]]
 - [[Suelismar Mariano]]
 - [[Ana Paula Cerqueira]]
-- [[Nicollas Ranieri]]
+- [[Nicolas Ranieri]]
 
 ### Conferência nº 01 – 27.11
 
@@ -568,7 +568,7 @@
 - [[Guillermo Daghero]]
 - [[Guto Lacaz]]
 - [[Hugo Pontes]]
-- [[Jaques Donguy]]
+- [[Jacques Donguy]]
 - [[Jessé Diama]]
 - [[Joaquim Branco]]
 - [[L. C. Vinholes]]
@@ -593,7 +593,7 @@
 - [[Rodolfo Mata]]
 - [[Ronald Polito]]
 - [[Sebastião Nunes]]
-- [[Sergio Medeiros]]
+- [[Sergio Augusto Medeiros]]
 - [[Serse Luigetti]]
 - [[Simone H. de Melo]]
 - [[Sonia Fontanezi]]

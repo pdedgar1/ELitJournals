@@ -214,7 +214,7 @@
 
 - [[Brian D. Loader]]
 - [[William H. Dutton]]
-- [[Doug Schuler]]
+- [[Douglas Schuler]]
 - [[Christine Hine]]
 - [[Perri 6]]
 - [[Mario Radovan]]
@@ -433,7 +433,7 @@
 - [[Colin Lindsay]]
 - [[Malcolm Greig]]
 - [[Mathias Klang]]
-- [[Alistair Duff]]
+- [[Alistair S. Duff]]
 
 ---
 
@@ -644,7 +644,7 @@
 - [[Nigel A. Jackson]]
 - [[Darren G. Lilleker]]
 - [[Christopher May]]
-- [[Ali Mohamed]]
+- [[Ali Sayed Mohamed]]
 - [[Madeleine Frost]]
 - [[Neal Thomas]]
 

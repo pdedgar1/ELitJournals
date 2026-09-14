@@ -38,7 +38,7 @@ _2025-2, "Literatura electrónica, interacción e inteligencia artificial" (coor
 
 _2025-2, "Literatura electrónica, interacción e inteligencia artificial" (coord. Rodolfo Mata; impartido por Diego Bonilla y Vinicius Marquet)._
 
-- [[Alejandro Hernández]]
+- [[Alejandro Romero Hernández]]
 
 ---
 

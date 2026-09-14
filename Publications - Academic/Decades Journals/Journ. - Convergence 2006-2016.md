@@ -16,7 +16,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Alec Charles]]                |
 | [[Alessandro D'Arma]]           |
 | [[Alexis Weedon]]               |
-| [[Alice Marwick]]               |
+| [[Alice Emily Marwick]]               |
 | [[Alison Gazzard]]              |
 | [[Amanda Reichelt-Brushett]]    |
 | [[Amanda Starling Gould]]       |
@@ -43,7 +43,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Anna Westerståhl Stenport]]   |
 | [[Anne Harris]]                 |
 | [[Anne-Kathrin Hoklas]]         |
-| [[Anne-Mette Albrechtslund]]    |
+| [[Anne-Mette Bech Albrechtslund]]    |
 | [[Anthony McCosker]]            |
 | [[Antoni Roig]]                 |
 | [[Antonio Somaini]]             |

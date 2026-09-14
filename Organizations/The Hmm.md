@@ -2,7 +2,7 @@
 
                                            
         
-[[Sebastian Prado]]
+[[Sebastián Morales Prado]]
 [[Sebastian Rypson]]
 [[Sebastian Schmieg]]
 [[Seda Gürses]]

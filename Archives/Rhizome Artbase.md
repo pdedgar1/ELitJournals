@@ -111,7 +111,7 @@
 | [[michael bielicky]]                                |
 | [[Alan Bigelow]]                                    |
 | [[Simon Biggs]]                                     |
-| [[Vera Bighetti]]                                   |
+| [[Vera Sylvia Bighetti]]                                   |
 | [[Michiel Bijnens]]                                 |
 | [[Joelle Bitton]]                                   |
 | [[Scott Blake]]                                     |
@@ -235,7 +235,7 @@
 | [[Alexander Conner]]                                |
 | [[Krista Connerly]]                                 |
 | [[Emily Conrad]]                                    |
-| [[arcangel constantini]]                            |
+| [[Arcangel Constantini]]                            |
 | [[francesco contin]]                                |
 | [[mark cooley]]                                     |
 | [[Ben Coonley]]                                     |
@@ -569,7 +569,7 @@
 | [[Barry Jones]]                                     |
 | [[matt Jones]]                                      |
 | [[Morgan Jones]]                                    |
-| [[Steven Jones]]                                    |
+| [[Steven E. Jones]]                                    |
 | [[Chris Joseph]]                                    |
 | [[Jst Chillin]]                                     |
 | [[judsoN]]                                          |
@@ -772,7 +772,7 @@
 | [[Susana Mendes Silva]]                             |
 | [[antonio mendoza]]                                 |
 | [[Rosa Menkman]]                                    |
-| [[visakh menon]]                                    |
+| [[visakh M. menon]]                                    |
 | [[James Mercer]]                                    |
 | [[Maurizio Mercuri]]                                |
 | [[martin meyer]]                                    |
@@ -812,7 +812,7 @@
 | [[Owen Mundy]]                                      |
 | [[Luke Munn]]                                       |
 | [[L. van Munster]]                                  |
-| [[Antoni Muntadas]]                                 |
+| [[Antonio Muntadas]]                                 |
 | [[gianluca mura]]                                   |
 | [[Takeshi Murata]]                                  |
 | [[murdim]]                                          |
@@ -919,7 +919,7 @@
 | [[Dag Hensten Pettersen]]                           |
 | [[Brian Piana]]                                     |
 | [[Regina Pinto]]                                    |
-| [[joerg piringer]]                                  |
+| [[Jörg piringer]]                                  |
 | [[pirusanta]]                                       |
 | [[Émilie Pitoiset]]                                 |
 | [[Frank Plant]]                                     |
@@ -1156,7 +1156,7 @@
 | [[Pall Thayer]]                                     |
 | [[Jonathan Thirkield]]                              |
 | [[geoffrey thomas]]                                 |
-| [[Andrei Thomaz]]                                   |
+| [[Andrei R. Thomaz]]                                   |
 | [[Thomson & Craighead]]                             |
 | [[Skye Thorstenson]]                                |
 | [[Myriam Thyes]]                                    |
@@ -1270,7 +1270,7 @@
 | [[Soo Yeun Ahn]]                                    |
 | [[Rebecca Young]]                                   |
 | [[Young-Hae Chang Heavy Industries]]                |
-| [[Amy Youngs]]                                      |
+| [[Amy M. Youngs]]                                      |
 | [[Nick Yulman]]                                     |
 | [[Peter Yumi]]                                      |
 | [[grégoire zabé]]                                   |

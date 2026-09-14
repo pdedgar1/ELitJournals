@@ -150,7 +150,7 @@ Digital Fiction Magazine of the 2000s
 |                                      |
 | [[Patrick Whittaker]]                |
 | [[Corey Wicks]]                      |
-| [[Sung J. Woo]]                      |
+| [[Sung Ju Woo]]                      |
 | [[Jason Young]]                      |
 | [[Jeff Zias]]                        |
 | [[Martin Zurla]]                     |

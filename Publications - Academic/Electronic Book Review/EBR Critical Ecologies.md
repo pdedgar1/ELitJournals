@@ -135,13 +135,13 @@
 [[Matthew Calarco]]
 [[Aron Pease]]
 [[Joseph Urgo]]
-[[Amy Elias]]
+[[Amy J. Elias]]
 [[Christopher Douglas]]
 ## 2002
 [[Carsten Schinko]]
 [[Geniwate aka Jenny Weight]]
 [[Linda Carroli]]
-[[Amy Elias]]
+[[Amy J. Elias]]
 [[Steffen Hantke]]
 [[Scott Hermanson]]
 ## 2001

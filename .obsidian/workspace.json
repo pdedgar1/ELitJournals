@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3577ed46b4c40ea",
+            "id": "c836eda35dee5608",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d71ffd1491961053",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Alias Report"
-            }
-          },
-          {
-            "id": "c836eda35dee5608",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ],
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5920715332031,
-    "collapsed": true
+    "width": 301.5920715332031
   },
   "right": {
     "id": "5749d4d94d08711c",
@@ -198,33 +197,33 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c836eda35dee5608",
+  "active": "d71ffd1491961053",
   "lastOpenFiles": [
-    "Júlio Mendonça.md",
     "Alias Report.md",
-    "critical artware.md",
-    "TS Eliot.md",
-    "SungJae Lee.md",
-    "Luz María Bedoya.md",
-    "Karl heinz Jeron.md",
-    "Juan García Hernández.md",
-    "joesér alvarez.md",
-    "Émilie Pitoiset.md",
-    "Diana Sánchez.md",
-    "Andreja Kulunčić.md",
-    "Patrícia Lino.md",
-    "John F. Simon Jr..md",
-    "Elizabeth Jane Burnett.md",
-    "Anna-Marié Radloff.md",
-    "Esteban García.md",
-    "fernando sánchez.md",
-    "Sebastián Martínez Sánchez.md",
-    "a. bill miller.md",
-    "Christian Oyarzún.md",
-    "Felipe Páros.md",
-    "Eugéne M. Ashton.md",
-    "François Bloemhof.md",
-    "JimPunk.md",
-    "Kuan-Ju Wu.md"
+    "Ana Carolina Vimieiro.md",
+    "Arcangel Constantini.md",
+    "Démosthènes Agrafiotis.md",
+    "Tobias Ebbrecht-Hartmann.md",
+    "Jacqueline Burgess.md",
+    "Thorbjørn Lausten.md",
+    "Arthur Nishimoto.md",
+    "Russell Kaschula.md",
+    "Rosanna Guadagno.md",
+    "Nicolas Ranieri.md",
+    "Michailis Vaitis.md",
+    "Elaine O'Hanrahan.md",
+    "Antonio Muntadas.md",
+    "Takanori Tamura.md",
+    "Sherly Farness.md",
+    "Patrick Schmitz.md",
+    "Darryl Woodford.md",
+    "Conferences/AoIR Selected Papers (SPIR) (2011-2017).md",
+    "Paul Hartmann.md",
+    "Michael Latzer.md",
+    "Mchael Latzer.md",
+    "Kate Mondloch.md",
+    "Katharina Esau.md",
+    "Jon McCormack.md",
+    "Jörg piringer.md"
   ]
 }

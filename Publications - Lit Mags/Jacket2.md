@@ -37,7 +37,7 @@ Founder [[John Tranter]]
 | [[Ainsley Morse]]               |
 | [[Akua Lezli Hope]]             |
 | [[Al Filreis]]                  |
-| [[Alan Bernheimer]]             |
+| [[Alan W. Bernheimer]]             |
 | [[Alan Davies]]                 |
 | [[Alan Golding]]                |
 | [[Albert Mobilio]]              |

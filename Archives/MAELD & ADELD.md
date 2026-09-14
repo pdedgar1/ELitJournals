@@ -27,7 +27,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Johann P. Boshoff]]                                               |
 | [[Herman L. Bosman]]                                                |
 | [[Helen Brain]]                                                     |
-| [[A Floris Brown]]                                                  |
+| [[Floris Brown]]                                                  |
 | [[Celestial games]]                                                 |
 | [[Christopher]]                                                     |
 | ChopUp ([[Zubair Abubakar]], [[Bayo Puddicombe]], [[Daniel Micah)]] |

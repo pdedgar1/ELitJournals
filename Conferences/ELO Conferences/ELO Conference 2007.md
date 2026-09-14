@@ -6,7 +6,7 @@
 
 [[Robert Kendall]], [[Talan Memmott]], [[Nick Montfort]], [[Scott Rettberg]], [[Stephanie Strickland]], [[Noah Wardrip-Fruin]]
 [[Sandy Baldwin]]. [[Laura Borràs Castanyer]], [[Bertrand Gervais]], [[Juan B. Gutiérrez]], [[Mark C. Marino]], [[Jill Walker Rettberg]], 
-[[N. Katherine Hayles]]. [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Thomas Swiss]], [[Kenneth Thibodeau]], [[Emily Warn]], [[Josh Weiner]]
+[[N. Katherine Hayles]]. [[M. D. Coverley aka Marjorie C. Luesebrink]], [[Thomas Swiss]], [[Kenneth Thibodeau]], [[Emily Warn]], [[Joshua Weiner]]
 ### Attendees
 - [[Joan Elies Adell Pitarch]] (University of Catalonia)
 - [[Rafael C. Alvarado]] (Dickinson College)

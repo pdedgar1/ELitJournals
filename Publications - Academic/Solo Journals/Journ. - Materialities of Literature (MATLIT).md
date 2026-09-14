@@ -45,7 +45,7 @@ reviews: [[Diego Giménez]], [[Mafalda Lalanda]], [[Jordan Eason]]
 Manaíra Aires Athayde , Rejane C. Rocha con [[Wolfgang Bongers]] y [[Martín Tironi]]
 [[Diogo Marques]], [[Ana Carvalho]]
 [[Diego Zorita]]
-[[Júlio de Mello]]
+[[Júlia de Mello]]
 Nair Renata Amâncio
 
 
@@ -56,7 +56,7 @@ Nair Renata Amâncio
 |                                                                     |
 | ------------------------------------------------------------------- |
 | [[Ana Luiza Fernandes]], [[João Queiroz]]                           |
-| [[Amir Cador]]                                                      |
+| [[Amir Brito Cadôr]]                                                      |
 | [[Renata Fernandes Veloso Baralle]], [[Marivalde Moacir Francelin]] |
 | [[Gabriella Mendes]], [[Rita Gomes]]                                |
 | [[Ana Luiza Fernandes]], [[João Queiroz]]                           |
@@ -222,7 +222,7 @@ Nair Renata Amâncio
 | [[Álvaro Seiça]]                         |
 | [[Ryan Wade Ruehlen]], [[Mark Amerika]]  |
 | [[John F. Barber]]                       |
-| [[Jessica Barness]], [[Vince Giles]]     |
+| [[Jessica Barness]], [[Vincent Giles]]     |
 | [[Sandrine Deumier]], [[Philippe Lamy]]  |
 | [[Ryan LaLiberty]]                       |
 | [[Vladimir Vladda Miloykovitch]]         |

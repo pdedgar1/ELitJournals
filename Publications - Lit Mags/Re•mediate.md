@@ -19,7 +19,7 @@
 | [[Brian Le Lay]]                |
 | [[Emilio Loew Muscarolas]]      |
 | [[Gibson Bartlett]]             |
-| Interview w. Dr. [[Amber Buck]] |
+| Interview w. Dr. [[Amber M. Buck]] |
 | [[P. D. Edgar]]                  |
 
 ## Issue 2 - 

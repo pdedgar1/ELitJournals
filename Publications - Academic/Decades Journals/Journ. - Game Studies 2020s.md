@@ -125,7 +125,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Daniel L. Gardner]]
     
-- [[Theresa J. Tanenbaum]]
+- [[Theresa Jean Tanenbaum]]
     
 - [[Abbie Hartman]]
     
@@ -133,7 +133,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Helen Young]]
     
-- [[Alex Wade]]
+- [[Alex Christopher Wade]]
     
 - [[Annakaisa Kultima]]
     

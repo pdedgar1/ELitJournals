@@ -68,7 +68,7 @@
 | [[Sandy Baldwin]]                                |
 | [[David Bamman]]                                 |
 | [[Nikolay Banar]]                                |
-| [[Danushka Bandara]]                             |
+| [[Dinusha Bandara]]                             |
 | [[Lindsey Bannister]]                            |
 | [[Michael Bannister]]                            |
 | [[Christine Barats]]                             |
@@ -1557,7 +1557,7 @@
 | [[Michael Winter]]                               |
 | [[Jeffrey C. Witt]]                              |
 | [[Stephen Wittek]]                               |
-| [[Josh Wodak]]                                   |
+| [[Joshua Wodak]]                                   |
 | [[Jerzy Wójcik]]                                 |
 | [[Mark Wolff]]                                   |
 | [[Ian Wood]]                                     |

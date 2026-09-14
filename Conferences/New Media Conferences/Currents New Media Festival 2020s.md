@@ -479,7 +479,7 @@ Note: CURRENTS 2026 is the most recently completed festival covered here. CURREN
 - [[Dave Ryan]]
 - [[Josh Gumiela]]
 - [[Nikita Shokhov]]
-- [[Tyechia Thompson]]
+- [[Tyechia L. Thompson]]
 - [[Lynn Kim]]
 - [[Chelsi Cocking]]
 - [[Bomi Yook]]

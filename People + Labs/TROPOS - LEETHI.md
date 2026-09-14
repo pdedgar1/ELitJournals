@@ -533,7 +533,7 @@ _Supervised by Begoña Regueiro Salgado._
 
 - [[Malena Agustino]]
 - [[Andrea Alonso]]
-- [[Verónica Álvarez]]
+- [[Verónica Posada Álvarez]]
 - [[María Camacho]]
 - [[Mariona Diviu]]
 

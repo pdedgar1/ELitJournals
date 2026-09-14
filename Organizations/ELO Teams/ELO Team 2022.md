@@ -17,7 +17,7 @@
 - [[Salvatore Zingale]] (Politecnico di Milano)
 - [[Canek Zapata]] (CCD México City)
 - [[Doreen A. Rios]] (CCD México City)
-- [[Mariana Delgado]] (CCD México City
+- [[Moriana Delgado]] (CCD México City
 
 ### scientific committee
 - [[Ángela Celis]] (Universidad de Castilla-La Mancha)

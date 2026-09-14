@@ -236,7 +236,7 @@ Presiding, [[Robert M. Akscyn]]
 |[[Katsumi Tanaka]]|
 |[[Weigang Wang]]|
 |[[Jörg M. Haake]]|
-|[[Jack J. Yang]]|
+|[[Jack (Jie) Yang]]|
 |[[Gail E. Kaiser]]|
 |[[Frank Major Shipman]]|
 |[[Richard Furuta]]|
@@ -260,7 +260,7 @@ Presiding, [[Jörg Westbomke]], [[Uffe Kock Wiil]], [[John J. Leggett]], [[Klaus
 |[[Kenneth M. Anderson]]|
 |[[Weigang Wang]]|
 |[[Manolis Tzagarakis]]|
-|[[Michalis Vaitis]]|
+|[[Michailis Vaitis]]|
 |[[Athanasios Papadopoulos]]|
 |[[Dimitris Christodoulakis]]|
 |[[Olav Reinert]]|

@@ -126,7 +126,7 @@
 - [[Fernando Orellana]]
 - [[Sabrina Raaf]]
 - [[Kenneth Rinaldo]]
-- [[Amy Youngs]]
+- [[Amy M. Youngs]]
 - [[Jacalyn Lopez Garcia]]
 - [[Ugur Güdükbay]]
 - [[Fatih Erol]]
@@ -926,7 +926,7 @@
 
 - [[Neora Berger Shem-Shaul]]
 - [[Olav W. Bertelsen]]
-- [[J. David Bolter]]
+- [[Jay David Bolter]]
 - [[Willi Bruns]]
 - [[Annick Bureaud]]
 - [[Stephan Diehl]]
@@ -1112,7 +1112,7 @@
 - [[J. R. Mureika]]
 - [[Gerald C. Cupchik]]
 - [[C. C. Dyer]]
-- [[Katie Mondloch]]
+- [[Kate Mondloch]]
 - [[Peter D. Stebbing]]
 - [[Robert Pepperell]]
 - [[Amy Ione]]
@@ -1515,7 +1515,7 @@
 - [[Muzeyyen Pandir]]
 - [[John Knight]]
 - [[Noah Wardrip-Fruin]]
-- [[J. David Bolter]]
+- [[Jay David Bolter]]
 - [[Amy Ione]]
 - [[Sonya Rapoport]]
 - [[Daniela Bertol]]
@@ -1546,7 +1546,7 @@
 - [[Michael R. Mosher]]
 - [[René van Peer]]
 - [[Yvonne Spielmann]]
-- [[J. David Bolter]]
+- [[Jay David Bolter]]
 
 ### Vol. 39, Issue 3 (June 2006)
 
@@ -2041,7 +2041,7 @@
 ### Vol. 41, Issue 4 (August 2008)
 
 - [[Rob Harle]]
-- [[Arthur Woods]]
+- [[Arthur R. Woods]]
 - [[Randall Packer]]
 - [[Sally Hess]]
 - [[Donna Jo Napoli]]
@@ -2161,7 +2161,7 @@
 - [[Ricardo Nascimento]]
 - [[Fabiana Shizue]]
 - [[Matthew Kenyon]]
-- [[Doug Easterly]]
+- [[Douglas Easterly]]
 - [[Daniela Kostova]]
 - [[Olivia Robinson]]
 - [[Anne-Marie Skriver Hansen]]
@@ -2292,7 +2292,7 @@
 - [[Mary Lou O'Neil]]
 - [[A. Ayça Ünlüer]]
 - [[John Tchalenko]]
-- [[Eduardo R. Miranda]]
+- [[Eduardo Reck Miranda]]
 - [[John Matthias]]
 - [[Steve Benford]]
 - [[Gabriella Giannachi]]

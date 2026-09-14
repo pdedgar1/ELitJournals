@@ -112,7 +112,7 @@
 |[[Van W. Kloempken]]|
 |[[Erna Koch]]|
 |[[J. Kosokoff]]|
-|[[Steve Krause]]|
+|[[Steven D. Krause]]|
 |[[Mark Kraynak]]|
 |[[Christopher Kresser]]|
 |[[Kelly L.]]|

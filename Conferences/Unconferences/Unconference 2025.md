@@ -5,7 +5,7 @@
 | [[Amanda Allen]]                                      |
 | [[Christine Wilks]]                                   |
 | [[Chrysoula Kapartziani]] & [[Giorgos Spyrakis]]      |
-| [[Clare Harvey]]                                      |
+| [[Claire Harvey]]                                      |
 | [[Daniel Temkin]]                                     |
 | [[David R. Lincoln]]                                  |
 | [[Deena Larsen]]                                      |

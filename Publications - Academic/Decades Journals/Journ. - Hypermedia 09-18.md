@@ -352,7 +352,7 @@
 - [[David Kennedy]]
 - [[Korina Giaxoglou]]
 - [[Katrin Döveling]]
-- [[Anu Harju]]
+- [[Anu A. Harju]]
 - [[Lisbeth Klastrup]]
 - [[Laurie M. C. Faro]]
 - [[Amanda Lagerkvist]]

@@ -215,7 +215,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Carolyn Michelle]]
     
-- [[Ann Hardy]]
+- [[Ann L. Hardy]]
     
 - [[Craig Hight]]
     
@@ -411,7 +411,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Paul Bleakley]]
     
-- [[Aaron Kashtan]]
+- [[Aaron Jacob Kashtan]]
     
 - [[Agata Łuksza]]
     

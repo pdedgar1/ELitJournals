@@ -1,7 +1,7 @@
 # Editorial Board 
 | Editors: [[Poe Johnson]], [[Mel Stanfill]], [[Christine Mains]], [[Jillian Kovach]], [[Tanya D. Zuk]], [[Taylore Nicole Woodhouse]], [[Khaliah Reed]], [[Katie Googe]], [[Adrienne E. Raw]], [[Fabienne Silberstein-Bamford]], [[Jaclyn Zhou]], [[Brienne A. Adams]], [[Francesca Coppa]] |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Adriana Amaral]]                                                                                                                                                                                                                                                                  |
+| [[Adriana da Rosa Amaral]]                                                                                                                                                                                                                                                                  |
 | [[Chelsea Fay Baumgartner]]                                                                                                                                                                                                                                                         |
 | [[Lucy Bennett]]                                                                                                                                                                                                                                                                    |
 | [[Paul J. Booth]]                                                                                                                                                                                                                                                                      |
@@ -663,7 +663,7 @@ Note: as of this writing (2026), the journal has not yet reached 2027 — Vol. 4
 - [[Chelsey Lush]]
 - [[David Sterling Brown]]
 - [[Yinhao Wu]]
-- [[Adriana Amaral]]
+- [[Adriana da Rosa Amaral]]
 - [[Libertad Borda]]
 - [[Nadiezhda Camacho Quiroz]]
 - [[Clarice Greco]]

@@ -38,7 +38,7 @@
 - [[Daniël Biltereyst]]
 - [[Philippe Meers]]
 - [[Kalyani Chadha]]
-- [[Anandam Kavoori]]
+- [[Anandam P. Kavoori]]
 - [[Enrique Bustamante]]
 - [[Gholam Khiabany]]
 - [[Mats Ekström]]
@@ -222,7 +222,7 @@
 - [[Wendy Bokhorst-Heng]]
 - [[Elizabeth Burch]]
 - [[Dennis Kavanagh]]
-- [[Chas MacDonald]]
+- [[Charles MacDonald]]
 
 ### Vol. 24, Issue 5 (September 2002)
 
@@ -281,7 +281,7 @@
 - [[John Corner]]
 - [[Karen Ross]]
 - [[Katja Krebs]]
-- [[Chas Macdonald]]
+- [[Charles MacDonald]]
 - [[Ruth Finnegan]]
 
 ### Vol. 25, Issue 3 (May 2003)
@@ -365,7 +365,7 @@
 - [[Clive Barnett]]
 - [[Göran Bolin]]
 - [[Jane Roscoe]]
-- [[Carrie A. Rentschler]]
+- [[Carrie Ann Rentschler]]
 - [[Yves Laberge]]
 - [[Katharine Sarikakis]]
 - [[Richard Kilborn]]
@@ -414,7 +414,7 @@
 - [[Toni Bruce]]
 - [[Roel Puijk]]
 - [[John Corner]]
-- [[Chas MacDonald]]
+- [[Charles MacDonald]]
 - [[David Calvey]]
 - [[Mark Percival]]
 - [[Jenny McKay]]
@@ -455,7 +455,7 @@
 - [[Russell Johnston]]
 - [[Patricia Cormack]]
 - [[Peter Lunt]]
-- [[Chas MacDonald]]
+- [[Charles MacDonald]]
 - [[Jennifer Birks]]
 - [[Yvette Taylor]]
 - [[James Hamilton]]
@@ -469,7 +469,7 @@
 
 - [[Tim Bergfelder]]
 - [[Hervé Glevarec]]
-- [[Lynne Wilcox]]
+- [[Lynn Wilcox]]
 - [[Ananda Mitra]]
 - [[Harmeet Sawhney]]
 - [[Seungwhan Lee]]
@@ -563,7 +563,7 @@
 - [[Sharon Boden]]
 - [[Philip Schlesinger]]
 - [[David Ward]]
-- [[Chas MacDonald]]
+- [[Charles MacDonald]]
 
 ### Vol. 28, Issue 3 (May 2006)
 

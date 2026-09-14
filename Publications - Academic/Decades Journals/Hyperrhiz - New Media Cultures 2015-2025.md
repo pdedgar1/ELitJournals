@@ -136,7 +136,7 @@ Advisory editors
 [[Sarah Whitcomb Laiola]]
 [[Jennifer O'Meara]]
 [[Dr. Academic Batgirl]]
-[[Amber Buck]]
+[[Amber M. Buck]]
 [[Liz Owens Boltz]] and [[Diana Brandon]]
 [[Davin Heckman]]
 [[Leonardo Flores]]

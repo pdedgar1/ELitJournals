@@ -284,7 +284,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - [[José P. Zagal]]
     
-- [[Amy Bruckman]]
+- [[Amy S. Bruckman]]
     
 
 ---

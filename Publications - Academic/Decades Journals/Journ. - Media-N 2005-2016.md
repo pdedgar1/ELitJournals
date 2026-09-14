@@ -133,7 +133,7 @@
 - [[Belinda Haikes]] — Space: The New Frontier (Panel Chair Introduction)
 - [[Robert Gero]] — Untitled (Temporal Spaces)
 - [[Jenn Figg]] — Untitled
-- [[Pete Baldes]] — Untitled
+- [[Peter Baldes]] — Untitled
 - [[Mike Salmond]] — Video Games as Medium, Future Paradigms and Practices (Panel Chair), with panelists [[Ben Chang]], [[Jon Cates]], and [[Eddo Stern]]
 - [[E. Marie Robertson]] — @ Exhibition (Review)
 ### Intermedia (Vol. 04 No. 01) — Spring 2008
@@ -210,7 +210,7 @@
 - [[Stephan Hillerbrand]] and [[Mary Magsamen]] — Dialogue (Hillerbrand+Magsamen)
 - [[Leila Nadir]] and [[Cary Peppermint]] — Dialogue (ecoarttech)
 - [[Julio Obelleiro]] and [[Casilda Sanchez]] — Dialogue
-- [[Ken Rinaldo]] and [[Amy Youngs]] — Dialogue
+- [[Ken Rinaldo]] and [[Amy M. Youngs]] — Dialogue
 - [[Pat Badani]] — LE CUBE: Center for Digital Creation, France (Review)
 - [[Jim Jeffers]] — Exhibition Review: Nicole Ratos Enerson (Review)
 - [[Daniël Ploeger]] — Fear, Impotence and Remote Masturbation: Repression of Male Sexuality in Stelarc's Rhetoric and Performance Practice (Review)

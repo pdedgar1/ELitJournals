@@ -156,7 +156,7 @@
 | [[Shane Cooper]]                            |
 | [[Waldemar Cordeiro]]                       |
 | [[Baude Cordier]]                           |
-| [[Phil Corner]]                             |
+| [[Philip Corner]]                             |
 | [[Keith Cottingham]]                        |
 | [[Luc Courchesne]]                          |
 | [[Jordan Crandall]]                         |
@@ -508,7 +508,7 @@
 | [[Max Kossatz]]                             |
 | [[Gideon May]]                              |
 | [[McCarthy/Kelley]]                         |
-| [[John McCormack]]                          |
+| [[Jon McCormack]]                          |
 | [[Ryan McKinley]]                           |
 | [[Alex McLean]]                             |
 | [[Marshall McLuhan]]                        |
@@ -594,7 +594,7 @@
 | [[Paper Tiger TV]]                          |
 | [[Gordon Pask]]                             |
 | [[Cord Passow]]                             |
-| [[Steve Paxton]]                            |
+| [[Steven Paxton]]                            |
 | [[Marko Peljhan]]                           |
 | [[A. R. Penck (Ralf Winkler)]]              |
 | [[Simon Penny]]                             |
@@ -648,7 +648,7 @@
 | [[Sophie Ristelhuber]]                      |
 | [[Joszef Robakowski]]                       |
 | [[Larry Robert]]                            |
-| [[Javier Roca]]                             |
+| [[Xavier Roca]]                             |
 | [[Ana Maria Rodriguez]]                     |
 | [[Peter Roehr]]                             |
 | [[Matthew Rogalsky]]                        |

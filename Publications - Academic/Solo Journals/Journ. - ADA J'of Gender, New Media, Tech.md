@@ -4,7 +4,7 @@
 | [[Kayla Aisher]]                |
 | [[Aren Z. Aizura]]              |
 | [[Kristin Allukian]]            |
-| [[Audrey Anable]]               |
+| [[Aubrey Anable]]               |
 | [[Schwartz Andy]]               |
 | [[Dorothy Atuhura]]             |
 | [[Moya Bailey]]                 |

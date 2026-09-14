@@ -34,7 +34,7 @@
 [[Emma Copley Eisenberg]]
 [[Stephen Phillips]]
 [[Francis Tseng]]
-[[Angèle Christin]]
+[[Angèle L. Christin]]
 [[Clayton Aldern]]
 [[Kendra Albert]], [[Maggie Delano]]
 [[Ali Breland]]

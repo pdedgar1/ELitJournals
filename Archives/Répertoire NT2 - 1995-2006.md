@@ -26,7 +26,7 @@ CELL Member : French-language E-lit
 | [[Pete Abrams]]                                          |
 | [[Deanne Achong]]                                        |
 | Agence TOPO]]                                            |
-| [[Démosthène Agrafiotis]]                                |
+| [[Démosthènes Agrafiotis]]                                |
 | [[Agricola de Cologne]]                                  |
 | [[Andrea Aisa]]                                          |
 | [[Madeleine Aktypi]]                                     |

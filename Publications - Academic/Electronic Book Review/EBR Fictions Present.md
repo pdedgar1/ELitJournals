@@ -144,7 +144,7 @@
 [[Stephen J. Burn]]
 [[Stephen Schryer]]
 [[Jeff Bursey]]
-[[Amy Elias]]
+[[Amy J. Elias]]
 
 ## 2007
 [[Brian McHale]]

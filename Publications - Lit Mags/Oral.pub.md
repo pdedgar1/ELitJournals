@@ -21,7 +21,7 @@
 
 ## #6
 [[Eli Payne Mandel]]
-[[Erida Robles]]
+[[Frida Robles]]
 [[Mabe Frattily]], [[Theo Ellin Ballew]]
 ## #7
 [[Issa Tellez]], [[Gómez Carlos]]

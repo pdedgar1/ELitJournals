@@ -609,7 +609,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[José P. Zagal]]
     
-- [[Rogelio E. Cardona-Rivera]]
+- [[Rogelio Enrique Cardona-Rivera]]
     
 - [[Megan Condis]]
     

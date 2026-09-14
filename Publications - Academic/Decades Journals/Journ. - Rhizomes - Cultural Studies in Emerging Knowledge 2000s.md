@@ -125,7 +125,7 @@
 - [[Gary Genosko]]
 - [[Kitty Millet]]
 - [[Craig J. Saper]]
-- [[Amber Musser]]
+- [[Amber Jamilla Musser]]
 - [[Jeffrey J. Cohen]] and [[Todd R. Ramlow]]
 - [[Donald L. Anderson]]
 - [[Rosi Braidotti]]

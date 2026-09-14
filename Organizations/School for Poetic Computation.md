@@ -25,7 +25,7 @@
 [[Melanie Hoff]]
 [[Tiri Kananuruk]]
 [[Galen Macdonald]]
-[[Sebastian Prado]]
+[[Sebastián Morales Prado]]
 [[Celine Wong Katzman]]
 
 # teachers fall 2013- fall 2019

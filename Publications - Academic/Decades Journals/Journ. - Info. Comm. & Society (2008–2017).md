@@ -131,7 +131,7 @@
 - [[William H. Dutton]]
 - [[Eleanor Burt]]
 - [[John Taylor]]
-- [[Alison Powell]]
+- [[Alison B. Powell]]
 - [[Andrew M. Ledbetter]]
 - [[Kiley A. Larson]]
 - [[Mariann Hardey]]
@@ -197,9 +197,9 @@
 - [[Sonia Livingstone]]
 - [[Lynn Schofield Clark]]
 - [[Nancy K. Baym]]
-- [[Andrew Ledbetter]]
+- [[Andrew M. Ledbetter]]
 - [[Marjorie Kibby]]
-- [[Alexander Halavais]]
+- [[Alexander M. C. Halavais]]
 
 ---
 
@@ -263,7 +263,7 @@
 - [[Ken'ichi Ikeda]]
 - [[Gerhard Fuchs]]
 - [[Joss Hands]]
-- [[Alice Marwick]]
+- [[Alice Emily Marwick]]
 - [[Danae McLeod]]
 - [[Johanna Sefyrin]]
 
@@ -683,7 +683,7 @@
 
 - [[Lynn Schofield Clark]]
 - [[Leslie Regan Shade]]
-- [[Annette Markham]]
+- [[Annette N. Markham]]
 - [[Alexander M. C. Halavais]]
 - [[Shira Chess]]
 - [[Daren C. Brabham]]
@@ -864,7 +864,7 @@
 - [[Brian Ekdale]]
 - [[Stephanie Edgerly]]
 - [[Liana Gamber Thompson]]
-- [[Andrew Schrock]]
+- [[Andrew R. Schrock]]
 - [[Lana Swartz]]
 - [[Emily K. Vraga]]
 - [[Chris Wells]]
@@ -920,7 +920,7 @@
 - [[Jussi Parikka]]
 - [[Franka Winter]]
 - [[Seth C. Lewis]]
-- [[Michael L. Barthel]]
+- [[Michael Lewis Barthel]]
 
 ---
 
@@ -1099,7 +1099,7 @@
 - [[Mia Consalvo]]
 - [[Jacqueline Ryan Vickery]]
 - [[Sheetal D. Agarwal]]
-- [[Michael L. Barthel]]
+- [[Michael Lewis Barthel]]
 - [[Caterina Rost]]
 - [[Alan Borning]]
 - [[W. Lance Bennett]]
@@ -1214,7 +1214,7 @@
 - [[Mauro Sarrica]]
 - [[Leopoldina Fortunati]]
 - [[Andreas Wittel]]
-- [[Paulo Gerbaudo]]
+- [[Paolo Gerbaudo]]
 - [[Sam de Boise]]
 - [[Samuel Burgum]]
 - [[Ruth Penfold-Mounce]]
@@ -1348,7 +1348,7 @@
 - [[Martin Gibbs]]
 - [[James Meese]]
 - [[Michael Arnold]]
-- [[Bjorn Nansen]]
+- [[Bjørn Nansen]]
 - [[Marcus Carter]]
 - [[Stine Gotved]]
 - [[Jacqueline Ryan Vickery]]
@@ -1389,7 +1389,7 @@
 #### Volume 18 / Issue 5
 
 - [[Laura Robinson]]
-- [[Apryl Williams]]
+- [[Apryl A. Williams]]
 - [[Jennifer Earl]]
 - [[Veronika Lukacs]]
 - [[Anabel Quan-Haase]]
@@ -1407,7 +1407,7 @@
 - [[Jeremy Schulz]]
 - [[Timothy M. Hale]]
 - [[Michael J. Stern]]
-- [[Alexander Halavais]]
+- [[Alexander M. C. Halavais]]
 
 ---
 
@@ -1501,7 +1501,7 @@
 
 - [[Jennifer Ihm]]
 - [[YuLi Patrick Hsieh]]
-- [[U. Matzat]]
+- [[Uwe Matzat]]
 - [[B. M. Sadowski]]
 - [[Katy E. Pearce]]
 - [[Marc Hooghe]]
@@ -1606,7 +1606,7 @@
 - [[Xiaoli Tian]]
 - [[Min Jiang]]
 - [[John J. Hondros]]
-- [[Amy Gonzales]]
+- [[Amy Lisa Gonzales]]
 - [[Alison B. Powell]]
 - [[Elirea Bornman]]
 
@@ -1829,7 +1829,7 @@
 
 #### Volume 19 / Issue 12
 
-- [[Andrew White]]
+- [[Andrew C. White]]
 - [[Olivia Conti]]
 - [[José Alberto Simões]]
 - [[Stacey May Koosel]]
@@ -1872,7 +1872,7 @@
 - [[Adriana Gil-Juárez]]
 - [[Liza Tsaliki]]
 - [[Yinyi Luo]]
-- [[Alex Bevan]]
+- [[Alex Louise Bevan]]
 - [[Ruth A. Deller]]
 
 ---
@@ -2010,7 +2010,7 @@
 #### Volume 20 / Issue 7
 
 - [[Jessie Daniels]]
-- [[Apryl Williams]]
+- [[Apryl A. Williams]]
 - [[Shantel Buggs]]
 - [[Gabe Ignatow]]
 - [[Laura Robinson]]
@@ -2147,7 +2147,7 @@
 - [[Ana Stojiljkovic]]
 - [[Marc Perelló-Sobrepere]]
 - [[Hyojung Sun]]
-- [[Anna Ozimek]]
+- [[Anna Maria Ozimek]]
 - [[Anthony Lloyd]]
 - [[Eleonora Guadagno]]
 - [[David Beer]]

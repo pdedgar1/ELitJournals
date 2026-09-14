@@ -1,7 +1,7 @@
 # Editorial Board 
 | Editors: [[Poe Johnson]], [[Mel Stanfill]], [[Christine Mains]], [[Jillian Kovach]], [[Tanya D. Zuk]], [[Taylore Nicole Woodhouse]], [[Khaliah Reed]], [[Katie Googe]], [[Adrienne E. Raw]], [[Fabienne Silberstein-Bamford]], [[Jaclyn Zhou]], [[Brienne A. Adams]], [[Francesca Coppa]] |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Adriana Amaral]]                                                                                                                                                                                                                                                                  |
+| [[Adriana da Rosa Amaral]]                                                                                                                                                                                                                                                                  |
 | [[Chelsea Fay Baumgartner]]                                                                                                                                                                                                                                                         |
 | [[Lucy Bennett]]                                                                                                                                                                                                                                                                    |
 | [[Paul J. Booth]]                                                                                                                                                                                                                                                                      |
@@ -739,7 +739,7 @@ Source: [TWC Archives](https://journal.transformativeworks.org/index.php/twc/iss
 - [[Victoria Serafini]]
 - [[Sandra Strauch]]
 - [[Allison McCracken]]
-- [[Alice Marwick]]
+- [[Alice Emily Marwick]]
 - [[Nicolle Lamerichs]]
 
 ---

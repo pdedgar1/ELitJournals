@@ -32,6 +32,6 @@
 [[Jeremy Hight]]
 [[Rob Wittig]] and [[Mark C. Marino]]
 [[Kate Pullinger]] and [[Kate Armstrong]]
-[[Roderick Coover]], [[Scott Rettberg]], [[Daria Tsoupikova]] and [[Arthurh Nishimoto]]
+[[Roderick Coover]], [[Scott Rettberg]], [[Daria Tsoupikova]] and [[Arthur Nishimoto]]
 [[Jason Nelson]]
 [[Judy Malloy]]

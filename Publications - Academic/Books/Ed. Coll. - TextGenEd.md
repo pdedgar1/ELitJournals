@@ -54,7 +54,7 @@ AI Literacy — [[Anna Mills]], [[Kayode Victor Amusan]], [[Maureen Gallagher]]
 Creative Explorations — [[Addison Eldin]], [[Daniel Hutchinson]], [[Erin Jensen]], [[Marc Watkins]]
 Ethics — [[Jeremy Proulx]]
 Professional Writing — [[Analeigh E. Horton]], [[Sara Large]]
-Prompt Engineering — [[Bryan Kopp]], [[Christopher McCracken]], [[Lindsay Steiner]],[[Louise Zamparutti]], [[Josh Anthony]], [[Emily Dux Speltz]], [[Abram Anders]], [[Brian Gogan]], [[Anuj Gupta]]
+Prompt Engineering — [[Bryan Kopp]], [[Christopher McCracken]], [[Lindsay Steiner]],[[Louise Zamparutti]], [[Josh Anthony]], [[Emily Dux Speltz]], [[Abram D. Anders]], [[Brian Gogan]], [[Anuj Gupta]]
 Rhetorical —[[John Gordon]], [[Emily Gillo]]
 
 ### Aug 2025

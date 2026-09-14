@@ -532,7 +532,7 @@ CELL Member : French-language E-lit
 | [[sipo.jp]]                           |
 | [[Pascual Sisto]]                     |
 | [[Skawennati]]                        |
-| [[Jayson Sloan]]                       |
+| [[Jason. Sloan]]                       |
 | [[Sara Sloan Bailey]]                 |
 | [[Jennifer L. Smith]]                 |
 | [[Alicia Smith]]                      |

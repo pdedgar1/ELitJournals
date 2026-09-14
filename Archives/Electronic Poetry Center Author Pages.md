@@ -11,7 +11,7 @@
 | [[Susan Bee]]               |
 | [[Dodie Bellamy]]           |
 | [[Caroline Bergvall]]       |
-| [[Alan Bernheimer]]         |
+| [[Alan W. Bernheimer]]         |
 | [[Charles Bernstein]]       |
 | [[Ted Berrigan]]            |
 | [[Mei-mei Berssenbrugge]]   |

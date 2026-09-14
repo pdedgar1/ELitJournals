@@ -30,7 +30,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Alessandro Gandini]]               |
 | [[Alex A Ahmed]]                     |
 | [[Alex Beattie]]                     |
-| [[Alex Bevan]]                       |
+| [[Alex Louise Bevan]]                       |
 | [[Alex Chalk]]                       |
 | [[Alexander Dhoest]]                 |
 | [[Alexander Rihl]]                   |
@@ -47,7 +47,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Allison E. White]]                  |
 | [[Allison Lazard]]                   |
 | [[Altman Yuzhu Peng]]                |
-| [[Amanda C. Cote]]                    |
+| [[Amanda Catherine Cote]]                    |
 | [[Amanda D. Lotz]]                   |
 | [[Amanda Keeler]]                    |
 | [[Ambar Reyes]]                      |
@@ -191,8 +191,8 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Charles H. Davis]]                  |
 | [[Charu Maithani]]                   |
 | [[Cherry Baylosis]]                  |
-| [[Cheryll Ruth R. Soriano]]           |
-| [[Cheryll Ruth R. Soriano]]             |
+| [[Cheryll Ruth Reyes Soriano]]           |
+| [[Cheryll Ruth Reyes Soriano]]             |
 | [[Chi Kwok]]                         |
 | [[Chris Bevan]]                      |
 | [[Chris Chesher]]                    |
@@ -493,7 +493,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Jason Chao]]                       |
 | [[Jason MacLeod]]                    |
 | [[Jason Pridmore]]                   |
-| [[Jason Vincent A Cabañes]]          |
+| [[Jason Vincent Aquino Cabañes]]          |
 | [[Jasper Wyld]]                      |
 | [[Jathan Sadowski]]                  |
 | [[Javier Guerrero-C]]                |
@@ -670,7 +670,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Marc Ouellette]]                   |
 | [[Marc Tuters]]                      |
 | [[Marcel Verhoeven]]                 |
-| [[Marcelo A dos Santos Jr]]          |
+| [[Marcelo Alves dos Santos Jr]]          |
 | [[Marcelo Santos]]                   |
 | [[Mareike Sperzel]]                  |
 | [[Maria Gemma Brown]]                |

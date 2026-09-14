@@ -69,7 +69,7 @@ Connect Project
 [[Press - ALT-X Press]]
 [[Mark Amerika]]
 [[Miall]]
-[[Lawrence J. Clark]]
+[[Lawrence James Clark]]
 [[Karin Wenz]]
 [[Journ. - Dichtung Digital]]
 [[Hyperpage]]

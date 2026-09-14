@@ -208,7 +208,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Charles Kadushin]]
 - [[Keith A. Reader]]
 - [[Edward S. Herman]]
-- [[Carry Whannel]]
+- [[Garry Whannel]]
 - [[Jennifer Daryl Slack]]
 - [[Kevin Robins]]
 
@@ -392,7 +392,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Philip Schlesinger]]
 - [[Pam Mills]]
 - [[Colin Sparks]]
-- [[Philin Schlesinger]]
+- [[Philip Schlesinger]]
 
 ### Vol. 8, Issue 1 (January 1986)
 

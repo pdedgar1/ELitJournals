@@ -7,7 +7,7 @@ partner [[Deena Larsen]]
 
 | Outreach Network              |
 | ----------------------------- |
-| [[Andrew Phelps]]             |
+| [[Andrew M. Phelps]]             |
 | [[Astrid Ensslin]]            |
 | [[Carlos Scolari]]            |
 | [[Caroline Bassett]]          |

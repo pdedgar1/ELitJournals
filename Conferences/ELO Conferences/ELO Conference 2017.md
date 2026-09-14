@@ -170,7 +170,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Cosima Bruno]] (U. London, UK), "Translation and Digital Performativity in Hsia Yü's 'Pink Noise'"
 - [[Pedro Andrade]] (U. Minho, Portugal), "Digital Literature and Big Knowledge"
 - [[Oreto Doménech]] (U. Barcelona, Spain), "Translating the Translations: A Close and yet Constructed Reading"
-- [[Anne Royston]] (U. Utah, USA), "'Nothing is Hiding:' The Entropy of Mark C. Taylor's 'The Réal'"
+- [[Anne M. Royston]] (U. Utah, USA), "'Nothing is Hiding:' The Entropy of Mark C. Taylor's 'The Réal'"
 - [[Mariusz Pisarski]] (U. Warsaw, Poland) and Monika Górska-Olesińska (U. Opole, Poland), "Modernizing Eastgate Classics. Translation as Creative Betrayal"
 
 Digital Poiesis, Digital Poetics 3 [Chair: Caitlin Fisher]  

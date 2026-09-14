@@ -1,7 +1,7 @@
 ### 2020
 |                                                                        |
 | ---------------------------------------------------------------------- |
-| [[Aaron Beveridge]], [[Sergio C. Figueiredo]], [[Steve Holmes]]        |
+| [[Aaron Beveridge]], [[Sergio C. Figueiredo]], [[Steven K. Holmes]]        |
 | [[Abbie Levesque DeCamp]]                                              |
 | [[Abby Koenig]]                                                        |
 | [[Abigail Bakke]]                                                      |
@@ -35,7 +35,7 @@
 | [[John R. Gallagher]]                                                  |
 | [[Jonathan L. Bradshaw]]                                               |
 | [[Kaylin O'Dell]]                                                      |
-| [[Kellie Gray]], [[Steve Holmes]]                                      |
+| [[Kellie Gray]], [[Steven K. Holmes]]                                      |
 | [[Lieke Verheijen]], [[Wilbert Spooren]], [[Ans van Kemenade]]         |
 | [[Lili Pâquet]]                                                        |
 | [[Matt Kessler]]                                                       |
@@ -96,7 +96,7 @@
 |                                                                           |
 | ------------------------------------------------------------------------- |
 | [[Amanda M. May]]                                                         |
-| [[Ann Amicucci]]                                                          |
+| [[Ann N. Amicucci]]                                                          |
 | [[Ashlyn C. Walden]]                                                      |
 | [[Christopher Sean Harris]], [[Lanette Cadle]], [[Elizabeth A. Monske]]   |
 | [[Elizabeth Caravella]]                                                   |
@@ -118,7 +118,7 @@
 | [[Rebecca Miner]]                                                         |
 | [[Rebekah Shultz Colby]]                                                  |
 |                                                                           |
-| [[Rebekah Shultz Colby]], [[Steve Holmes]]                                |
+| [[Rebekah Shultz Colby]], [[Steven K. Holmes]]                                |
 | [[Robert E. Cummings]]                                                    |
 | [[Sarah Riddick]], [[Rich Shivener]]                                      |
 | [[Shannon R. Wooden]]                                                     |

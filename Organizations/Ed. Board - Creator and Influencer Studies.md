@@ -11,7 +11,7 @@ University of Georgia, United States
 
 **Associate Editors**
 
-**[[Adriana Amaral]]**  
+**[[Adriana da Rosa Amaral]]**  
 Universidade Federal Fluminense, Brazil
 
 **[[Qian Huang]]**  
