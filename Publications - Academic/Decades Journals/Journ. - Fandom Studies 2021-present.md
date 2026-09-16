@@ -49,7 +49,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Hannah McCann]]
     
-- [[Clare Southerton]]
+- [[Clare Victoria Southerton]]
     
 - [[Sharmaine Loh]]
     
@@ -66,7 +66,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Kathleen Ann Riddell]]
     
-- [[Paul Booth]]
+- [[Paul J. Booth]]
     
 - [[Helena Louise Dare-Edwards]]
     
@@ -148,7 +148,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Linda Howell]]
     
-- [[Kelsey Entrikin]]
+- [[Kelsey Morgan Entrikin]]
     
 
 ---

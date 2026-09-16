@@ -115,7 +115,7 @@ University of Toronto Scarborough, Canada
 **[[Thomas Poell]]**  
 University of Amsterdam, The Netherlands
 
-**[[Godwin Simon]]**  
+**[[Godwin Iretomiwa Simon]]**  
 University of Toronto Scarborough, Canada
 
 **[[Ellen Simpson]]**  

@@ -9,7 +9,7 @@ partner [[Deena Larsen]]
 | ----------------------------- |
 | [[Andrew M. Phelps]]             |
 | [[Astrid Ensslin]]            |
-| [[Carlos Scolari]]            |
+| [[Carlos A. Scolari]]            |
 | [[Caroline Bassett]]          |
 | [[Claire Carroll]]            |
 | [[Deena Larsen]]              |
@@ -31,7 +31,7 @@ partner [[Deena Larsen]]
 | [[Noah Wardrip-Fruin]]        |
 | [[Oliver Ruf]]                |
 | [[Pamella Lach]]              |
-| [[Richard Carter]]            |
+| [[Richard A. Carter]]            |
 | [[Richard Holeton]]           |
 | [[Rob Sherman]]               |
 | [[Rob Wittig]]                |

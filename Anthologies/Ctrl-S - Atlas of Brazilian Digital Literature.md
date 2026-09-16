@@ -89,7 +89,7 @@
 |[[Ricardo Aleixo]]|
 |[[Joesér Alvarez]]|
 |[[Binho]]|
-|[[Carlos Moreira]]|
+|[[Carlos Augusto Moreira]]|
 |[[Bruno Caldas Vianna]]|
 |[[Gab Marcondes]]|
 |[[Marcelo Spalding]]|

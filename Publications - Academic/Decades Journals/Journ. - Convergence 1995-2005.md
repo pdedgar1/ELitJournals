@@ -156,7 +156,7 @@
 | [[Rik Lander]]                           |
 | [[Robin Alston]]                         |
 | [[Roger Silverstone]]                    |
-| [[Ross Harley]]                          |
+| [[Ross Rudesch Harley]]                          |
 | [[Roy Ascott]]                           |
 | [[Sarah Haynes]]                         |
 | [[Sarah Holloway]]                       |
@@ -416,7 +416,7 @@
 | [[Roddy Flynn]]                     |
 | [[Ronan Callanan]]                  |
 | [[Rorden Wilkinson]]                |
-| [[Ross Harley]]                     |
+| [[Ross Rudesch Harley]]                     |
 | [[Ryszard W. Kluszczyński]]         |
 | [[San San Chow]]                    |
 | [[Sandy Kyrish]]                    |

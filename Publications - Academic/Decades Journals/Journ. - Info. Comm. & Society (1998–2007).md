@@ -268,7 +268,7 @@
 - [[Charles N. Darrah]]
 - [[Andrea Saveri]]
 - [[Lonny J. Brooks]]
-- [[Geoffrey Bowker]]
+- [[Geoffrey C. Bowker]]
 
 ---
 
@@ -285,7 +285,7 @@
 - [[Michael Arnold]]
 - [[Charles D. Raab]]
 - [[David Mason]]
-- [[Robin Brown]]
+- [[Robin Seaton Brown]]
 
 ---
 
@@ -367,7 +367,7 @@
 - [[Mark Duffett]]
 - [[Stephen Lax]]
 - [[Neil Selwyn]]
-- [[Charles Raab]]
+- [[Charles D. Raab]]
 - [[David Mason]]
 - [[Bert-Jaap Koops]]
 - [[Joseph Fitsanakis]]
@@ -415,7 +415,7 @@
 - [[Lee Salter]]
 - [[Michael Hardey]]
 - [[Michel Laguerre]]
-- [[Charles Raab]]
+- [[Charles D. Raab]]
 - [[David Mason]]
 - [[Daniel Neyland]]
 - [[Jayne Rodgers]]
@@ -500,7 +500,7 @@
 - [[Karenza Moore]]
 - [[Gustavo Cardoso]]
 - [[Pedro Pereira Neto]]
-- [[Gustavo Mesch]]
+- [[Gustavo S. Mesch]]
 - [[Christopher May]]
 - [[Susana Nascimento]]
 
@@ -599,7 +599,7 @@
 - [[Brian D. Loader]]
 - [[William H. Dutton]]
 - [[Melinda Goldner]]
-- [[Carrie Sanders]]
+- [[Carrie B. Sanders]]
 - [[László Fekete]]
 - [[Caroline Haythornthwaite]]
 - [[Adrian Mackenzie]]

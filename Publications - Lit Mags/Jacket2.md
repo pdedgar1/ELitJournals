@@ -426,7 +426,7 @@ Founder [[John Tranter]]
 | [[Robert Hampson]]              |
 | [[Robert Majzels]]              |
 | [[Robert Mittenthal]]           |
-| [[Robert Mueller]]              |
+| [[Robert Emmett Mueller]]              |
 | [[Robert Sheppard]]             |
 | [[Robert Zaller]]               |
 | [[Ron Padgett]]                 |

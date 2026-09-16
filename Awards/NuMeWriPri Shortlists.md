@@ -139,7 +139,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Xiaofan Jiang]]                                                                                                                                           |
 | [[Omi Zola Gupta]]                                                                                                                                          |
 | [[Margarita Valderrama]]                                                                                                                                    |
-| [[Will Luers]], [[Hazel Smith]], [[Roger Dean]]                                                                                                             |
+| [[Will Luers]], [[Hazel Smith]], [[Roger T. Dean]]                                                                                                             |
 | [[David Thomas Henry Wright]], [[Chris Arnold]]                                                                                                             |
 | [[Vidya Rajan]]                                                                                                                                             |
 | [[George Lockett]], [[Rob Thorman]]                                                                                                                         |

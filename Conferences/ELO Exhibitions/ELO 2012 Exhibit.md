@@ -31,7 +31,7 @@
 [[Eric LeMay]]
 [[Jason Edward Lewis]]
 [[A. J. Patrick Liszkiewicz]]
-[[Will Luers]], [[Roger Dean]], and [[Hazel Smith]]
+[[Will Luers]], [[Roger T. Dean]], and [[Hazel Smith]]
 [[Judy Malloy]]
 [[Chris Mann]]
 [[Lello Masucci]]

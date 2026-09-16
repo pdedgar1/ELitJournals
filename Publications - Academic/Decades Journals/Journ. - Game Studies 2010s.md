@@ -10,7 +10,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - Volume/Issue: 11.1
     
-- [[Christopher Moore]]
+- [[Christopher Luke Moore]]
     
 - [[Jason Begy]]
     

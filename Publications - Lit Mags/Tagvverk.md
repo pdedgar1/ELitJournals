@@ -216,7 +216,7 @@
 | [[Theo Eliezer]]                                                          |
 | [[Timothy Otte]]                                                          |
 | [[Toby Altman]]                                                           |
-| [[TR Brady]]                                                              |
+| [[T. R. Brady]]                                                              |
 | [[Tracy Fuad]]                                                            |
 | [[Travis Sharp]]                                                          |
 | [[Valerie Hsiung]]                                                        |

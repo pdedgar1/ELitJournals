@@ -337,7 +337,7 @@ _PoetryNet, LitNet's English-language poetry platform: previously published poet
 - [[Myesha Jenkins]]
 - [[Aryan Kaganof]]
 - [[Angie Kleijn]]
-- [[Koos A Kombuis]]
+- [[Koos Kombuis]]
 - [[Rustum Kozain]]
 - [[Haidee Kruger]]
 - [[Peter Krummeck]]

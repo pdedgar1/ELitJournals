@@ -1192,13 +1192,13 @@
 | [[António Rito Silva]]                           |
 | [[Courtney Rivard]]                              |
 | [[Zahra Rizvi]]                                  |
-| [[Richard Roberts]]                              |
+| [[Richard H. Roberts]]                              |
 | [[Bruce Robertson]]                              |
 | [[Jennifer Roberts-Smith]]                       |
 | [[Peter Robinson]]                               |
 | [[Rubria Rocha de Luna]]                         |
-| [[Geoffrey Rockwell]]                            |
-| [[Geoffrey Rockwell]]                            |
+| [[Geoffrey M. Rockwell]]                            |
+| [[Geoffrey M. Rockwell]]                            |
 | [[Marie Rodet]]                                  |
 | [[Paul Rodriguez]]                               |
 | [[Rolando Rodriguez]]                            |

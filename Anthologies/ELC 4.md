@@ -142,7 +142,7 @@
 [[Priti Pandurangan]]
 [[Ren Yang]]
 [[Richard A. Carter]]
-[[Roger Dean]], [[Will Luers]], + [[Hazel Smith]]
+[[Roger T. Dean]], [[Will Luers]], + [[Hazel Smith]]
 [[Samantha Gorman]]
 [[Sarah Ciston]]
 [[Serge Bouchardon]]

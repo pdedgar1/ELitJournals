@@ -215,7 +215,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Christothea Herodotou]]            |
 | [[Claes Thorén]]                     |
 | [[Claire Moran]]                     |
-| [[Claire Parnell]]                   |
+| [[Claire Louise Parnell]]                   |
 | [[Claire Shinhea Lee]]               |
 | [[Claire Squires]]                   |
 | [[Clancy Wilmott]]                   |
@@ -617,7 +617,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Larissa Nicholls]]                 |
 | [[Larissa Pschetz]]                  |
 | [[Lars de Wildt]]                    |
-| [[Lars E. F. Johannessen]]              |
+| [[Lars EF Johannessen]]              |
 | [[Lasse Juel Larsen]]                |
 | [[Laura Formenti]]                   |
 | [[Laura Vodden]]                     |
@@ -670,7 +670,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Marc Ouellette]]                   |
 | [[Marc Tuters]]                      |
 | [[Marcel Verhoeven]]                 |
-| [[Marcelo Alves dos Santos Jr]]          |
+| [[Marcelo Alves dos Santos Jr.]]          |
 | [[Marcelo Santos]]                   |
 | [[Mareike Sperzel]]                  |
 | [[Maria Gemma Brown]]                |
@@ -843,7 +843,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Rachel Noorda]]                    |
 | [[Rafael Grohmann]]                  |
 | [[Ragan Glover]]                     |
-| [[Ralf De Wolf]]                     |
+| [[Ralf Patrick De Wolf]]                     |
 | [[Ralph Schroeder]]                  |
 | [[Ramon Lobato]]                     |
 | [[Ranjana Das]]                      |
@@ -853,7 +853,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Rebecca Coates Nee]]               |
 | [[Rebecca Raby]]                     |
 | [[Rebecca Saunders]]                 |
-| [[Rebekah Willett]]                  |
+| [[Rebekah Jane Willett]]                  |
 | [[Reinald Besalú]]                   |
 | [[Renan Petersen-Wagner]]            |
 | [[Restricted accessBook review]]   |
@@ -863,7 +863,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Rhys Comissiong]]                  |
 | [[Ri Pierce-Grove]]                  |
 | [[Riccardo Pronzato]]                |
-| [[Richard Brown]]                    |
+| [[Richard D. Brown]]                    |
 | [[Richard Cole]]                     |
 | [[Richie Barker]]                    |
 | [[Rituparna Banerjee]]               |
@@ -879,7 +879,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Rose Marie Santini]]               |
 | [[Ross Bonifacio]]                   |
 | [[Rowan Tulloch]]                    |
-| [[Rowan Wilken]]                     |
+| [[Rowan Cameron Wilken]]                     |
 | [[Ruben Vandenplas]]                 |
 | [[Rui Raposo]]                       |
 | [[Ruth DeSouza]]                     |
@@ -1034,7 +1034,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Venetia Papa]]                     |
 | [[Verity Anne Trott]]                     |
 | [[Veysel Bozan]]                     |
-| [[Vicente Navarro-Adelantado]]       |
+| [[Vicente Navarro Adelantado]]       |
 | [[Vicki Clifton]]                    |
 | [[Víctor Ávila Torres]]              |
 | [[Víctor Navarro-Remesal]]           |

@@ -20,7 +20,7 @@
 | [[Benjamin Grey]]                      |
 | [[Elizabeth Hopwood]]                  |
 | [[Jonathan Fitzgerald]]                |
-| [[Melanie E. S. Kohnen]]                     |
+| [[Melanie ES Kohnen]]                     |
 | [[Jacob Murel]]                        |
 | [[Duyen Nguyen]]                       |
 | [[Kristin Økland]]                     |
@@ -40,7 +40,7 @@
 | [[Matthew G. Kirschenbaum]]               |
 | [[Nika Mavrody]]                       |
 | [[Jessica Pressman]]                   |
-| [[Geoffrey Rockwell]]                  |
+| [[Geoffrey M. Rockwell]]                  |
 | [[Stéfan Sinclair]]                   |
 | [[John Unsworth]]                      |
 | [[Shu Wan]]                            |

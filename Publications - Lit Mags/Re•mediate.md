@@ -76,7 +76,7 @@
 [[Arden Schager]]
 [[Kevin G. Smith]]
 
-## Issue 6 guest edited by [[Benjamín Escalonilla]] of [[las quince letras]]
+## Issue 6 guest edited by [[Benjamín Escalonilla]] of [[las quince letras - Spain]]
 [[Leonardo Flores]]
 [[Justin Gallant]]
 [[Audrey Coble]]
@@ -84,8 +84,13 @@
 [[Collier Nogues]]
 [[Sean Carroll]]
 [[Aaron El Sabrout]]
-[[Mark C. Marino]], [[Tina Escaja aka Alm@ Pérez]], [[Benjamín Escalonilla]], [[Victoria Clarckson]], [[María Garay Arriba]], [[David Ciccoricco]], [[AltSalt Publishing + ScrollCinema]],
+[[Mark C. Marino]], [[Tina Escaja aka Alm@ Pérez]], [[Benjamín Escalonilla]], [[Victoria Clarckson]], [[María Garay Arriba]], [[David Ciccoricco]], [[AltSalt Publishing + ScrollCinema]], [[La Rata Hedionda]], [[Joshua Wood]], [[ChatGPT]]
+[[Amanda Hodes]]
 [[Nicolás Gerardi Rousset]]
+[[Claude]]
+### Zines with 
+[[R. Lyle Skains]]
+[[Samya Brata Roy]]
 
 ### letters by 
 [[max]]

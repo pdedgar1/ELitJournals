@@ -41,7 +41,7 @@ Authors: [[Kuisma Korhonen]], [[Ignaas Devisch]], [[Marie-Eve Morin]], [[Angela 
 # Vol. 9 (2007): Recordings
 Date: 2007
 Editors: [[Paul Hegarty]], [[Gary Genosko]]
-Authors: [[Eugene Thacker]], [[Greg Hainge]], [[Jérôme Hansen]], [[Ross Harley]], [[Andrew Murphie]], [[Dan Hays]]
+Authors: [[Eugene Thacker]], [[Greg Hainge]], [[Jérôme Hansen]], [[Ross Rudesch Harley]], [[Andrew Murphie]], [[Dan Hays]]
 
 # Vol. 10 (2009): Pirate Philosophy
 Date: 2009
@@ -51,7 +51,7 @@ Authors: [[Adrian Johns]], [[Jonas Andersson]], [[Don Joyce]], [[Negativland]], 
 # Vol. 11 (2010): Creative Media
 Date: 2010
 Editors: [[Sarah Kember]], [[Joanna Zylinska]]
-Authors: [[Rowan Wilken]], [[Gary Hall]], [[Clare Birchall]], [[Peter Woodbridge]], [[Nina Sellars]], [[Patrick Crogan]], [[David Penny]], [[Federica Frabetti]], [[Eleni Ikoniadou]]
+Authors: [[Rowan Cameron Wilken]], [[Gary Hall]], [[Clare Birchall]], [[Peter Woodbridge]], [[Nina Sellars]], [[Patrick Crogan]], [[David Penny]], [[Federica Frabetti]], [[Eleni Ikoniadou]]
 
 # Vol. 12 (2011): The Digital Humanities: Beyond Computing
 Date: 2011
@@ -85,7 +85,7 @@ Authors: [[Wolfgang Ernst]], [[Erhard Schüttpelz]], [[Samir Bhowmik]], [[Paula 
 # Vol. 18 (2019): The Nature of Data Centres
 Date: 2019
 Editors: [[Mél Hogan]], [[Asta Vonderau]]
-Authors: [[Adam Fish]], [[Bradley L. Garrett]], [[Alix Johnson]], [[Anthony M. Levenda]], [[Dillon Mahmoudi]], [[Vicki Mayer]], [[Matt Parker]], [[Anne Pasek]], [[A. R. E. Taylor]], [[Julia Velkova]], [[Sean RM Willett]]
+Authors: [[Adam Fish]], [[Bradley L. Garrett]], [[Alix Johnson]], [[Anthony M. Levenda]], [[Dillon Mahmoudi]], [[Vicki Mayer]], [[Matt Parker]], [[Anne Pasek]], [[ARE Taylor]], [[Julia Velkova]], [[Sean RM Willett]]
 
 # Vol. 19 (2020): Media Populism
 Date: 2020

@@ -302,7 +302,7 @@ Dr. [[Richard A. Carter]] is a Senior Lecturer in Digital Culture at the Univers
 
 [[Hazel Smith]] Hazel Smith (text, concept), 
 
-[[Roger Dean]] (sound, image, concept, programming). They (together with Will Luers) won the 
+[[Roger T. Dean]] (sound, image, concept, programming). They (together with Will Luers) won the 
 
 [[Roque Alcañiz]] (Vigo, 2000) is a PhD candidate in Literature and Culture Studies at the University of Santiago 
 

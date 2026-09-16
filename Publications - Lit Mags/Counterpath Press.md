@@ -74,7 +74,7 @@
 [[Barbara Claire Freeman]]
 [[Stephen Ratcliffe]]
 [[Jeremy M. Davies]]
-[[Tomaz Salamun]]
+[[Tomaž Šalamun]]
 [[René Char]], trans. [[Gustaf Sobin]]
 [[Gustaf Sobin]]
 [[Carol Snow]]

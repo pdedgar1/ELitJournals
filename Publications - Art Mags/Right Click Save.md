@@ -55,7 +55,7 @@ Digital Art Magazine Post-2020
 |[[Carla Gannis]]|
 |[[Carla Rapoport]]|
 |[[Carlos Marcial]] and [[Richard Entrup]]|
-|[[Caroline Csuri]] and [[Elaine O'Hanrahan]] reflect on two pioneering generative artists with [[Douglas Dodds]] and [[Leslie Jones]]|
+|[[Caroline Csuri]] and [[Elaine O'Hanrahan]] reflect on two pioneering generative artists with [[Douglas Dodds]] and [[Leslie Kay Jones]]|
 |[[Charlotte Kent]]|
 |[[Charlotte Kent]]|
 |[[Charlotte Kent]]|
@@ -79,7 +79,7 @@ Digital Art Magazine Post-2020
 |[[Diane Drubay]]|
 |[[Dina Chang]]|
 |[[Douglas Dodds]]|
-|[[Douglas Dodds]] and [[Leslie Jones]]|
+|[[Douglas Dodds]] and [[Leslie Kay Jones]]|
 |[[Elisabeth Sweet]]|
 |[[Elisabeth Sweet]]|
 |[[Elisabeth Sweet]]|

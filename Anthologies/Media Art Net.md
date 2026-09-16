@@ -462,7 +462,7 @@
 | [[Robert Lippok]]                           |
 | [[Christoph Lischka]]                       |
 | [[Stephan Lochner]]                         |
-| [[Carl Loeffler]]                           |
+| [[Carl Eugene Loeffler]]                           |
 | [[Markus Löffler]]                          |
 | [[Chip Lord]]                               |
 | [[Rafael Lozano-Hemmer]]                    |
@@ -659,7 +659,7 @@
 | [[Julian Rosefeldt]]                        |
 | [[Ulrike Rosenbach]]                        |
 | [[Martha Rosler]]                           |
-| [[Otto Rössler]]                            |
+| [[Otto E. Rössler]]                            |
 | [[Dieter Roth]]                             |
 | [[RSG]]                                     |
 | [[RTMark]]                                  |
@@ -852,7 +852,7 @@
 | [[Marius Watz]]                             |
 | [[WDR Studio Akustische Kunst]]             |
 | [[Peter Weibel]]                            |
-| [[Grahame Weinbren]]                        |
+| [[Grahame String Weinbren]]                        |
 | [[Wim Wenders]]                             |
 | [[Herbert Wentscher]]                       |
 | [[Anton von Werner]]                        |

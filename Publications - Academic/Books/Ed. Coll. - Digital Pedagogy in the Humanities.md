@@ -82,4 +82,4 @@
 | [[Daniel Anderson]]          |
 | [[Jason Loan]]               |
 | [[Stéfan Sinclair]]          |
-| [[Geoffrey Rockwell]]        |
+| [[Geoffrey M. Rockwell]]        |

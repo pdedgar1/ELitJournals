@@ -19,7 +19,7 @@
 
 - [[Chris Anson]]
 - [[Shawn Neely]]
-- [[Geoffrey Carter]]
+- [[Geoffrey V. Carter]]
 - [[Bill Williamson]]
 - [[Steven Fraiberg]]
 - [[Paul X. Rutz]]
@@ -36,14 +36,14 @@
 
 ### Vol. 15, Issue 1 (Fall 2010): Open Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Daniel Anderson]]
 - [[bonnie lenore kyburz]]
 - [[Drew Kopp]]
 - [[Sharon McKenzie Stevens]]
 - [[Jessica Rivait]]
 - [[Cheri Toledo]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Casey Boyle]]
 - [[Keith L. Harms]]
 - [[Steven K. Holmes]]
@@ -95,8 +95,8 @@
 ### Vol. 16, Issue 2 (Spring 2012): Open Issue
 
 - [[Douglas Eyman]]
-- [[Cheryl Ball]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
+- [[Cheryl E. Ball]]
 - [[Jennifer Bowie]]
 - [[Derek N. Mueller]]
 - [[Daniel Anderson]]
@@ -157,8 +157,8 @@
 
 ### Vol. 17, Issue 1 (Fall 2012): Open Issue
 
-- [[Cheryl Ball]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
+- [[Cheryl E. Ball]]
 - [[Claire Lauer]]
 - [[Rachel Parish]]
 - [[Kathryn Perry]]
@@ -168,13 +168,13 @@
 - [[Crystal Benedicks]]
 - [[Rose Benedicks]]
 - [[Michele Buddie]]
-- [[Geoffrey Middlebrook]]
+- [[Geoffrey C. Middlebrook]]
 - [[Erin M. Presley]]
 
 ### Vol. 17, Issue 2 (Spring 2013): Open Issue
 
-- [[Cheryl Ball]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
+- [[Cheryl E. Ball]]
 - [[Victor J. Vitanza]]
 - [[Virginia Kuhn]]
 - [[Jen Almjeld]]
@@ -190,7 +190,7 @@
 
 ### Vol. 17, Issue 3 (Summer 2013): Multimodal Research Within/Across/Without Borders
 
-- [[Karen Lunsford]]
+- [[Karen J. Lunsford]]
 - [[Michael Neal]]
 - [[Katherine Bridgman]]
 - [[Stephen J. McElroy]]
@@ -213,13 +213,13 @@
 
 ### Vol. 18, Issue 1 (Fall 2013): Accessibility and Multimodal Composition
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[M. Remi Yergeau]]
 - [[Elizabeth Brewer]]
 - [[Stephanie Kerschbaum]]
 - [[Sushil K. Oswal]]
 - [[Margaret Price]]
-- [[Cynthia L. Selfe]]
+- [[Cynthia L. "Cindy" Selfe]]
 - [[Michael J. Salvo]]
 - [[Franny Howes]]
 - [[Tara Wood]]
@@ -233,8 +233,8 @@
 
 ### Vol. 18, Issue 2 (Spring 2014): Open Issue
 
-- [[Cheryl Ball]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
+- [[Cheryl E. Ball]]
 - [[Mark D. Pepper]]
 - [[Marc C. Santos]]
 - [[Ella R. Bieze]]
@@ -248,19 +248,19 @@
 - [[Nicole Hancock]]
 - [[Lynn Reid]]
 - [[Dan Wuebben]]
-- [[Nathaniel Rivers]]
+- [[Nathaniel A. Rivers]]
 - [[Elizabeth A. Monske]]
 - [[Carly Finseth]]
 - [[Jennifer deWinter]]
 
 ### Vol. 19, Issue 1 (Fall 2014): Open Issue
 
-- [[Cheryl Ball]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
+- [[Cheryl E. Ball]]
 - [[Michael Salvo]]
 - [[Michael Day]]
 - [[Kris Blair]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Douglas Eyman]]
 - [[Fred Johnson]]
 - [[Einar Sneve Martinussen]]
@@ -285,7 +285,7 @@
 
 ### Vol. 19, Issue 2 (Spring 2015): Open Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Ehren Helmut Pflugfelder]]
 - [[David M. Sheridan]]
 - [[Debra Journet]]
@@ -335,7 +335,7 @@
 
 ### Vol. 20, Issue 1 (Fall 2015): Infrastructures of Writing
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Casey Miles]]
 - [[Jennifer deWinter]]
 - [[Stephanie Vie]]
@@ -377,7 +377,7 @@
 
 ### Vol. 20, Issue 2 (Spring 2016): 20th Anniversary Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Douglas Eyman]]
 - [[Karl Stolley]]
 - [[Benjamin Miller]]
@@ -450,7 +450,7 @@
 
 ### Vol. 21, Issue 1 (Fall 2016): Embodied Sound
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Crystal VanKooten]]
 - [[Janine Butler]]
 - [[Derek Mueller]]
@@ -472,7 +472,7 @@
 - [[Amy Zimmerman]]
 - [[Jacob W. Craig]]
 - [[Megan Adams]]
-- [[Kristine Blair]]
+- [[Kristine L. Blair]]
 - [[Thomas Peele]]
 - [[Marisa Sandoval Lamb]]
 - [[Jenna Sheffield]]
@@ -489,7 +489,7 @@
 
 ### Vol. 21, Issue 2 (Spring 2017): Open Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Way Jeng]]
 - [[Laurie Gries]]
 - [[Alexandra Hidalgo]]
@@ -521,7 +521,7 @@
 
 ### Vol. 22, Issue 1 (Fall 2017): Open Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Janine Butler]]
 - [[Joseph Cirio]]
 - [[Victor Del Hierro]]
@@ -555,7 +555,7 @@
 
 ### Vol. 22, Issue 2 (Spring 2018): Open Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Kendra Andrews]]
 - [[Paul Muhlhauser]]
 - [[Daniel Schafer]]
@@ -585,10 +585,10 @@
 
 ### Vol. 23, Issue 1 (Fall 2018): Open Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Sean Zdenek]]
 - [[Anastasia Salter]]
-- [[Roger Whitson]]
+- [[Roger Todd Whitson]]
 - [[Jason Helms]]
 - [[Jason Helms]]
 - [[Jenae Druckman Cohn]]
@@ -602,7 +602,7 @@
 
 ### Vol. 23, Issue 2 (Spring 2019): Open Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Douglas Eyman]]
 - [[Alexandra Hidalgo]]
 - [[Abigail Lambke]]
@@ -626,7 +626,7 @@
 
 ### Vol. 24, Issue 1 (Fall 2019): Ownership, Authorship, & Copyright
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Karen J. Lunsford]]
 - [[John Logie]]
 - [[TyAnna K. Herrington]]

@@ -23,7 +23,7 @@
 - [[Donna Spehar]]
 - [[Dagmar Stuehrk Corrigan]]
 - [[Isidro Grau]]
-- [[Christopher Dean]]
+- [[Christopher W. Dean]]
 - [[John McLaughlin]]
 - [[Christopher Penna]]
 - [[Tony Scott]]
@@ -57,7 +57,7 @@
 - [[Rich Rice]]
 - [[Rebecca Rickly]]
 - [[Mike Salvo]]
-- [[Cynthia Selfe]]
+- [[Cynthia L. "Cindy" Selfe]]
 - [[Sally Henschel]]
 - [[Corinna McLeod]]
 - [[Nancy Patterson]]
@@ -126,7 +126,7 @@
 - [[Nancy Myers]]
 - [[Keith Rhodes]]
 - [[Joan Latchaw]]
-- [[Carlton Clark]]
+- [[Carlton L. Clark]]
 - [[Lynne Spigelmire Viti]]
 - [[Dánielle Nicole DeVoss]]
 - [[Zach Waggoner]]
@@ -145,7 +145,7 @@
 - [[Lisa Hammond Rashley]]
 - [[Beth Hewett]]
 - [[Erin Smith]]
-- [[Robert Yagelski]]
+- [[Robert P. Yagelski]]
 - [[Ray Rodrigues]]
 - [[Cynthia Jeney]]
 - [[Joel English]]
@@ -170,7 +170,7 @@
 
 ### Vol. 7, Issue 1 (Spring 2002): Disability - Demonstrated By and Mediated Through Technology
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Beth Hewett]]
 - [[Patricia A. Dunn]]
 - [[Kathleen Dunn De Mers]]
@@ -190,7 +190,7 @@
 - [[Angeline Kapferer]]
 - [[Marian Lupo]]
 - [[Ben Patton]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Beth Hewett]]
 - [[Sarah K. Brem]]
 - [[Joyce R. Walker]]
@@ -275,7 +275,7 @@
 - [[Cheryl Greene]]
 - [[Teryl Sands-Herz]]
 - [[Zach Waggoner]]
-- [[Patricia Webb]]
+- [[Patricia R. Webb]]
 - [[Larry Lafond]]
 - [[Kelly Martin]]
 - [[Safia El Wakil]]
@@ -305,14 +305,14 @@
 - [[Angelo Bonadonna]]
 - [[Megan Hughes]]
 - [[Gail E. Hawisher]]
-- [[Cynthia L. Selfe]]
+- [[Cynthia L. "Cindy" Selfe]]
 - [[Janice R. Walker]]
 - [[Susan Elaine Antlitz]]
 - [[Michael Day]]
 - [[Bradley Dilger]]
 - [[Traci Gardner]]
 - [[Joan Latchaw]]
-- [[Karen Lunsford]]
+- [[Karen J. Lunsford]]
 - [[Gloria McMillan]]
 - [[Veronica Pantoja]]
 - [[Mark Richardson]]
@@ -331,7 +331,7 @@
 - [[Hallie S. Lemon]]
 - [[Diana Gabbert]]
 - [[Kathleen O'Donnell-Brown]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Jeffrey Cain]]
 - [[Tracy Clark]]
 - [[Catherine Gabor]]
@@ -351,7 +351,7 @@
 - [[George Pullman]]
 - [[Michael J. Salvo]]
 - [[Mick Doherty]]
-- [[Collin Brooke]]
+- [[Collin Gifford Brooke]]
 - [[Cynthia Nichols]]
 - [[Carl Whithaus]]
 - [[Peter Sands]]
@@ -407,14 +407,14 @@
 
 ### Vol. 9, Issue 1 (Fall 2004): The Rhetoric and Pedagogy of Portable Technologies
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Beth Hewett]]
-- [[Christopher Dean]]
+- [[Christopher W. Dean]]
 - [[Will Hochman]]
 - [[Carra Hood]]
 - [[Robert McEachern]]
 - [[Melissa Graham Meeks]]
-- [[Ryan Moeller]]
+- [[Ryan M. Moeller]]
 - [[Meredith Zoetewey]]
 - [[Ellen Cushman]]
 - [[Bob Whipple, Jr.]]
@@ -433,7 +433,7 @@
 - [[Kevin Eric De Pew]]
 - [[Tom Ferstle]]
 - [[Angela Pettit]]
-- [[Colleen Reilly]]
+- [[Colleen A. Reilly]]
 - [[Paul Rogers]]
 - [[John Rothfork]]
 - [[Jessica Singer]]
@@ -460,9 +460,9 @@
 
 ### Vol. 10, Issue 1 (Fall 2005): The Intersections of Online Writing Spaces, Rhetorical Theory, and the Composition Classroom
 
-- [[Leah Cassorla]]
+- [[Leah F. Cassorla]]
 - [[Beth Hewett]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Bill Hart-Davidson]]
 - [[Ellen Cushman]]
 - [[Jeff Grabill]]
@@ -484,7 +484,7 @@
 
 ### Vol. 10, Issue 2 (Spring 2006): New Writing and Computer Technologies: Computers and Writing 2005
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Beth Hewett]]
 - [[Suzanne Blum-Malley]]
 - [[Elize Naude]]
@@ -496,7 +496,7 @@
 - [[George Bailey]]
 - [[Marshall W. Kitchens]]
 - [[Rich Rice]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Robert Samuels]]
 - [[Madeleine Sorapure]]
 - [[Joyce Walker]]
@@ -509,7 +509,7 @@
 
 ### Vol. 11, Issue 1 (Fall 2006): Kairos 10th Anniversary Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Beth Hewett]]
 - [[Tracy Bridgeford]]
 - [[Leah F. Cassorla]]
@@ -527,7 +527,7 @@
 
 ### Vol. 11, Issue 2 (Spring 2007): Celebrating Computers and Writing 2006
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Beth Hewett]]
 - [[Rich Rice]]
 - [[Beth Brunk-Chavez]]
@@ -547,7 +547,7 @@
 
 ### Vol. 11, Issue 3 (Summer 2007): Special Issue: Classical Rhetoric and Digital Communication
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Beth Hewett]]
 - [[Kevin Brooks]]
 - [[Andrew Mara]]
@@ -623,7 +623,7 @@
 - [[Ted Remington]]
 - [[Spencer Schaffner]]
 - [[Karl Stolley]]
-- [[Robert Watkins]]
+- [[Robert Dennis Watkins]]
 
 ### Vol. 13, Issue 1 (Fall 2008): New Design Debut
 
@@ -635,7 +635,7 @@
 - [[Billy O'Steen]]
 - [[Shannon Mondor]]
 - [[Angela Rounsaville]]
-- [[Ryan Omizo]]
+- [[Ryan M. Omizo]]
 - [[Douglas Walls]]
 - [[D. Alexis Hart]]
 - [[Rebekah Shultz Colby]]

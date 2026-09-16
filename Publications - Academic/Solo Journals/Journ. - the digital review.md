@@ -6,7 +6,7 @@
 [[Judy Malloy]]
 [[Eugenio Tisselli]]
 [[Stuart Moulthrop]]
-[[Hazel Smith]], [[Roger Dean]], [[austraLYSIS]] and Western Sydney University
+[[Hazel Smith]], [[Roger T. Dean]], [[austraLYSIS]] and Western Sydney University
 [[David Jhave Johnston]]
 [[Rui Torres]] and [[Diogo Marques]]
 [[Cassandre Poirier-Simon]]

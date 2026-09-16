@@ -499,7 +499,7 @@
 | [[Christian Roth]]                  |
 | [[Ivar E. Vermeulen]]               |
 | [[Gabriele Ferri]]                  |
-| [[Sercan Sengün]]                   |
+| [[Sercan Şengün]]                   |
 | [[]]                                |
 | [[Arne Grinder-Hansen]]             |
 | [[Henrik Schoenau-Fog]]             |
@@ -919,7 +919,7 @@
 | [[Carmi Terzulli]]                  |
 | [[Joshua A. Fisher]]                |
 | [[]]                                |
-| [[María Goicoechea]]                |
+| [[María Goicoechea de Jorge]]                |
 | [[]]                                |
 | [[Mark C. Marino]]                  |
 | [[Jonathan Lessard]]                |

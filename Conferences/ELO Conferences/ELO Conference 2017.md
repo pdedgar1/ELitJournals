@@ -246,7 +246,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 - [[Ana Maria Silva Machado]] (U. Coimbra, Portugal), [[Andy Campbell]] (UK), [[Ana Sofia Albuquerque e Aguilar]] (U. Coimbra, Portugal), [[Ian Harper]]* and [[António Oliveira]]*, "'Inanimate Alice' - The Story of the Series and its Impact in Portugal"
 - [[Laura Santini]] (U. Genoa, Italy), "Re-mediation and Code-switching in Contemporary E-literature and Codex Book Novels"
 
-- [[Lívia Bertges]] (Federal U. Mato Grosso, Brazil) and Vinícius Pereira (Federal U. of Mato Grosso, Brazil), "An Analysis of Arnaldo Antunes' GIF Poems"
+- [[Lívia Ribeiro Bertges]] (Federal U. Mato Grosso, Brazil) and Vinícius Pereira (Federal U. of Mato Grosso, Brazil), "An Analysis of Arnaldo Antunes' GIF Poems"
 - [[Søren Bro Pold]] (Aarhus U., Denmark) and Christian Ulrik Andersen*, "Reading Climate Change Through the Cloud: 'Toxi*City'"
 - [[Vega Sánchez Aparicio]] (U. Salamanca, Spain), "I Also Know How to Think the Way You Do: An Error's Aesthetic in Visual Writings"
 
@@ -254,7 +254,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 - [[Arthur Lefèvre]] (U. Paris 8, Vincennes Saint-Denis, France), "Random & Unpredictable: Can Algorithms Really Be Authors?"
 - [[Aaron Tucker]] (Ryerson U., Canada), "Deleuzian Repetition in Intersemiotic Machine Translation"
 - [[Diogo Marques]] (U. Coimbra, Portugal), "(Im)movable Bodies or (Un)moving Texts? Transmission of Affect and Signification through 'Inter-inactive' and 'Dysfunctional' Digital Interfaces"
-- [[Roger Dean]] (U. Western Sydney, Australia) and [[Hazel Smith]] (U. Western Sydney, Australia), "Deep Writing: Computational Exchanges between Language, Code, Computer Learning and Creative Writing"
+- [[Roger T. Dean]] (U. Western Sydney, Australia) and [[Hazel Smith]] (U. Western Sydney, Australia), "Deep Writing: Computational Exchanges between Language, Code, Computer Learning and Creative Writing"
 - [[John Cayley]] (Brown U., USA) and [[Daniel C. Howe]] (City U., Hong Kong), "Reading Language Art"
 
 - [[Kathi Inman Berens]] (Portland State U., USA), "Boundaries in Infinite Reading: What E-literature Can Teach Book Publishers"

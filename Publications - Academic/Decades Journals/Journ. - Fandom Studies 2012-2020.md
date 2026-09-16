@@ -31,7 +31,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - Volume/Issue: 1.2
     
-- [[Paul Booth]]
+- [[Paul J. Booth]]
     
 - [[Ann McClellan]]
     
@@ -100,7 +100,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - Volume/Issue: 3.1
     
-- [[Crystal Anderson]]
+- [[Crystal S. Anderson]]
     
 - [[Doobo Shim]]
     
@@ -191,7 +191,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Joseph Brennan]]
     
-- [[Lucy Baker]]
+- [[Lucy Irene Baker]]
     
 - [[Victoria L. Godwin]]
     
@@ -296,7 +296,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Sharon E. Roberts]]
     
-- [[Kathleen Gerbasi]]
+- [[Kathleen C. Gerbasi]]
     
 - [[Rasmus Beedholm Laursen]]
     
@@ -323,7 +323,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Kavita Mudan Finn]]
     
-- [[JSA Lowe]]
+- [[J. S. A. Lowe]]
     
 - [[Jennifer Otter Bickerdike]]
     
@@ -344,7 +344,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[J. Caroline Toy]]
     
-- [[Paul Booth]]
+- [[Paul J. Booth]]
     
 - [[Lisa Donlan]]
     
@@ -415,7 +415,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Agata Łuksza]]
     
-- [[Paul Thomas]]
+- [[Paul Anthony Thomas]]
     
 - [[Garry Crawford]]
     
@@ -446,7 +446,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Shonda L. Goward]]
     
-- [[Lori Morimoto]]
+- [[Lori Hitchcock Morimoto]]
     
 - [[Max Romanowski]]
     
@@ -461,7 +461,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Matt Hills]]
     
-- [[Kyra Hunting]]
+- [[Kyra Osten Hunting]]
     
 - [[Line Nybro Petersen]]
     

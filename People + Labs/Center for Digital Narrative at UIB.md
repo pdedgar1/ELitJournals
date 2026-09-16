@@ -3,7 +3,7 @@ LEAD [[Eamon O'Kane]]
 Members 
 |   |
 |---|
-|[[Hannah Maria Leontine Ackermans]]|
+|[[Hannah Ackermans]]|
 LEAD |[[Gabriele de Seta]]|
 |[[Mahaut de Vareilles]]|
 |[[Lai-Tze Fan]]|

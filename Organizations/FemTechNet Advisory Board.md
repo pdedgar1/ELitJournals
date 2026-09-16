@@ -12,7 +12,7 @@
 [[Tara McPherson]]
 [[Alondra Nelson]]
 [[Jasmeen Patheja]]
-[[Carrie Rentschler]]
+[[Carrie Ann Rentschler]]
 [[Nishant Shah]]
 [[Carol A. Stabile]]
 [[Sandy Stone]]

@@ -45,7 +45,7 @@ Design: The Laboratory of [[Manuel Bürger]], Manuel Bürger & [[Hendrike Nagel]
 Edited by [[Christian Ulrik Andersen]] & [[Geoff Cox]]
 [[Transmediale Residents]]
 ## 3.1
-Edited by: [[Jamie Allen]], [[Christian Ulrik Andersen]], [[Josephine Bosma]], [[James Charlton]], [[Budhaditya Chattopadhyay]], [[Geoff Cox]], [[Florian Cramer]], [[Jonas Fritsch]], [[David Gauthier]], [[Robert Jackson]], [[Magnus Lawrie]], [[Alessandro Ludovico]], [[Kieran Nolan]], [[Georgios Papadopoulos]], [[Lotte Philipsen]], [[Søren Bro Pold]], [[Eric Snodgrass]], [[Bodil Marie Stavning Thomsen]], [[Winnie Soon]].
+Edited by: [[Jamie Allen]], [[Christian Ulrik Andersen]], [[Josephine Bosma]], [[James Charlton]], [[Budhaditya Chattopadhyay]], [[Geoff Cox]], [[Florian Cramer]], [[Jonas Fritsch]], [[David Gauthier]], [[Robert B. Jackson]], [[Magnus Lawrie]], [[Alessandro Ludovico]], [[Kieran Nolan]], [[Georgios Papadopoulos]], [[Lotte Philipsen]], [[Søren Bro Pold]], [[Eric Snodgrass]], [[Bodil Marie Stavning Thomsen]], [[Winnie Soon]].
 
 Design: Design by The Laboratory of Manuel Bürger. [[Manuel Bürger]], [[Timm Häneke]], [[Caroline Wolewinski]].
 ## 2.1

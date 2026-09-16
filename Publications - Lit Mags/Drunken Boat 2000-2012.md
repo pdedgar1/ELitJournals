@@ -955,7 +955,7 @@
 [[Jon Satrom]]
 [[Sara Schnadt]]
 [[Lauren Simonutti]]
-[[Hazel Smith]] & [[Roger Dean]]
+[[Hazel Smith]] & [[Roger T. Dean]]
 [[Squidsoup]]
 [[Alexander Stewart]]
 
@@ -1148,7 +1148,7 @@
 [[Jacques J. Rancourt]]
 [[Dana Robbins]]
 [[Brynn Saito]]
-[[Tomaz Salamun]]
+[[Tomaž Šalamun]]
 [[Erika L. Sánchez]]
 [[A. K. Scipioni]]
 [[Sridala Swami]]

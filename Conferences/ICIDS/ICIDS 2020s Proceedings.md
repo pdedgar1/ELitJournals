@@ -324,7 +324,7 @@
 | Lecture Notes in Computer Science]] |
 | [[Raul Benites Paradeda]]           |
 | [[]]                                |
-| [[Raquel Oliveira]]                 |
+| [[Raquel Gomes de Oliveira]]                 |
 | [[Valentina Nisi]]                  |
 | [[Ana Paiva]]                       |
 | [[Alexandra Teixeira Riggs]]        |

@@ -109,7 +109,7 @@
 - [[Trine Syvertsen]]
 - [[Jarl A. Ahlkvist]]
 - [[Kwamena Kwansah-Aidoo]]
-- [[Paul Jones]]
+- [[Paul K. Jones]]
 - [[David A. Black]]
 - [[Maggie Magor]]
 - [[Philip Hammond]]
@@ -360,7 +360,7 @@
 
 - [[Lee Marshall]]
 - [[Allen J. Scott]]
-- [[Francis L. F. Lee]]
+- [[Francis LF Lee]]
 - [[Paula Chakravartty]]
 - [[Clive Barnett]]
 - [[Göran Bolin]]
@@ -395,7 +395,7 @@
 ### Vol. 26, Issue 5 (September 2004)
 
 - [[Graham Spencer]]
-- [[Larry Strelitz]]
+- [[Larry Nathan Strelitz]]
 - [[Robert Pike]]
 - [[Dwayne Winseck]]
 - [[Espen Ytreberg]]
@@ -453,7 +453,7 @@
 - [[Victor Henning]]
 - [[Andre Alpar]]
 - [[Russell Johnston]]
-- [[Patricia Cormack]]
+- [[Patricia Colleen Cormack]]
 - [[Peter Lunt]]
 - [[Charles MacDonald]]
 - [[Jennifer Birks]]
@@ -526,7 +526,7 @@
 - [[Leen D'Haenens]]
 - [[Joyce Koeman]]
 - [[Piers Robinson]]
-- [[Robin Brown]]
+- [[Robin Seaton Brown]]
 - [[Peter Goddard]]
 - [[Katy Parry]]
 - [[Claudia Monteiro]]
@@ -687,7 +687,7 @@
 - [[Daya Kishan Thussu]]
 - [[Sonia Livingstone]]
 - [[Peter Lunt]]
-- [[Laura Miller]]
+- [[Laura J. Miller]]
 - [[Carolyn Michelle]]
 - [[John Corner]]
 - [[Myra Macdonald]]
@@ -748,7 +748,7 @@
 - [[Nuria Lorenzo-Dus]]
 - [[Michael J. Barker]]
 - [[Simon Cottle]]
-- [[Paul Jones]]
+- [[Paul K. Jones]]
 - [[Justin Smith]]
 
 ### Vol. 30, Issue 2 (March 2008)
@@ -928,7 +928,7 @@
 - [[Iñaki Garcia-Blanco]]
 - [[Jackie Harrison]]
 - [[Seán Street]]
-- [[Paul Jones]]
+- [[Paul K. Jones]]
 
 ### Vol. 31, Issue 6 (November 2009)
 

@@ -50,7 +50,7 @@
 | [[farrell]]                       |
 | [[Fereshteh Toosi]]               |
 | [[Fi]]                            |
-| [[Francesca Tripodi]]             |
+| [[Francesca Bolla Tripodi]]             |
 | [[Fred L. Joiner]]                |
 | [[Freia Lobo]]                    |
 | [[Grant Glass]]                   |

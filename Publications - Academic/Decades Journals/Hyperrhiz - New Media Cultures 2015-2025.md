@@ -7,7 +7,7 @@ Advisory editors
 |[[Anne Cong-Huyen]]|
 |[[Fernanda Duarte]]|
 |[[Torsa Ghosal]]|
-|[[Kishonna Gray]]|
+|[[Kishonna L. Gray]]|
 |[[Carolina Gainza]]|
 |[[Jeanne Hamming]]|
 |[[Davin Heckman]]|

@@ -57,7 +57,7 @@ Connect Project
 [[Directory - Hypertext Kitchen]]
 [[trAce. Online Writing Centre (95-05)]]
 [[Adrian Miles]]
-[[Word Circuits + Directory]]
+[[Directory - Word Circuits]]
 [[Directory - Hyperizons]]
 [[Tank20]]
 [[John Cayley]]

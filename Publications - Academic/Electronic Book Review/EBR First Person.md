@@ -89,7 +89,7 @@
 [[Lee Sheldon]]
 [[Pat Harrigan]]
 [[Eric W. Lang]]
-[[G. Kevin Wilson]]
+[[Kevin G. Wilson]]
 [[Bruno Faidutti]]
 [[Eric Zimmerman]]
 [[Kim Newman]]

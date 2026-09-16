@@ -135,7 +135,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Andrew Klobucar]]                       |
 | [[Élika Ortega]]                           |
 | [[Sally Morfill]]                          |
-| [[Roger Dean]]                             |
+| [[Roger T. Dean]]                             |
 | [[María Mencía]]                           |
 | [[Tina Escaja aka Alm@ Pérez]]                            |
 | [[Joel Ong]]                               |

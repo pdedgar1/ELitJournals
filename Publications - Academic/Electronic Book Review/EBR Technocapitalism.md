@@ -5,7 +5,7 @@
 2021 - [[Malthe Stavning Erslev]]
 [[Christian Ulrik Andersen]], [[Søren Bro Pold]]
 2018 - [[Joseph McElroy]]
-2017 - [[Bettina Berendt]], [[Geoffrey Rockwell]]
+2017 - [[Bettina Berendt]], [[Geoffrey M. Rockwell]]
 [[Harun Karim Thomas]]
 [[Alfred Thomas]]
 [[Robert Lestón]]

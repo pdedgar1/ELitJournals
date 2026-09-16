@@ -192,7 +192,7 @@ Advisory Board
 | [[Cinzia Pusceddu-Gangarosa]]       |
 | [[Clayton Darnault]]                |
 | [[Chris Levesque]]                  |
-| [[Claire Kovacs]]                   |
+| [[Claire L. Kovacs]]                   |
 | [[Claire Salinas]]                  |
 | [[Claire Balani]]                   |
 | [[Clement Levallois]]               |

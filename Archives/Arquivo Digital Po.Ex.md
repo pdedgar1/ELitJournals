@@ -40,7 +40,7 @@ CELL member : Portuguese Language E-lit
 |[[Catarina Real]]|
 |[[d1g1t0 indivíduo_coletivo]]|
 |[[Diogo Marques]]|
-|[[Feliciano de Mira]]|
+|[[Feliciano José Borralho de Mira]]|
 |[[Jorge dos Reis]]|
 |[[José Oliveira]]|
 |[[Liliana Vasques]]|
@@ -50,7 +50,7 @@ CELL member : Portuguese Language E-lit
 |[[Rui Torres]]|
 |[[Sal Nunkachov]]|
 |[[Telectu]]|
-|[[!Von Calhau!]]|
+|[[Von Calhau!]]|
 ||
 ||
 ||

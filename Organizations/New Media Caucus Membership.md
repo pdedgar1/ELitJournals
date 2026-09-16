@@ -7,7 +7,7 @@
 [[Nassem Navab]]
 [[Chanee Choi]]
 [[Constanza Salazar]]
-[[René Cepeda]]
+[[René G. Cepeda]]
 
 [[Rob Ray]]
 [[Taylor Hokanson]]

@@ -83,7 +83,7 @@
 | Obsolete Models, Living Hosts]]                                                                                                                                                           |
 | [[Daniel Lichtman]]                                                                                                                                                                       |
 | Inner Differencing: Alexander von Humboldt's thousand threads]]                                                                                                                           |
-| [[Hazel Smith]] and [[Roger Dean]]                                                                                                                                                        |
+| [[Hazel Smith]] and [[Roger T. Dean]]                                                                                                                                                        |
 | Ripples]]                                                                                                                                                                                 |
 | [[Jay David Bolter]], [[Terhi Marttila]] and [[Watson Hartsoe]]                                                                                                                           |
 | Darenard — artificial thinker]]                                                                                                                                                           |

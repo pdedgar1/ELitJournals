@@ -252,7 +252,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Danielle Burrell-Kim]]
     
-- [[Kimberly Dennin]]
+- [[Kimberly Grace Dennin]]
     
 - [[Adrianna Burton]]
     
@@ -425,7 +425,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Zsófia O. Réti]]
     
-- [[Paul A. Thomas]]
+- [[Paul Anthony Thomas]]
     
 
 ---

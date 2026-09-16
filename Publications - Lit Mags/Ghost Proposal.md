@@ -58,7 +58,7 @@ Ultraslant Prizes—
 | [[Leora Fridman]]                          |
 | [[F. Daniel Rzicznek]]                     |
 | [[Sara Burant]]                            |
-| [[TR Brady]]                               |
+| [[T. R. Brady]]                               |
 | [[Nathanael Jones]]                        |
 | [[]]                                       |
 | [[]]                                       |

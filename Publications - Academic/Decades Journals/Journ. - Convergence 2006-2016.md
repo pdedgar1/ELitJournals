@@ -420,7 +420,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Rohit K. Dasgupta]]            |
 | [[Rose Roberto]]                |
 | [[Ross Tapsell]]                |
-| [[Rowan Wilken]]                |
+| [[Rowan Cameron Wilken]]                |
 | [[Ruth]]                       |
 | [[Ryan Lizardi]]                |
 | [[Sal Humphreys]]               |

@@ -114,7 +114,7 @@
 | [[Melissa Kagen]]                                                                                       |
 | [[A. Sean Pue]]                                                                                         |
 | [[Nicholas Schiller]]                                                                                   |
-| [[Kevin Day]]                                                                                           |
+| [[Kevin Tsuan-Hsiang Day]]                                                                                           |
 | [[Will Luers]]                                                                                          |
 | [[Jordan Magnusson]]                                                                                    |
 | [[Justin Tonra]]                                                                                        |

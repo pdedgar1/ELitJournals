@@ -4,7 +4,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 
 ### Vol. 24, Issue 2 (Spring 2020): Open Issue
 
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Tim Lockridge]]
 - [[Bethany Monea]]
 - [[Sarah Welsh]]
@@ -30,7 +30,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 - [[Sarah Parente]]
 - [[Rasha Reda]]
 - [[Christina Yim]]
-- [[Ryan Shepherd]]
+- [[Ryan P. Shepherd]]
 - [[Jay Dolmage]]
 - [[Melissa Helquist]]
 - [[Tara Wood]]
@@ -57,7 +57,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 
 - [[John R. Gallagher]]
 - [[Dánielle Nicole DeVoss]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Krystin Gollihue]]
 - [[Mai Nou Xiong-Gum]]
 - [[Desiree Dighton]]
@@ -80,9 +80,9 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 ### Vol. 25, Issue 2 (Spring 2021): Open Issue
 
 - [[Michael J. Faris]]
-- [[Cheryl Ball]]
-- [[Cheryl Ball]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
+- [[Cheryl E. Ball]]
+- [[Cheryl E. Ball]]
 - [[Zack Shaw]]
 - [[Talea Anderson]]
 - [[Meghan McGuire]]
@@ -109,7 +109,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 - [[Shannon Kelly]]
 - [[Rosa Tobin]]
 - [[Benjamin Lauren]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Jonathan W. Stone]]
 - [[Vanessa Aguilar]]
 - [[Stephany Bravo]]
@@ -143,7 +143,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 ### Vol. 26, Issue 2 (Spring 2022): Open Issue
 
 - [[Michael Faris]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Julie Amick Cook]]
 - [[Stephen J. Quigley]]
 - [[José Luis Cano, Jr.]]
@@ -169,7 +169,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 ### Vol. 27, Issue 1 (Fall 2022): Open Issue
 
 - [[Michael J. Faris]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Richard Holeton]]
 - [[Hannah McGregor]]
 - [[Stacey Copeland]]
@@ -195,7 +195,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 
 - [[Michael J. Faris]]
 - [[Douglas Eyman]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Sara West]]
 - [[Elizabeth Chamberlain]]
 - [[Rich Shivener]]
@@ -279,11 +279,11 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 ### Vol. 29, Issue 2 (Spring 2025): Open Issue
 
 - [[Michael J. Faris]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Maggie Fernandes]]
 - [[Megan McIntyre]]
 - [[Vee Kennedy]]
-- [[Cheryl Ball]]
+- [[Cheryl E. Ball]]
 - [[Douglas Eyman]]
 - [[Vyshali Manivannan]]
 - [[Holland Prior]]
@@ -293,7 +293,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 ### Vol. 30, Issue 1 (Fall 2025): Science Communication and Writing Studies in a Multimodal World
 
 - [[Michael J. Faris]]
-- [[Karen Lunsford]]
+- [[Karen J. Lunsford]]
 - [[Kara Mae Brown]]
 - [[Rebecca Chenoweth]]
 - [[Kenneth Smith]]
@@ -328,7 +328,7 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 - [[Raquel Buege]]
 - [[Destin Natele Cappello-Perez]]
 - [[Ashanti Duncan]]
-- [[Karen Lunsford]]
+- [[Karen J. Lunsford]]
 - [[Kara Mae Brown]]
 - [[Rebecca Chenoweth]]
 - [[John Schranck]]
@@ -353,9 +353,9 @@ Note: 2026 content (Vol. 30.2 and Vol. 31.1) reflects the current/most recent st
 
 ### Vol. 31, Issue 1 (Fall 2026): 30th Anniversary Issue
 
-- [[Christopher Andrews]]
+- [[Christopher D. M. Andrews]]
 - [[Erin Kathleen Bahl]]
-- [[Christopher Andrews]]
+- [[Christopher D. M. Andrews]]
 - [[Erin Kathleen Bahl]]
 - [[Brian Mooney]]
 - [[Kelly Lycke Donate]]

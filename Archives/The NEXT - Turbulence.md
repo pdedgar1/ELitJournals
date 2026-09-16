@@ -28,12 +28,12 @@ https://the-next.eliterature.org/collections/17
 ## 2013
 [[Jason Nelson]]
 [[Esmeralda Kosmatopoulos]]
-[[Nathaniel Stern]]
+[[Nathaniel E. Stern]]
 [[Ali Miharbi]]
 [[Joseph Moore]]
 [[Yotam Mann]]
 [[Andy Deck]]
-[[Peter Traub]]
+[[Peter Michael Traub]]
 [[Tal Halpern]]
 
 ## 2012
@@ -49,7 +49,7 @@ https://the-next.eliterature.org/collections/17
 [[Kate Armstrong]]
 [[Maja Kalogera]]
 [[Nicholas O'Brien]]
-[[Peter Traub]]
+[[Peter Michael Traub]]
 ## 2011
 [[Jason Nelson]]
 [[Mette Birk]]
@@ -145,7 +145,7 @@ https://the-next.eliterature.org/collections/17
 [[Miya Masaoka]]
 [[Neill Donaldson]]
 [[Paul Slocum]]
-[[Peter Traub]]
+[[Peter Michael Traub]]
 [[Pierre Proske]]
 [[Princeton Laptop Orchestra]]
 [[Sawako Kato]]
@@ -211,7 +211,7 @@ https://the-next.eliterature.org/collections/17
 [[Kushal Dave]]
 [[Michael Mandiberg]]
 [[midiatica.org]] - ([[Alexandre Freire]], [[Etienne Delacroix]], [[Guiliano Djahdjah]], [[Joan Carlos]], [[murmur]], [[Ricardo Ruiz]], [[Romano]], [[Tatiana Wells]]) at Andy Warhol Foundation
-[[Nathaniel Stern]]
+[[Nathaniel E. Stern]]
 [[Nick Montfort]]
 [[Ricardo Miranda Zúñiga]]
 [[Tal Halpern]]

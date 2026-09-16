@@ -20,7 +20,7 @@ Opening, contact [[Miguel Rosetti]] <miguel.rosetti@gmail.com>) de Plaza San Mar
 
 17.45: Inauguración Muestra E Poetry / Inauguration of E-Poetry Exhibitions: [[José Aburto]] (Perú),
 
-[[Giselle Beiguelman]] (Brasil), [[Fabio Doctorovich]]/ [[Ladislao Pablo Györi]] (Argentina) y Perfomances: [[Carlos Estevez]] (Argentina), [[Judd Morrissey]] (USA)
+[[Giselle Beiguelman]] (Brasil), [[Fabio Doctorovich]]/ [[Ladislao Pablo Györi]] (Argentina) y Perfomances: [[Carlos García Estévez]] (Argentina), [[Judd Morrissey]] (USA)
 
 19.00: Recepción / Reception
 

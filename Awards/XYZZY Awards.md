@@ -146,7 +146,7 @@
 #### Best NPCs
 - 1996: [[Leon Lin]]
 - 1997: [[Neil deMause]]
-- 1998: [[G. Kevin Wilson]]
+- 1998: [[Kevin G. Wilson]]
 - 1999: [[Adam Cadre]]
 - 2000: [[J. Robinson Wheeler]]
 - 2001: [[Emily Short]]

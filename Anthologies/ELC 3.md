@@ -51,7 +51,7 @@
 [[Liam Cooke]]
 [[Tytus Czyżewski]], [[Łukasz Podgórni]], [[Urszula Pawlicka]]
 [[Emily Short]], [[Liza Daly]]
-[[Hazel Smith]], [[Will Luers]], and [[Roger Dean]]
+[[Hazel Smith]], [[Will Luers]], and [[Roger T. Dean]]
 [[Rob Dubbin]]
 [[Tina Escaja aka Alm@ Pérez]]
 [[Zenon Fajfer]]

@@ -1,475 +1,445 @@
-# Alias duplicate scan
-Vault: ELitJournals — 51965 distinct link targets
+Vault: ELitJournals — 57,000 distinct link targets
 
-## Fuzzy candidates (same surname, similar/subset names — review needed): 1400
+### Fuzzy candidates (same surname, similar/subset names — review needed): 1361 - 99% sure
 
-### qr
+- **Yoon Ha Lee ≈ Yoon Lee** (similarity 0.99)
+  - `[[Yoon Ha Lee]]` — 1 use(s) in 1 file(s), e.g. Awards/XYZZY Awards.md
+  - `[[Yoon Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
 
-- **Ryan P. Shepherd ≈ Ryan Shepherd** (similarity 0.99)
-  - `[[Ryan P. Shepherd]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
-  - `[[Ryan Shepherd]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
+- **Yi Grace Ji ≈ Yi Ji** (similarity 0.99)
+  - `[[Yi Grace Ji]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yi Ji]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
 
-- **Ryan M. Omizo ≈ Ryan Omizo** (similarity 0.99)
-  - `[[Ryan M. Omizo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
-  - `[[Ryan Omizo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+- **Yang Yang ≈ Ying Yang** (similarity 0.99)
+  - `[[Yang Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Ying Yang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Ryan M. Moeller ≈ Ryan Moeller** (similarity 0.99)
-  - `[[Ryan M. Moeller]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
-  - `[[Ryan Moeller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+- **Yang Yang ≈ Yi Yang** (similarity 0.99)
+  - `[[Yang Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Yi Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
-- **Ruth A. Deller ≈ Ruth Deller** (similarity 0.99)
-  - `[[Ruth A. Deller]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
-  - `[[Ruth Deller]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+- **Yang Yang ≈ Ye Yang** (similarity 0.99)
+  - `[[Yang Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Ye Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
 
-- **Roy Behrens ≈ Roy R. Behrens** (similarity 0.99)
-  - `[[Roy Behrens]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Roy R. Behrens]]` — 87 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+- **Yan Bing Zhang ≈ Yan Zhang** (similarity 0.99)
+  - `[[Yan Bing Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Yan Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Ya-Ting Yang ≈ Yang Yang** (similarity 0.99)
+  - `[[Ya-Ting Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Yang Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Xiao Fan Liu ≈ Xiao Liu** (similarity 0.99)
+  - `[[Xiao Fan Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Xiao Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
+
+- **William Allen ≈ William L. Allen** (similarity 0.99)
+  - `[[William Allen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[William L. Allen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **William Allen ≈ William H. Allen** (similarity 0.99)
+  - `[[William Allen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[William H. Allen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Will B. Payne ≈ Will Payne** (similarity 0.99)
+  - `[[Will B. Payne]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Will Payne]]` — 3 use(s) in 3 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Lit Mags/Intertext.md
+
+- **Wesley Monroe Shrum ≈ Wesley Shrum** (similarity 0.99)
+  - `[[Wesley Monroe Shrum]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Wesley Shrum]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Wesley M. Shrum ≈ Wesley Shrum** (similarity 0.99)
+  - `[[Wesley M. Shrum]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Wesley Shrum]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Vinicius Marino Carvalho ≈ Vinícius Carvalho** (similarity 0.99)
+  - `[[Vinicius Marino Carvalho]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Vinícius Carvalho]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
+
+- **Vincent Manzerolle ≈ Vincent R. Manzerolle** (similarity 0.99)
+  - `[[Vincent Manzerolle]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Vincent R. Manzerolle]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Vincent Adakole Obia ≈ Vincent Obia** (similarity 0.99)
+  - `[[Vincent Adakole Obia]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Vincent Obia]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Victoria Gosling ≈ Victoria K. Gosling** (similarity 0.99)
+  - `[[Victoria Gosling]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Victoria K. Gosling]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+
+- **Verónica Gómez ≈ Verónica Paula Gómez** (similarity 0.99)
+  - `[[Verónica Gómez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
+  - `[[Verónica Paula Gómez]]` — 7 use(s) in 6 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2017.md, Anthologies/Lit E Lat 2.md, Conferences/ELO Conferences/ELO Conference 2026.md
+
+- **Verity Anne Trott ≈ Verity Trott** (similarity 0.99)
+  - `[[Verity Anne Trott]]` — 6 use(s) in 5 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Verity Trott]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Vera Carvalho ≈ Vera Tavares de Carvalho** (similarity 0.99)
+  - `[[Vera Carvalho]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
+  - `[[Vera Tavares de Carvalho]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
+
+- **Tracy Kennedy ≈ Tracy L. M. Kennedy** (similarity 0.99)
+  - `[[Tracy Kennedy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Tracy L. M. Kennedy]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+
+- **Tony Chung Li Liao ≈ Tony Liao** (similarity 0.99)
+  - `[[Tony Chung Li Liao]]` — 10 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Tony Liao]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Todd Newman ≈ Todd P. Newman** (similarity 0.99)
+  - `[[Todd Newman]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Todd P. Newman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Timothy James Neff ≈ Timothy Neff** (similarity 0.99)
+  - `[[Timothy James Neff]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Timothy Neff]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Tiernan Cahill ≈ Tiernan J. Cahill** (similarity 0.99)
+  - `[[Tiernan Cahill]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Tiernan J. Cahill]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Thomas Patrick Pringle ≈ Thomas Pringle** (similarity 0.99)
+  - `[[Thomas Patrick Pringle]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Thomas Pringle]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md, Archives/Series - In Search of Media.md
+
+- **Thomas M. Malaby ≈ Thomas Malaby** (similarity 0.99)
+  - `[[Thomas M. Malaby]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+  - `[[Thomas Malaby]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+
+- **Thomas JL van Rompay ≈ Thomas van Rompay** (similarity 0.99)
+  - `[[Thomas JL van Rompay]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Thomas van Rompay]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Thomas Apperley ≈ Thomas H. Apperley** (similarity 0.99)
+  - `[[Thomas Apperley]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Thomas H. Apperley]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Tero Jukka Karppi ≈ Tero Karppi** (similarity 0.99)
+  - `[[Tero Jukka Karppi]]` — 6 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Solo Journals/Journ. - Culture Machine.md, Archives/Series - In Search of Media.md
+  - `[[Tero Karppi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Teresa Shen Swingler ≈ Teresa Swingler** (similarity 0.99)
+  - `[[Teresa Shen Swingler]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Teresa Swingler]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Del Sol Review (1998-2007).md
+
+- **Sylvia Chan-Olmsted ≈ Sylvia M. Chan-Olmsted** (similarity 0.99)
+  - `[[Sylvia Chan-Olmsted]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Sylvia M. Chan-Olmsted]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Steven McClung ≈ Steven R. McClung** (similarity 0.99)
+  - `[[Steven McClung]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Steven R. McClung]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Steven J. Stewart ≈ Steven Stewart** (similarity 0.99)
+  - `[[Steven J. Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Steven Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Steve J. Jankowski ≈ Steve Jankowski** (similarity 0.99)
+  - `[[Steve J. Jankowski]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Steve Jankowski]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Stephen Lewis ≈ Stephen P. Lewis** (similarity 0.99)
+  - `[[Stephen Lewis]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Drunken Boat.md
+  - `[[Stephen P. Lewis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Stephanie Ellis Schlaifer ≈ Stephanie Schlaifer** (similarity 0.99)
+  - `[[Stephanie Ellis Schlaifer]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Stephanie Schlaifer]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Seán G. Roberts ≈ Seán Roberts** (similarity 0.99)
+  - `[[Seán G. Roberts]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Seán Roberts]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md
+
+- **Sean Hill ≈ Sean Patrick Hill** (similarity 0.99)
+  - `[[Sean Hill]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Sean Patrick Hill]]` — 3 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Sean Goggins ≈ Sean P. Goggins** (similarity 0.99)
+  - `[[Sean Goggins]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Sean P. Goggins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Sarita Schoenebeck ≈ Sarita Y. Schoenebeck** (similarity 0.99)
+  - `[[Sarita Schoenebeck]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Sarita Y. Schoenebeck]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Sarah Marie Stang ≈ Sarah Stang** (similarity 0.99)
+  - `[[Sarah Marie Stang]]` — 8 use(s) in 6 file(s), e.g. Publications - Academic/Podcasts/Podcast - First Person Scholar.md, Publications - Academic/Solo Journals/Journ. - First Person Scholar -.md, Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md
+  - `[[Sarah Stang]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Sarah Hoan Nguyen ≈ Sarah Nguyễn** (similarity 0.99)
+  - `[[Sarah Hoan Nguyen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Sarah Nguyễn]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Sarah Ford ≈ Sarah Michele Ford** (similarity 0.99)
+  - `[[Sarah Ford]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Sarah Michele Ford]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md
+
+- **Sarah Ellen Ford ≈ Sarah Ford** (similarity 0.99)
+  - `[[Sarah Ellen Ford]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md
+  - `[[Sarah Ford]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Sarah E. Fox ≈ Sarah Fox** (similarity 0.99)
+  - `[[Sarah E. Fox]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Sarah Fox]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Sarah Christina Ganzon ≈ Sarah Christina Villanueva Ganzon** (similarity 0.99)
+  - `[[Sarah Christina Ganzon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Sarah Christina Villanueva Ganzon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Sara Liao ≈ Sara X. T. Liao** (similarity 0.99)
+  - `[[Sara Liao]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Sara X. T. Liao]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+
+- **Samuel C. Woolley ≈ Samuel Woolley** (similarity 0.99)
+  - `[[Samuel C. Woolley]]` — 7 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Samuel Woolley]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Samantha Anne Close ≈ Samantha Close** (similarity 0.99)
+  - `[[Samantha Anne Close]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Samantha Close]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Salif Diallo Silva ≈ Salif Silva** (similarity 0.99)
+  - `[[Salif Diallo Silva]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
+  - `[[Salif Silva]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2017.md
+
+- **Sal Hagen ≈ Sal Hendrik Hagen** (similarity 0.99)
+  - `[[Sal Hagen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Sal Hendrik Hagen]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **S. Shageaa Naqvi ≈ Shageaa Naqvi** (similarity 0.99)
+  - `[[S. Shageaa Naqvi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Shageaa Naqvi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Rébecca Franco ≈ Rébecca S. Franco** (similarity 0.99)
+  - `[[Rébecca Franco]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Rébecca S. Franco]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Ryan Nance ≈ Ryan Scott Nance** (similarity 0.99)
+  - `[[Ryan Nance]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+  - `[[Ryan Scott Nance]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
 
 - **Rowan Cameron Wilken ≈ Rowan Wilken** (similarity 0.99)
-  - `[[Rowan Cameron Wilken]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Rowan Wilken]]` — 15 use(s) in 9 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Art Mags/Neural 2020 - 2030.md
+  - `[[Rowan Cameron Wilken]]` — 17 use(s) in 9 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Art Mags/Neural 2020 - 2030.md
+  - `[[Rowan Wilken]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Ross Harley ≈ Ross Rudesch Harley** (similarity 0.99)
-  - `[[Ross Harley]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md, Publications - Academic/Solo Journals/Journ. - Culture Machine.md
-  - `[[Ross Rudesch Harley]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+- **Rosalie Gillett ≈ Rosalie Mary Gillett** (similarity 0.99)
+  - `[[Rosalie Gillett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Rosalie Mary Gillett]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Romare Bearden ≈ Romare H. Bearden** (similarity 0.99)
-  - `[[Romare Bearden]]` — 6 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Romare H. Bearden]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+- **Robson Bello ≈ Robson Scarassati Bello** (similarity 0.99)
+  - `[[Robson Bello]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md
+  - `[[Robson Scarassati Bello]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
 
-- **Roger Todd Whitson ≈ Roger Whitson** (similarity 0.99)
-  - `[[Roger Todd Whitson]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Blogs/Blog - I <3 E-Poetry.md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Solo Journals/Journ. - Reviews in Digital Humanities.md
-  - `[[Roger Whitson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-
-- **Roger G. Linford ≈ Roger Linford** (similarity 0.99)
-  - `[[Roger G. Linford]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Roger Linford]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
-- **Roger F. Malina ≈ Roger Malina** (similarity 0.99)
-  - `[[Roger F. Malina]]` — 98 use(s) in 6 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Roger Malina]]` — 9 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Roger Dean ≈ Roger T. Dean** (similarity 0.99)
-  - `[[Roger Dean]]` — 23 use(s) in 20 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2005-2015.md, Publications - Lit Mags/InfLect Journal.md, Conferences/ELO Conferences/ELO Conference 2015.md
-  - `[[Roger T. Dean]]` — 6 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+- **Robin Johnson ≈ Robin S. Johnson** (similarity 0.99)
+  - `[[Robin Johnson]]` — 3 use(s) in 3 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md, Awards/XYZZY Awards.md, Awards/IF Comp.md
+  - `[[Robin S. Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
 
 - **Robin E. Mansell ≈ Robin Mansell** (similarity 0.99)
-  - `[[Robin E. Mansell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
-  - `[[Robin Mansell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Robin E. Mansell]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Robin Mansell]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Robin Brown ≈ Robin Seaton Brown** (similarity 0.99)
-  - `[[Robin Brown]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-  - `[[Robin Seaton Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+- **Robin A. Williams ≈ Robin Williams** (similarity 0.99)
+  - `[[Robin A. Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Robin Williams]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Robert Root-Bernstein ≈ Robert Scott Root-Bernstein** (similarity 0.99)
-  - `[[Robert Root-Bernstein]]` — 8 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-  - `[[Robert Scott Root-Bernstein]]` — 10 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-
-- **Robert P. Yagelski ≈ Robert Yagelski** (similarity 0.99)
-  - `[[Robert P. Yagelski]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
-  - `[[Robert Yagelski]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-
-- **Robert O. Preusser ≈ Robert Preusser** (similarity 0.99)
-  - `[[Robert O. Preusser]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Robert Preusser]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+- **Robert T. Wood ≈ Robert Wood** (similarity 0.99)
+  - `[[Robert T. Wood]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Robert Wood]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Robert Michael Young ≈ Robert Young** (similarity 0.99)
-  - `[[Robert Michael Young]]` — 6 use(s) in 3 file(s), e.g. Conferences/ICIDS/ICIDS 2000s Proceedings.md, Conferences/ICIDS/ICIDS 2010s Proceedings - '10-'14.md, Conferences/ICIDS/ICIDS 2010s Proceedings - '15-'19.md
+  - `[[Robert Michael Young]]` — 6 use(s) in 2 file(s), e.g. Conferences/ICIDS/ICIDS 2000s Proceedings.md, Conferences/ICIDS/ICIDS 2010s Proceedings.md
   - `[[Robert Young]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
 
 - **Robert M. Tynes ≈ Robert Tynes** (similarity 0.99)
-  - `[[Robert M. Tynes]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Robert Tynes]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Robert M. Tynes]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Robert Tynes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
 
-- **Robert Gluck ≈ Robert J. Gluck** (similarity 0.99)
-  - `[[Robert Gluck]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Robert J. Gluck]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+- **Robert J. Topinka ≈ Robert Topinka** (similarity 0.99)
+  - `[[Robert J. Topinka]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Robert Topinka]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Robert Gehl ≈ Robert William Gehl** (similarity 0.99)
-  - `[[Robert Gehl]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Robert William Gehl]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Robert Gehl]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Robert William Gehl]]` — 9 use(s) in 5 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Robert Gehl ≈ Robert W. Gehl** (similarity 0.99)
-  - `[[Robert Gehl]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Robert W. Gehl]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Robert Emmett Mueller ≈ Robert Mueller** (similarity 0.99)
-  - `[[Robert Emmett Mueller]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Robert Mueller]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
-
-- **Robert E. Mueller ≈ Robert Mueller** (similarity 0.99)
-  - `[[Robert E. Mueller]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Robert Mueller]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
-
-- **Robert Dennis Watkins ≈ Robert Watkins** (similarity 0.99)
-  - `[[Robert Dennis Watkins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
-  - `[[Robert Watkins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-
-- **Robert D. Smith ≈ Robert Smith** (similarity 0.99)
-  - `[[Robert D. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md
-  - `[[Robert Smith]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Robert Bartholomew ≈ Robert H. Bartholomew** (similarity 0.99)
-  - `[[Robert Bartholomew]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Robert H. Bartholomew]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-
-- **Robert B. Jackson ≈ Robert Jackson** (similarity 0.99)
-  - `[[Robert B. Jackson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-  - `[[Robert Jackson]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed Newspaper.md, Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Robert B. Baldwin ≈ Robert Baldwin** (similarity 0.99)
-  - `[[Robert B. Baldwin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Robert Baldwin]]` — 5 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-
-- **Robert Allen ≈ Robert B. Allen** (similarity 0.99)
-  - `[[Robert Allen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Robert B. Allen]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
-
-- **Robert Adamson Smith ≈ Robert Smith** (similarity 0.99)
-  - `[[Robert Adamson Smith]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
-  - `[[Robert Smith]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Rimma Lerman ≈ Rimma V. Lerman** (similarity 0.99)
-  - `[[Rimma Lerman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Rimma V. Lerman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-
-- **Richard Jean So ≈ Richard So** (similarity 0.99)
-  - `[[Richard Jean So]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Cultural Analytics.md
-  - `[[Richard So]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Richard I. Land ≈ Richard Land** (similarity 0.99)
-  - `[[Richard I. Land]]` — 20 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Richard Land]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
-- **Richard Hartenberg ≈ Richard S. Hartenberg** (similarity 0.99)
-  - `[[Richard Hartenberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Richard S. Hartenberg]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+  - `[[Robert Gehl]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Robert W. Gehl]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Richard Harrell Rogers ≈ Richard Rogers** (similarity 0.99)
-  - `[[Richard Harrell Rogers]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Richard Rogers]]` — 4 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Richard Harrell Rogers]]` — 7 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Richard Rogers]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Richard H. Rogers ≈ Richard Rogers** (similarity 0.99)
-  - `[[Richard H. Rogers]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Richard Rogers]]` — 4 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Richard H. Roberts ≈ Richard Roberts** (similarity 0.99)
-  - `[[Richard H. Roberts]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Richard Roberts]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+- **Richard G. Johnson ≈ Richard Johnson** (similarity 0.99)
+  - `[[Richard G. Johnson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Richard Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Richard Fletcher ≈ Richard J. Fletcher** (similarity 0.99)
-  - `[[Richard Fletcher]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Richard J. Fletcher]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+  - `[[Richard Fletcher]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Richard J. Fletcher]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Richard Eric Rawlings ≈ Richard Rawlings** (similarity 0.99)
-  - `[[Richard Eric Rawlings]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Richard Rawlings]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Rhonda McEwen ≈ Rhonda N. McEwen** (similarity 0.99)
+  - `[[Rhonda McEwen]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Rhonda N. McEwen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Richard C. Davis ≈ Richard Davis** (similarity 0.99)
-  - `[[Richard C. Davis]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings - '10-'14.md
-  - `[[Richard Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+- **Rejane C. Rocha ≈ Rejane Rocha** (similarity 0.99)
+  - `[[Rejane C. Rocha]]` — 6 use(s) in 6 file(s), e.g. Organizations/ELO Teams/ELO Team 2022.md, Anthologies/ELC 4.md, Publications - Academic/Solo Journals/Journ. - Materialities of Literature (MATLIT).md
+  - `[[Rejane Rocha]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
 
-- **Richard Brown ≈ Richard D. Brown** (similarity 0.99)
-  - `[[Richard Brown]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Richard D. Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-
-- **Richard Ajah ≈ Richard Oko Ajah** (similarity 0.99)
-  - `[[Richard Ajah]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - MADSEJ - Multilingual African Digital Semiotics and E-lit Journal.md
-  - `[[Richard Oko Ajah]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - MADSEJ - Multilingual African Digital Semiotics and E-lit Journal.md, Archives/MAELD & ADELD.md
-
-- **Richard A. Perry ≈ Richard Perry** (similarity 0.99)
-  - `[[Richard A. Perry]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Richard Perry]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
-- **Richard A. Carter ≈ Richard Carter** (similarity 0.99)
-  - `[[Richard A. Carter]]` — 21 use(s) in 17 file(s), e.g. Publications - Academic/Solo Journals/Journ. - the digital review.md, Awards/NuMeWriPri Shortlists.md, Conferences/ELO Conferences/ELO Conference 2019.md
-  - `[[Richard Carter]]` — 1 use(s) in 1 file(s), e.g. Organizations/Indian Consortium for Interactive Digital Narrative.md
-
-- **Renee M. Powers ≈ Renee Powers** (similarity 0.99)
-  - `[[Renee M. Powers]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Renee Powers]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Rene G. Cepeda ≈ René Cepeda** (similarity 0.99)
-  - `[[Rene G. Cepeda]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-  - `[[René Cepeda]]` — 1 use(s) in 1 file(s), e.g. Organizations/New Media Caucus Membership.md
-
-- **Regina Célia Pinto ≈ Regina Pinto** (similarity 0.99)
-  - `[[Regina Célia Pinto]]` — 3 use(s) in 3 file(s), e.g. Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md, Publications - Academic/Blogs/Blog - Netartery.md, Archives/The NEXT - afterFlash.md
-  - `[[Regina Pinto]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
-
-- **Rebekah Jane Willett ≈ Rebekah Willett** (similarity 0.99)
-  - `[[Rebekah Jane Willett]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Rebekah Willett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-
-- **Rebekah J. Willett ≈ Rebekah Willett** (similarity 0.99)
-  - `[[Rebekah J. Willett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Rebekah Willett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-
-- **Rebecca Jones ≈ Rebecca K. Jones** (similarity 0.99)
-  - `[[Rebecca Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Rebecca K. Jones]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-
-- **Ray Crozier ≈ W. Ray Crozier** (similarity 0.99)
-  - `[[Ray Crozier]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[W. Ray Crozier]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-
-- **Raquel Recuero ≈ Raquel da Cunha Recuero** (similarity 0.99)
-  - `[[Raquel Recuero]]` — 8 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Raquel da Cunha Recuero]]` — 2 use(s) in 2 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md, Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
-
-- **Raquel Gomes de Oliveira ≈ Raquel Oliveira** (similarity 0.99)
-  - `[[Raquel Gomes de Oliveira]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Raquel Oliveira]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings - '20-'24.md
-
-- **Ralph J. Turner ≈ Ralph Turner** (similarity 0.99)
-  - `[[Ralph J. Turner]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Ralph Turner]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+- **Rebecca Johnson ≈ Rebecca M. Johnson** (similarity 0.99)
+  - `[[Rebecca Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md
+  - `[[Rebecca M. Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Ralf De Wolf ≈ Ralf Patrick De Wolf** (similarity 0.99)
-  - `[[Ralf De Wolf]]` — 4 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Ralf Patrick De Wolf]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Ralf De Wolf]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ralf Patrick De Wolf]]` — 5 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Rain Anne Ashford ≈ Rain Ashford** (similarity 0.99)
-  - `[[Rain Anne Ashford]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Rain Ashford]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
+- **Rachel Gibson ≈ Rachel K. Gibson** (similarity 0.99)
+  - `[[Rachel Gibson]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Rachel K. Gibson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Rafael Ferreira de Aquino Passos ≈ Rafael Passos** (similarity 0.99)
-  - `[[Rafael Ferreira de Aquino Passos]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-  - `[[Rafael Passos]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
+- **Rachel Franklin Wood ≈ Rachel Wood** (similarity 0.99)
+  - `[[Rachel Franklin Wood]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Rachel Wood]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Rachel Nicole Winter ≈ Rachel Winter** (similarity 0.99)
-  - `[[Rachel Nicole Winter]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, People + Labs/CHDR @ UCF.md, Conferences/ELO Conferences/ELO Conference 2021.md
-  - `[[Rachel Winter]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Rachel Clarke ≈ Rachel Ivy Clarke** (similarity 0.99)
+  - `[[Rachel Clarke]]` — 12 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
+  - `[[Rachel Ivy Clarke]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
 
-- **Rachel M. Magee ≈ Rachel Magee** (similarity 0.99)
-  - `[[Rachel M. Magee]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Rachel Magee]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Rachel F. Genn ≈ Rachel Genn** (similarity 0.99)
-  - `[[Rachel F. Genn]]` — 5 use(s) in 2 file(s), e.g. Conferences/MIX Conferences/MIX Conferences 2020s.md, Conferences/MIX Conferences/MIX Conferences 2010s.md
-  - `[[Rachel Genn]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-
-- **R. Trebor Scholz ≈ Trebor Scholz** (similarity 0.99)
-  - `[[R. Trebor Scholz]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md, Publications - Art Mags/Neural - 1993 - 2010.md
-  - `[[Trebor Scholz]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
-
-### nop
+- **Rabindra A. Ratan ≈ Rabindra Ratan** (similarity 0.99)
+  - `[[Rabindra A. Ratan]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Rabindra Ratan]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Priya C. Kumar ≈ Priya Kumar** (similarity 0.99)
-  - `[[Priya C. Kumar]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Priya Kumar]]` — 4 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Priya C. Kumar]]` — 6 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Priya Kumar]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Philippa Adams ≈ Philippa R. Adams** (similarity 0.99)
-  - `[[Philippa Adams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Philippa R. Adams]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Pia S. de Boer ≈ Pia de Boer** (similarity 0.99)
+  - `[[Pia S. de Boer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Pia de Boer]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Philip M. Napoli ≈ Philip Napoli** (similarity 0.99)
-  - `[[Philip M. Napoli]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Philip Napoli]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Phoebe Moore ≈ Phoebe V. Moore** (similarity 0.99)
+  - `[[Phoebe Moore]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Phoebe V. Moore]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Philipp K. Masur ≈ Philipp Masur** (similarity 0.99)
+  - `[[Philipp K. Masur]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Philipp Masur]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Philip Howard ≈ Philip N. Howard** (similarity 0.99)
   - `[[Philip Howard]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Philip N. Howard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[Philip N. Howard]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
 
 - **Philip H. Howard ≈ Philip Howard** (similarity 0.99)
   - `[[Philip H. Howard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
   - `[[Philip Howard]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
-- **Peter Michael Traub ≈ Peter Traub** (similarity 0.99)
-  - `[[Peter Michael Traub]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Peter Traub]]` — 6 use(s) in 4 file(s), e.g. Archives/The NEXT - Turbulence.md, Publications - Art Mags/Neural - 2011 - 2020.md, Archives/Rhizome Artbase.md
+- **Peter D. McDonald ≈ Peter McDonald** (similarity 0.99)
+  - `[[Peter D. McDonald]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Peter McDonald]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2005-2015.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md, Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2010s.md
 
-- **Peter L. Young ≈ Peter Young** (similarity 0.99)
-  - `[[Peter L. Young]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Peter Young]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-
-- **Peter Arne Johnson ≈ Peter Johnson** (similarity 0.99)
-  - `[[Peter Arne Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Peter Johnson]]` — 6 use(s) in 2 file(s), e.g. Publications - Lit Mags/Del Sol Review (1998-2007).md, Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
-
-- **Peter A. Chow-White ≈ Peter Chow-White** (similarity 0.99)
-  - `[[Peter A. Chow-White]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-  - `[[Peter Chow-White]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+- **Pedro D. Ferreira ≈ Pedro Ferreira** (similarity 0.99)
+  - `[[Pedro D. Ferreira]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Pedro Ferreira]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 4.md, Publications - Art Mags/Neural 2020 - 2030.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Paula Helm ≈ Paula Marie Helm** (similarity 0.99)
-  - `[[Paula Helm]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Paula Marie Helm]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Paula Helm]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Paula Marie Helm]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Paul Jones ≈ Paul K. Jones** (similarity 0.99)
-  - `[[Paul Jones]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-  - `[[Paul K. Jones]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+- **Paula Ferreira ≈ Paula da Costa Ferreira** (similarity 0.99)
+  - `[[Paula Ferreira]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Paula da Costa Ferreira]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Paul J. Reilly ≈ Paul Reilly** (similarity 0.99)
-  - `[[Paul J. Reilly]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Paul Reilly]]` — 6 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Paul J. Reilly]]` — 7 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Paul Reilly]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Paul Booth ≈ Paul J. Booth** (similarity 0.99)
-  - `[[Paul Booth]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md, Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Paul J. Booth]]` — 11 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
+  - `[[Paul Booth]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+  - `[[Paul J. Booth]]` — 15 use(s) in 7 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
 
-- **Paul B. MacCready ≈ Paul MacCready** (similarity 0.99)
-  - `[[Paul B. MacCready]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Paul MacCready]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+- **Patrícia G. C. Rossini ≈ Patrícia Rossini** (similarity 0.99)
+  - `[[Patrícia G. C. Rossini]]` — 6 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Patrícia Rossini]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Paul Anthony Thomas ≈ Paul Thomas** (similarity 0.99)
-  - `[[Paul Anthony Thomas]]` — 5 use(s) in 3 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
-  - `[[Paul Thomas]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-
-- **Paul A. Thomas ≈ Paul Thomas** (similarity 0.99)
-  - `[[Paul A. Thomas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md
-  - `[[Paul Thomas]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-
-- **Paul A. Taylor ≈ Paul Taylor** (similarity 0.99)
-  - `[[Paul A. Taylor]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Paul Taylor]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
-
-- **Patricia R. Webb ≈ Patricia Webb** (similarity 0.99)
-  - `[[Patricia R. Webb]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
-  - `[[Patricia Webb]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
-
-- **Patricia L. Musick ≈ Patricia Musick** (similarity 0.99)
-  - `[[Patricia L. Musick]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Patricia Musick]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+- **Patrícia Esteves Reina ≈ Patrícia Reina** (similarity 0.99)
+  - `[[Patrícia Esteves Reina]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Materialities of Literature (MATLIT).md, Archives/Arquivo Digital Po.Ex.md, Conferences/ELO Conferences/ELO Conference 2024.md
+  - `[[Patrícia Reina]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
 
 - **Patricia G. Lange ≈ Patricia Lange** (similarity 0.99)
-  - `[[Patricia G. Lange]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Patricia G. Lange]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
   - `[[Patricia Lange]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
-- **Patricia G. C. Rossini ≈ Patrícia Rossini** (similarity 0.99)
-  - `[[Patricia G. C. Rossini]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Patrícia Rossini]]` — 5 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Patricia Ericsson ≈ Patricia Freitag Ericsson** (similarity 0.99)
-  - `[[Patricia Ericsson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
-  - `[[Patricia Freitag Ericsson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-
-- **Patricia Colleen Cormack ≈ Patricia Cormack** (similarity 0.99)
-  - `[[Patricia Colleen Cormack]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Patricia Cormack]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
 - **Patricia Ann Aufderheide ≈ Patricia Aufderheide** (similarity 0.99)
-  - `[[Patricia Ann Aufderheide]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Patricia Aufderheide]]` — 5 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Patricia Ann Aufderheide]]` — 7 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Patricia Aufderheide]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Patricia A Aufderheide ≈ Patricia Aufderheide** (similarity 0.99)
-  - `[[Patricia A Aufderheide]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Patricia Aufderheide]]` — 5 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+- **Pablo Boczkowski ≈ Pablo Javier Boczkowski** (similarity 0.99)
+  - `[[Pablo Boczkowski]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Pablo Javier Boczkowski]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
-- **Pamela Angela Medina Garcia ≈ Pamela Medina Garcia** (similarity 0.99)
-  - `[[Pamela Angela Medina Garcia]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-  - `[[Pamela Medina Garcia]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2022.md
+- **Pablo Boczkowski ≈ Pablo J. Boczkowski** (similarity 0.99)
+  - `[[Pablo Boczkowski]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Pablo J. Boczkowski]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **Otávio Iost Vinhas ≈ Otávio Vinhas** (similarity 0.99)
-  - `[[Otávio Iost Vinhas]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Otávio Vinhas]]` — 5 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Otávio Iost Vinhas]]` — 6 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Otávio Vinhas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Otto E. Rössler ≈ Otto Rössler** (similarity 0.99)
-  - `[[Otto E. Rössler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Otto Rössler]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Media Art Net.md
-
-- **Othmar T. Tobisch ≈ Othmar Tobisch** (similarity 0.99)
-  - `[[Othmar T. Tobisch]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Othmar Tobisch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
-- **Om Upadhya ≈ Om. D. Upadhya** (similarity 0.99)
-  - `[[Om Upadhya]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Om. D. Upadhya]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
-- **Olivia Conti ≈ Olivia G. Conti** (similarity 0.99)
-  - `[[Olivia Conti]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Olivia G. Conti]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+- **Oskar Milik ≈ Oskar Tadeusz Milik** (similarity 0.99)
+  - `[[Oskar Milik]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Oskar Tadeusz Milik]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Oliver Haimson ≈ Oliver L. Haimson** (similarity 0.99)
-  - `[[Oliver Haimson]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Oliver L. Haimson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Oliver Haimson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Oliver L. Haimson]]` — 5 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Nohelia Meza ≈ Nohelia Meza Meza** (similarity 0.99)
-  - `[[Nohelia Meza]]` — 12 use(s) in 12 file(s), e.g. Organizations/ELO Teams/ELO Team 2022.md, Anthologies/ELC 4.md, Publications - Academic/Electronic Book Review/EBR Electropoetics.md
-  - `[[Nohelia Meza Meza]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Cronologia de literatura electronica en Mexico.md
+- **Nuno Alves ≈ Nuno de Almeida Alves** (similarity 0.99)
+  - `[[Nuno Alves]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2023.md
+  - `[[Nuno de Almeida Alves]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Nina B. Huntemann ≈ Nina Huntemann** (similarity 0.99)
-  - `[[Nina B. Huntemann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Nina Huntemann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
+- **Nora A. Draper ≈ Nora Draper** (similarity 0.99)
+  - `[[Nora A. Draper]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Nora Draper]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
-- **Nii Kotei Nikoi ≈ Nii Kotei Nikoi Nikoi** (similarity 0.99)
-  - `[[Nii Kotei Nikoi]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Nii Kotei Nikoi Nikoi]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Nicole C. Krämer ≈ Nicole Krämer** (similarity 0.99)
+  - `[[Nicole C. Krämer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Nicole Krämer]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Nigel A. Jackson ≈ Nigel Jackson** (similarity 0.99)
-  - `[[Nigel A. Jackson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
-  - `[[Nigel Jackson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+- **Nicolas B. Ducheneaut ≈ Nicolas Ducheneaut** (similarity 0.99)
+  - `[[Nicolas B. Ducheneaut]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[Nicolas Ducheneaut]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
 
-- **Nicole Lemaire D'Agaggio ≈ Nicole d'Agaggio** (similarity 0.99)
-  - `[[Nicole Lemaire D'Agaggio]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Nicole d'Agaggio]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+- **Nick Francis Potter ≈ Nick Potter** (similarity 0.99)
+  - `[[Nick Francis Potter]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Nick Potter]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Drunken Boat.md
 
-- **Nicole K. Stewart ≈ Nicole Stewart** (similarity 0.99)
-  - `[[Nicole K. Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Nicole Stewart]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Nicholas Jankowski ≈ Nicholas W. Jankowski** (similarity 0.99)
+  - `[[Nicholas Jankowski]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Nicholas W. Jankowski]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Nicholas Bowman ≈ Nicholas David Bowman** (similarity 0.99)
-  - `[[Nicholas Bowman]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Nicholas David Bowman]]` — 5 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Nicholas Bowman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Nicholas David Bowman]]` — 11 use(s) in 6 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Nicholas Bowman ≈ Nicholas D. Bowman** (similarity 0.99)
+  - `[[Nicholas Bowman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Nicholas D. Bowman]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Nicholas A. John ≈ Nicholas John** (similarity 0.99)
-  - `[[Nicholas A. John]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Nicholas John]]` — 11 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Nicholas A. John]]` — 15 use(s) in 6 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Nicholas John]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Neil Gavin ≈ Neil T. Gavin** (similarity 0.99)
-  - `[[Neil Gavin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-  - `[[Neil T. Gavin]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-
-- **Neil B. Rolnick ≈ Neil Rolnick** (similarity 0.99)
-  - `[[Neil B. Rolnick]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Neil Rolnick]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Neil A. Dodgson ≈ Neil Dodgson** (similarity 0.99)
-  - `[[Neil A. Dodgson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Neil Dodgson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Nathaniel E. Stern ≈ Nathaniel Stern** (similarity 0.99)
-  - `[[Nathaniel E. Stern]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-  - `[[Nathaniel Stern]]` — 9 use(s) in 6 file(s), e.g. Organizations/The Verse verse.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Archives/The NEXT - Turbulence.md
-
-- **Nathaniel A. Rivers ≈ Nathaniel Rivers** (similarity 0.99)
-  - `[[Nathaniel A. Rivers]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-  - `[[Nathaniel Rivers]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-
-- **Nathan J. Jackson ≈ Nathan Jackson** (similarity 0.99)
-  - `[[Nathan J. Jackson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Nathan Jackson]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Nathan Allen Jones ≈ Nathan Jones** (similarity 0.99)
-  - `[[Nathan Allen Jones]]` — 10 use(s) in 7 file(s), e.g. Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md, Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed Newspaper.md, Publications - Academic/Electronic Book Review/EBR Fictions Present.md
-  - `[[Nathan Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-
-- **Natalie Ann Hendry ≈ Natalie Hendry** (similarity 0.99)
-  - `[[Natalie Ann Hendry]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Natalie Hendry]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Natalia Barbara Stanusch ≈ Natalia Stanusch** (similarity 0.99)
-  - `[[Natalia Barbara Stanusch]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Natalia Stanusch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Natalia Barabra Stanusch ≈ Natalia Stanusch** (similarity 0.99)
-  - `[[Natalia Barabra Stanusch]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Natalia Stanusch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Naomi Jacobs ≈ Naomi Jane Jacobs** (similarity 0.99)
-  - `[[Naomi Jacobs]]` — 7 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Naomi Jane Jacobs]]` — 4 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Nancy Gorglione ≈ Nancy J. Gorglione** (similarity 0.99)
-  - `[[Nancy Gorglione]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Nancy J. Gorglione]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
-- **Nancy Baym ≈ Nancy K. Baym** (similarity 0.99)
-  - `[[Nancy Baym]]` — 5 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Nancy K. Baym]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-### m
+- **Naomi Barnes ≈ Naomi Joy Barnes** (similarity 0.99)
+  - `[[Naomi Barnes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Naomi Joy Barnes]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Muira McCammon ≈ Muira Nicollet McCammon** (similarity 0.99)
-  - `[[Muira McCammon]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Muira McCammon]]` — 3 use(s) in 3 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Muira Nicollet McCammon]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Morgan Ames ≈ Morgan G. Ames** (similarity 0.99)
@@ -484,12 +454,20 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Molly Beth Hankwitz]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
   - `[[Molly Hankwitz]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
 
+- **Misha Vaughan ≈ Misha Walker Vaughan** (similarity 0.99)
+  - `[[Misha Vaughan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md
+  - `[[Misha Walker Vaughan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Minttu Tikka ≈ Minttu Tuulia Tikka** (similarity 0.99)
+  - `[[Minttu Tikka]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Minttu Tuulia Tikka]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
 - **Minh Hao Nguyen ≈ Minh Nguyen** (similarity 0.99)
-  - `[[Minh Hao Nguyen]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Minh Hao Nguyen]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[Minh Nguyen]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
 
 - **Mike S. Schäfer ≈ Mike Schäfer** (similarity 0.99)
-  - `[[Mike S. Schäfer]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Mike S. Schäfer]]` — 6 use(s) in 6 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
   - `[[Mike Schäfer]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Michi Fujii ≈ Michi S. Fujii** (similarity 0.99)
@@ -500,9 +478,13 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Michelle Robin Stewart]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Michelle Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
 
+- **Michelle Disler ≈ Michelle R. Disler** (similarity 0.99)
+  - `[[Michelle Disler]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Counterpath Press.md
+  - `[[Michelle R. Disler]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/DIAGRAM 21-30.md
+
 - **Michael Young ≈ R. Michael Young** (similarity 0.99)
   - `[[Michael Young]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[R. Michael Young]]` — 9 use(s) in 2 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings - '15-'19.md, Conferences/ICIDS/ICIDS 2010s Proceedings - '10-'14.md
+  - `[[R. Michael Young]]` — 9 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
 
 - **Michael R. (Mike) Mosher ≈ Michael R. Mosher** (similarity 0.99)
   - `[[Michael R. (Mike) Mosher]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
@@ -519,6 +501,18 @@ Vault: ELitJournals — 51965 distinct link targets
 - **Michael L. Nelson ≈ Michael Nelson** (similarity 0.99)
   - `[[Michael L. Nelson]]` — 9 use(s) in 5 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md, Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md, Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
   - `[[Michael Nelson]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Michael L. Mirer ≈ Michael Mirer** (similarity 0.99)
+  - `[[Michael L. Mirer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Michael Mirer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Michael Joseph Walsh ≈ Michael Walsh** (similarity 0.99)
+  - `[[Michael Joseph Walsh]]` — 3 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Ghost Proposal.md
+  - `[[Michael Walsh]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Michael James Walsh ≈ Michael Walsh** (similarity 0.99)
+  - `[[Michael James Walsh]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Michael Walsh]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
 
 - **Michael J. Thomas ≈ Michael Thomas** (similarity 0.99)
   - `[[Michael J. Thomas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
@@ -557,12 +551,20 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Michael Y. Bennett]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2010s.md
 
 - **Michael A. Xenos ≈ Michael Xenos** (similarity 0.99)
-  - `[[Michael A. Xenos]]` — 9 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Michael Xenos]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[Michael A. Xenos]]` — 12 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Michael Xenos]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Mervi Katriina Pantti ≈ Mervi Pantti** (similarity 0.99)
   - `[[Mervi Katriina Pantti]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Mervi Pantti]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Mervi Pantti]]` — 6 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Melissa Jane Rogerson ≈ Melissa Rogerson** (similarity 0.99)
+  - `[[Melissa Jane Rogerson]]` — 2 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Melissa Rogerson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Melissa J. Rogerson ≈ Melissa Rogerson** (similarity 0.99)
+  - `[[Melissa J. Rogerson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Melissa Rogerson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
 
 - **Melissa Hilliard Potter ≈ Melissa Potter** (similarity 0.99)
   - `[[Melissa Hilliard Potter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
@@ -581,8 +583,8 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Melissa Beattie]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md
 
 - **Melissa A. Wall ≈ Melissa Wall** (similarity 0.99)
-  - `[[Melissa A. Wall]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-  - `[[Melissa Wall]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Melissa A. Wall]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Melissa Wall]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **Melanie Jessica Lopez del Pozo ≈ Melanie Lopez del Pozo** (similarity 0.99)
   - `[[Melanie Jessica Lopez del Pozo]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -596,12 +598,16 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Megan M. McIntyre]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
   - `[[Megan McIntyre]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
 
+- **Megan Halpern ≈ Megan K. Halpern** (similarity 0.99)
+  - `[[Megan Halpern]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Megan K. Halpern]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
 - **Megan Fowler ≈ Megan Justine Fowler** (similarity 0.99)
   - `[[Megan Fowler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
   - `[[Megan Justine Fowler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
 
 - **Megan A. Brown ≈ Megan Brown** (similarity 0.99)
-  - `[[Megan A. Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Megan A. Brown]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Megan Brown]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Maurice Lang ≈ Maurice W. Lang** (similarity 0.99)
@@ -613,19 +619,19 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Matthew Wilson Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
 
 - **Matthew Higgins ≈ Matthew R. Higgins** (similarity 0.99)
-  - `[[Matthew Higgins]]` — 2 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings - '20-'24.md
+  - `[[Matthew Higgins]]` — 2 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
   - `[[Matthew R. Higgins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
 
-- **Matthew G. Kirschenbaum ≈ Matthew Kirschenbaum** (similarity 0.99)
-  - `[[Matthew G. Kirschenbaum]]` — 34 use(s) in 29 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Tekka + Tekkalogue.md, Publications - Academic/Electronic Book Review/EBR Critical Ecologies.md, Publications - Academic/Electronic Book Review/EBR Electropoetics.md
-  - `[[Matthew Kirschenbaum]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+- **Matthew E. Perks ≈ Matthew Perks** (similarity 0.99)
+  - `[[Matthew E. Perks]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Matthew Perks]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Podcasts/Podcast - First Person Scholar.md
 
 - **Matthew Bryan ≈ Matthew D. Bryan** (similarity 0.99)
   - `[[Matthew Bryan]]` — 2 use(s) in 2 file(s), e.g. Organizations/ELO Teams/ELO Team 2026.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
   - `[[Matthew D. Bryan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
 
 - **Matthew A. Vetter ≈ Matthew Vetter** (similarity 0.99)
-  - `[[Matthew A. Vetter]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Matthew A. Vetter]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Matthew Vetter]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
 - **María Fernández ≈ María Paula Fernández** (similarity 0.99)
@@ -641,8 +647,12 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Marwan M. Kraidy]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **Martin Gibbs ≈ Martin Ross Gibbs** (similarity 0.99)
-  - `[[Martin Gibbs]]` — 9 use(s) in 6 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Martin Gibbs]]` — 16 use(s) in 10 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
   - `[[Martin Ross Gibbs]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Martin C. Elton ≈ Martin C. J. Elton** (similarity 0.99)
+  - `[[Martin C. Elton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
+  - `[[Martin C. J. Elton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
 
 - **Marshall Kitchens ≈ Marshall W. Kitchens** (similarity 0.99)
   - `[[Marshall Kitchens]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
@@ -656,17 +666,21 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Marlene D. Mathew]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
   - `[[Marlene Mathew]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
 
+- **Mark Richard Johnson ≈ Richard Johnson** (similarity 0.99)
+  - `[[Mark Richard Johnson]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Richard Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
 - **Mark Johnson ≈ Mark Richard Johnson** (similarity 0.99)
   - `[[Mark Johnson]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Creator and Influencer Studies.md
-  - `[[Mark Richard Johnson]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Mark Richard Johnson]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Mark Johnson ≈ Mark R. Johnson** (similarity 0.99)
   - `[[Mark Johnson]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Creator and Influencer Studies.md
-  - `[[Mark R. Johnson]]` — 11 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Mark R. Johnson]]` — 17 use(s) in 8 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **Mark J. Weal ≈ Mark Weal** (similarity 0.99)
   - `[[Mark J. Weal]]` — 19 use(s) in 7 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md, Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md, Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
-  - `[[Mark Weal]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Mark Weal]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Mark J. Stock ≈ Mark Stock** (similarity 0.99)
   - `[[Mark J. Stock]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
@@ -680,13 +694,25 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Mark Favermann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
   - `[[Mark L. Favermann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
 
+- **Mark Davis ≈ Mark Raymound Davis** (similarity 0.99)
+  - `[[Mark Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Mark Raymound Davis]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Mark Chen ≈ Mark G. Chen** (similarity 0.99)
+  - `[[Mark Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
+  - `[[Mark G. Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+
 - **Marjorie D. Kibby ≈ Marjorie Kibby** (similarity 0.99)
-  - `[[Marjorie D. Kibby]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md
+  - `[[Marjorie D. Kibby]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
   - `[[Marjorie Kibby]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Marit J. MacArthur ≈ Marit MacArthur** (similarity 0.99)
   - `[[Marit J. MacArthur]]` — 5 use(s) in 5 file(s), e.g. Organizations/DH Now.md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Solo Journals/Journ. - Journal of Cultural Analytics.md
   - `[[Marit MacArthur]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Marisa Cohn ≈ Marisa Leavitt Cohn** (similarity 0.99)
+  - `[[Marisa Cohn]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Critical Making.md
+  - `[[Marisa Leavitt Cohn]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Marina Mattar ≈ Marina Ribeiro Mattar** (similarity 0.99)
   - `[[Marina Mattar]]` — 2 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
@@ -696,9 +722,21 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Marilyn A. Johnston]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
   - `[[Marilyn Johnston]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
 
+- **Mariek MP Vanden Abeele ≈ Mariek Vanden Abeele** (similarity 0.99)
+  - `[[Mariek MP Vanden Abeele]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Mariek Vanden Abeele]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
 - **Mariana C. Grohowski ≈ Mariana Grohowski** (similarity 0.99)
   - `[[Mariana C. Grohowski]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
   - `[[Mariana Grohowski]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+
+- **Mariah L. Wellman ≈ Mariah Wellman** (similarity 0.99)
+  - `[[Mariah L. Wellman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Mariah Wellman]]` — 2 use(s) in 2 file(s), e.g. Organizations/Ed. Board - Creator and Influencer Studies.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Maria Martin ≈ María Teresa Martín** (similarity 0.99)
+  - `[[Maria Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[María Teresa Martín]]` — 1 use(s) in 1 file(s), e.g. People + Labs/TROPOS - LEETHI.md
 
 - **Maria Alberto ≈ Maria K. Alberto** (similarity 0.99)
   - `[[Maria Alberto]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -724,21 +762,25 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Marcus B. Hester]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
   - `[[Marcus Hester]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
 
+- **Marcus Antonius H. Ynalvez ≈ Marcus Antonius Ynalvez** (similarity 0.99)
+  - `[[Marcus Antonius H. Ynalvez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Marcus Antonius Ynalvez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
 - **Marco Bastos ≈ Marco Toledo Bastos** (similarity 0.99)
-  - `[[Marco Bastos]]` — 9 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Marco Bastos]]` — 10 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[Marco Toledo Bastos]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
 
 - **Marco Bastos ≈ Marco T. Bastos** (similarity 0.99)
-  - `[[Marco Bastos]]` — 9 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Marco T. Bastos]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Marco Bastos]]` — 10 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Marco T. Bastos]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Marcelo Alves dos Santos ≈ Marcelo Santos** (similarity 0.99)
   - `[[Marcelo Alves dos Santos]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Marcelo Santos]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Marcelo Santos]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Marc Bornstein ≈ Marc H. Bornstein** (similarity 0.99)
   - `[[Marc Bornstein]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Marc H. Bornstein]]` — 10 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+  - `[[Marc H. Bornstein]]` — 11 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
 
 - **Marc A. Ouellette ≈ Marc Ouellette** (similarity 0.99)
   - `[[Marc A. Ouellette]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
@@ -752,240 +794,97 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Mai Nou Xiong-Gum]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Mai Nou Xiong-Gum Xiong-Gum]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
+- **Mahli-Ann Butt ≈ Mahli-Ann Rakkomkaew Butt** (similarity 0.99)
+  - `[[Mahli-Ann Butt]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Mahli-Ann Rakkomkaew Butt]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+
+- **Mahli-Ann Butt ≈ Mahli-Ann R. Butt** (similarity 0.99)
+  - `[[Mahli-Ann Butt]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Mahli-Ann R. Butt]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
 - **Magdalena E. Wojcieszak ≈ Magdalena Wojcieszak** (similarity 0.99)
   - `[[Magdalena E. Wojcieszak]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Magdalena Wojcieszak]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Magdalena Wojcieszak]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Madison Jones ≈ Madison Percy Jones** (similarity 0.99)
   - `[[Madison Jones]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
   - `[[Madison Percy Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
 
-- **M. Bornstein ≈ M. H. Bornstein** (similarity 0.99)
-  - `[[M. Bornstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[M. H. Bornstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+- **Luís Claudio Fajardo ≈ Luís Cláudio Costa Fajardo** (similarity 0.99)
+  - `[[Luís Claudio Fajardo]]` — 2 use(s) in 2 file(s), e.g. Anthologies/ELC 3.md, Archives/Arquivo Digital Po.Ex.md
+  - `[[Luís Cláudio Costa Fajardo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
 
-### kl
+- **Luke Heemsbergen ≈ Luke J. Heemsbergen** (similarity 0.99)
+  - `[[Luke Heemsbergen]]` — 6 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Luke J. Heemsbergen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Lívia Bertges ≈ Lívia Ribeiro Bertges** (similarity 0.99)
-  - `[[Lívia Bertges]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2017.md
-  - `[[Lívia Ribeiro Bertges]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
+- **Lukas Otto ≈ Lukas P. Otto** (similarity 0.99)
+  - `[[Lukas Otto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Lukas P. Otto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Lucy Baker ≈ Lucy Irene Baker** (similarity 0.99)
-  - `[[Lucy Baker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
-  - `[[Lucy Irene Baker]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
+- **Luis E. Hestres ≈ Luis Hestres** (similarity 0.99)
+  - `[[Luis E. Hestres]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Luis Hestres]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
-- **Lucia Adams Beier ≈ Lucia Beier** (similarity 0.99)
-  - `[[Lucia Adams Beier]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Lucia Beier]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+- **Lisa Marie Reutter ≈ Lisa Reutter** (similarity 0.99)
+  - `[[Lisa Marie Reutter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Lisa Reutter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Lori Hitchcock Morimoto ≈ Lori Morimoto** (similarity 0.99)
-  - `[[Lori Hitchcock Morimoto]]` — 6 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
-  - `[[Lori Morimoto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
+- **Lisa Jones ≈ Lisa M. Jones** (similarity 0.99)
+  - `[[Lisa Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+  - `[[Lisa M. Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Loren Britton ≈ Ren Loren Britton** (similarity 0.99)
-  - `[[Loren Britton]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
-  - `[[Ren Loren Britton]]` — 3 use(s) in 3 file(s), e.g. Organizations/ai, ai, ai.md, Organizations/New Centre for Research & Practice.md, Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md
+- **Leonie Maria Tanczer ≈ Leonie Tanczer** (similarity 0.99)
+  - `[[Leonie Maria Tanczer]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Leonie Tanczer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
 
-- **Linda Barnes ≈ Linda Laube Barnes** (similarity 0.99)
-  - `[[Linda Barnes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Linda Laube Barnes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1980s.md
+- **Laura Fernández ≈ Laura Muñoz Fernández** (similarity 0.99)
+  - `[[Laura Fernández]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Laura Muñoz Fernández]]` — 1 use(s) in 1 file(s), e.g. People + Labs/TROPOS - LEETHI.md
 
-- **Liat Berdugo ≈ Liat Rachel Berdugo** (similarity 0.99)
-  - `[[Liat Berdugo]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
-  - `[[Liat Rachel Berdugo]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md, Conferences/New Media Conferences/New Media Caucus Symposia.md, Conferences/ELO Exhibitions/ELO 2023 Exhibit.md
+- **Kurt D. Squire ≈ Kurt Squire** (similarity 0.99)
+  - `[[Kurt D. Squire]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+  - `[[Kurt Squire]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
 
-- **Leslie Jones ≈ Leslie Kay Jones** (similarity 0.99)
-  - `[[Leslie Jones]]` — 2 use(s) in 1 file(s), e.g. Publications - Art Mags/Right Click Save.md
-  - `[[Leslie Kay Jones]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Kunto Adi Wibowo ≈ Kunto Wibowo** (similarity 0.99)
+  - `[[Kunto Adi Wibowo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Kunto Wibowo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Leslie D. Harris ≈ Leslie Harris** (similarity 0.99)
-  - `[[Leslie D. Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
-  - `[[Leslie Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
-
-- **Leslie A. Carr ≈ Leslie Carr** (similarity 0.99)
-  - `[[Leslie A. Carr]]` — 13 use(s) in 5 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md, Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md, Publications - Academic/Decades Journals/Journ. - Hypermedia 99-08.md
-  - `[[Leslie Carr]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Leonardo Flores ≈ Leonardo L. Flores** (similarity 0.99)
-  - `[[Leonardo Flores]]` — 81 use(s) in 46 file(s), e.g. Publications - Lit Mags/Taper Zine.md, Conferences/ELO Conferences/ELO Conference 2017.md, Conferences/ELO Conferences/ELO Conference 2015.md
-  - `[[Leonardo L. Flores]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - Remediating the Social.md
-
-- **Leonardo Feichas ≈ Leonardo Vieira Feichas** (similarity 0.99)
-  - `[[Leonardo Feichas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Leonardo Vieira Feichas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Leila Nadir ≈ leila christine nadir** (similarity 0.99)
-  - `[[Leila Nadir]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
-  - `[[leila christine nadir]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
-
-- **Leila C. Nadir ≈ Leila Nadir** (similarity 0.99)
-  - `[[Leila C. Nadir]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
-  - `[[Leila Nadir]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
-
-- **Leandro Augusto Borges Lima ≈ Leandro Lima** (similarity 0.99)
-  - `[[Leandro Augusto Borges Lima]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
-  - `[[Leandro Lima]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Leah Cassorla ≈ Leah F. Cassorla** (similarity 0.99)
-  - `[[Leah Cassorla]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-  - `[[Leah F. Cassorla]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-
-- **Leah A. Lievrouw ≈ Leah Lievrouw** (similarity 0.99)
-  - `[[Leah A. Lievrouw]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Leah Lievrouw]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
-
-- **LeGrace Benson ≈ LeGrace G. Benson** (similarity 0.99)
-  - `[[LeGrace Benson]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[LeGrace G. Benson]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-
-- **Laurie N. Taylor ≈ Laurie Taylor** (similarity 0.99)
-  - `[[Laurie N. Taylor]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
-  - `[[Laurie Taylor]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
-
-- **Lauren Lee McCarthy ≈ Lauren McCarthy** (similarity 0.99)
-  - `[[Lauren Lee McCarthy]]` — 7 use(s) in 7 file(s), e.g. Organizations/School for Poetic Computation.md, Organizations/WordHack.md, Publications - Art Mags/AI Art Magazine.md
-  - `[[Lauren McCarthy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Lauren Bridges ≈ Lauren E. Bridges** (similarity 0.99)
-  - `[[Lauren Bridges]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Lauren E. Bridges]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Laura L. Sullivan ≈ Laura Sullivan** (similarity 0.99)
-  - `[[Laura L. Sullivan]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md, Publications - Academic/Electronic Book Review/EBR Technocapitalism.md, Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md
-  - `[[Laura Sullivan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
-
-- **Laura J. Miller ≈ Laura Miller** (similarity 0.99)
-  - `[[Laura J. Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-  - `[[Laura Miller]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
-- **Laura Herman ≈ Laura M. Herman** (similarity 0.99)
-  - `[[Laura Herman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Laura M. Herman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-
-- **Larry Nathan Strelitz ≈ Larry Strelitz** (similarity 0.99)
-  - `[[Larry Nathan Strelitz]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-  - `[[Larry Strelitz]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
-- **Lance J. Putnam ≈ Lance Putnam** (similarity 0.99)
-  - `[[Lance J. Putnam]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Lance Putnam]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Kyra Hunting ≈ Kyra Osten Hunting** (similarity 0.99)
-  - `[[Kyra Hunting]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
-  - `[[Kyra Osten Hunting]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
-
-- **Kristine Blair ≈ Kristine L. Blair** (similarity 0.99)
-  - `[[Kristine Blair]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md
-  - `[[Kristine L. Blair]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
-
-- **Kris Cohen ≈ Kris R. Cohen** (similarity 0.99)
-  - `[[Kris Cohen]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md, Publications - Art Mags/Neural - 2011 - 2020.md
-  - `[[Kris R. Cohen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
-- **Koos A Kombuis ≈ Koos Kombuis** (similarity 0.99)
-  - `[[Koos A Kombuis]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
-  - `[[Koos Kombuis]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
-
-- **Komninos Konstantinos Zervos ≈ komninos zervos** (similarity 0.99)
-  - `[[Komninos Konstantinos Zervos]]` — 11 use(s) in 10 file(s), e.g. Conferences/E-Poetry/E-Poetry 2007 Paris.md, Publications - Academic/Blogs/Blog - I <3 E-Poetry.md, Publications - Academic/Electronic Book Review/EBR Electropoetics.md
-  - `[[komninos zervos]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
-
-- **Kishonna Gray ≈ Kishonna L. Gray** (similarity 0.99)
-  - `[[Kishonna Gray]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md, Publications - Academic/Electronic Book Review/EBR Writing post-Feminism.md, Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md
-  - `[[Kishonna L. Gray]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
-- **Kiran Juliana Kappeler ≈ Kiran Kappeler** (similarity 0.99)
-  - `[[Kiran Juliana Kappeler]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Kiran Kappeler]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Kimberly Dennin ≈ Kimberly Grace Dennin** (similarity 0.99)
-  - `[[Kimberly Dennin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
-  - `[[Kimberly Grace Dennin]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Kristel Anne Acedera ≈ Kristel Anne F. Acedera** (similarity 0.99)
+  - `[[Kristel Anne Acedera]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Kristel Anne F. Acedera]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Kevin G. Wilson ≈ Kevin Wilson** (similarity 0.99)
-  - `[[Kevin G. Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-  - `[[Kevin Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+  - `[[Kevin G. Wilson]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Electronic Book Review/EBR First Person.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+  - `[[Kevin Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
 
-- **Kevin Day ≈ Kevin Tsuan-Hsiang Day** (similarity 0.99)
-  - `[[Kevin Day]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2019.md
-  - `[[Kevin Tsuan-Hsiang Day]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+- **Kerk F. Kee ≈ Kerk Kee** (similarity 0.99)
+  - `[[Kerk F. Kee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Kerk Kee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Kenneth E. Rinaldo ≈ Kenneth Rinaldo** (similarity 0.99)
-  - `[[Kenneth E. Rinaldo]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Kenneth Rinaldo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+- **Katriina Heljakka ≈ Katriina Irja Heljakka** (similarity 0.99)
+  - `[[Katriina Heljakka]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Katriina Irja Heljakka]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
 
-- **Kenneth Adams ≈ Kenneth R. Adams** (similarity 0.99)
-  - `[[Kenneth Adams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Kenneth R. Adams]]` — 9 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
-- **Kelsey Entrikin ≈ Kelsey Morgan Entrikin** (similarity 0.99)
-  - `[[Kelsey Entrikin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md
-  - `[[Kelsey Morgan Entrikin]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
-
-- **Kelly Lewis ≈ Kelly Marie Lewis** (similarity 0.99)
-  - `[[Kelly Lewis]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Kelly Marie Lewis]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Kelly Dillon ≈ Kelly P. Dillon** (similarity 0.99)
-  - `[[Kelly Dillon]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Kelly P. Dillon]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Kelly A. Quinn ≈ Kelly Quinn** (similarity 0.99)
-  - `[[Kelly A. Quinn]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Kelly Quinn]]` — 9 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Keith Hampton ≈ Keith N. Hampton** (similarity 0.99)
-  - `[[Keith Hampton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Keith N. Hampton]]` — 11 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
-
-- **Keith A. Reader ≈ Keith Reader** (similarity 0.99)
-  - `[[Keith A. Reader]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
-  - `[[Keith Reader]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
-
-- **Kedma Damasceno ≈ Kedma Janaina Freitas Damasceno** (similarity 0.99)
-  - `[[Kedma Damasceno]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-  - `[[Kedma Janaina Freitas Damasceno]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-
-- **Kathy A. Fitch ≈ Kathy Fitch** (similarity 0.99)
-  - `[[Kathy A. Fitch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-  - `[[Kathy Fitch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
-
-- **Kathleen C. Gerbasi ≈ Kathleen Gerbasi** (similarity 0.99)
-  - `[[Kathleen C. Gerbasi]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md, Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md
-  - `[[Kathleen Gerbasi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
-
-- **Katherine Fitzgerald ≈ Katherine M. FitzGerald** (similarity 0.99)
-  - `[[Katherine Fitzgerald]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Katherine M. FitzGerald]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Kathleen Cumiskey ≈ Kathleen M. Cumiskey** (similarity 0.99)
+  - `[[Kathleen Cumiskey]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Kathleen M. Cumiskey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Katharina E. Kinder-Kurlanda ≈ Katharina Kinder-Kurlanda** (similarity 0.99)
-  - `[[Katharina E. Kinder-Kurlanda]]` — 2 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Katharina Kinder-Kurlanda]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Katharina E. Kinder-Kurlanda]]` — 5 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Katharina Kinder-Kurlanda]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Kate M. Miltner ≈ Kate Miltner** (similarity 0.99)
-  - `[[Kate M. Miltner]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Kate Miltner]]` — 4 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Kate Riegle-van West ≈ Kate West** (similarity 0.99)
+  - `[[Kate Riegle-van West]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
+  - `[[Kate West]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Kate Farfan ≈ Kate O'Connor Farfan** (similarity 0.99)
-  - `[[Kate Farfan]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Kate O'Connor Farfan]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Karen (Kat) Schrier ≈ Karen Schrier** (similarity 0.99)
+  - `[[Karen (Kat) Schrier]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Karen Schrier]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
 
-- **Kate Elizabeth McManus ≈ Kate McManus** (similarity 0.99)
-  - `[[Kate Elizabeth McManus]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
-  - `[[Kate McManus]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-
-- **Kasey Asberry ≈ Kasey Rios Asberry** (similarity 0.99)
-  - `[[Kasey Asberry]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Kasey Rios Asberry]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-
-- **Karin Becker ≈ Karin E. Becker** (similarity 0.99)
-  - `[[Karin Becker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-  - `[[Karin E. Becker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-
-- **Karen J. Lunsford ≈ Karen Lunsford** (similarity 0.99)
-  - `[[Karen J. Lunsford]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
-  - `[[Karen Lunsford]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-### ij 
+- **Justin A. Bortnick ≈ Justin Bortnick** (similarity 0.99)
+  - `[[Justin A. Bortnick]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Justin Bortnick]]` — 5 use(s) in 4 file(s), e.g. Organizations/Interactive Fiction Tech Foundation.md, Conferences/ELO Conferences/ELO Conference 2026.md, Conferences/ELO Conferences/ELO Conference 2021.md
 
 - **Juliet Ann Martin ≈ Juliet Martin** (similarity 0.99)
   - `[[Juliet Ann Martin]]` — 3 use(s) in 3 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md, Archives/Rhizome Artbase.md, Publications - Lit Mags/BeeHive.md
@@ -997,38 +896,42 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **Julie Chen ≈ Julie Yujie Chen** (similarity 0.99)
   - `[[Julie Chen]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Julie Yujie Chen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Archives/Series - In Search of Media.md
+  - `[[Julie Yujie Chen]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Juliana Di Fiori Pondian ≈ Juliana Pondian** (similarity 0.99)
   - `[[Juliana Di Fiori Pondian]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
   - `[[Juliana Pondian]]` — 11 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
 
 - **Julian Kücklich ≈ Julian Raul Kücklich** (similarity 0.99)
-  - `[[Julian Kücklich]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
-  - `[[Julian Raul Kücklich]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Tekka + Tekkalogue.md, Publications - Academic/Electronic Book Review/EBR First Person.md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
+  - `[[Julian Kücklich]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+  - `[[Julian Raul Kücklich]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Tekka + Tekkalogue.md, Publications - Academic/Electronic Book Review/EBR First Person.md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
 
 - **Julian Albert Kilker ≈ Julian Kilker** (similarity 0.99)
   - `[[Julian Albert Kilker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md
   - `[[Julian Kilker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Julia Helen Lane ≈ Julia Lane** (similarity 0.99)
+  - `[[Julia Helen Lane]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Julia Lane]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **Julia Dias ≈ Julia Santos Rodrigues Dias** (similarity 0.99)
   - `[[Julia Dias]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Julia Santos Rodrigues Dias]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Julia DeCook ≈ Julia Rose DeCook** (similarity 0.99)
-  - `[[Julia DeCook]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Julia Rose DeCook]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Julia DeCook]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Julia Rose DeCook]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Julia DeCook ≈ Julia R. DeCook** (similarity 0.99)
-  - `[[Julia DeCook]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Julia R. DeCook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Julia DeCook]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Julia R. DeCook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Julia Christensen ≈ Julia F. Christensen** (similarity 0.99)
   - `[[Julia Christensen]]` — 2 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
   - `[[Julia F. Christensen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
 
 - **Judith Fathallah ≈ Judith May Fathallah** (similarity 0.99)
-  - `[[Judith Fathallah]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md, Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md
+  - `[[Judith Fathallah]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md
   - `[[Judith May Fathallah]]` — 7 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
 - **Juan A. Romero ≈ Juan Romero** (similarity 0.99)
@@ -1047,6 +950,10 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Joyce Ozier]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
   - `[[Joyce R. Ozier]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
 
+- **Joshua Jennings Wood ≈ Joshua Wood** (similarity 0.99)
+  - `[[Joshua Jennings Wood]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Joshua Wood]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Lit Mags/Re•mediate.md
+
 - **Joshua Davis ≈ Joshua L. Davis** (similarity 0.99)
   - `[[Joshua Davis]]` — 3 use(s) in 3 file(s), e.g. Publications - Art Mags/On NFTs.md, Archives/Répertoire NT2 - 1995-2006.md, Awards/Prix Ars Electronica - Golden Nica Winners.md
   - `[[Joshua L. Davis]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
@@ -1054,6 +961,22 @@ Vault: ELitJournals — 51965 distinct link targets
 - **Joseph Paul Tabbi ≈ Joseph Tabbi** (similarity 0.99)
   - `[[Joseph Paul Tabbi]]` — 1 use(s) in 1 file(s), e.g. People + Labs/Center for Digital Narrative at UIB.md
   - `[[Joseph Tabbi]]` — 69 use(s) in 35 file(s), e.g. Publications - Academic/Electronic Book Review/EBR Fictions Present.md, Publications - Academic/Electronic Book Review/EBR End Construction.md, Organizations/Ed. Board - Electronic Book Review.md
+
+- **Joseph P. Wood ≈ Joseph Wood** (similarity 0.99)
+  - `[[Joseph P. Wood]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Joseph Wood]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Joseph E. Kahne ≈ Joseph Kahne** (similarity 0.99)
+  - `[[Joseph E. Kahne]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Joseph Kahne]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Joseph D. Straubhaar ≈ Joseph Straubhaar** (similarity 0.99)
+  - `[[Joseph D. Straubhaar]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Joseph Straubhaar]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Materialities of Literature (MATLIT).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Joseph B. Bayer ≈ Joseph Bayer** (similarity 0.99)
+  - `[[Joseph B. Bayer]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Joseph Bayer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Jose Manuel Blanco González ≈ José Manuel González** (similarity 0.99)
   - `[[Jose Manuel Blanco González]]` — 1 use(s) in 1 file(s), e.g. People + Labs/TROPOS - LEETHI.md
@@ -1071,8 +994,12 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Jonathan Leslie Zilberg]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
   - `[[Jonathan Zilberg]]` — 15 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
 
+- **Jonathan James McCreadie Lillie ≈ Jonathan Lillie** (similarity 0.99)
+  - `[[Jonathan James McCreadie Lillie]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md
+  - `[[Jonathan Lillie]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
 - **Jonathan Gray ≈ Jonathan W. Y. Gray** (similarity 0.99)
-  - `[[Jonathan Gray]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Jonathan Gray]]` — 6 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[Jonathan W. Y. Gray]]` — 6 use(s) in 6 file(s), e.g. Organizations/School for Poetic Computation.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
 - **Jonathan Corpus Ong ≈ Jonathan Ong** (similarity 0.99)
@@ -1082,6 +1009,14 @@ Vault: ELitJournals — 51965 distinct link targets
 - **Jonathan C. Fish ≈ Jonathan Fish** (similarity 0.99)
   - `[[Jonathan C. Fish]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
   - `[[Jonathan Fish]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+
+- **Jon Benedik A. Bunquin ≈ Jon Benedik Bunquin** (similarity 0.99)
+  - `[[Jon Benedik A. Bunquin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jon Benedik Bunquin]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **John Robinson ≈ John Timothy Robinson** (similarity 0.99)
+  - `[[John Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[John Timothy Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
 
 - **John Paul Walter ≈ John Walter** (similarity 0.99)
   - `[[John Paul Walter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
@@ -1097,7 +1032,7 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **John K. Lewis ≈ John Lewis** (similarity 0.99)
   - `[[John K. Lewis]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/MQR CPU-Text Issue.md
-  - `[[John Lewis]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Choicebeat.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[John Lewis]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Zine - Choicebeat.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
 
 - **John Hondros ≈ John J. Hondros** (similarity 0.99)
   - `[[John Hondros]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
@@ -1153,7 +1088,15 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **John Brown ≈ John Seely Brown** (similarity 0.99)
   - `[[John Brown]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Conferences/New Media Conferences/Currents New Media Festival 2020s.md
-  - `[[John Seely Brown]]` — 5 use(s) in 1 file(s), e.g. Organizations/HASTAC Leadership.md
+  - `[[John Seely Brown]]` — 6 use(s) in 2 file(s), e.g. Organizations/HASTAC Leadership.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+
+- **John Brown ≈ John Mark Brown** (similarity 0.99)
+  - `[[John Brown]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+  - `[[John Mark Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+
+- **John Bradley ≈ John Douglas Bradley** (similarity 0.99)
+  - `[[John Bradley]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[John Douglas Bradley]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md, Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md
 
 - **John Bowlt ≈ John E. Bowlt** (similarity 0.99)
   - `[[John Bowlt]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
@@ -1167,6 +1110,10 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[John B. Smith]]` — 7 use(s) in 5 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1980s.md, Conferences/ACM/ACM Hypertext Proceedings 1990-1994.md, Organizations/Eastgate Systems.md
   - `[[John Smith]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
 
+- **John Allen Taylor ≈ John Taylor** (similarity 0.99)
+  - `[[John Allen Taylor]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[John Taylor]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
 - **John Adkins Richardson ≈ John Richardson** (similarity 0.99)
   - `[[John Adkins Richardson]]` — 16 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
   - `[[John Richardson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -1174,6 +1121,10 @@ Vault: ELitJournals — 51965 distinct link targets
 - **John A. Taylor ≈ John Taylor** (similarity 0.99)
   - `[[John A. Taylor]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
   - `[[John Taylor]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Johanna Birkland ≈ Johanna LH Birkland** (similarity 0.99)
+  - `[[Johanna Birkland]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Johanna LH Birkland]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Johann Boshoff ≈ Johann P. Boshoff** (similarity 0.99)
   - `[[Johann Boshoff]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
@@ -1187,12 +1138,16 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Joel A. English]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
   - `[[Joel English]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
 
+- **Joao Santos ≈ João M. Santos** (similarity 0.99)
+  - `[[Joao Santos]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[João M. Santos]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
 - **Joao Santos ≈ João Guilherme Bastos dos Santos** (similarity 0.99)
   - `[[Joao Santos]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
   - `[[João Guilherme Bastos dos Santos]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Joanne Kuai ≈ Joanne Xiaoqiong Kuai** (similarity 0.99)
-  - `[[Joanne Kuai]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Joanne Kuai]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Joanne Xiaoqiong Kuai]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Joanne Elizabeth Gray ≈ Joanne Gray** (similarity 0.99)
@@ -1200,7 +1155,7 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Joanne Gray]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Joanne E. Gray ≈ Joanne Gray** (similarity 0.99)
-  - `[[Joanne E. Gray]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Joanne E. Gray]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Joanne Gray]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Joanna L. Wolfe ≈ Joanna Wolfe** (similarity 0.99)
@@ -1217,23 +1172,35 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **Jingsi Christina Wu ≈ Jingsi Wu** (similarity 0.99)
   - `[[Jingsi Christina Wu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Jingsi Wu]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Jingsi Wu]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Jin Lee ≈ Jin Ree Lee** (similarity 0.99)
-  - `[[Jin Lee]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Jin Lee]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[Jin Ree Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **Jin Kyun Lee ≈ Jin Lee** (similarity 0.99)
   - `[[Jin Kyun Lee]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Jin Lee]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Jin Lee]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Jin Kim ≈ Jin Sol Kim** (similarity 0.99)
   - `[[Jin Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Jin Sol Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Electronic Book Review/EBR Web Arts.md
 
+- **Jin Ha Lee ≈ Jin Lee** (similarity 0.99)
+  - `[[Jin Ha Lee]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Jin Lee]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
 - **Jillana Beth Enteen ≈ Jillana Enteen** (similarity 0.99)
   - `[[Jillana Beth Enteen]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Jillana Enteen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+  - `[[Jillana Enteen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+
+- **Jillana B. Enteen ≈ Jillana Enteen** (similarity 0.99)
+  - `[[Jillana B. Enteen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Jillana Enteen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+
+- **Jih-Hsuan Lin ≈ Jih-Hsuan Tammy Lin** (similarity 0.99)
+  - `[[Jih-Hsuan Lin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Jih-Hsuan Tammy Lin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Jessie P. H. Poon ≈ Jessie Poon** (similarity 0.99)
   - `[[Jessie P. H. Poon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
@@ -1243,17 +1210,37 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Jessica Parris Westbrook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
   - `[[Jessica Westbrook]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md, Archives/Répertoire NT2 - 2007-2022.md
 
+- **Jessica Lynn Smith ≈ Jessica Smith** (similarity 0.99)
+  - `[[Jessica Lynn Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Jessica Smith]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Lit Mags/FENCE Digital.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
+
+- **Jessica Johnson ≈ Jessica Marie Johnson** (similarity 0.99)
+  - `[[Jessica Johnson]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Jessica Marie Johnson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Books/Ed. Coll. - Digital Pedagogy in the Humanities.md, Publications - Academic/Books/Ed. Coll. - Debates in Digital Humanities.md
+
+- **Jesse Ferguson ≈ Jesse Patrick Ferguson** (similarity 0.99)
+  - `[[Jesse Ferguson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Jesse Patrick Ferguson]]` — 3 use(s) in 3 file(s), e.g. Publications - Lit Mags/Speechless.md, Publications - Lit Mags/Drunken Boat 2012-2026.md, Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Jessalynn Keller ≈ Jessalynn Marie Keller** (similarity 0.99)
+  - `[[Jessalynn Keller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Jessalynn Marie Keller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
 - **Jeremy Bushnell ≈ Jeremy P. Bushnell** (similarity 0.99)
   - `[[Jeremy Bushnell]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
   - `[[Jeremy P. Bushnell]]` — 2 use(s) in 2 file(s), e.g. Organizations/WordHack.md, Archives/Répertoire NT2 - 1995-2006.md
+
+- **JeongHyun Lee ≈ Jeonghyun (Janice) Lee** (similarity 0.99)
+  - `[[JeongHyun Lee]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Jeonghyun (Janice) Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Jenny Korn ≈ Jenny Ungbha Korn** (similarity 0.99)
   - `[[Jenny Korn]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Jenny Ungbha Korn]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
 
 - **Jenny Davis ≈ Jenny L. Davis** (similarity 0.99)
-  - `[[Jenny Davis]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Jenny L. Davis]]` — 8 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Jenny Davis]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Jenny L. Davis]]` — 9 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Jennifer Parker ≈ Jennifer no.e Parker** (similarity 0.99)
   - `[[Jennifer Parker]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
@@ -1262,6 +1249,18 @@ Vault: ELitJournals — 51965 distinct link targets
 - **Jennifer McCoy ≈ Jennifer and Kevin McCoy** (similarity 0.99)
   - `[[Jennifer McCoy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
   - `[[Jennifer and Kevin McCoy]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+
+- **Jennifer K. Sweeney ≈ Jennifer Sweeney** (similarity 0.99)
+  - `[[Jennifer K. Sweeney]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Jennifer Sweeney]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Del Sol Review (2008-2017ish).md
+
+- **Jennifer Henrichsen ≈ Jennifer R. Henrichsen** (similarity 0.99)
+  - `[[Jennifer Henrichsen]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Jennifer R. Henrichsen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Jennifer Gibbs ≈ Jennifer L. Gibbs** (similarity 0.99)
+  - `[[Jennifer Gibbs]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Jennifer L. Gibbs]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Jennifer De Leon ≈ Jennifer Ponce de León** (similarity 0.99)
   - `[[Jennifer De Leon]]` — 3 use(s) in 2 file(s), e.g. People + Labs/LabSynthE.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
@@ -1287,6 +1286,10 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Jeffrey Schnapp]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
   - `[[Jeffrey T. Schnapp]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Vectors.md, Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md
 
+- **Jeffrey Hancock ≈ Jeffrey T. Hancock** (similarity 0.99)
+  - `[[Jeffrey Hancock]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jeffrey T. Hancock]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
 - **Jeffrey Erickson ≈ Jeffrey S. Erickson** (similarity 0.99)
   - `[[Jeffrey Erickson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
   - `[[Jeffrey S. Erickson]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
@@ -1295,25 +1298,33 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Jeffrey Babcock]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
   - `[[Jeffrey N. Babcock]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
 
+- **Jed Brubaker ≈ Jed R. Brubaker** (similarity 0.99)
+  - `[[Jed Brubaker]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md, People + Labs/Media Archaeology Lab.md
+  - `[[Jed R. Brubaker]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
 - **Jay Bolter ≈ Jay David Bolter** (similarity 0.99)
   - `[[Jay Bolter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Jay David Bolter]]` — 19 use(s) in 17 file(s), e.g. Organizations/Eastgate Systems.md, Publications - Academic/Books/Ed. Coll. - Johns Hopkins Guide to Digital Media.md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Jay David Bolter]]` — 22 use(s) in 18 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Organizations/Eastgate Systems.md, Publications - Academic/Books/Ed. Coll. - Johns Hopkins Guide to Digital Media.md
 
 - **Jay Blumler ≈ Jay G. Blumler** (similarity 0.99)
   - `[[Jay Blumler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
   - `[[Jay G. Blumler]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
 
-- **Jason Vincent Aquino Cabanes ≈ Jason Vincent Cabanes** (similarity 0.99)
-  - `[[Jason Vincent Aquino Cabanes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+- **Jason Vincent Aquino Cabañes ≈ Jason Vincent Cabanes** (similarity 0.99)
+  - `[[Jason Vincent Aquino Cabañes]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Jason Vincent Cabanes]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Jason Vincent A Cabañes ≈ Jason Vincent Cabanes** (similarity 0.99)
-  - `[[Jason Vincent A Cabañes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+- **Jason Vincent A. Cabanes ≈ Jason Vincent Cabanes** (similarity 0.99)
+  - `[[Jason Vincent A. Cabanes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
   - `[[Jason Vincent Cabanes]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Jason McC. Smith ≈ Jason Smith** (similarity 0.99)
   - `[[Jason McC. Smith]]` — 3 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
   - `[[Jason Smith]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Jason J. Jones ≈ Jason Jones** (similarity 0.99)
+  - `[[Jason J. Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jason Jones]]` — 1 use(s) in 1 file(s), e.g. People + Labs/WordHerder Collective.md
 
 - **Jason Helms ≈ Jason Muir Helms** (similarity 0.99)
   - `[[Jason Helms]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
@@ -1336,11 +1347,11 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Jason Smith]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **Jasmine E. McNealy ≈ Jasmine McNealy** (similarity 0.99)
-  - `[[Jasmine E. McNealy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Jasmine E. McNealy]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[Jasmine McNealy]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Janice R. Walker ≈ Janice Walker** (similarity 0.99)
-  - `[[Janice R. Walker]]` — 8 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Solo Journals/Computer-Mediated Communication Magazine.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
+  - `[[Janice R. Walker]]` — 8 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Solo Journals/Journ. - Computer-Mediated Communication.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
   - `[[Janice Walker]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
 
 - **Jane D. Marsching ≈ Jane Marsching** (similarity 0.99)
@@ -1351,12 +1362,16 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Jan J. Valtr]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
   - `[[Jan Valtr]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
 
+- **Jan AGM van Dijk ≈ Jan van Dijk** (similarity 0.99)
+  - `[[Jan AGM van Dijk]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Jan van Dijk]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
 - **James Miller ≈ James T. Miller** (similarity 0.99)
   - `[[James Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
   - `[[James T. Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
 
 - **James Meese ≈ James Michael Meese** (similarity 0.99)
-  - `[[James Meese]]` — 5 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[James Meese]]` — 6 use(s) in 5 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[James Michael Meese]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **James Malazita ≈ James W. Malazita** (similarity 0.99)
@@ -1365,7 +1380,7 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **James K. Stewart ≈ James Stewart** (similarity 0.99)
   - `[[James K. Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[James Stewart]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[James Stewart]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
 
 - **James Hamilton ≈ James W. Hamilton** (similarity 0.99)
   - `[[James Hamilton]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
@@ -1375,21 +1390,37 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[James Hamilton]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
   - `[[James T. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
+- **James H. Liu ≈ James Liu** (similarity 0.99)
+  - `[[James H. Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[James Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
 - **James G. Webster ≈ James Webster** (similarity 0.99)
-  - `[[James G. Webster]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[James G. Webster]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[James Webster]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **James Faure Walker ≈ James Walker** (similarity 0.99)
   - `[[James Faure Walker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
   - `[[James Walker]]` — 1 use(s) in 1 file(s), e.g. Awards/NuMeWriPri Shortlists.md
 
+- **James F. O'Brien ≈ James O'Brien** (similarity 0.99)
+  - `[[James F. O'Brien]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[James O'Brien]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
 - **James F. Hamilton ≈ James Hamilton** (similarity 0.99)
-  - `[[James F. Hamilton]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[James F. Hamilton]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[James Hamilton]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
 
 - **James E. Katz ≈ James Katz** (similarity 0.99)
-  - `[[James E. Katz]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[James E. Katz]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[James Katz]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **James Cummings ≈ James J. Cummings** (similarity 0.99)
+  - `[[James Cummings]]` — 5 use(s) in 3 file(s), e.g. Organizations/Digital Humanities Awards Nominations Committee.md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Books/Ed. Coll. - Bloomsbury Handbook of Digital Humanities.md
+  - `[[James J. Cummings]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **James Carey ≈ James W. Carey** (similarity 0.99)
+  - `[[James Carey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+  - `[[James W. Carey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
 
 - **James Brown ≈ James J. Brown** (similarity 0.99)
   - `[[James Brown]]` — 5 use(s) in 4 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2017.md, Organizations/ELO Teams/ELO Team 2016.md, Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2005-2015.md
@@ -1406,6 +1437,18 @@ Vault: ELitJournals — 51965 distinct link targets
 - **James A. Goldman ≈ James Goldman** (similarity 0.99)
   - `[[James A. Goldman]]` — 24 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
   - `[[James Goldman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+
+- **Jaewon Choi ≈ Jaewon Royce Choi** (similarity 0.99)
+  - `[[Jaewon Choi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jaewon Royce Choi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Jaewon Choi ≈ Jaewon R. Choi** (similarity 0.99)
+  - `[[Jaewon Choi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jaewon R. Choi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Jae Park ≈ Jae Wan Park** (similarity 0.99)
+  - `[[Jae Park]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Jae Wan Park]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
 
 - **Jacques Lemeunier Mandelbrojt ≈ Jacques Mandelbrojt** (similarity 0.99)
   - `[[Jacques Lemeunier Mandelbrojt]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
@@ -1427,12 +1470,20 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Jacqueline Ryan Vickery]]` — 8 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Jacqueline Vickery]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
+- **Jacob L. Nelson ≈ Jacob Nelson** (similarity 0.99)
+  - `[[Jacob L. Nelson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jacob Nelson]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Jacob Griffin Hall ≈ Jacob Hall** (similarity 0.99)
+  - `[[Jacob Griffin Hall]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Jacob Hall]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2023.md
+
 - **Jacob D. Richter ≈ Jacob Richter** (similarity 0.99)
   - `[[Jacob D. Richter]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
   - `[[Jacob Richter]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Jack Linchuan Qiu ≈ Jack Qiu** (similarity 0.99)
-  - `[[Jack Linchuan Qiu]]` — 7 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Jack Linchuan Qiu]]` — 9 use(s) in 7 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
   - `[[Jack Qiu]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Jack L. Qiu ≈ Jack Qiu** (similarity 0.99)
@@ -1443,6 +1494,10 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Jack Anthony Murray]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Jack Murray]]` — 10 use(s) in 8 file(s), e.g. Organizations/ELO Teams/ELO Team 2024.md, Organizations/ELO Teams/ELO Team 2026.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
 
+- **J. Townsend ≈ Joyce J. Townsend** (similarity 0.99)
+  - `[[J. Townsend]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Joyce J. Townsend]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Del Sol Review (2008-2017ish).md
+
 - **J. S. Wilson ≈ S. Wilson** (similarity 0.99)
   - `[[J. S. Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
   - `[[S. Wilson]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
@@ -1452,7 +1507,7 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Paul Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
 
 - **J. Patrick Williams ≈ Patrick Williams** (similarity 0.99)
-  - `[[J. Patrick Williams]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[J. Patrick Williams]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Patrick Williams]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
 
 - **J. Michael Moore ≈ Michael Moore** (similarity 0.99)
@@ -1467,13 +1522,25 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Ivor "ID" Diosi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
   - `[[Ivor Diosi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
 
+- **Ivar E. Vermeulen ≈ Ivar Vermeulen** (similarity 0.99)
+  - `[[Ivar E. Vermeulen]]` — 3 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+  - `[[Ivar Vermeulen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+
 - **Itzelle Aurora Medina Perea ≈ Itzelle Medina Perea** (similarity 0.99)
   - `[[Itzelle Aurora Medina Perea]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Itzelle Medina Perea]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
+- **Isaac Adubofour ≈ Isaac Kwabena Adubofour** (similarity 0.99)
+  - `[[Isaac Adubofour]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Isaac Kwabena Adubofour]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
 - **Irina L. Vanechkina ≈ Irina Vanechkina** (similarity 0.99)
   - `[[Irina L. Vanechkina]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
   - `[[Irina Vanechkina]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+
+- **Iina Hellsten ≈ Iina R. Hellsten** (similarity 0.99)
+  - `[[Iina Hellsten]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Iina R. Hellsten]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Igor Dolenko ≈ Igor V. Dolenko** (similarity 0.99)
   - `[[Igor Dolenko]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
@@ -1481,7 +1548,11 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **Ignacio Cruz ≈ Ignacio Fernandez Cruz** (similarity 0.99)
   - `[[Ignacio Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Ignacio Fernandez Cruz]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Ignacio Fernandez Cruz]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Ignacio Aguaded-Gómez ≈ José Ignacio Aguaded-Gómez** (similarity 0.99)
+  - `[[Ignacio Aguaded-Gómez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[José Ignacio Aguaded-Gómez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Ignacio Aguaded-Gómez ≈ J. Ignacio Aguaded-Gomez** (similarity 0.99)
   - `[[Ignacio Aguaded-Gómez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
@@ -1506,232 +1577,114 @@ Vault: ELitJournals — 51965 distinct link targets
 - **I. L. Vanechkina ≈ I. Vanechkina** (similarity 0.99)
   - `[[I. L. Vanechkina]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
   - `[[I. Vanechkina]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-### fgh 
 
-- **Huw C. Davies ≈ Huw Davies** (similarity 0.99)
-  - `[[Huw C. Davies]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Huw Davies]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Howard D. Fisher ≈ Howard Fisher** (similarity 0.99)
+  - `[[Howard D. Fisher]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Howard Fisher]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
 
-- **Hisham Bizri ≈ Hisham M. Bizri** (similarity 0.99)
-  - `[[Hisham Bizri]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Hisham M. Bizri]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+- **Hendrik Spilker ≈ Hendrik Storstein Spilker** (similarity 0.99)
+  - `[[Hendrik Spilker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Hendrik Storstein Spilker]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Hine Kahukura ≈ Hine Tapairu Kahukura** (similarity 0.99)
-  - `[[Hine Kahukura]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Hine Tapairu Kahukura]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-
-- **Hill Hiroki Kobayashi ≈ Hiroki Kobayashi** (similarity 0.99)
-  - `[[Hill Hiroki Kobayashi]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Hiroki Kobayashi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-
-- **Herbert Franke ≈ Herbert W. Franke** (similarity 0.99)
-  - `[[Herbert Franke]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Herbert W. Franke]]` — 27 use(s) in 8 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+- **Helen Pritchard ≈ Helen V. Pritchard** (similarity 0.99)
+  - `[[Helen Pritchard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Helen V. Pritchard]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md, Anthologies/ELC 3.md
 
 - **Helen Kennedy ≈ Helen W. Kennedy** (similarity 0.99)
-  - `[[Helen Kennedy]]` — 9 use(s) in 6 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Helen W. Kennedy]]` — 8 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Solo Journals/Journ. - Tekka + Tekkalogue.md
+  - `[[Helen Kennedy]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+  - `[[Helen W. Kennedy]]` — 18 use(s) in 11 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
 
-- **Heidi E. Huntington ≈ Heidi Huntington** (similarity 0.99)
-  - `[[Heidi E. Huntington]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Heidi Huntington]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Hector Rodriguez ≈ Héctor Vera Rodríguez** (similarity 0.99)
-  - `[[Hector Rodriguez]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
-  - `[[Héctor Vera Rodríguez]]` — 2 use(s) in 2 file(s), e.g. Archives/Cartografía Digital.md, Conferences/Narrascope/Narrascope 2025 Program.md
-
-- **Heather D. Freeman ≈ Heather Freeman** (similarity 0.99)
-  - `[[Heather D. Freeman]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
-  - `[[Heather Freeman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
-
-- **Heather Brown ≈ Heather M. Brown** (similarity 0.99)
-  - `[[Heather Brown]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Heather M. Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+- **Heidi A. Campbell ≈ Heidi Campbell** (similarity 0.99)
+  - `[[Heidi A. Campbell]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Heidi Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
 
 - **Heather A. Horst ≈ Heather Horst** (similarity 0.99)
-  - `[[Heather A. Horst]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Heather Horst]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Heather A. Horst]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Heather Horst]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Hazel Kwon ≈ K. Hazel Kwon** (similarity 0.99)
-  - `[[Hazel Kwon]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[K. Hazel Kwon]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+- **Hajo Boomgaarden ≈ Hajo G. Boomgaarden** (similarity 0.99)
+  - `[[Hajo Boomgaarden]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Hajo G. Boomgaarden]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Haru Hyunkyung Ji ≈ Haru Ji** (similarity 0.99)
-  - `[[Haru Hyunkyung Ji]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Haru Ji]]` — 2 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+- **Guo Freeman ≈ Guo Zhang Freeman** (similarity 0.99)
+  - `[[Guo Freeman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Guo Zhang Freeman]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
-- **Harrison Jesse Smith ≈ Harrison Smith** (similarity 0.99)
-  - `[[Harrison Jesse Smith]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings - '15-'19.md
-  - `[[Harrison Smith]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+- **Gregory Pearson Perreault ≈ Gregory Perreault** (similarity 0.99)
+  - `[[Gregory Pearson Perreault]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Gregory Perreault]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Hanne Marleen Stegeman ≈ Hanne Stegeman** (similarity 0.99)
-  - `[[Hanne Marleen Stegeman]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Hanne Stegeman]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Gregory P. Perreault ≈ Gregory Perreault** (similarity 0.99)
+  - `[[Gregory P. Perreault]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md
+  - `[[Gregory Perreault]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Hannah Ackermans ≈ Hannah Maria Leontine Ackermans** (similarity 0.99)
-  - `[[Hannah Ackermans]]` — 37 use(s) in 24 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2016.md, Organizations/ELO Teams/ELO Team 2021.md, Organizations/ELO Second tuesday Salons.md
-  - `[[Hannah Maria Leontine Ackermans]]` — 1 use(s) in 1 file(s), e.g. People + Labs/Center for Digital Narrative at UIB.md
+- **Gina Marie Sipley ≈ Gina Sipley** (similarity 0.99)
+  - `[[Gina Marie Sipley]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Gina Sipley]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Gwyneth M. Thurgood ≈ Gwyneth Thurgood** (similarity 0.99)
-  - `[[Gwyneth M. Thurgood]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Gwyneth Thurgood]]` — 7 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+- **Gillian Hayes ≈ Gillian R. Hayes** (similarity 0.99)
+  - `[[Gillian Hayes]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Critical Making.md
+  - `[[Gillian R. Hayes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Gwen Lisa Shaffer ≈ Gwen Shaffer** (similarity 0.99)
-  - `[[Gwen Lisa Shaffer]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Gwen Shaffer]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+- **Gerald A. Voorhees ≈ Gerald Voorhees** (similarity 0.99)
+  - `[[Gerald A. Voorhees]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+  - `[[Gerald Voorhees]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md, Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
 
-- **Gustavo Mesch ≈ Gustavo S. Mesch** (similarity 0.99)
-  - `[[Gustavo Mesch]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Gustavo S. Mesch]]` — 6 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+- **George DH Pearson ≈ George Pearson** (similarity 0.99)
+  - `[[George DH Pearson]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[George Pearson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Gustavo Daudt Fischer ≈ Gustavo Fischer** (similarity 0.99)
-  - `[[Gustavo Daudt Fischer]]` — 1 use(s) in 1 file(s), e.g. Conferences/DLC+ Keywords in Digital Literary Culture.md
-  - `[[Gustavo Fischer]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Gunn Enli ≈ Gunn Sara Enli** (similarity 0.99)
-  - `[[Gunn Enli]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Gunn Sara Enli]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-
-- **Gregory F. Tague ≈ Gregory Tague** (similarity 0.99)
-  - `[[Gregory F. Tague]]` — 11 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-  - `[[Gregory Tague]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-
-- **Gregory Crane ≈ Gregory R. Crane** (similarity 0.99)
-  - `[[Gregory Crane]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Gregory R. Crane]]` — 8 use(s) in 8 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md, Publications - Academic/Solo Journals/Journ. - Computational Humanities Research.md
-
-- **Greg J. Siering ≈ Greg Siering** (similarity 0.99)
-  - `[[Greg J. Siering]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Computer-Mediated Communication Magazine.md
-  - `[[Greg Siering]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
-
-- **Grahame String Weinbren ≈ Grahame Weinbren** (similarity 0.99)
-  - `[[Grahame String Weinbren]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Grahame Weinbren]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Media Art Net.md
-
-- **Godwin Iretomiwa Simon ≈ Godwin Simon** (similarity 0.99)
-  - `[[Godwin Iretomiwa Simon]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Godwin Simon]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Creator and Influencer Studies.md
-
-- **Giovanna Costantini ≈ Giovanna L. Costantini** (similarity 0.99)
-  - `[[Giovanna Costantini]]` — 11 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Giovanna L. Costantini]]` — 18 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Germaine Halegoua ≈ Germaine R. Halegoua** (similarity 0.99)
-  - `[[Germaine Halegoua]]` — 4 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Germaine R. Halegoua]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-
-- **Gerald Holton ≈ Gerald James Holton** (similarity 0.99)
-  - `[[Gerald Holton]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Gerald James Holton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-
-- **George K. Shortess ≈ George Shortess** (similarity 0.99)
-  - `[[George K. Shortess]]` — 8 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[George Shortess]]` — 9 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-
-- **George A. Agoston ≈ George Agoston** (similarity 0.99)
-  - `[[George A. Agoston]]` — 49 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[George Agoston]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-
-- **Geoffrey M. Rockwell ≈ Geoffrey Rockwell** (similarity 0.99)
-  - `[[Geoffrey M. Rockwell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md
-  - `[[Geoffrey Rockwell]]` — 7 use(s) in 6 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Organizations/Ed. Board - DHQ.md, Organizations/Reviews in DH Team.md
-
-- **Geoffrey Carter ≈ Geoffrey V. Carter** (similarity 0.99)
-  - `[[Geoffrey Carter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-  - `[[Geoffrey V. Carter]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-
-- **Geoffrey C. Middlebrook ≈ Geoffrey Middlebrook** (similarity 0.99)
-  - `[[Geoffrey C. Middlebrook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-  - `[[Geoffrey Middlebrook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-
-- **Geoffrey Bowker ≈ Geoffrey C. Bowker** (similarity 0.99)
-  - `[[Geoffrey Bowker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
-  - `[[Geoffrey C. Bowker]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Books/Ed. Coll. - The Digital Imaginary.md
-
-- **Gary K. Y. Tang ≈ Gary Tang** (similarity 0.99)
-  - `[[Gary K. Y. Tang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Gary Tang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-
-- **Gary Greenfield ≈ Gary R. Greenfield** (similarity 0.99)
-  - `[[Gary Greenfield]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Gary R. Greenfield]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-
-- **Gareth J. F. Jones ≈ Gareth Jones** (similarity 0.99)
-  - `[[Gareth J. F. Jones]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2000s Proceedings.md
-  - `[[Gareth Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-
-- **Gabriel Baldo Kerhart ≈ Gabriel Kerhart** (similarity 0.99)
-  - `[[Gabriel Baldo Kerhart]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-  - `[[Gabriel Kerhart]]` — 2 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-
-- **G. Kevin Wilson ≈ Kevin Wilson** (similarity 0.99)
-  - `[[G. Kevin Wilson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Electronic Book Review/EBR First Person.md, Awards/XYZZY Awards.md
-  - `[[Kevin Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
-
-- **G. Kevin Wilson ≈ Kevin G. Wilson** (similarity 0.99)
-  - `[[G. Kevin Wilson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Electronic Book Review/EBR First Person.md, Awards/XYZZY Awards.md
-  - `[[Kevin G. Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
-
-- **Franklin Larrubia Valverde ≈ Franklin Valverde** (similarity 0.99)
-  - `[[Franklin Larrubia Valverde]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
-  - `[[Franklin Valverde]]` — 6 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-
-- **Frank Davidson ≈ Frank P. Davidson** (similarity 0.99)
-  - `[[Frank Davidson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Frank P. Davidson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+- **Gary L. McDowell ≈ Gary McDowell** (similarity 0.99)
+  - `[[Gary L. McDowell]]` — 4 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Gary McDowell]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
 
 - **Frank A. Biocca ≈ Frank Biocca** (similarity 0.99)
-  - `[[Frank A. Biocca]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
-  - `[[Frank Biocca]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+  - `[[Frank A. Biocca]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+  - `[[Frank Biocca]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Francesca Bolla Tripodi Tripodi ≈ Francesca Tripodi** (similarity 0.99)
-  - `[[Francesca Bolla Tripodi Tripodi]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Francesca Tripodi]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, People + Labs/If, Then Working Group.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Francis Lap Fung Lee ≈ Francis Lee** (similarity 0.99)
+  - `[[Francis Lap Fung Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Francis Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Francesca B. Tripodi ≈ Francesca Tripodi** (similarity 0.99)
-  - `[[Francesca B. Tripodi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Francesca Tripodi]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, People + Labs/If, Then Working Group.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Francis LF Lee ≈ Francis Lee** (similarity 0.99)
+  - `[[Francis LF Lee]]` — 13 use(s) in 8 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Francis Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Florence Hetzler ≈ Florence M. Hetzler** (similarity 0.99)
-  - `[[Florence Hetzler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Florence M. Hetzler]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
-- **Fiona Louise Scott ≈ Fiona Scott** (similarity 0.99)
-  - `[[Fiona Louise Scott]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Fiona Scott]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Francesca Bolla Tripodi ≈ Francesca Tripodi** (similarity 0.99)
+  - `[[Francesca Bolla Tripodi]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, People + Labs/If, Then Working Group.md
+  - `[[Francesca Tripodi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Filipa Fernandes Neto ≈ Filipa Neto** (similarity 0.99)
-  - `[[Filipa Fernandes Neto]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Filipa Neto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **Fernando N. van der Vlist ≈ Fernando van der Vlist** (similarity 0.99)
-  - `[[Fernando N. van der Vlist]]` — 5 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[Fernando van der Vlist]]` — 5 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Felix Münch ≈ Felix Victor Münch** (similarity 0.99)
-  - `[[Felix Münch]]` — 2 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Felix Victor Münch]]` — 4 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Felipe Bonow Soares ≈ Felipe Soares** (similarity 0.99)
-  - `[[Felipe Bonow Soares]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md
-  - `[[Felipe Soares]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Feliciano José Borralho de Mira ≈ Feliciano de Mira** (similarity 0.99)
-  - `[[Feliciano José Borralho de Mira]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-  - `[[Feliciano de Mira]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
+  - `[[Filipa Fernandes Neto]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Filipa Neto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Fanny Anne Ramirez ≈ Fanny Ramirez** (similarity 0.99)
-  - `[[Fanny Anne Ramirez]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Fanny Ramirez]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Fanny Anne Ramirez]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Fanny Ramirez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Fanny A. Ramirez ≈ Fanny Ramirez** (similarity 0.99)
-  - `[[Fanny A. Ramirez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Fanny Ramirez]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-### e 
+  - `[[Fanny A. Ramirez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Fanny Ramirez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Fan ("Ellie") Yang ≈ Fan Yang** (similarity 0.99)
+  - `[[Fan ("Ellie") Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Fan Yang]]` — 6 use(s) in 5 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Facundo N. Suenzo ≈ Facundo Suenzo** (similarity 0.99)
+  - `[[Facundo N. Suenzo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Facundo Suenzo]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Evan Calder Williams ≈ Evan Williams** (similarity 0.99)
+  - `[[Evan Calder Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+  - `[[Evan Williams]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
 
 - **Eva Giraud ≈ Eva Haifa Giraud** (similarity 0.99)
   - `[[Eva Giraud]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Eva Haifa Giraud]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Eva Haifa Giraud]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Eugenia Mitchelstein ≈ Maria Eugenia Mitchelstein** (similarity 0.99)
+  - `[[Eugenia Mitchelstein]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Maria Eugenia Mitchelstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **Etan Ilfeld ≈ Etan J. Ilfeld** (similarity 0.99)
   - `[[Etan Ilfeld]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
@@ -1742,7 +1695,7 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Estee N. Beck]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
 
 - **Espen Aarseth ≈ Espen J. Aarseth** (similarity 0.99)
-  - `[[Espen Aarseth]]` — 8 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md, Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md, Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
+  - `[[Espen Aarseth]]` — 10 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md, Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md, Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
   - `[[Espen J. Aarseth]]` — 9 use(s) in 6 file(s), e.g. Publications - Academic/Electronic Book Review/EBR First Person.md, Publications - Academic/Solo Journals/Journ. - Techsty.md, Publications - Academic/Books/Ed. Coll. - New Media Reader.md
 
 - **Ernest A. Edmonds ≈ Ernest Edmonds** (similarity 0.99)
@@ -1757,6 +1710,14 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Erika Jean Lincoln]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
   - `[[Erika Lincoln]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
 
+- **Erik Bucy ≈ Erik Page Bucy** (similarity 0.99)
+  - `[[Erik Bucy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Erik Page Bucy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Erik Bucy ≈ Erik P. Bucy** (similarity 0.99)
+  - `[[Erik Bucy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Erik P. Bucy]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
 - **Eric Rothenbuhler ≈ Eric W. Rothenbuhler** (similarity 0.99)
   - `[[Eric Rothenbuhler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
   - `[[Eric W. Rothenbuhler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
@@ -1769,6 +1730,22 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Eric J. York]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
   - `[[Eric York]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
 
+- **Eric Eroi Messa ≈ Eric Messa** (similarity 0.99)
+  - `[[Eric Eroi Messa]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
+  - `[[Eric Messa]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
+
+- **Emma Winsor Wood ≈ Emma Wood** (similarity 0.99)
+  - `[[Emma Winsor Wood]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Emma Wood]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Emily K. Vraga ≈ Emily Vraga** (similarity 0.99)
+  - `[[Emily K. Vraga]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Emily Vraga]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Emily C. Weinstein ≈ Emily Weinstein** (similarity 0.99)
+  - `[[Emily C. Weinstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Emily Weinstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
 - **Emily B. Falk ≈ Emily Falk** (similarity 0.99)
   - `[[Emily B. Falk]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
   - `[[Emily Falk]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -1776,6 +1753,10 @@ Vault: ELitJournals — 51965 distinct link targets
 - **Emily Ann Thompson ≈ Emily Thompson** (similarity 0.99)
   - `[[Emily Ann Thompson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Vectors.md
   - `[[Emily Thompson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
+
+- **Emily Anderson ≈ Emily R. Anderson** (similarity 0.99)
+  - `[[Emily Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Emily R. Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
 - **Eloy Santos Vieira ≈ Eloy Vieira** (similarity 0.99)
   - `[[Eloy Santos Vieira]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -1786,12 +1767,24 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Elmer H. Duncan]]` — 45 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
 
 - **Ellen Helsper ≈ Ellen Johanna Helsper** (similarity 0.99)
-  - `[[Ellen Helsper]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Ellen Johanna Helsper]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Ellen Helsper]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Ellen Johanna Helsper]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Ellen Helsper ≈ Ellen J. Helsper** (similarity 0.99)
-  - `[[Ellen Helsper]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Ellen J. Helsper]]` — 6 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Ellen Helsper]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Ellen J. Helsper]]` — 7 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Ellen Goodman ≈ Ellen P. Goodman** (similarity 0.99)
+  - `[[Ellen Goodman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ellen P. Goodman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Critical AI.md
+
+- **Ellen Ann Wartella ≈ Ellen Wartella** (similarity 0.99)
+  - `[[Ellen Ann Wartella]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Ellen Wartella]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Elizabeth Gray ≈ F. Elizabeth Gray** (similarity 0.99)
+  - `[[Elizabeth Gray]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[F. Elizabeth Gray]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Elizabeth Evans ≈ Elizabeth Jane Evans** (similarity 0.99)
   - `[[Elizabeth Evans]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Conferences/MIX Conferences/MIX Conferences 2010s.md
@@ -1805,17 +1798,29 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Elizabeth A. Rodwell]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Elizabeth Rodwell]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
+- **Elizabeth A. Davis ≈ Elizabeth Davis** (similarity 0.99)
+  - `[[Elizabeth A. Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Elizabeth Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+
+- **Elizabeth A LaPensée ≈ Elizabeth LaPensée** (similarity 0.99)
+  - `[[Elizabeth A LaPensée]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Elizabeth LaPensée]]` — 3 use(s) in 3 file(s), e.g. Organizations/HASTAC Leadership.md, Organizations/OBX Lab for Experimental Media.md, Publications - Academic/Books/Ed. Coll. - Digital Pedagogy in the Humanities.md
+
+- **Elizabeth "Biz" Nijdam ≈ Elizabeth Nijdam** (similarity 0.99)
+  - `[[Elizabeth "Biz" Nijdam]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Elizabeth Nijdam]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md
+
+- **Elisabeth Hayes ≈ Elisabeth R. Hayes** (similarity 0.99)
+  - `[[Elisabeth Hayes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+  - `[[Elisabeth R. Hayes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+
 - **Elija Cassidy ≈ Elija Marc Cassidy** (similarity 0.99)
-  - `[[Elija Cassidy]]` — 5 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Elija Cassidy]]` — 6 use(s) in 5 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
   - `[[Elija Marc Cassidy]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Elias Bitencourt ≈ Elias Cunha Bitencourt** (similarity 0.99)
   - `[[Elias Bitencourt]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Elias Cunha Bitencourt]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-
-- **Elias Bitencourt ≈ Elias C. Bitencourt** (similarity 0.99)
-  - `[[Elias Bitencourt]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Elias C. Bitencourt]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Elias Cunha Bitencourt]]` — 4 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
 
 - **Eleni A. Kyza ≈ Eleni Kyza** (similarity 0.99)
   - `[[Eleni A. Kyza]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -1825,13 +1830,17 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Elaine Jingyan Yuan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Elaine Yuan]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
+- **Elaine J. Yuan ≈ Elaine Yuan** (similarity 0.99)
+  - `[[Elaine J. Yuan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Elaine Yuan]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
 - **Eedan Amit-Danhi ≈ Eedan R. Amit-Danhi** (similarity 0.99)
   - `[[Eedan Amit-Danhi]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Eedan R. Amit-Danhi]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Eedan R. Amit-Danhi]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Edward Flipo Hurcombe ≈ Edward Hurcombe** (similarity 0.99)
   - `[[Edward Flipo Hurcombe]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Edward Hurcombe]]` — 4 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Edward Hurcombe]]` — 5 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Edward Chapman ≈ Edward Miezio Chapman** (similarity 0.99)
   - `[[Edward Chapman]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -1847,22 +1856,26 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **Eduardo Miranda ≈ Eduardo Reck Miranda** (similarity 0.99)
   - `[[Eduardo Miranda]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Eduardo Reck Miranda]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Eduardo Reck Miranda]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
 
-- **Eduardo Miranda ≈ Eduardo R. Miranda** (similarity 0.99)
-  - `[[Eduardo Miranda]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Eduardo R. Miranda]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+- **Eduardo H. Luersen ≈ Eduardo Luersen** (similarity 0.99)
+  - `[[Eduardo H. Luersen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Eduardo Luersen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Edson C. Tandoc Jr. ≈ Edson Tandoc Jr.** (similarity 0.99)
+  - `[[Edson C. Tandoc Jr.]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Edson Tandoc Jr.]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Edson C. Tandoc ≈ Edson Tandoc** (similarity 0.99)
   - `[[Edson C. Tandoc]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Edson Tandoc]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-- **Earvin Charles Borja Cabalquinto ≈ Earvin Charles Cabalquinto** (similarity 0.99)
-  - `[[Earvin Charles Borja Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Earvin Charles Cabalquinto]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Ebony Chinn ≈ Ebony E. Chinn** (similarity 0.99)
+  - `[[Ebony Chinn]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Drunken Boat.md
+  - `[[Ebony E. Chinn]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
 
-- **Earvin Charles B. Cabalquinto ≈ Earvin Charles Cabalquinto** (similarity 0.99)
-  - `[[Earvin Charles B. Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+- **Earvin Charles Borja Cabalquinto ≈ Earvin Charles Cabalquinto** (similarity 0.99)
+  - `[[Earvin Charles Borja Cabalquinto]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Earvin Charles Cabalquinto]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Earvin Cabalquinto ≈ Earvin Charles Cabalquinto** (similarity 0.99)
@@ -1871,11 +1884,7 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **Earvin Cabalquinto ≈ Earvin Charles Borja Cabalquinto** (similarity 0.99)
   - `[[Earvin Cabalquinto]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Earvin Charles Borja Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Earvin Cabalquinto ≈ Earvin Charles B. Cabalquinto** (similarity 0.99)
-  - `[[Earvin Cabalquinto]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Earvin Charles B. Cabalquinto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Earvin Charles Borja Cabalquinto]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **ELIZA RODRIGUEZ Y. GIBSON ≈ Eliza Rodriguez Gibson** (similarity 0.99)
   - `[[ELIZA RODRIGUEZ Y. GIBSON]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
@@ -1884,15 +1893,18 @@ Vault: ELitJournals — 51965 distinct link targets
 - **E. Gabriella Coleman ≈ Gabriella Coleman** (similarity 0.99)
   - `[[E. Gabriella Coleman]]` — 5 use(s) in 4 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Art Mags/LOGIC(S).md, Publications - Academic/Books/Ed. Coll. - Johns Hopkins Guide to Digital Media.md
   - `[[Gabriella Coleman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-### d 
 
 - **Débora Gomes Salles ≈ Débora Salles** (similarity 0.99)
   - `[[Débora Gomes Salles]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Débora Salles]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
-- **Dànielle DeVoss ≈ Dànielle Nicole DeVoss** (similarity 0.99)
+- **Débora Cristina Santos e Silva ≈ Débora Silva** (similarity 0.99)
+  - `[[Débora Cristina Santos e Silva]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md, Archives/Arquivo Digital Po.Ex.md
+  - `[[Débora Silva]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
+
+- **Dànielle DeVoss ≈ Dánielle Nicole DeVoss** (similarity 0.99)
   - `[[Dànielle DeVoss]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-  - `[[Dànielle Nicole DeVoss]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
+  - `[[Dánielle Nicole DeVoss]]` — 6 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
 
 - **Dylan Mulvin ≈ Dylan Wesley Mulvin** (similarity 0.99)
   - `[[Dylan Mulvin]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -1901,6 +1913,10 @@ Vault: ELitJournals — 51965 distinct link targets
 - **Dustin Edwards ≈ Dustin W. Edwards** (similarity 0.99)
   - `[[Dustin Edwards]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Dustin W. Edwards]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Drew B. Margolin ≈ Drew Margolin** (similarity 0.99)
+  - `[[Drew B. Margolin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Drew Margolin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Dr. Yolande Harris ≈ Yolande Harris** (similarity 0.99)
   - `[[Dr. Yolande Harris]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
@@ -1940,7 +1956,7 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **Donna Davis ≈ Donna Z. Davis** (similarity 0.99)
   - `[[Donna Davis]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Donna Z. Davis]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Donna Z. Davis]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Donald Bush ≈ Donald J. Bush** (similarity 0.99)
   - `[[Donald Bush]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
@@ -1959,7 +1975,7 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Dolores A. Steinman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
 
 - **Do Own Donna Kim ≈ Do Own Kim** (similarity 0.99)
-  - `[[Do Own Donna Kim]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Do Own Donna Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Do Own Kim]]` — 2 use(s) in 2 file(s), e.g. Organizations/Ed. Board - Creator and Influencer Studies.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Dieuwertje Luitse ≈ Dieuwertje Maria Rebecca Luitse** (similarity 0.99)
@@ -1974,20 +1990,28 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Diana Domingues]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
   - `[[Diana Maria Gallicchio Domingues]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
 
+- **Dhavan Shah ≈ Dhavan V. Shah** (similarity 0.99)
+  - `[[Dhavan Shah]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Dhavan V. Shah]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
 - **Derek Mueller ≈ Derek N. Mueller** (similarity 0.99)
   - `[[Derek Mueller]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
   - `[[Derek N. Mueller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
 
 - **Deen Freelon ≈ Deen Goodwin Freelon** (similarity 0.99)
-  - `[[Deen Freelon]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Deen Freelon]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[Deen Goodwin Freelon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Deen Freelon ≈ Deen G. Freelon** (similarity 0.99)
+  - `[[Deen Freelon]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Deen G. Freelon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
 - **Debora Halbert ≈ Debora J. Halbert** (similarity 0.99)
   - `[[Debora Halbert]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Debora J. Halbert]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
 
 - **Deana A. Rohlinger ≈ Deana Rohlinger** (similarity 0.99)
-  - `[[Deana A. Rohlinger]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Deana A. Rohlinger]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[Deana Rohlinger]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **Daya Kishan Thussu ≈ Daya Thussu** (similarity 0.99)
@@ -2018,6 +2042,10 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[David N. Perkins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
   - `[[David Perkins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
 
+- **David Murakami Wood ≈ David Wood** (similarity 0.99)
+  - `[[David Murakami Wood]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[David Wood]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - Posthumanities.md
+
 - **David Martínez ≈ David Tomas Martínez** (similarity 0.99)
   - `[[David Martínez]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/BrokenEnglish.lol.md
   - `[[David Tomas Martínez]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 4.md, Archives/Cartografía Digital.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
@@ -2035,15 +2063,19 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[David Rieder]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
 
 - **David Lee ≈ David S. Lee** (similarity 0.99)
-  - `[[David Lee]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[David Lee]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[David S. Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **David Kaufer ≈ David S. Kaufer** (similarity 0.99)
   - `[[David Kaufer]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1980s.md
   - `[[David S. Kaufer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
 
+- **David James Miller ≈ David Miller** (similarity 0.99)
+  - `[[David James Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[David Miller]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
 - **David J. Phillips ≈ David Phillips** (similarity 0.99)
-  - `[[David J. Phillips]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[David J. Phillips]]` — 4 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
   - `[[David Phillips]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Archives/Hypertext Studios/Directory - Web Hyperfiction Reading List.md
 
 - **David I. Tafler ≈ David Tafler** (similarity 0.99)
@@ -2052,7 +2084,7 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **David Hopmann ≈ David Nicolas Hopmann** (similarity 0.99)
   - `[[David Hopmann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[David Nicolas Hopmann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[David Nicolas Hopmann]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **David Hill ≈ David W. Hill** (similarity 0.99)
   - `[[David Hill]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
@@ -2061,6 +2093,10 @@ Vault: ELitJournals — 51965 distinct link targets
 - **David Harris Smith ≈ David Smith** (similarity 0.99)
   - `[[David Harris Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
   - `[[David Smith]]` — 8 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **David Gunkel ≈ David J. Gunkel** (similarity 0.99)
+  - `[[David Gunkel]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[David J. Gunkel]]` — 5 use(s) in 5 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **David F. Shapiro ≈ David Shapiro** (similarity 0.99)
   - `[[David F. Shapiro]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
@@ -2073,6 +2109,10 @@ Vault: ELitJournals — 51965 distinct link targets
 - **David E. Haberstich ≈ David Haberstich** (similarity 0.99)
   - `[[David E. Haberstich]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
   - `[[David Haberstich]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **David Dodd Lee ≈ David Lee** (similarity 0.99)
+  - `[[David Dodd Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[David Lee]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
 
 - **David Dear ≈ David E. Dear** (similarity 0.99)
   - `[[David Dear]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
@@ -2099,8 +2139,12 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[David R. Brake]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
 - **David B. Nieborg ≈ David Nieborg** (similarity 0.99)
-  - `[[David B. Nieborg]]` — 6 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[David Nieborg]]` — 10 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Organizations/Ed. Board - Creator and Influencer Studies.md, Publications - Academic/Solo Journals/Journ. - Computational Culture.md
+  - `[[David B. Nieborg]]` — 9 use(s) in 6 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[David Nieborg]]` — 11 use(s) in 5 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Organizations/Ed. Board - Creator and Influencer Studies.md, Publications - Academic/Solo Journals/Journ. - Computational Culture.md
+
+- **David Atkin ≈ David J. Atkin** (similarity 0.99)
+  - `[[David Atkin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[David J. Atkin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
 - **David A. Walsh ≈ David Walsh** (similarity 0.99)
   - `[[David A. Walsh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
@@ -2114,29 +2158,41 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[David A. James]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
   - `[[David James]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
 
+- **David A. Colón ≈ David Colón** (similarity 0.99)
+  - `[[David A. Colón]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
+  - `[[David Colón]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Darren Graham Lilleker ≈ Darren Lilleker** (similarity 0.99)
+  - `[[Darren Graham Lilleker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Darren Lilleker]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
 - **Darren G. Lilleker ≈ Darren Lilleker** (similarity 0.99)
-  - `[[Darren G. Lilleker]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Darren G. Lilleker]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
   - `[[Darren Lilleker]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Daren Brabham ≈ Daren C. Brabham** (similarity 0.99)
   - `[[Daren Brabham]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Daren C. Brabham]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
+  - `[[Daren C. Brabham]]` — 6 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
 
 - **Daphne Raban ≈ Daphne Ruth Raban** (similarity 0.99)
   - `[[Daphne Raban]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
-  - `[[Daphne Ruth Raban]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Daphne Ruth Raban]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Daphne R. Raban ≈ Daphne Raban** (similarity 0.99)
-  - `[[Daphne R. Raban]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Daphne Raban]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+- **Danielle Ray Wyatt ≈ Danielle Wyatt** (similarity 0.99)
+  - `[[Danielle Ray Wyatt]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Danielle Wyatt]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Danielle Nicole DeVoss ≈ Dànielle DeVoss** (similarity 0.99)
-  - `[[Danielle Nicole DeVoss]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-  - `[[Dànielle DeVoss]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+- **Daniela Dimitrova ≈ Daniela V. Dimitrova** (similarity 0.99)
+  - `[[Daniela Dimitrova]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Daniela V. Dimitrova]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
 
 - **Daniel Miller ≈ Daniel Wayne Miller** (similarity 0.99)
-  - `[[Daniel Miller]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Daniel Miller]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Daniel Wayne Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Daniel James Joseph ≈ Daniel Joseph** (similarity 0.99)
+  - `[[Daniel James Joseph]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Daniel Joseph]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Podcasts/Podcast - First Person Scholar.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Daniel J. Joseph ≈ Daniel Joseph** (similarity 0.99)
   - `[[Daniel J. Joseph]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -2150,6 +2206,18 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Daniel Grant Heslep]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Daniel Heslep]]` — 2 use(s) in 1 file(s), e.g. Organizations/ELO Teams/ELO Team 2026.md
 
+- **Daniel G. Heslep ≈ Daniel Heslep** (similarity 0.99)
+  - `[[Daniel G. Heslep]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Daniel Heslep]]` — 2 use(s) in 1 file(s), e.g. Organizations/ELO Teams/ELO Team 2026.md
+
+- **Daniel Dooghan ≈ Daniel M. Dooghan** (similarity 0.99)
+  - `[[Daniel Dooghan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Daniel M. Dooghan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Daniel Calderón Gómez ≈ Daniel Gomez** (similarity 0.99)
+  - `[[Daniel Calderón Gómez]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Daniel Gomez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
 - **Daniel C. Hallin ≈ Daniel Hallin** (similarity 0.99)
   - `[[Daniel C. Hallin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Daniel Hallin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
@@ -2160,7 +2228,7 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **Dan Kotliar ≈ Dan M. Kotliar** (similarity 0.99)
   - `[[Dan Kotliar]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Dan M. Kotliar]]` — 6 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Dan M. Kotliar]]` — 8 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Dale Martin Smith ≈ Dale Smith** (similarity 0.99)
   - `[[Dale Martin Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/FENCE Digital.md
@@ -2174,277 +2242,89 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[D. Tulla Lightfoot]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
   - `[[Tulla Lightfoot]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
 
-### c 
+- **D. Harlan Wilson ≈ D. Wilson** (similarity 0.99)
+  - `[[D. Harlan Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[D. Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
 
-- **Cynthia L. Selfe ≈ Cynthia Selfe** (similarity 0.99)
-  - `[[Cynthia L. Selfe]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-  - `[[Cynthia Selfe]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+- **Constance A. Steinkuehler ≈ Constance Steinkuehler** (similarity 0.99)
+  - `[[Constance A. Steinkuehler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+  - `[[Constance Steinkuehler]]` — 6 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
 
-- **Cynthia L. "Cindy" Selfe ≈ Cynthia Selfe** (similarity 0.99)
-  - `[[Cynthia L. "Cindy" Selfe]]` — 15 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 1980s.md
-  - `[[Cynthia Selfe]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+- **Concetta M. Stewart ≈ Concetta Stewart** (similarity 0.99)
+  - `[[Concetta M. Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Concetta Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
 
-- **Cynthia L. "Cindy" Selfe ≈ Cynthia L. Selfe** (similarity 0.99)
-  - `[[Cynthia L. "Cindy" Selfe]]` — 15 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 1980s.md
-  - `[[Cynthia L. Selfe]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+- **Claes H. de Vreese ≈ Claes de Vreese** (similarity 0.99)
+  - `[[Claes H. de Vreese]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Claes de Vreese]]` — 7 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Curd Benjamin Knüpfer ≈ Curd Knüpfer** (similarity 0.99)
-  - `[[Curd Benjamin Knüpfer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Curd Knüpfer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+- **Christine L. Ogan ≈ Christine Ogan** (similarity 0.99)
+  - `[[Christine L. Ogan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Christine Ogan]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
-- **Curd B. Knüpfer ≈ Curd Knüpfer** (similarity 0.99)
-  - `[[Curd B. Knüpfer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Curd Knüpfer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+- **Christine Bachen ≈ Christine M. Bachen** (similarity 0.99)
+  - `[[Christine Bachen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Christine M. Bachen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
 
-- **Crystal Anderson ≈ Crystal S. Anderson** (similarity 0.99)
-  - `[[Crystal Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
-  - `[[Crystal S. Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
-
-- **Craig Johnson ≈ Craig W. Johnson** (similarity 0.99)
-  - `[[Craig Johnson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
-  - `[[Craig W. Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-
-- **Craig J. Saper ≈ Craig Saper** (similarity 0.99)
-  - `[[Craig J. Saper]]` — 32 use(s) in 10 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2005-2015.md, Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md, Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md
-  - `[[Craig Saper]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-
-- **Constance E. Wagar ≈ Constance Wagar** (similarity 0.99)
-  - `[[Constance E. Wagar]]` — 6 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Constance Wagar]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
-- **Collin Brooke ≈ Collin Gifford Brooke** (similarity 0.99)
-  - `[[Collin Brooke]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
-  - `[[Collin Gifford Brooke]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-
-- **Colleen A. Reilly ≈ Colleen Reilly** (similarity 0.99)
-  - `[[Colleen A. Reilly]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
-  - `[[Colleen Reilly]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-
-- **Colin G. Hoskins ≈ Colin Hoskins** (similarity 0.99)
-  - `[[Colin G. Hoskins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
-  - `[[Colin Hoskins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
-
-- **Clifford A. Pickover ≈ Clifford Pickover** (similarity 0.99)
-  - `[[Clifford A. Pickover]]` — 17 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
-  - `[[Clifford Pickover]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-
-- **Clare Southerton ≈ Clare Victoria Southerton** (similarity 0.99)
-  - `[[Clare Southerton]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Clare Victoria Southerton]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Claire Louise Parnell ≈ Claire Parnell** (similarity 0.99)
-  - `[[Claire Louise Parnell]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Claire Parnell]]` — 4 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-
-- **Claire Kovacs ≈ Claire L. Kovacs** (similarity 0.99)
-  - `[[Claire Kovacs]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
-  - `[[Claire L. Kovacs]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Cindy Kay Tekobbe ≈ Cindy Tekobbe** (similarity 0.99)
-  - `[[Cindy Kay Tekobbe]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Cindy Tekobbe]]` — 4 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Christopher Luke Moore ≈ Christopher Moore** (similarity 0.99)
-  - `[[Christopher Luke Moore]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
-  - `[[Christopher Moore]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md
-
-- **Christopher Jahmail Persaud ≈ Christopher Persaud** (similarity 0.99)
-  - `[[Christopher Jahmail Persaud]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Christopher Persaud]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Christopher J. Persaud ≈ Christopher Persaud** (similarity 0.99)
-  - `[[Christopher J. Persaud]]` — 3 use(s) in 3 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Christopher Persaud]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Christopher FUNKHOUSER ≈ Christopher T. Funkhouser** (similarity 0.99)
-  - `[[Christopher FUNKHOUSER]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - MADSEJ - Multilingual African Digital Semiotics and E-lit Journal.md
-  - `[[Christopher T. Funkhouser]]` — 32 use(s) in 24 file(s), e.g. Publications - Academic/Electronic Book Review/EBR Electropoetics.md, Conferences/ELO Conferences/ELO Conference 2012.md, Organizations/ELO Teams/ELO Team 2016.md
-
-- **Christopher Dean ≈ Christopher W. Dean** (similarity 0.99)
-  - `[[Christopher Dean]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-  - `[[Christopher W. Dean]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-
-- **Christopher Andrews ≈ Christopher D. M. Andrews** (similarity 0.99)
-  - `[[Christopher Andrews]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
-  - `[[Christopher D. M. Andrews]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
-
-- **Christopher Allan O'Neill ≈ Christopher O'Neill** (similarity 0.99)
-  - `[[Christopher Allan O'Neill]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Christopher O'Neill]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Christopher A. Paul ≈ Christopher Paul** (similarity 0.99)
-  - `[[Christopher A. Paul]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md
-  - `[[Christopher Paul]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-
-- **Christian Ritter ≈ Christian Simon Ritter** (similarity 0.99)
-  - `[[Christian Ritter]]` — 2 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Christian Simon Ritter]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Christina Buse ≈ Christina Eira Buse** (similarity 0.99)
+  - `[[Christina Buse]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Christina Eira Buse]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
 
 - **Chris Jan King ≈ Chris King** (similarity 0.99)
   - `[[Chris Jan King]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
   - `[[Chris King]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Right Click Save.md
 
-- **Chris J. Young ≈ Chris Young** (similarity 0.99)
-  - `[[Chris J. Young]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Chris Young]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Cheryll Ruth Soriano ≈ Cheryll Soriano** (similarity 0.99)
-  - `[[Cheryll Ruth Soriano]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Cheryll Soriano]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Cheryll Ruth Reyes Soriano ≈ Cheryll Soriano** (similarity 0.99)
-  - `[[Cheryll Ruth Reyes Soriano]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Cheryll Soriano]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Cheryll Ruth Reyes Soriano ≈ Cheryll Ruth Soriano** (similarity 0.99)
-  - `[[Cheryll Ruth Reyes Soriano]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
-  - `[[Cheryll Ruth Soriano]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Cheryll Ruth R. Soriano ≈ Cheryll Soriano** (similarity 0.99)
-  - `[[Cheryll Ruth R. Soriano]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Cheryll Soriano]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Cheryll Ruth R. Soriano ≈ Cheryll Ruth Soriano** (similarity 0.99)
-  - `[[Cheryll Ruth R. Soriano]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Cheryll Ruth Soriano]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Cheryl Ball ≈ Cheryl E. Ball** (similarity 0.99)
-  - `[[Cheryl Ball]]` — 46 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-  - `[[Cheryl E. Ball]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
-
 - **Chen Chen ≈ Yuchen Chen** (similarity 0.99)
-  - `[[Chen Chen]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Lit Mags/Drunken Boat 2012-2026.md, Publications - Lit Mags/Ghost Proposal.md
-  - `[[Yuchen Chen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Chen Chen]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
+  - `[[Yuchen Chen]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
-- **Chelsea Horne ≈ Chelsea Leigh Horne** (similarity 0.99)
-  - `[[Chelsea Horne]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Chelsea Leigh Horne]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Chen Chen ≈ Cheng Chen** (similarity 0.99)
+  - `[[Chen Chen]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
+  - `[[Cheng Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Chelsea Butkowski ≈ Chelsea Paige Butkowski** (similarity 0.99)
-  - `[[Chelsea Butkowski]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Chelsea Paige Butkowski]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Chen (Crystal) Chen ≈ Chen Chen** (similarity 0.99)
+  - `[[Chen (Crystal) Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Chen Chen]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
 
-- **Charlton D. McIlwain ≈ Charlton McIlwain** (similarity 0.99)
-  - `[[Charlton D. McIlwain]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md, Publications - Art Mags/LOGIC(S).md
-  - `[[Charlton McIlwain]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+- **Charles K. Monge ≈ Charles Monge** (similarity 0.99)
+  - `[[Charles K. Monge]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Charles Monge]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Charles L. Ross ≈ Charles Ross** (similarity 0.99)
-  - `[[Charles L. Ross]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md
-  - `[[Charles Ross]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+- **Charles Ess ≈ Charles Melvin Ess** (similarity 0.99)
+  - `[[Charles Ess]]` — 7 use(s) in 6 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Solo Journals/Journ. - Computer-Mediated Communication.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Charles Melvin Ess]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Charles Garoian ≈ Charles R. Garoian** (similarity 0.99)
-  - `[[Charles Garoian]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Charles R. Garoian]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+- **Chandell Enid Gosse ≈ Chandell Gosse** (similarity 0.99)
+  - `[[Chandell Enid Gosse]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Chandell Gosse]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
 
-- **Charles D. Raab ≈ Charles Raab** (similarity 0.99)
-  - `[[Charles D. Raab]]` — 8 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
-  - `[[Charles Raab]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+- **Chan Chen ≈ Chen Chen** (similarity 0.99)
+  - `[[Chan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Chen Chen]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
 
-- **Charles Albert Tijus ≈ Charles Tijus** (similarity 0.99)
-  - `[[Charles Albert Tijus]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-  - `[[Charles Tijus]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+- **Catherine Talbot ≈ Catherine V. Talbot** (similarity 0.99)
+  - `[[Catherine Talbot]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Catherine V. Talbot]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
-- **Charles A. Csuri ≈ Charles Csuri** (similarity 0.99)
-  - `[[Charles A. Csuri]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Charles Csuri]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-
-- **Cecilia Karolina Strand ≈ Cecilia Strand** (similarity 0.99)
-  - `[[Cecilia Karolina Strand]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Cecilia Strand]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-
-- **CarrieLynn D. Reinhard ≈ CarrieLynn Reinhard** (similarity 0.99)
-  - `[[CarrieLynn D. Reinhard]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
-  - `[[CarrieLynn Reinhard]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Carrie B. Sanders ≈ Carrie Sanders** (similarity 0.99)
-  - `[[Carrie B. Sanders]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Carrie Sanders]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
-
-- **Carrie Ann Rentschler ≈ Carrie Rentschler** (similarity 0.99)
-  - `[[Carrie Ann Rentschler]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Carrie Rentschler]]` — 1 use(s) in 1 file(s), e.g. Organizations/FemTechNet Advisory Board.md
-
-- **Carrie A. Rentschler ≈ Carrie Rentschler** (similarity 0.99)
-  - `[[Carrie A. Rentschler]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Carrie Rentschler]]` — 1 use(s) in 1 file(s), e.g. Organizations/FemTechNet Advisory Board.md
-
-- **Carolyn Kane ≈ Carolyn L. Kane** (similarity 0.99)
-  - `[[Carolyn Kane]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Carolyn L. Kane]]` — 7 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
-
-- **Carmen Cardoso Garcia ≈ Carmen Garcia** (similarity 0.99)
-  - `[[Carmen Cardoso Garcia]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-  - `[[Carmen Garcia]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
-
-- **Carlton Clark ≈ Carlton L. Clark** (similarity 0.99)
-  - `[[Carlton Clark]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-  - `[[Carlton L. Clark]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
-
-- **Carlos Frederico de Brito d'Andréa ≈ Carlos d'Andréa** (similarity 0.99)
-  - `[[Carlos Frederico de Brito d'Andréa]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Carlos d'Andréa]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Carlos Estevez ≈ Carlos García Estévez** (similarity 0.99)
-  - `[[Carlos Estevez]]` — 1 use(s) in 1 file(s), e.g. Conferences/E-Poetry/E-Poetry 2015 Buenos Aires.md
-  - `[[Carlos García Estévez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
-
-- **Carlos Augusto Moreira ≈ Carlos Moreira** (similarity 0.99)
-  - `[[Carlos Augusto Moreira]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
-  - `[[Carlos Moreira]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md
-
-- **Carlos A. Scolari ≈ Carlos Scolari** (similarity 0.99)
-  - `[[Carlos A. Scolari]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Carlos Scolari]]` — 2 use(s) in 2 file(s), e.g. Organizations/Indian Consortium for Interactive Digital Narrative.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-
-- **Carl Holty ≈ Carl Robert Holty** (similarity 0.99)
-  - `[[Carl Holty]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-  - `[[Carl Robert Holty]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
-
-- **Carl Eugene Loeffler ≈ Carl Loeffler** (similarity 0.99)
-  - `[[Carl Eugene Loeffler]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Carl Loeffler]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Anthologies/Media Art Net.md
-
-- **Carl DiSalvo ≈ Carl Francis DiSalvo** (similarity 0.99)
-  - `[[Carl DiSalvo]]` — 2 use(s) in 2 file(s), e.g. Anthologies/Critical Making.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-  - `[[Carl Francis DiSalvo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-
-- **Camille Baker ≈ Camille C. Baker** (similarity 0.99)
-  - `[[Camille Baker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
-  - `[[Camille C. Baker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
-
-- **Camilla Quesada Tavares ≈ Camilla Tavares** (similarity 0.99)
-  - `[[Camilla Quesada Tavares]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Camilla Tavares]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Calvin Alan Liang ≈ Calvin Liang** (similarity 0.99)
-  - `[[Calvin Alan Liang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Calvin Liang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **Caitlin E. Lawson ≈ Caitlin Lawson** (similarity 0.99)
-  - `[[Caitlin E. Lawson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
-  - `[[Caitlin Lawson]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-
-- **C. Kay Weaver ≈ Kay Weaver** (similarity 0.99)
-  - `[[C. Kay Weaver]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
-  - `[[Kay Weaver]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
+- **Carrie George ≈ Carrie St. George** (similarity 0.99)
+  - `[[Carrie George]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Carrie St. George]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
 
 - **C. David Russell ≈ David Russell** (similarity 0.99)
   - `[[C. David Russell]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
   - `[[David Russell]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
-### b
-
 - **Burcu Bakioglu ≈ Burcu S. Bakioğlu** (similarity 0.99)
   - `[[Burcu Bakioglu]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
   - `[[Burcu S. Bakioğlu]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
 
-- **Bulat Galeyev ≈ Bulat M. Galeyev** (similarity 0.99)
-  - `[[Bulat Galeyev]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
-  - `[[Bulat M. Galeyev]]` — 36 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
-
 - **Buckminster Fuller ≈ R. Buckminster Fuller** (similarity 0.99)
   - `[[Buckminster Fuller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
   - `[[R. Buckminster Fuller]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/PAGE - CAS Bulletin '04-'16.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **Bryce J. Renninger ≈ Bryce Renninger** (similarity 0.99)
+  - `[[Bryce J. Renninger]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Bryce Renninger]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Bryan Lawson ≈ Bryan R. Lawson** (similarity 0.99)
   - `[[Bryan Lawson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
@@ -2460,11 +2340,15 @@ Vault: ELitJournals — 51965 distinct link targets
 
 - **Brooke Duffy ≈ Brooke Erin Duffy** (similarity 0.99)
   - `[[Brooke Duffy]]` — 2 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
-  - `[[Brooke Erin Duffy]]` — 9 use(s) in 5 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Organizations/Ed. Board - Creator and Influencer Studies.md
+  - `[[Brooke Erin Duffy]]` — 11 use(s) in 7 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Organizations/Ed. Board - Creator and Influencer Studies.md
 
 - **Britt Paris ≈ Britt S. Paris** (similarity 0.99)
   - `[[Britt Paris]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Britt S. Paris]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Critical AI.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Britt S. Paris]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Critical AI.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Brigid Costello ≈ Brigid Mary Costello** (similarity 0.99)
+  - `[[Brigid Costello]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+  - `[[Brigid Mary Costello]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
 
 - **Bridget Blodgett ≈ Bridget Marie Blodgett** (similarity 0.99)
   - `[[Bridget Blodgett]]` — 2 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
@@ -2474,9 +2358,17 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Briana Marie Trifiro]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
   - `[[Briana Trifiro]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
+- **Brian D. McKenna ≈ Brian McKenna** (similarity 0.99)
+  - `[[Brian D. McKenna]]` — 1 use(s) in 1 file(s), e.g. Archives/Living Media Art (Li-ma).md
+  - `[[Brian McKenna]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
 - **Brian D. Loader ≈ Brian Loader** (similarity 0.99)
   - `[[Brian D. Loader]]` — 28 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
   - `[[Brian Loader]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+
+- **Brian D. Harris ≈ Brian Harris** (similarity 0.99)
+  - `[[Brian D. Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Brian Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
 
 - **Brian Carroll ≈ Brian Thomas Carroll** (similarity 0.99)
   - `[[Brian Carroll]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md
@@ -2487,20 +2379,20 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Brett Halperin]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2024.md
 
 - **Brandon C. Harris ≈ Brandon Harris** (similarity 0.99)
-  - `[[Brandon C. Harris]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[Brandon Harris]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Brandon C. Harris]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Brandon Harris]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
 
 - **Bonnie Kyburz ≈ bonnie lenore kyburz** (similarity 0.99)
   - `[[Bonnie Kyburz]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
   - `[[bonnie lenore kyburz]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
 
-- **Bondy Valdovinos Kaye ≈ David Bondy Valdovinos Kaye** (similarity 0.99)
-  - `[[Bondy Valdovinos Kaye]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[David Bondy Valdovinos Kaye]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+- **Bonnie "Bo" Ruberg ≈ Bonnie Ruberg** (similarity 0.99)
+  - `[[Bonnie "Bo" Ruberg]]` — 6 use(s) in 6 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Bonnie Ruberg]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Bondy Valdovinos Kaye ≈ D. Bondy Valdovinos Kaye** (similarity 0.99)
   - `[[Bondy Valdovinos Kaye]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
-  - `[[D. Bondy Valdovinos Kaye]]` — 5 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[D. Bondy Valdovinos Kaye]]` — 7 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
 
 - **Bondy Kaye ≈ Bondy Valdovinos Kaye** (similarity 0.99)
   - `[[Bondy Kaye]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -2527,7 +2419,7 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Bianca Reisdorf]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Bianca C. Reisdorf ≈ Bianca Reisdorf** (similarity 0.99)
-  - `[[Bianca C. Reisdorf]]` — 8 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Bianca C. Reisdorf]]` — 10 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
   - `[[Bianca Reisdorf]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
 
 - **Beverly J. Jones ≈ Beverly Jones** (similarity 0.99)
@@ -2550,6 +2442,10 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Bernard L. Myers]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
   - `[[Bernard Myers]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
 
+- **Bernard J. Jansen ≈ Bernard Jansen** (similarity 0.99)
+  - `[[Bernard J. Jansen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Bernard Jansen]]` — 3 use(s) in 2 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md, Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
 - **Benjamín Moreno ≈ Raul Benjamín Moreno** (similarity 0.99)
   - `[[Benjamín Moreno]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Cronologia de literatura electronica en Mexico.md
   - `[[Raul Benjamín Moreno]]` — 7 use(s) in 7 file(s), e.g. Anthologies/Lit E Lat 1.md, Publications - Academic/Solo Journals/Journ. - Culture Machine.md, Archives/Cartografía Digital.md
@@ -2557,6 +2453,10 @@ Vault: ELitJournals — 51965 distinct link targets
 - **Benjamin K. Tkach ≈ Benjamin Tkach** (similarity 0.99)
   - `[[Benjamin K. Tkach]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Benjamin Tkach]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Benjamin Detenber ≈ Benjamin H. Detenber** (similarity 0.99)
+  - `[[Benjamin Detenber]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Benjamin H. Detenber]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
 
 - **Ben Pettis ≈ Ben Tadayoshi Pettis** (similarity 0.99)
   - `[[Ben Pettis]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
@@ -2594,4 +2494,2960 @@ Vault: ELitJournals — 51965 distinct link targets
   - `[[Bahareh Heravi]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Humanities Research.md, Conferences/Computational Humanities Research 2025.md
   - `[[Bahareh Rahmanzadeh Heravi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
 
+- **Ashley Lee ≈ Ashley S. Lee** (similarity 0.99)
+  - `[[Ashley Lee]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ashley S. Lee]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
 
+- **Ash Eliza Smith ≈ Ash Smith** (similarity 0.99)
+  - `[[Ash Eliza Smith]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md, Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md, Publications - Lit Mags/Oral.pub.md
+  - `[[Ash Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Arlete Petry ≈ Arlete dos Santos Petry** (similarity 0.99)
+  - `[[Arlete Petry]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
+  - `[[Arlete dos Santos Petry]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md, Archives/Arquivo Digital Po.Ex.md
+
+- **Apryl A. Williams ≈ Apryl Williams** (similarity 0.99)
+  - `[[Apryl A. Williams]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Apryl Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Anthony N. Smith ≈ Anthony Smith** (similarity 0.99)
+  - `[[Anthony N. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Anthony Smith]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+
+- **Annika Caroline Pinch ≈ Annika Pinch** (similarity 0.99)
+  - `[[Annika Caroline Pinch]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Annika Pinch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Annika C. Pinch ≈ Annika Pinch** (similarity 0.99)
+  - `[[Annika C. Pinch]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Annika Pinch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Annette Markham ≈ Annette N. Markham** (similarity 0.99)
+  - `[[Annette Markham]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Annette N. Markham]]` — 7 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Angèle Christin ≈ Angèle L. Christin** (similarity 0.99)
+  - `[[Angèle Christin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Angèle L. Christin]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Andrew Norman Wilson ≈ Andrew Wilson** (similarity 0.99)
+  - `[[Andrew Norman Wilson]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[Andrew Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Andrew Ledbetter ≈ Andrew M. Ledbetter** (similarity 0.99)
+  - `[[Andrew Ledbetter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Andrew M. Ledbetter]]` — 7 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Andrew J. Wilson ≈ Andrew Wilson** (similarity 0.99)
+  - `[[Andrew J. Wilson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Andrew Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Andrew Iliadis ≈ Andrew James Iliadis** (similarity 0.99)
+  - `[[Andrew Iliadis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Andrew James Iliadis]]` — 11 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Andrew Brown ≈ Andrew R. Brown** (similarity 0.99)
+  - `[[Andrew Brown]]` — 1 use(s) in 1 file(s), e.g. Organizations/Twine + Cookbook + Twinery Samples.md
+  - `[[Andrew R. Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Ana Margarida Veiga Simão ≈ Ana Margarida Vieira da Veiga Simão** (similarity 0.99)
+  - `[[Ana Margarida Veiga Simão]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ana Margarida Vieira da Veiga Simão]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Ana Carolina dos Santos Marques ≈ Ana Marques** (similarity 0.99)
+  - `[[Ana Carolina dos Santos Marques]]` — 7 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Materialities of Literature (MATLIT).md, Organizations/DH Now.md, Publications - Lit Mags/Language Art Observer.md
+  - `[[Ana Marques]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
+
+- **Ana Cardenal ≈ Ana Sofía Cardenal** (similarity 0.99)
+  - `[[Ana Cardenal]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ana Sofía Cardenal]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Ana Bahia ≈ Ana Beatriz Bahia** (similarity 0.99)
+  - `[[Ana Bahia]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md
+  - `[[Ana Beatriz Bahia]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
+
+- **Amy X. Zhang ≈ Amy Zhang** (similarity 0.99)
+  - `[[Amy X. Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Amy Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+
+- **Amy Suzanne Parker ≈ Suzanne Parker** (similarity 0.99)
+  - `[[Amy Suzanne Parker]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Suzanne Parker]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
+
+- **Amy Louise Wilson ≈ Amy Wilson** (similarity 0.99)
+  - `[[Amy Louise Wilson]]` — 2 use(s) in 2 file(s), e.g. Awards/Lumen Prize.md, Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+  - `[[Amy Wilson]]` — 2 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
+
+- **Amy Gonzales ≈ Amy Lisa Gonzales** (similarity 0.99)
+  - `[[Amy Gonzales]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Amy Lisa Gonzales]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Amy Gonzales ≈ Amy L. Gonzales** (similarity 0.99)
+  - `[[Amy Gonzales]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Amy L. Gonzales]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Amy Dobson ≈ Amy Shields Dobson** (similarity 0.99)
+  - `[[Amy Dobson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Amy Shields Dobson]]` — 3 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Amanda Catherine Cote ≈ Amanda Cote** (similarity 0.99)
+  - `[[Amanda Catherine Cote]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Amanda Cote]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Amanda Catharine Cote ≈ Amanda Cote** (similarity 0.99)
+  - `[[Amanda Catharine Cote]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Amanda Cote]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Amanda C. Cote ≈ Amanda Cote** (similarity 0.99)
+  - `[[Amanda C. Cote]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Amanda Cote]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Alyea M. Sandovar ≈ Alyea Sandovar** (similarity 0.99)
+  - `[[Alyea M. Sandovar]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Alyea Sandovar]]` — 2 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+
+- **Alvin Y. Zhou ≈ Alvin Zhou** (similarity 0.99)
+  - `[[Alvin Y. Zhou]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Alvin Zhou]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Allison J. Lazard ≈ Allison Lazard** (similarity 0.99)
+  - `[[Allison J. Lazard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Allison Lazard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Alison B. Powell ≈ Alison Powell** (similarity 0.99)
+  - `[[Alison B. Powell]]` — 6 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Anthologies/Critical Making.md
+  - `[[Alison Powell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Alexander Monea ≈ Alexander Paul Monea** (similarity 0.99)
+  - `[[Alexander Monea]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Alexander Paul Monea]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Alexander JAM van Deursen ≈ Alexander van Deursen** (similarity 0.99)
+  - `[[Alexander JAM van Deursen]]` — 9 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Alexander van Deursen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Alexander Halavais ≈ Alexander M. C. Halavais** (similarity 0.99)
+  - `[[Alexander Halavais]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Alexander M. C. Halavais]]` — 6 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Alex MT Russell ≈ Alex Russell** (similarity 0.99)
+  - `[[Alex MT Russell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Alex Russell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Alex A Ahmed ≈ Alex Ahmed** (similarity 0.99)
+  - `[[Alex A Ahmed]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Alex Ahmed]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Alejandro Martinez ≈ Alejandro Tablado Martínez** (similarity 0.99)
+  - `[[Alejandro Martinez]]` — 1 use(s) in 1 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md
+  - `[[Alejandro Tablado Martínez]]` — 1 use(s) in 1 file(s), e.g. People + Labs/TROPOS - LEETHI.md
+
+- **Alecea Irene Standlee ≈ Alecea Standlee** (similarity 0.99)
+  - `[[Alecea Irene Standlee]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Alecea Standlee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Alan Knowles ≈ Alan M. Knowles** (similarity 0.99)
+  - `[[Alan Knowles]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - TextGenEd.md
+  - `[[Alan M. Knowles]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Alaina George ≈ Alaina Sarah George** (similarity 0.99)
+  - `[[Alaina George]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Alaina Sarah George]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Agata Joanna Stepnik ≈ Agata Stepnik** (similarity 0.99)
+  - `[[Agata Joanna Stepnik]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Agata Stepnik]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Adrienne L. Massanari ≈ Adrienne Massanari** (similarity 0.99)
+  - `[[Adrienne L. Massanari]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Adrienne Massanari]]` — 6 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+
+- **Adam Ruch ≈ Adam W. Ruch** (similarity 0.99)
+  - `[[Adam Ruch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
+  - `[[Adam W. Ruch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+
+- **Abdul Karim Obeid ≈ Abdul Obeid** (similarity 0.99)
+  - `[[Abdul Karim Obeid]]` — 5 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Abdul Obeid]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Aaron CT Smith ≈ Aaron Smith** (similarity 0.99)
+  - `[[Aaron CT Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Aaron Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+
+- **A. Walker ≈ R. A. Walker** (similarity 0.99)
+  - `[[A. Walker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 99-08.md
+  - `[[R. A. Walker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+
+- **A. King ≈ M. A. King** (similarity 0.99)
+  - `[[A. King]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 99-08.md
+  - `[[M. A. King]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
+
+- **Larisa Doroshenko ≈ Larissa Doroshenko** (similarity 0.97)
+  - `[[Larisa Doroshenko]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Larissa Doroshenko]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Sheeharsh Kelkar ≈ Shreeharsh Kelkar** (similarity 0.97)
+  - `[[Sheeharsh Kelkar]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Shreeharsh Kelkar]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Christian Montag ≈ Christiane Montag** (similarity 0.97)
+  - `[[Christian Montag]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Christiane Montag]]` — 1 use(s) in 1 file(s), e.g. Conferences/Computational Humanities Research 2025.md
+
+- **Mathew Blomberg ≈ Matthew Blomberg** (similarity 0.97)
+  - `[[Mathew Blomberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Matthew Blomberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Michele Herman ≈ Michelle Herman** (similarity 0.96)
+  - `[[Michele Herman]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Michelle Herman]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+
+- **Luis Gonçalves ≈ Luísa Gonçalves** (similarity 0.96)
+  - `[[Luis Gonçalves]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Luísa Gonçalves]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
+
+- **Jon C. Pevehouse ≈ Jon CW Pevehouse** (similarity 0.96)
+  - `[[Jon C. Pevehouse]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jon CW Pevehouse]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Suk Kyoung Choi ≈ Sukyoung Choi** (similarity 0.96)
+  - `[[Suk Kyoung Choi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Sukyoung Choi]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Steve Roberts ≈ Steven Roberts** (similarity 0.96)
+  - `[[Steve Roberts]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Steven Roberts]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Paul Williams ≈ Paula Williams** (similarity 0.96)
+  - `[[Paul Williams]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md, Conferences/MIX Conferences/MIX Conferences 2010s.md
+  - `[[Paula Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Del Sol Review (2008-2017ish).md
+
+- **Paul McDonald ≈ Paula McDonald** (similarity 0.96)
+  - `[[Paul McDonald]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md, Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Paula McDonald]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Hyunkyoung Cho ≈ Yun-Kyoung Cho** (similarity 0.96)
+  - `[[Hyunkyoung Cho]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+  - `[[Yun-Kyoung Cho]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Greg Williard ≈ Gregg Williard** (similarity 0.96)
+  - `[[Greg Williard]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Gregg Williard]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/FIVES - Companion to Denver Q..md
+
+- **Youn-Joo Park ≈ YoungJoo Park** (similarity 0.96)
+  - `[[Youn-Joo Park]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[YoungJoo Park]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
+
+- **Xiaoyu Zhang ≈ Xiaoyue Zhang** (similarity 0.96)
+  - `[[Xiaoyu Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Xiaoyue Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Xiaoye Zhang ≈ Xiaoyue Zhang** (similarity 0.96)
+  - `[[Xiaoye Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Xiaoyue Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Su Young Choi ≈ Sukyoung Choi** (similarity 0.96)
+  - `[[Su Young Choi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Sukyoung Choi]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Simon Browne ≈ Simone Browne** (similarity 0.96)
+  - `[[Simon Browne]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed Newspaper.md, Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md
+  - `[[Simone Browne]]` — 7 use(s) in 1 file(s), e.g. Organizations/HASTAC Leadership.md
+
+- **Mark Stewart ≈ Mary K. Stewart** (similarity 0.96)
+  - `[[Mark Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Mary K. Stewart]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Julia Thomas ≈ Julian Thomas** (similarity 0.96)
+  - `[[Julia Thomas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Julian Thomas]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **John Williams ≈ Jon Williams** (similarity 0.96)
+  - `[[John Williams]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Jon Williams]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+
+- **Joerg Matthes ≈ Jörg Matthes** (similarity 0.96)
+  - `[[Joerg Matthes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jörg Matthes]]` — 9 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Jingwen Zhang ≈ Jinwen Zhang** (similarity 0.96)
+  - `[[Jingwen Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Jinwen Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Ja-Ryoung Choi ≈ Jayoung Choi** (similarity 0.96)
+  - `[[Ja-Ryoung Choi]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Jayoung Choi]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+
+- **Iain Campbell ≈ Ian Campbell** (similarity 0.96)
+  - `[[Iain Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Ian Campbell]]` — 4 use(s) in 2 file(s), e.g. Publications - Lit Mags/Enterzone.md, Archives/Répertoire NT2 - 1995-2006.md
+
+- **Daniel Gomes ≈ Daniele Gomes** (similarity 0.96)
+  - `[[Daniel Gomes]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+  - `[[Daniele Gomes]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md
+
+- **Dan O'Donnell ≈ Dean O'Donnell** (similarity 0.96)
+  - `[[Dan O'Donnell]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Dean O'Donnell]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+
+
+### 90-95%
+
+- **Yuxin Zhang ≈ Yuxing Zhang** (similarity 0.95)
+  - `[[Yuxin Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Yuxing Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Xinyan Zhao ≈ Xinyang Zhao** (similarity 0.95)
+  - `[[Xinyan Zhao]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Xinyang Zhao]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Victo Silva ≈ Víctor Silva** (similarity 0.95)
+  - `[[Victo Silva]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Víctor Silva]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/H-enciclopedia.md
+
+- **Simeon Smith ≈ Simon Smith** (similarity 0.95)
+  - `[[Simeon Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Simon Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+
+- **Paul Levine ≈ Paula Levine** (similarity 0.95)
+  - `[[Paul Levine]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[Paula Levine]]` — 2 use(s) in 2 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md, Archives/Rhizome Artbase.md
+
+- **Nic Collins ≈ Nick Collins** (similarity 0.95)
+  - `[[Nic Collins]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Media Art Net.md
+  - `[[Nick Collins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Julie Morel ≈ Julien Morel** (similarity 0.95)
+  - `[[Julie Morel]]` — 3 use(s) in 3 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md, Archives/Répertoire NT2 - 2007-2022.md, Archives/Rhizome Artbase.md
+  - `[[Julien Morel]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Jongsuk Lee ≈ Joong Suk Lee** (similarity 0.95)
+  - `[[Jongsuk Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Joong Suk Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Jo Lawrence ≈ Jon Lawrence** (similarity 0.95)
+  - `[[Jo Lawrence]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Jon Lawrence]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Humanities Research.md
+
+- **Jin-Young Kim ≈ Jiyoung Kim** (similarity 0.95)
+  - `[[Jin-Young Kim]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2000s Proceedings.md
+  - `[[Jiyoung Kim]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Hyung-Min Lee ≈ Hyunmin Lee** (similarity 0.95)
+  - `[[Hyung-Min Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Hyunmin Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Hyunchul Kim ≈ Yunchul Kim** (similarity 0.95)
+  - `[[Hyunchul Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Yunchul Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Eric N. Bailey ≈ Erin Bailey** (similarity 0.95)
+  - `[[Eric N. Bailey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Erin Bailey]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Right Click Save.md
+
+- **Debora Shaw ≈ Deborah Shaw** (similarity 0.95)
+  - `[[Debora Shaw]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md
+  - `[[Deborah Shaw]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Bryan Smith ≈ Bryant Smith** (similarity 0.95)
+  - `[[Bryan Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+  - `[[Bryant Smith]]` — 1 use(s) in 1 file(s), e.g. Organizations/WordHack.md
+
+- **Bjorn Nansen ≈ Bjørn Nansen** (similarity 0.95)
+  - `[[Bjorn Nansen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Bjørn Nansen]]` — 13 use(s) in 8 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Lillian-Tvonne Bertram ≈ Lillian-Yvonne Bertram** (similarity 0.95)
+  - `[[Lillian-Tvonne Bertram]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Lillian-Yvonne Bertram]]` — 24 use(s) in 19 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2023.md, Anthologies/OUTPUT.md, People + Labs/If, Then Working Group.md
+
+- **Paul Green ≈ Paula Green** (similarity 0.95)
+  - `[[Paul Green]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - Netartery.md
+  - `[[Paula Green]]` — 1 use(s) in 1 file(s), e.g. Organizations/new zealand electronic poetry centre.md
+
+- **Neha Kumar ≈ Sneha Kumar** (similarity 0.95)
+  - `[[Neha Kumar]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Sneha Kumar]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Na Yeon Lee ≈ Namyeon Lee** (similarity 0.95)
+  - `[[Na Yeon Lee]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Namyeon Lee]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - Hypermedia 19-28.md
+
+- **Mara Baker ≈ Maria Baker** (similarity 0.95)
+  - `[[Mara Baker]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Maria Baker]]` — 2 use(s) in 2 file(s), e.g. Organizations/WordHack.md, Publications - Academic/Books/Ed. Coll. - TextGenEd.md
+
+- **Lori Stein ≈ Lorin Stein** (similarity 0.95)
+  - `[[Lori Stein]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2002.md
+  - `[[Lorin Stein]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - Feed.md
+
+- **John Cooper ≈ Jon Cooper** (similarity 0.95)
+  - `[[John Cooper]]` — 8 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Jon Cooper]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **JI Daniels ≈ Jim Daniels** (similarity 0.95)
+  - `[[JI Daniels]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Jim Daniels]]` — 3 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Huang Zhao ≈ Shuang Zhao** (similarity 0.95)
+  - `[[Huang Zhao]]` — 1 use(s) in 1 file(s), e.g. Anthologies/OUTPUT.md
+  - `[[Shuang Zhao]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Carl Watts ≈ Carol Watts** (similarity 0.95)
+  - `[[Carl Watts]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Electronic Book Review/EBR Electropoetics.md
+  - `[[Carol Watts]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
+
+- **C. Thi Nguyen ≈ Chi Nguyen** (similarity 0.95)
+  - `[[C. Thi Nguyen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md
+  - `[[Chi Nguyen]]` — 1 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
+
+- **Ayla Scott ≈ Layla Scott** (similarity 0.95)
+  - `[[Ayla Scott]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
+  - `[[Layla Scott]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Anfan Chen ≈ Fanfan Chen** (similarity 0.95)
+  - `[[Anfan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Fanfan Chen]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+
+- **Andy Smith ≈ Sandy Smith** (similarity 0.95)
+  - `[[Andy Smith]]` — 3 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+  - `[[Sandy Smith]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+
+- **Amanda Catharine Cote ≈ Amanda Catherine Cote** (similarity 0.95)
+  - `[[Amanda Catharine Cote]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Amanda Catherine Cote]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Yin Zhang ≈ Yini Zhang** (similarity 0.94)
+  - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Yini Zhang]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Yan Zhang ≈ Yang Zhang** (similarity 0.94)
+  - `[[Yan Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yang Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Sara Khan ≈ Sarah Khan** (similarity 0.94)
+  - `[[Sara Khan]]` — 1 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
+  - `[[Sarah Khan]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Min Zhang ≈ Ming Zhang** (similarity 0.94)
+  - `[[Min Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Ming Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Min Jiang ≈ Ming Jiang** (similarity 0.94)
+  - `[[Min Jiang]]` — 3 use(s) in 3 file(s), e.g. Organizations/DH Now.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Ming Jiang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Lin Zhang ≈ Lina Zhang** (similarity 0.94)
+  - `[[Lin Zhang]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Lina Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+
+- **Liang Chen ≈ Ling Chen** (similarity 0.94)
+  - `[[Liang Chen]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Ling Chen]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **John G. Cole ≈ Jon G. Cole** (similarity 0.94)
+  - `[[John G. Cole]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md
+  - `[[Jon G. Cole]]` — 1 use(s) in 1 file(s), e.g. Conferences/Narrascope Program 2019-present.md
+
+- **John Bowen ≈ Jon Bowen** (similarity 0.94)
+  - `[[John Bowen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+  - `[[Jon Bowen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - Feed.md
+
+- **John Adams ≈ Jon Adams** (similarity 0.94)
+  - `[[John Adams]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Archives/Living Media Art (Li-ma).md
+  - `[[Jon Adams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Electronic Book Review/EBR Critical Ecologies.md
+
+- **Jin Huang ≈ Jing Huang** (similarity 0.94)
+  - `[[Jin Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Jing Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Heng Yang ≈ Zheng Yang** (similarity 0.94)
+  - `[[Heng Yang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Zheng Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **D. Johnson ≈ DJ Johnson** (similarity 0.94)
+  - `[[D. Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 99-08.md
+  - `[[DJ Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+
+- **D. A. Norton ≈ Dan Norton** (similarity 0.94)
+  - `[[D. A. Norton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Dan Norton]]` — 1 use(s) in 1 file(s), e.g. Organizations/New Media Caucus Membership.md
+
+- **Art Simon ≈ Bart Simon** (similarity 0.94)
+  - `[[Art Simon]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
+  - `[[Bart Simon]]` — 9 use(s) in 6 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+
+- **William A. Anderson ≈ William C. Anderson** (similarity 0.94)
+  - `[[William A. Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[William C. Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+
+- **Michael Rosenthal ≈ Michele Rosenthal** (similarity 0.94)
+  - `[[Michael Rosenthal]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+  - `[[Michele Rosenthal]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Lauren Goldstein ≈ Laurence Goldstein** (similarity 0.94)
+  - `[[Lauren Goldstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/The New River 2007-2017.md
+  - `[[Laurence Goldstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+
+- **Kenneth M. Anderson ≈ Kenneth T. Anderson** (similarity 0.94)
+  - `[[Kenneth M. Anderson]]` — 12 use(s) in 6 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md, Publications - Academic/Decades Journals/Journ. - Hypermedia 99-08.md, Conferences/ACM/ACM Hypertext Proceedings 1995-1999.md
+  - `[[Kenneth T. Anderson]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1980s.md
+
+- **Jorge Luis Antônio ≈ Jorge Luiz Antonio** (similarity 0.94)
+  - `[[Jorge Luis Antônio]]` — 2 use(s) in 2 file(s), e.g. Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md, Archives/Arquivo Digital Po.Ex.md
+  - `[[Jorge Luiz Antonio]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md
+
+- **Yu Huang ≈ Yun Huang** (similarity 0.93)
+  - `[[Yu Huang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Yun Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Yu Huang ≈ Yue Huang** (similarity 0.93)
+  - `[[Yu Huang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Yue Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Yi Zhang ≈ Yin Zhang** (similarity 0.93)
+  - `[[Yi Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+  - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Yan Wang ≈ Yuan Wang** (similarity 0.93)
+  - `[[Yan Wang]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yuan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Yan Wang ≈ Yang Wang** (similarity 0.93)
+  - `[[Yan Wang]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yang Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Valdimir M. Petrov ≈ Vladimir M. Petrov** (similarity 0.93)
+  - `[[Valdimir M. Petrov]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Vladimir M. Petrov]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+
+- **Thomas H. Reynolds ≈ Thomas J. Reynolds** (similarity 0.93)
+  - `[[Thomas H. Reynolds]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
+  - `[[Thomas J. Reynolds]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
+
+- **Sheetal D. Agarwal ≈ Sheetal K. Agarwal** (similarity 0.93)
+  - `[[Sheetal D. Agarwal]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Sheetal K. Agarwal]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+
+- **Michael T. Spencer ≈ Michaela Spencer** (similarity 0.93)
+  - `[[Michael T. Spencer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Michaela Spencer]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Marion Schneider ≈ Martin Schneider** (similarity 0.93)
+  - `[[Marion Schneider]]` — 1 use(s) in 1 file(s), e.g. People + Labs/Ada X (née StudioXX).md
+  - `[[Martin Schneider]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - Feed.md
+
+- **Mariana Fernández ≈ María Fernández** (similarity 0.93)
+  - `[[Mariana Fernández]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+  - `[[María Fernández]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Li Zhang ≈ Lin Zhang** (similarity 0.93)
+  - `[[Li Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Lin Zhang]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Lei Zhang ≈ Li Zhang** (similarity 0.93)
+  - `[[Lei Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Li Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **K-M. James ≈ Kim James** (similarity 0.93)
+  - `[[K-M. James]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+  - `[[Kim James]]` — 13 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+
+- **Juan B. Gutiérrez ≈ Julian B. Gutierrez** (similarity 0.93)
+  - `[[Juan B. Gutiérrez]]` — 12 use(s) in 11 file(s), e.g. Archives/Ciberia Project.md, Organizations/ELit Directory Team.md, Publications - Academic/Blogs/Blog - Writer Response Theory.md
+  - `[[Julian B. Gutierrez]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2007.md
+
+- **Jonathan Sullivan ≈ Nathan Sullivan** (similarity 0.93)
+  - `[[Jonathan Sullivan]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Nathan Sullivan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+
+- **Jisu Lee ≈ Jisue Lee** (similarity 0.93)
+  - `[[Jisu Lee]]` — 1 use(s) in 1 file(s), e.g. People + Labs/Naive Weekly.md
+  - `[[Jisue Lee]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Jean Webb ≈ Jen Webb** (similarity 0.93)
+  - `[[Jean Webb]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Book 2.0 2021-2030.md
+  - `[[Jen Webb]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Conferences/MIX Conferences/MIX Conferences 2010s.md
+
+- **Jay Chen ≈ Jaye Chen** (similarity 0.93)
+  - `[[Jay Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Jaye Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+
+- **Ha Na Lee ≈ Hae-Na Lee** (similarity 0.93)
+  - `[[Ha Na Lee]]` — 2 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Hae-Na Lee]]` — 4 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md
+
+- **Evgeny V. Mikheyev ≈ Yevgeny Mikheyev** (similarity 0.93)
+  - `[[Evgeny V. Mikheyev]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Yevgeny Mikheyev]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+
+- **Daniel Bouchard ≈ Danielle Bouchard** (similarity 0.93)
+  - `[[Daniel Bouchard]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
+  - `[[Danielle Bouchard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2010s.md
+
+- **Charles A. Whitney ≈ D. Charles Whitney** (similarity 0.93)
+  - `[[Charles A. Whitney]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[D. Charles Whitney]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+
+- **Chan Chen ≈ Han Chen** (similarity 0.93)
+  - `[[Chan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Han Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+
+- **Catherine Harris ≈ Katherine Harris** (similarity 0.93)
+  - `[[Catherine Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
+  - `[[Katherine Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - Johns Hopkins Guide to Digital Media.md
+
+- **Ann Chen ≈ Anna Chen** (similarity 0.93)
+  - `[[Ann Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+  - `[[Anna Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+
+- **Andrea Gutierrez ≈ Sandra Gutiérrez** (similarity 0.93)
+  - `[[Andrea Gutierrez]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Drunken Boat.md
+  - `[[Sandra Gutiérrez]]` — 1 use(s) in 1 file(s), e.g. People + Labs/TROPOS - LEETHI.md
+
+- **Alexander Miller ≈ Alexandra Miller** (similarity 0.93)
+  - `[[Alexander Miller]]` — 3 use(s) in 2 file(s), e.g. Publications - Lit Mags/HTML Review.md, Organizations/School for Poetic Computation.md
+  - `[[Alexandra Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Reviews in Digital Humanities.md
+
+- **Alejandra Ospina ≈ Alejandro Ospina** (similarity 0.93)
+  - `[[Alejandra Ospina]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Alejandro Ospina]]` — 1 use(s) in 1 file(s), e.g. Archives/Cartografía Digital.md
+
+- **J. Ignacio Aguaded-Gomez ≈ José Ignacio Aguaded-Gómez** (similarity 0.93)
+  - `[[J. Ignacio Aguaded-Gomez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[José Ignacio Aguaded-Gómez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Ulises A. Mejias ≈ Ulises Ali Mejias** (similarity 0.93)
+  - `[[Ulises A. Mejias]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Ulises Ali Mejias]]` — 7 use(s) in 6 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Sandra Rodriguez ≈ Sara Rodríguez** (similarity 0.93)
+  - `[[Sandra Rodriguez]]` — 1 use(s) in 1 file(s), e.g. Awards/Prix Ars Electronica - Golden Nica Winners.md
+  - `[[Sara Rodríguez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
+
+- **Sandra Martorell ≈ Sara Martorell** (similarity 0.93)
+  - `[[Sandra Martorell]]` — 4 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Sara Martorell]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
+
+- **Richard N. Taylor ≈ Richard P. Taylor** (similarity 0.93)
+  - `[[Richard N. Taylor]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+  - `[[Richard P. Taylor]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Kristen Kostick ≈ Kristin Kostick** (similarity 0.93)
+  - `[[Kristen Kostick]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+  - `[[Kristin Kostick]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+
+- **James T. Hamilton ≈ James W. Hamilton** (similarity 0.93)
+  - `[[James T. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[James W. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **James F. Hamilton ≈ James W. Hamilton** (similarity 0.93)
+  - `[[James F. Hamilton]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[James W. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **James F. Hamilton ≈ James T. Hamilton** (similarity 0.93)
+  - `[[James F. Hamilton]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[James T. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Hongjiang Zhang ≈ Hongliang Zhang** (similarity 0.93)
+  - `[[Hongjiang Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
+  - `[[Hongliang Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2019.md
+
+- **Elena Alexander ≈ Meena Alexander** (similarity 0.93)
+  - `[[Elena Alexander]]` — 1 use(s) in 1 file(s), e.g. Anthologies/The Body in Language.md
+  - `[[Meena Alexander]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Cynthia L. Walker ≈ Cynthia W. Walker** (similarity 0.93)
+  - `[[Cynthia L. Walker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+  - `[[Cynthia W. Walker]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
+
+- **Catherine Weiss ≈ Katherine Weiss** (similarity 0.93)
+  - `[[Catherine Weiss]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Katherine Weiss]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Electronic Book Review/EBR Electropoetics.md
+
+- **Ariel Morrison ≈ Gabriel Morrison** (similarity 0.93)
+  - `[[Ariel Morrison]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Gabriel Morrison]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - TextGenEd.md
+
+- **Andrew J. Solberg ≈ Andrew L. Solberg** (similarity 0.93)
+  - `[[Andrew J. Solberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Intertext.md
+  - `[[Andrew L. Solberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
+
+- **Alejandra Pérez ≈ Alejandro Pérez** (similarity 0.93)
+  - `[[Alejandra Pérez]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
+  - `[[Alejandro Pérez]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+
+- **Zhe Liu ≈ Zhen Liu** (similarity 0.92)
+  - `[[Zhe Liu]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md, Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Zhen Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Yuan He ≈ Yulan He** (similarity 0.92)
+  - `[[Yuan He]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yulan He]]` — 4 use(s) in 2 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md, Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Xiang Yu ≈ Xing Yu** (similarity 0.92)
+  - `[[Xiang Yu]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2026.md
+  - `[[Xing Yu]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **William H. Allen ≈ William L. Allen** (similarity 0.92)
+  - `[[William H. Allen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[William L. Allen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **W. L. Carr ≈ Wil Carr** (similarity 0.92)
+  - `[[W. L. Carr]]` — 3 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
+  - `[[Wil Carr]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - TextGenEd.md
+
+- **Thomas L. Martin ≈ Thomas R. Martin** (similarity 0.92)
+  - `[[Thomas L. Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Thomas R. Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+
+- **Ryan Tan ≈ Yan Tan** (similarity 0.92)
+  - `[[Ryan Tan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yan Tan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Philip H. Howard ≈ Philip N. Howard** (similarity 0.92)
+  - `[[Philip H. Howard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
+  - `[[Philip N. Howard]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Mark McFarland ≈ maCk mCfarland** (similarity 0.92)
+  - `[[Mark McFarland]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+  - `[[maCk mCfarland]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+
+- **Marianne Clark ≈ Mary Anne Clark** (similarity 0.92)
+  - `[[Marianne Clark]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Mary Anne Clark]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+
+- **Liu Yang ≈ Lu Yang** (similarity 0.92)
+  - `[[Liu Yang]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Lu Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md
+
+- **Lauren Dempsey ≈ Laurie Dempsey** (similarity 0.92)
+  - `[[Lauren Dempsey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Laurie Dempsey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Juan Liu ≈ Jun Liu** (similarity 0.92)
+  - `[[Juan Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Jun Liu]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Joseph Williams ≈ Josh Williams** (similarity 0.92)
+  - `[[Joseph Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+  - `[[Josh Williams]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2000s Proceedings.md
+
+- **John B. Thompson ≈ John O. Thompson** (similarity 0.92)
+  - `[[John B. Thompson]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+  - `[[John O. Thompson]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
+
+- **Jin Shi ≈ Jing Shi** (similarity 0.92)
+  - `[[Jin Shi]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
+  - `[[Jing Shi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **James Hamilton ≈ Jamie Hamilton** (similarity 0.92)
+  - `[[James Hamilton]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Jamie Hamilton]]` — 2 use(s) in 2 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md, Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **G. Zhang ≈ Ge Zhang** (similarity 0.92)
+  - `[[G. Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Ge Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **G. Zhang ≈ Ga Zhang** (similarity 0.92)
+  - `[[G. Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Ga Zhang]]` — 2 use(s) in 2 file(s), e.g. Anthologies/Media Art Net.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Dongliang Chen ≈ Hongliang Chen** (similarity 0.92)
+  - `[[Dongliang Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Hongliang Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Dara Greenwald ≈ Sara Greenwald** (similarity 0.92)
+  - `[[Dara Greenwald]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+  - `[[Sara Greenwald]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1950s-1995.md
+
+- **Cédric Anderson ≈ Eric Anderson** (similarity 0.92)
+  - `[[Cédric Anderson]]` — 1 use(s) in 1 file(s), e.g. Organizations/NT2 Lab.md
+  - `[[Eric Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Christina Cook ≈ Christine Cook** (similarity 0.92)
+  - `[[Christina Cook]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Christine Cook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **C. Stanley Smith ≈ G. Stanley Smith** (similarity 0.92)
+  - `[[C. Stanley Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[G. Stanley Smith]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **C. David Russell ≈ David R. Russell** (similarity 0.92)
+  - `[[C. David Russell]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[David R. Russell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Alexander Rose ≈ Alexandra Rose** (similarity 0.92)
+  - `[[Alexander Rose]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Alexandra Rose]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Taper Zine.md
+
+- **Alan E. Williams ≈ Alana Williams** (similarity 0.92)
+  - `[[Alan E. Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Alana Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Bunk Magazine.md
+
+- **Tim Armstrong ≈ Tom Armstrong** (similarity 0.92)
+  - `[[Tim Armstrong]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Electronic Book Review.md
+  - `[[Tom Armstrong]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Intertext.md
+
+- **Su Young Choi ≈ Suk Kyoung Choi** (similarity 0.92)
+  - `[[Su Young Choi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Suk Kyoung Choi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Stephan Moore ≈ Stephen Moore** (similarity 0.92)
+  - `[[Stephan Moore]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
+  - `[[Stephen Moore]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+
+- **Sara Roberts ≈ Sarah T. Roberts** (similarity 0.92)
+  - `[[Sara Roberts]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Sarah T. Roberts]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md
+
+- **Ronald A. Brown ≈ Ronald R. Brown** (similarity 0.92)
+  - `[[Ronald A. Brown]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+  - `[[Ronald R. Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+
+- **Rob MacDonald ≈ Roy Macdonald** (similarity 0.92)
+  - `[[Rob MacDonald]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Roy Macdonald]]` — 1 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
+
+- **Priyanka Singh ≈ Rianka Singh** (similarity 0.92)
+  - `[[Priyanka Singh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Rianka Singh]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
+
+- **Michael White ≈ Michele White** (similarity 0.92)
+  - `[[Michael White]]` — 2 use(s) in 2 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md, Publications - Lit Mags/BeeHive.md
+  - `[[Michele White]]` — 6 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Lucas Sanchez ≈ Lucía Sánchez** (similarity 0.92)
+  - `[[Lucas Sanchez]]` — 2 use(s) in 2 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2026.md, Conferences/ELO Exhibitions/ELO 2026 Exhibit.md
+  - `[[Lucía Sánchez]]` — 1 use(s) in 1 file(s), e.g. People + Labs/TROPOS - LEETHI.md
+
+- **Lora McDonald ≈ Nora McDonald** (similarity 0.92)
+  - `[[Lora McDonald]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Nora McDonald]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Ken Williams ≈ Kevin Williams** (similarity 0.92)
+  - `[[Ken Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Del Sol Review (2008-2017ish).md
+  - `[[Kevin Williams]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **Ken Anderson ≈ Kenny Anderson** (similarity 0.92)
+  - `[[Ken Anderson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
+  - `[[Kenny Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+
+- **Kate Thompson ≈ Kati Thompson** (similarity 0.92)
+  - `[[Kate Thompson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Kati Thompson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Del Sol Review (2008-2017ish).md
+
+- **Jun Watanabe ≈ Junji Watanabe** (similarity 0.92)
+  - `[[Jun Watanabe]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
+  - `[[Junji Watanabe]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Joseph M. Chan ≈ Joseph Man Chan** (similarity 0.92)
+  - `[[Joseph M. Chan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Joseph Man Chan]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Jorge A. García ≈ Jorge H. García** (similarity 0.92)
+  - `[[Jorge A. García]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Jorge H. García]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **John Williams ≈ Josh Williams** (similarity 0.92)
+  - `[[John Williams]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Josh Williams]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2000s Proceedings.md
+
+- **John O. Thompson ≈ Jon Thompson** (similarity 0.92)
+  - `[[John O. Thompson]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
+  - `[[Jon Thompson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **John Harrison ≈ Josh Harrison** (similarity 0.92)
+  - `[[John Harrison]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Josh Harrison]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **John B. Thompson ≈ Jon Thompson** (similarity 0.92)
+  - `[[John B. Thompson]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+  - `[[Jon Thompson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Jaime Brunton ≈ Jamie Brunton** (similarity 0.92)
+  - `[[Jaime Brunton]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Jamie Brunton]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Ghost Proposal.md
+
+- **Iain D. Campbell ≈ Ian Campbell** (similarity 0.92)
+  - `[[Iain D. Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Ian Campbell]]` — 4 use(s) in 2 file(s), e.g. Publications - Lit Mags/Enterzone.md, Archives/Répertoire NT2 - 1995-2006.md
+
+- **Eric Johnson ≈ Ericka Johnson** (similarity 0.92)
+  - `[[Eric Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
+  - `[[Ericka Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Diane Williams ≈ Ian Williams** (similarity 0.92)
+  - `[[Diane Williams]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Del Sol Review (1998-2007).md
+  - `[[Ian Williams]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Dean O'Donnell ≈ Sean O'Donnell** (similarity 0.92)
+  - `[[Dean O'Donnell]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+  - `[[Sean O'Donnell]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Darnell Moore ≈ Darrell Moore** (similarity 0.92)
+  - `[[Darnell Moore]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
+  - `[[Darrell Moore]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+
+- **Chris Friend ≈ Christy Friend** (similarity 0.92)
+  - `[[Chris Friend]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+  - `[[Christy Friend]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+
+- **Charles Smith ≈ Charlie Smith** (similarity 0.92)
+  - `[[Charles Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Charlie Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Caitlin Jones ≈ Caitlyn Jones** (similarity 0.92)
+  - `[[Caitlin Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+  - `[[Caitlyn Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Reviews in Digital Humanities.md
+
+- **Ashley M. Jones ≈ Ashley P. Jones** (similarity 0.92)
+  - `[[Ashley M. Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Ashley P. Jones]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Amy Patterson ≈ Sam Patterson** (similarity 0.92)
+  - `[[Amy Patterson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+  - `[[Sam Patterson]]` — 1 use(s) in 1 file(s), e.g. Archives/Collected Writings of William K Gillespie and friends.md
+
+- **Amir Soltani ≈ Samira Soltani** (similarity 0.92)
+  - `[[Amir Soltani]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[Samira Soltani]]` — 2 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+
+- **Melissa J. Rogerson ≈ Melissa Jane Rogerson** (similarity 0.91)
+  - `[[Melissa J. Rogerson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Melissa Jane Rogerson]]` — 2 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Louis Cork Marcheschi ≈ Louis R. Marcheschi** (similarity 0.91)
+  - `[[Louis Cork Marcheschi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+  - `[[Louis R. Marcheschi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **Jessica A. Robinson ≈ Jessica Anne Robinson** (similarity 0.91)
+  - `[[Jessica A. Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Jessica Anne Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+
+- **Christian P. Hoffmann ≈ Christine Hoffmann** (similarity 0.91)
+  - `[[Christian P. Hoffmann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Christine Hoffmann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2010s.md
+
+- **Youngju Kim ≈ Youngjune Kim** (similarity 0.91)
+  - `[[Youngju Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Youngjune Kim]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+
+- **Yonghwan Kim ≈ Young-han Kim** (similarity 0.91)
+  - `[[Yonghwan Kim]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Young-han Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **Yong-Chan Kim ≈ Young-han Kim** (similarity 0.91)
+  - `[[Yong-Chan Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Young-han Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **Yong-Chan Kim ≈ Yonghwan Kim** (similarity 0.91)
+  - `[[Yong-Chan Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Yonghwan Kim]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Yi-Na Li ≈ Yin Li** (similarity 0.91)
+  - `[[Yi-Na Li]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Yin Li]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Xin Yu ≈ Xing Yu** (similarity 0.91)
+  - `[[Xin Yu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Xing Yu]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Xiaoye Zhang ≈ Xiaoyu Zhang** (similarity 0.91)
+  - `[[Xiaoye Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Xiaoyu Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Xiaoke Zhang ≈ Xiaoye Zhang** (similarity 0.91)
+  - `[[Xiaoke Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Xiaoye Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Tim Anderson ≈ Tom Anderson** (similarity 0.91)
+  - `[[Tim Anderson]]` — 1 use(s) in 1 file(s), e.g. Anthologies/OUTPUT.md
+  - `[[Tom Anderson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+
+- **Steve Jones ≈ Steven E. Jones** (similarity 0.91)
+  - `[[Steve Jones]]` — 5 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Steven E. Jones]]` — 10 use(s) in 9 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md, Publications - Academic/Blogs/Blog - I <3 E-Poetry.md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+
+- **Steph Clark ≈ Stephan Clark** (similarity 0.91)
+  - `[[Steph Clark]]` — 1 use(s) in 1 file(s), e.g. People + Labs/Babycastles.md
+  - `[[Stephan Clark]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Shaun French ≈ Shawn French** (similarity 0.91)
+  - `[[Shaun French]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Shawn French]]` — 1 use(s) in 1 file(s), e.g. Conferences/Narrascope Program 2019-present.md
+
+- **Seyoung Park ≈ Soyoung Park** (similarity 0.91)
+  - `[[Seyoung Park]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+  - `[[Soyoung Park]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Archives/Rhizome Artbase.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Ryan Su ≈ Yan Su** (similarity 0.91)
+  - `[[Ryan Su]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Right Click Save.md
+  - `[[Yan Su]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Rin Johnson ≈ Robin Johnson** (similarity 0.91)
+  - `[[Rin Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Tagvverk.md
+  - `[[Robin Johnson]]` — 3 use(s) in 3 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md, Awards/XYZZY Awards.md, Awards/IF Comp.md
+
+- **Peter F. Smith ≈ Peter J. Smith** (similarity 0.91)
+  - `[[Peter F. Smith]]` — 10 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+  - `[[Peter J. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Peidong Yang ≈ Weidong Yang** (similarity 0.91)
+  - `[[Peidong Yang]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Weidong Yang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Paul D. Miller ≈ Paul F. Miller** (similarity 0.91)
+  - `[[Paul D. Miller]]` — 5 use(s) in 3 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Lit Mags/Drunken Boat 2000-2012.md, Archives/Rhizome Artbase.md
+  - `[[Paul F. Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **Micha Klein ≈ Michael Klein** (similarity 0.91)
+  - `[[Micha Klein]]` — 1 use(s) in 1 file(s), e.g. Archives/Living Media Art (Li-ma).md
+  - `[[Michael Klein]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Mi You ≈ Mia You** (similarity 0.91)
+  - `[[Mi You]]` — 2 use(s) in 2 file(s), e.g. Organizations/New Centre for Research & Practice.md, Publications - Art Mags/E-Flux Index.md
+  - `[[Mia You]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/midst.md, Publications - Lit Mags/Jacket2.md
+
+- **Mark Stewart ≈ Mary Stewart** (similarity 0.91)
+  - `[[Mark Stewart]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Mary Stewart]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
+
+- **Marina Brown ≈ Marion Brown** (similarity 0.91)
+  - `[[Marina Brown]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+  - `[[Marion Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Mariana Rubio ≈ María Rubio** (similarity 0.91)
+  - `[[Mariana Rubio]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
+  - `[[María Rubio]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Culture Machine.md
+
+- **Marc Watkins ≈ Mark Watkins** (similarity 0.91)
+  - `[[Marc Watkins]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Books/Ed. Coll. - TextGenEd.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+  - `[[Mark Watkins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Lilly U. Nguyen ≈ Lily Nguyen** (similarity 0.91)
+  - `[[Lilly U. Nguyen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Lily Nguyen]]` — 1 use(s) in 1 file(s), e.g. People + Labs/tiat salons.md
+
+- **Li Wei ≈ Liu Wei** (similarity 0.91)
+  - `[[Li Wei]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Liu Wei]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Laura Vodden ≈ Laurs Vodden** (similarity 0.91)
+  - `[[Laura Vodden]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Laurs Vodden]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Kyung Mee Kim ≈ Kyung-Hee Kim** (similarity 0.91)
+  - `[[Kyung Mee Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Kyung-Hee Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Ke Liu ≈ Ken Liu** (similarity 0.91)
+  - `[[Ke Liu]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Ken Liu]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/LOGIC(S).md, Publications - Academic/Books/Ed. Coll. - First Encounters With AI - Writers on Writing.md
+
+- **Katia Bowers ≈ Katie Bowers** (similarity 0.91)
+  - `[[Katia Bowers]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Presses/Press - The Data-Sitters Club.md
+  - `[[Katie Bowers]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Kathryn Smith ≈ Kathy Smith** (similarity 0.91)
+  - `[[Kathryn Smith]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Lit Mags/FIVES - Companion to Denver Q..md, Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Kathy Smith]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Karen Gregory ≈ Ken Gregory** (similarity 0.91)
+  - `[[Karen Gregory]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Ken Gregory]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Critical Making.md
+
+- **John Russell ≈ Josh Russell** (similarity 0.91)
+  - `[[John Russell]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[Josh Russell]]` — 4 use(s) in 3 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md, Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **John M. Carroll ≈ Jon Carroll** (similarity 0.91)
+  - `[[John M. Carroll]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+  - `[[Jon Carroll]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
+
+- **John A. Taylor ≈ John H. Taylor** (similarity 0.91)
+  - `[[John A. Taylor]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[John H. Taylor]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **Joel Brouwer ≈ Joke Brouwer** (similarity 0.91)
+  - `[[Joel Brouwer]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Joke Brouwer]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
+
+- **Jo Campbell ≈ Jodi Campbell** (similarity 0.91)
+  - `[[Jo Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
+  - `[[Jodi Campbell]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+
+- **Jinwei Zhang ≈ Jinwen Zhang** (similarity 0.91)
+  - `[[Jinwei Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Jinwen Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Jim Albrecht ≈ Kim Albrecht** (similarity 0.91)
+  - `[[Jim Albrecht]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/In Formation Magazine.md
+  - `[[Kim Albrecht]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed Newspaper.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Jiawei Zhang ≈ Jinwei Zhang** (similarity 0.91)
+  - `[[Jiawei Zhang]]` — 2 use(s) in 2 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md, Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Jinwei Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Jason Smith ≈ Jayson P. Smith** (similarity 0.91)
+  - `[[Jason Smith]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Jayson P. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/HTML Review.md
+
+- **Jason A. Smith ≈ Jason E. Smith** (similarity 0.91)
+  - `[[Jason A. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Jason E. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+
+- **Ian Campbell ≈ Jan Campbell** (similarity 0.91)
+  - `[[Ian Campbell]]` — 4 use(s) in 2 file(s), e.g. Publications - Lit Mags/Enterzone.md, Archives/Répertoire NT2 - 1995-2006.md
+  - `[[Jan Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Culture Machine.md
+
+- **Hye Kyung Kim ≈ Hye Young Kim** (similarity 0.91)
+  - `[[Hye Kyung Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Hye Young Kim]]` — 2 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Ho Young Yoon ≈ Soyoung Yoon** (similarity 0.91)
+  - `[[Ho Young Yoon]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Soyoung Yoon]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+
+- **Haeyoung Kim ≈ Taeyoung Kim** (similarity 0.91)
+  - `[[Haeyoung Kim]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
+  - `[[Taeyoung Kim]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Haeyoung Kim ≈ Hye Young Kim** (similarity 0.91)
+  - `[[Haeyoung Kim]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
+  - `[[Hye Young Kim]]` — 2 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Don Thompson ≈ Jon Thompson** (similarity 0.91)
+  - `[[Don Thompson]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/Del Sol Review (2008-2017ish).md, Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Jon Thompson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **David M. Smith ≈ J. David Smith** (similarity 0.91)
+  - `[[David M. Smith]]` — 2 use(s) in 2 file(s), e.g. Archives/Hypertext Studios/Directory - Hyperizons.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
+  - `[[J. David Smith]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **David A. Smith ≈ J. David Smith** (similarity 0.91)
+  - `[[David A. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[J. David Smith]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **David A. Smith ≈ David M. Smith** (similarity 0.91)
+  - `[[David A. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[David M. Smith]]` — 2 use(s) in 2 file(s), e.g. Archives/Hypertext Studios/Directory - Hyperizons.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
+
+- **Daniel King ≈ Danielle King** (similarity 0.91)
+  - `[[Daniel King]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Exhibitions/ELO 2020 Exhibit.md
+  - `[[Danielle King]]` — 4 use(s) in 1 file(s), e.g. Publications - Art Mags/Right Click Save.md
+
+- **Dane Watkins ≈ Dawn Watkins** (similarity 0.91)
+  - `[[Dane Watkins]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
+  - `[[Dawn Watkins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Danae McLeod ≈ Dayna McLeod** (similarity 0.91)
+  - `[[Danae McLeod]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Dayna McLeod]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
+
+- **Charles Reed ≈ Charley Reed** (similarity 0.91)
+  - `[[Charles Reed]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+  - `[[Charley Reed]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+
+- **Brian Johnson ≈ Rin Johnson** (similarity 0.91)
+  - `[[Brian Johnson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md, Publications - Lit Mags/Drunken Boat 2000-2012.md
+  - `[[Rin Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Tagvverk.md
+
+- **Bradley E. Wiggins ≈ Bradley Earl Wiggins** (similarity 0.91)
+  - `[[Bradley E. Wiggins]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Bradley Earl Wiggins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Ben Anderson ≈ Ken Anderson** (similarity 0.91)
+  - `[[Ben Anderson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Ken Anderson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
+
+- **Becca Young ≈ Rebecca Young** (similarity 0.91)
+  - `[[Becca Young]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Cursor Mag.md
+  - `[[Rebecca Young]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+
+- **Anna Howard ≈ Joanna Howard** (similarity 0.91)
+  - `[[Anna Howard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Joanna Howard]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 4.md, Publications - Lit Mags/Counterpath Press.md, Conferences/ELO Conferences/ELO Conference 2019.md
+
+- **Anisha Gupta ≈ Manish Gupta** (similarity 0.91)
+  - `[[Anisha Gupta]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+  - `[[Manish Gupta]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md
+
+- **Alisha Harris ≈ Lisa Harris** (similarity 0.91)
+  - `[[Alisha Harris]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/New Media Caucus Symposia.md
+  - `[[Lisa Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Alex Russell ≈ Dale Russell** (similarity 0.91)
+  - `[[Alex Russell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Dale Russell]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+
+- **Michael Comstock ≈ Michelle Comstock** (similarity 0.90)
+  - `[[Michael Comstock]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Michelle Comstock]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
+
+- **Jillana B. Enteen ≈ Jillana Beth Enteen** (similarity 0.90)
+  - `[[Jillana B. Enteen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Jillana Beth Enteen]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Francisca García ≈ Francisco J. Garcia** (similarity 0.90)
+  - `[[Francisca García]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Materialities of Literature (MATLIT).md
+  - `[[Francisco J. Garcia]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+
+- **Catherine McCabe ≈ Katherine T. McCabe** (similarity 0.90)
+  - `[[Catherine McCabe]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Katherine T. McCabe]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Alexander Martin ≈ Alexandra L. Martin** (similarity 0.90)
+  - `[[Alexander Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Alexandra L. Martin]]` — 11 use(s) in 10 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2022.md, Organizations/Lab-yrinthe - Quebec Lab for Pub.Edu.Dig.Works.md, Organizations/NT2 Lab.md
+
+- **Zheng Yang ≈ Zhenglu Yang** (similarity 0.90)
+  - `[[Zheng Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Zhenglu Yang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+
+- **Zhen Zhang ≈ Zhuwen Zhang** (similarity 0.90)
+  - `[[Zhen Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+  - `[[Zhuwen Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Yong-Mi Kim ≈ Youngmin Kim** (similarity 0.90)
+  - `[[Yong-Mi Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+  - `[[Youngmin Kim]]` — 1 use(s) in 1 file(s), e.g. Organizations/Alliance of Digital Humanities Organizations.md
+
+- **Yitong Wang ≈ Zitong Wang** (similarity 0.90)
+  - `[[Yitong Wang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+  - `[[Zitong Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Yingwen Wang ≈ Yiwen Wang** (similarity 0.90)
+  - `[[Yingwen Wang]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Yiwen Wang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+
+- **Ying Huang ≈ Yuying Huang** (similarity 0.90)
+  - `[[Ying Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Yuying Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Cursor Mag.md
+
+- **Yidong Wang ≈ Yitong Wang** (similarity 0.90)
+  - `[[Yidong Wang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Yitong Wang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+
+- **Ya-Ting Yang ≈ Yuting Yang** (similarity 0.90)
+  - `[[Ya-Ting Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Yuting Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Xinyi Zhang ≈ Xinyu Zhang** (similarity 0.90)
+  - `[[Xinyi Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+  - `[[Xinyu Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Xing Zhang ≈ Yuxing Zhang** (similarity 0.90)
+  - `[[Xing Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Yuxing Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Xiaoqian Li ≈ Xiaoqiao Li** (similarity 0.90)
+  - `[[Xiaoqian Li]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Xiaoqiao Li]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Xiaojing Li ≈ Xiaoting Li** (similarity 0.90)
+  - `[[Xiaojing Li]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Xiaoting Li]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Xiao Zhang ≈ Xiaoyu Zhang** (similarity 0.90)
+  - `[[Xiao Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Xiaoyu Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Xiao Zhang ≈ Xiaoye Zhang** (similarity 0.90)
+  - `[[Xiao Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Xiaoye Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Xiao Zhang ≈ Xiaoke Zhang** (similarity 0.90)
+  - `[[Xiao Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Xiaoke Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Xiao Fan Liu ≈ Xiaoyan Liu** (similarity 0.90)
+  - `[[Xiao Fan Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Xiaoyan Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Weidong Yan ≈ Weihong Yan** (similarity 0.90)
+  - `[[Weidong Yan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Weihong Yan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Vijay Kumar ≈ Vinay Kumar** (similarity 0.90)
+  - `[[Vijay Kumar]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1995-1999.md
+  - `[[Vinay Kumar]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Tim Collins ≈ Tom Collins** (similarity 0.90)
+  - `[[Tim Collins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Tom Collins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Soyoung Park ≈ Soyun Park** (similarity 0.90)
+  - `[[Soyoung Park]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Archives/Rhizome Artbase.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Soyun Park]]` — 2 use(s) in 2 file(s), e.g. Organizations/Empirical Study of Literature Training Network.md, Organizations/The Hmm.md
+
+- **Siyang Chen ≈ Siyuan Chen** (similarity 0.90)
+  - `[[Siyang Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Siyuan Chen]]` — 2 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+
+- **Seungae Lee ≈ Sungjae Lee** (similarity 0.90)
+  - `[[Seungae Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Sungjae Lee]]` — 2 use(s) in 2 file(s), e.g. Awards/Lumen Prize.md, Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Sang Woo Lee ≈ Sangwon Lee** (similarity 0.90)
+  - `[[Sang Woo Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Sangwon Lee]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Ryu Yamamoto ≈ Y. Yamamoto** (similarity 0.90)
+  - `[[Ryu Yamamoto]]` — 2 use(s) in 2 file(s), e.g. Organizations/ELO Teams/ELO Team 2024.md, People + Labs/CHDR @ UCF.md
+  - `[[Y. Yamamoto]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 99-08.md
+
+- **Rob Kitchin ≈ Roy Kitchin** (similarity 0.90)
+  - `[[Rob Kitchin]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Academic/Solo Journals/Journ. - Computational Culture.md
+  - `[[Roy Kitchin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+
+- **R. Williams ≈ Ros Williams** (similarity 0.90)
+  - `[[R. Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Ros Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Paul A. Weiss ≈ Paul S. Weiss** (similarity 0.90)
+  - `[[Paul A. Weiss]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+  - `[[Paul S. Weiss]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Nick Fisher ≈ Rick Fisher** (similarity 0.90)
+  - `[[Nick Fisher]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/HypertextNow.md
+  - `[[Rick Fisher]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Muxin Zhang ≈ Yuxin Zhang** (similarity 0.90)
+  - `[[Muxin Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Yuxin Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Mark Ashton ≈ Mars Ashton** (similarity 0.90)
+  - `[[Mark Ashton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md
+  - `[[Mars Ashton]]` — 1 use(s) in 1 file(s), e.g. Conferences/Narrascope Program 2019-present.md
+
+- **Louis M. Gomez ≈ Luis Gomez** (similarity 0.90)
+  - `[[Louis M. Gomez]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1980s.md
+  - `[[Luis Gomez]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md
+
+- **Li-Ting Huang ≈ Ting Huang** (similarity 0.90)
+  - `[[Li-Ting Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Ting Huang]]` — 3 use(s) in 2 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Kye Sung Lee ≈ Ye Seung Lee** (similarity 0.90)
+  - `[[Kye Sung Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md
+  - `[[Ye Seung Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Ken Miller ≈ Kevin Miller** (similarity 0.90)
+  - `[[Ken Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+  - `[[Kevin Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+
+- **John W. Cooper ≈ Jon Cooper** (similarity 0.90)
+  - `[[John W. Cooper]]` — 10 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Jon Cooper]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **Jodie Austin ≈ Joe Austin** (similarity 0.90)
+  - `[[Jodie Austin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md
+  - `[[Joe Austin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md, Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2010s.md
+
+- **Jiyoung Lee ≈ Ju Young Lee** (similarity 0.90)
+  - `[[Jiyoung Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ju Young Lee]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Jian-hua Zhu ≈ Jianhan Zhu** (similarity 0.90)
+  - `[[Jian-hua Zhu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Jianhan Zhu]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
+
+- **Jen Carroll ≈ Jon Carroll** (similarity 0.90)
+  - `[[Jen Carroll]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Cursor Mag.md
+  - `[[Jon Carroll]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Enterzone.md
+
+- **Jean Harvey ≈ Joan Harvey** (similarity 0.90)
+  - `[[Jean Harvey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Joan Harvey]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Janice Lee ≈ JaniceJo Lee** (similarity 0.90)
+  - `[[Janice Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[JaniceJo Lee]]` — 1 use(s) in 1 file(s), e.g. People + Labs/Textile.md
+
+- **Jane Chung ≈ Jeanie Chung** (similarity 0.90)
+  - `[[Jane Chung]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+  - `[[Jeanie Chung]]` — 3 use(s) in 2 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md, Organizations/Ed. Board - Drunken Boat.md
+
+- **James Allen ≈ Jamie Allen** (similarity 0.90)
+  - `[[James Allen]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1990-1994.md
+  - `[[Jamie Allen]]` — 5 use(s) in 5 file(s), e.g. Publications - Art Mags/E-Flux Index.md, Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed Newspaper.md, Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md
+
+- **Jake Harris ≈ Jane Harris** (similarity 0.90)
+  - `[[Jake Harris]]` — 2 use(s) in 2 file(s), e.g. Archives/Répertoire NT2 - 1950s-1995.md, Archives/Hypertext Studios/Directory - Hyperizons.md
+  - `[[Jane Harris]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Jae Kook Lee ≈ Jaewook Lee** (similarity 0.90)
+  - `[[Jae Kook Lee]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jaewook Lee]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Conferences/New Media Conferences/New Media Caucus Symposia.md, Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+
+- **Ian Andrews ≈ Nin Andrews** (similarity 0.90)
+  - `[[Ian Andrews]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
+  - `[[Nin Andrews]]` — 8 use(s) in 4 file(s), e.g. Publications - Lit Mags/Del Sol Review (1998-2007).md, Publications - Lit Mags/Del Sol Review (2008-2017ish).md, Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Iain S. Thomas ≈ Ian Thomas** (similarity 0.90)
+  - `[[Iain S. Thomas]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - First Encounters With AI - Writers on Writing.md
+  - `[[Ian Thomas]]` — 2 use(s) in 1 file(s), e.g. Conferences/Narrascope Program 2019-present.md
+
+- **Hyun Ju Kim ≈ Hyunjung Kim** (similarity 0.90)
+  - `[[Hyun Ju Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
+  - `[[Hyunjung Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Hongsu Wang ≈ Hongyu Wang** (similarity 0.90)
+  - `[[Hongsu Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Reviews in Digital Humanities.md
+  - `[[Hongyu Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Hangwoo Lee ≈ Sang Woo Lee** (similarity 0.90)
+  - `[[Hangwoo Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[Sang Woo Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Greg J. Smith ≈ Greg M. Smith** (similarity 0.90)
+  - `[[Greg J. Smith]]` — 5 use(s) in 4 file(s), e.g. Conferences/ELO Exhibitions/ELO 2012 Exhibit.md, Publications - Academic/Solo Journals/Journ. - Vectors.md, Archives/Répertoire NT2 - 2007-2022.md
+  - `[[Greg M. Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
+
+- **Gerry Smith ≈ Terry Smith** (similarity 0.90)
+  - `[[Gerry Smith]]` — 3 use(s) in 1 file(s), e.g. Conferences/MIX Conferences/MIX Conferences 2010s.md
+  - `[[Terry Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
+
+- **Evan Miller ≈ Sean Miller** (similarity 0.90)
+  - `[[Evan Miller]]` — 1 use(s) in 1 file(s), e.g. Organizations/Reviews in DH Team.md
+  - `[[Sean Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Electronic Book Review/EBR End Construction.md
+
+- **Eric Jensen ≈ Erin Jensen** (similarity 0.90)
+  - `[[Eric Jensen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Erin Jensen]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - TextGenEd.md
+
+- **Eric Gordon ≈ Erin Gordon** (similarity 0.90)
+  - `[[Eric Gordon]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Erin Gordon]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/New Media Caucus Symposia.md
+
+- **Eoin Murray ≈ Erin Murray** (similarity 0.90)
+  - `[[Eoin Murray]]` — 2 use(s) in 2 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2019.md, Conferences/MIX Conferences/MIX Conferences 2010s.md
+  - `[[Erin Murray]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Dinh Nguyen ≈ Minh Nguyen** (similarity 0.90)
+  - `[[Dinh Nguyen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Minh Nguyen]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+
+- **Dianne Smith ≈ Ian E. Smith** (similarity 0.90)
+  - `[[Dianne Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[Ian E. Smith]]` — 2 use(s) in 2 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1990-1994.md, Conferences/ACM/ACM Hypertext Proceedings 1995-1999.md
+
+- **Diane Howard ≈ Ian Howard** (similarity 0.90)
+  - `[[Diane Howard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
+  - `[[Ian Howard]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Deena Engel ≈ Elena Engel** (similarity 0.90)
+  - `[[Deena Engel]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Elena Engel]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **David J. Park ≈ David W. Park** (similarity 0.90)
+  - `[[David J. Park]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[David W. Park]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Dan Jackson ≈ Ian Jackson** (similarity 0.90)
+  - `[[Dan Jackson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Ian Jackson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+
+- **Dan George ≈ Diana George** (similarity 0.90)
+  - `[[Dan George]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+  - `[[Diana George]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md, Publications - Academic/Presses/Press - ALT-X Press.md
+
+- **Dan Fisher ≈ Dana R. Fisher** (similarity 0.90)
+  - `[[Dan Fisher]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+  - `[[Dana R. Fisher]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Daeyong Kim ≈ Dal Yong Kim** (similarity 0.90)
+  - `[[Daeyong Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Dal Yong Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **D. C. Bradley ≈ Dick Bradley** (similarity 0.90)
+  - `[[D. C. Bradley]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Intertext.md
+  - `[[Dick Bradley]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+
+- **Brian Thomas ≈ Ian Thomas** (similarity 0.90)
+  - `[[Brian Thomas]]` — 3 use(s) in 2 file(s), e.g. Publications - Lit Mags/Enterzone.md, Archives/The NEXT - Voyager.md
+  - `[[Ian Thomas]]` — 2 use(s) in 1 file(s), e.g. Conferences/Narrascope Program 2019-present.md
+
+- **Brian Harris ≈ Ian Harris** (similarity 0.90)
+  - `[[Brian Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Ian Harris]]` — 2 use(s) in 2 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md, Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Ayoung Kim ≈ Taeyoung Kim** (similarity 0.90)
+  - `[[Ayoung Kim]]` — 1 use(s) in 1 file(s), e.g. Awards/Prix Ars Electronica - Golden Nica Winners.md
+  - `[[Taeyoung Kim]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Ayoung Kim ≈ Haeyoung Kim** (similarity 0.90)
+  - `[[Ayoung Kim]]` — 1 use(s) in 1 file(s), e.g. Awards/Prix Ars Electronica - Golden Nica Winners.md
+  - `[[Haeyoung Kim]]` — 1 use(s) in 1 file(s), e.g. Archives/The NEXT - Turbulence.md
+
+- **Annie Murray ≈ Ané Murray** (similarity 0.90)
+  - `[[Annie Murray]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Ané Murray]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Anne Scott ≈ Dianne Scott** (similarity 0.90)
+  - `[[Anne Scott]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[Dianne Scott]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Anne Harris ≈ Jane Harris** (similarity 0.90)
+  - `[[Anne Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
+  - `[[Jane Harris]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Anna Wilson ≈ Dana Wilson** (similarity 0.90)
+  - `[[Anna Wilson]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Dana Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+
+- **Anna Harris ≈ Anne Harris** (similarity 0.90)
+  - `[[Anna Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Anne Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md
+
+- **Ana Santos ≈ Diana Santos** (similarity 0.90)
+  - `[[Ana Santos]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+  - `[[Diana Santos]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Materialities of Literature (MATLIT).md
+
+- **Ally H. Young ≈ Sally Young** (similarity 0.90)
+  - `[[Ally H. Young]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Sally Young]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **Alan Craig ≈ Kalani Craig** (similarity 0.90)
+  - `[[Alan Craig]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Kalani Craig]]` — 4 use(s) in 4 file(s), e.g. Organizations/DH Now.md, Organizations/Reviews in DH Team.md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+
+- **Abe Abraham ≈ Ben Abraham** (similarity 0.90)
+  - `[[Abe Abraham]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Ben Abraham]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - I <3 E-Poetry.md
+
+- **Shana MacDonald ≈ Sharon Macdonald** (similarity 0.90)
+  - `[[Shana MacDonald]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Sharon Macdonald]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
+
+- **Sandra Rodriguez ≈ Sandy Rodriguez** (similarity 0.90)
+  - `[[Sandra Rodriguez]]` — 1 use(s) in 1 file(s), e.g. Awards/Prix Ars Electronica - Golden Nica Winners.md
+  - `[[Sandy Rodriguez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
+
+- **Ramin Rahnamoun ≈ Romina Rahnamoun** (similarity 0.90)
+  - `[[Ramin Rahnamoun]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Romina Rahnamoun]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Michael Shumate ≈ Michelle Shumate** (similarity 0.90)
+  - `[[Michael Shumate]]` — 8 use(s) in 6 file(s), e.g. Archives/Direct. - Eastgate.md, Archives/Hypertext Studios/Directory - Hyperizons.md, Publications - Academic/Solo Journals/Journ. - Computer-Mediated Communication.md
+  - `[[Michelle Shumate]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Michael L. Nelson ≈ Michelle R. Nelson** (similarity 0.90)
+  - `[[Michael L. Nelson]]` — 9 use(s) in 5 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md, Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md, Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+  - `[[Michelle R. Nelson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Les Hutchinson ≈ Leslie Hutchinson** (similarity 0.90)
+  - `[[Les Hutchinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+  - `[[Leslie Hutchinson]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Laura Goldstein ≈ Lauren Goldstein** (similarity 0.90)
+  - `[[Laura Goldstein]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/Jacket2.md, Conferences/ELO Conferences/ELO Conference 2010.md
+  - `[[Lauren Goldstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/The New River 2007-2017.md
+
+- **Ken Sutherland ≈ Keston Sutherland** (similarity 0.90)
+  - `[[Ken Sutherland]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Keston Sutherland]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md, Conferences/E-Poetry/E-Poetry 2005 London.md
+
+- **Keiko Nishimura ≈ Yukiko Nishimura** (similarity 0.90)
+  - `[[Keiko Nishimura]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
+  - `[[Yukiko Nishimura]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Jeremy W. Morris ≈ Jeremy Wade Morris** (similarity 0.90)
+  - `[[Jeremy W. Morris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Jeremy Wade Morris]]` — 4 use(s) in 3 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Solo Journals/Journ. - Computational Culture.md
+
+- **James Hutchinson ≈ Jane Hutchinson** (similarity 0.90)
+  - `[[James Hutchinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2005-2015.md
+  - `[[Jane Hutchinson]]` — 13 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Fanny A. Ramirez ≈ Fanny Anne Ramirez** (similarity 0.90)
+  - `[[Fanny A. Ramirez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Fanny Anne Ramirez]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Cele Richardson ≈ Helen Richardson** (similarity 0.90)
+  - `[[Cele Richardson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Helen Richardson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+
+- **CHARLIE EDWARDS ≈ Caroline Edwards** (similarity 0.90)
+  - `[[CHARLIE EDWARDS]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - Debates in Digital Humanities.md
+  - `[[Caroline Edwards]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
+
+- **Bill Williamson ≈ Milly Williamson** (similarity 0.90)
+  - `[[Bill Williamson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+  - `[[Milly Williamson]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Robot Review of Books.md
+
+- **Andrea Phillips ≈ Xandria Phillips** (similarity 0.90)
+  - `[[Andrea Phillips]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/The New River 2018- present.md
+  - `[[Xandria Phillips]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/midst.md
+
+- **Ana Richardson ≈ Ranald Richardson** (similarity 0.90)
+  - `[[Ana Richardson]]` — 6 use(s) in 2 file(s), e.g. Archives/Répertoire NT2 - 1950s-1995.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Ranald Richardson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+
+### <90%
+
+
+- **Chelsea P. Butkowski ≈ Chelsea Paige Butkowski** (similarity 0.89)
+  - `[[Chelsea P. Butkowski]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Chelsea Paige Butkowski]]` — 5 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Yue Huang ≈ Yujie Huang** (similarity 0.89)
+  - `[[Yue Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+  - `[[Yujie Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Yu-Tung Liu ≈ Yuting Liu** (similarity 0.89)
+  - `[[Yu-Tung Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Yuting Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Yu Xu ≈ Yue Xu** (similarity 0.89)
+  - `[[Yu Xu]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yue Xu]]` — 2 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+
+- **Ying Yang ≈ Yuting Yang** (similarity 0.89)
+  - `[[Ying Yang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Yuting Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Yinan Wang ≈ Yiran Wang** (similarity 0.89)
+  - `[[Yinan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yiran Wang]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+
+- **Yin Zhang ≈ Yuxin Zhang** (similarity 0.89)
+  - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Yuxin Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Yin Zhang ≈ Yiyan Zhang** (similarity 0.89)
+  - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Yiyan Zhang]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Yilin Zhang ≈ Yin Zhang** (similarity 0.89)
+  - `[[Yilin Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Yilan Wang ≈ Yiran Wang** (similarity 0.89)
+  - `[[Yilan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Yiran Wang]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+
+- **Yilan Wang ≈ Yinan Wang** (similarity 0.89)
+  - `[[Yilan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Yinan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Yifan Wang ≈ Yiran Wang** (similarity 0.89)
+  - `[[Yifan Wang]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/E-Flux Index.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yiran Wang]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+
+- **Yifan Wang ≈ Yinan Wang** (similarity 0.89)
+  - `[[Yifan Wang]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/E-Flux Index.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yinan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Yifan Wang ≈ Yilan Wang** (similarity 0.89)
+  - `[[Yifan Wang]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/E-Flux Index.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yilan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Yifan Chen ≈ Yihan Chen** (similarity 0.89)
+  - `[[Yifan Chen]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+  - `[[Yihan Chen]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Yi-Ling Lin ≈ Yu-Ling Lin** (similarity 0.89)
+  - `[[Yi-Ling Lin]]` — 3 use(s) in 3 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md, Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md, Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Yu-Ling Lin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+
+- **Yi Li ≈ Yin Li** (similarity 0.89)
+  - `[[Yi Li]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Yin Li]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Yeo-Jin Kim ≈ YouJin Kim** (similarity 0.89)
+  - `[[Yeo-Jin Kim]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2000s Proceedings.md
+  - `[[YouJin Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Yan Zhang ≈ Yiyan Zhang** (similarity 0.89)
+  - `[[Yan Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yiyan Zhang]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Yadong Zhou ≈ Yang Zhou** (similarity 0.89)
+  - `[[Yadong Zhou]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+  - `[[Yang Zhou]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Ya-Ting Yang ≈ Ying Yang** (similarity 0.89)
+  - `[[Ya-Ting Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Ying Yang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Xuan Zhou ≈ Zixuan Zhou** (similarity 0.89)
+  - `[[Xuan Zhou]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md
+  - `[[Zixuan Zhou]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+
+- **Xuan Liang ≈ Yuan Liang** (similarity 0.89)
+  - `[[Xuan Liang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Yuan Liang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+
+- **Xiao Wang ≈ Xiaolu Wang** (similarity 0.89)
+  - `[[Xiao Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Xiaolu Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Cultural Analytics.md
+
+- **Wei Huang ≈ Wenyi Huang** (similarity 0.89)
+  - `[[Wei Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Wenyi Huang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+
+- **Ting Huang ≈ Ying Huang** (similarity 0.89)
+  - `[[Ting Huang]]` — 3 use(s) in 2 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Ying Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Soo Yeun Ahn ≈ Soyun Ahn** (similarity 0.89)
+  - `[[Soo Yeun Ahn]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[Soyun Ahn]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Robert Reynolds ≈ Roger Reynolds** (similarity 0.89)
+  - `[[Robert Reynolds]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - Feed.md
+  - `[[Roger Reynolds]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Richard D. James ≈ Richard J. E. James** (similarity 0.89)
+  - `[[Richard D. James]]` — 1 use(s) in 1 file(s), e.g. Awards/Prix Ars Electronica - Golden Nica Winners.md
+  - `[[Richard J. E. James]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Phill Alexander ≈ Will Alexander** (similarity 0.89)
+  - `[[Phill Alexander]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+  - `[[Will Alexander]]` — 3 use(s) in 3 file(s), e.g. Anthologies/The Body in Language.md, Publications - Academic/Presses/Press - Duration Press.md, Publications - Lit Mags/Jacket2.md
+
+- **Phil Shaw ≈ Philip Shaw** (similarity 0.89)
+  - `[[Phil Shaw]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Philip Shaw]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+
+- **O. Pasitselska ≈ Olga Pasitselska** (similarity 0.89)
+  - `[[O. Pasitselska]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Olga Pasitselska]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Na Li ≈ Nan Li** (similarity 0.89)
+  - `[[Na Li]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Nan Li]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2000s.md
+
+- **Mizuko Ito ≈ Mizuku Ito** (similarity 0.89)
+  - `[[Mizuko Ito]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Mizuku Ito]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Electronic Book Review/EBR First Person.md
+
+- **Ming Zhang ≈ Xing Zhang** (similarity 0.89)
+  - `[[Ming Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Xing Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Min Zhang ≈ Muxin Zhang** (similarity 0.89)
+  - `[[Min Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Muxin Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Mick Smith ≈ Mike Smith** (similarity 0.89)
+  - `[[Mick Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - Posthumanities.md
+  - `[[Mike Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Michael Kelly ≈ Michaeleen Kelly** (similarity 0.89)
+  - `[[Michael Kelly]]` — 1 use(s) in 1 file(s), e.g. Archives/Cartografía Digital.md
+  - `[[Michaeleen Kelly]]` — 2 use(s) in 1 file(s), e.g. Organizations/New Centre for Research & Practice.md
+
+- **Michael Johnson ≈ Mikael Johnson** (similarity 0.89)
+  - `[[Michael Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Mikael Johnson]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Meng Jiang ≈ Ming Jiang** (similarity 0.89)
+  - `[[Meng Jiang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2025-'29.md
+  - `[[Ming Jiang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Matt Blomberg ≈ Matthew Blomberg** (similarity 0.89)
+  - `[[Matt Blomberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Matthew Blomberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Mark Van de Walle ≈ Rik Van de Walle** (similarity 0.89)
+  - `[[Mark Van de Walle]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - Feed.md
+  - `[[Rik Van de Walle]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+
+- **Mark Mills ≈ Mary Mills** (similarity 0.89)
+  - `[[Mark Mills]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+  - `[[Mary Mills]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **Mark Brown ≈ Mary Brown** (similarity 0.89)
+  - `[[Mark Brown]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Lit Mags/BeeHive.md
+  - `[[Mary Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
+
+- **Marisa González ≈ Marta Gonzalez** (similarity 0.89)
+  - `[[Marisa González]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Archives/Ciberia Project.md
+  - `[[Marta Gonzalez]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
+
+- **Maria Vega ≈ Marin Vega** (similarity 0.89)
+  - `[[Maria Vega]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Exhibitions/ELO 2023 Exhibit.md
+  - `[[Marin Vega]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Exhibitions/ELO 2023 Exhibit.md
+
+- **Maria Milosavljevic ≈ Marko Milosavljević** (similarity 0.89)
+  - `[[Maria Milosavljevic]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1995-1999.md
+  - `[[Marko Milosavljević]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Marc Mayer ≈ Mark Mayer** (similarity 0.89)
+  - `[[Marc Mayer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Mark Mayer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Marc Fernandez ≈ María Fernández** (similarity 0.89)
+  - `[[Marc Fernandez]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
+  - `[[María Fernández]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Marc Davis ≈ Mark Davis** (similarity 0.89)
+  - `[[Marc Davis]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+  - `[[Mark Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Mara Mills ≈ Mary Mills** (similarity 0.89)
+  - `[[Mara Mills]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md
+  - `[[Mary Mills]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **Mara Mills ≈ Mark Mills** (similarity 0.89)
+  - `[[Mara Mills]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md
+  - `[[Mark Mills]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **MIchael Murphy ≈ Michelle Murphy** (similarity 0.89)
+  - `[[MIchael Murphy]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+  - `[[Michelle Murphy]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Lisa M. Jones ≈ Sam Jones** (similarity 0.89)
+  - `[[Lisa M. Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Sam Jones]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+
+- **Ling Yang ≈ Liping Yang** (similarity 0.89)
+  - `[[Ling Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Liping Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - TextGenEd.md
+
+- **Ling Jiang ≈ Ming Jiang** (similarity 0.89)
+  - `[[Ling Jiang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ming Jiang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Lin Zhang ≈ Yilin Zhang** (similarity 0.89)
+  - `[[Lin Zhang]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Yilin Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Lifan Wang ≈ Yifan Wang** (similarity 0.89)
+  - `[[Lifan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Yifan Wang]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/E-Flux Index.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Lei Zhang ≈ Lemei Zhang** (similarity 0.89)
+  - `[[Lei Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Lemei Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Kyle Cunningham ≈ Kym Cunningham** (similarity 0.89)
+  - `[[Kyle Cunningham]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Kym Cunningham]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+
+- **Karen Adams ≈ Ken Adams** (similarity 0.89)
+  - `[[Karen Adams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Ken Adams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **Kang Zhang ≈ Yang Zhang** (similarity 0.89)
+  - `[[Kang Zhang]]` — 8 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Yang Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Julia R. DeCook ≈ Julia Rose DeCook** (similarity 0.89)
+  - `[[Julia R. DeCook]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Julia Rose DeCook]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Josh Williams ≈ Joshua L. Williams** (similarity 0.89)
+  - `[[Josh Williams]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2000s Proceedings.md
+  - `[[Joshua L. Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2021-present.md
+
+- **Joseph Wilson ≈ Josephine Wilson** (similarity 0.89)
+  - `[[Joseph Wilson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Josephine Wilson]]` — 1 use(s) in 1 file(s), e.g. Awards/trAce + Alt-X Hypertext Competitions.md
+
+- **Jonathan Gibson ≈ Nathan P. Gibson** (similarity 0.89)
+  - `[[Jonathan Gibson]]` — 2 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md
+  - `[[Nathan P. Gibson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - Debates in Digital Humanities.md
+
+- **John P. Davis ≈ Jon Davis** (similarity 0.89)
+  - `[[John P. Davis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2000s.md
+  - `[[Jon Davis]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
+
+- **John Lewis ≈ Josh Lewis** (similarity 0.89)
+  - `[[John Lewis]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Zine - Choicebeat.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Josh Lewis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - I <3 E-Poetry.md
+
+- **Jinsook Kim ≈ Jisoo Kim** (similarity 0.89)
+  - `[[Jinsook Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Jisoo Kim]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Jing Wang ≈ Yijing Wang** (similarity 0.89)
+  - `[[Jing Wang]]` — 6 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yijing Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Jing Meng ≈ Jingbo Meng** (similarity 0.89)
+  - `[[Jing Meng]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Jingbo Meng]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Jing Jiang ≈ Ming Jiang** (similarity 0.89)
+  - `[[Jing Jiang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Ming Jiang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Jing Jiang ≈ Ling Jiang** (similarity 0.89)
+  - `[[Jing Jiang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Ling Jiang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Jing Huang ≈ Ying Huang** (similarity 0.89)
+  - `[[Jing Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ying Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Jing Huang ≈ Ting Huang** (similarity 0.89)
+  - `[[Jing Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ting Huang]]` — 3 use(s) in 2 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Jim Martin ≈ Kim Martin** (similarity 0.89)
+  - `[[Jim Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Kim Martin]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Reviews in Digital Humanities.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/ELO Conferences/ELO Conference 2026.md
+
+- **Jim Bryant ≈ Tim Bryant** (similarity 0.89)
+  - `[[Jim Bryant]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
+  - `[[Tim Bryant]]` — 1 use(s) in 1 file(s), e.g. Conferences/Narrascope Program 2019-present.md
+
+- **Jilin Huang ≈ Jin Huang** (similarity 0.89)
+  - `[[Jilin Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Jin Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Jie Huang ≈ Yujie Huang** (similarity 0.89)
+  - `[[Jie Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Yujie Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Jianyu Fan ≈ Tian Yu Fan** (similarity 0.89)
+  - `[[Jianyu Fan]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Exhibitions/ELO 2016 Exhibit.md
+  - `[[Tian Yu Fan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
+
+- **Jia Zhang ≈ Yijia Zhang** (similarity 0.89)
+  - `[[Jia Zhang]]` — 1 use(s) in 1 file(s), e.g. Anthologies/OUTPUT.md
+  - `[[Yijia Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Ji-Hyun Lee ≈ Mi Hyun Lee** (similarity 0.89)
+  - `[[Ji-Hyun Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Mi Hyun Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Jessica E. Tompkins ≈ Jessica Ethel Tompkins** (similarity 0.89)
+  - `[[Jessica E. Tompkins]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Jessica Ethel Tompkins]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Jessica A. Robinson ≈ Jessica Yarin Robinson** (similarity 0.89)
+  - `[[Jessica A. Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Jessica Yarin Robinson]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Jason Vincent A. Cabanes ≈ Jason Vincent Aquino Cabañes** (similarity 0.89)
+  - `[[Jason Vincent A. Cabanes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Jason Vincent Aquino Cabañes]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Jason Patterson ≈ John Patterson** (similarity 0.89)
+  - `[[Jason Patterson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
+  - `[[John Patterson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Janae Phillips ≈ Joanna Phillips** (similarity 0.89)
+  - `[[Janae Phillips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Joanna Phillips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+
+- **James Webster ≈ jamieson webster** (similarity 0.89)
+  - `[[James Webster]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[jamieson webster]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+
+- **James W. Hamilton ≈ Jamie Hamilton** (similarity 0.89)
+  - `[[James W. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Jamie Hamilton]]` — 2 use(s) in 2 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md, Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **James T. Hamilton ≈ Jamie Hamilton** (similarity 0.89)
+  - `[[James T. Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Jamie Hamilton]]` — 2 use(s) in 2 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md, Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **James F. Hamilton ≈ Jamie Hamilton** (similarity 0.89)
+  - `[[James F. Hamilton]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Jamie Hamilton]]` — 2 use(s) in 2 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md, Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Ikko Kobayashi ≈ Keiko Kobayashi** (similarity 0.89)
+  - `[[Ikko Kobayashi]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+  - `[[Keiko Kobayashi]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Ian McLoughlin ≈ Liam McLoughlin** (similarity 0.89)
+  - `[[Ian McLoughlin]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Liam McLoughlin]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Ian Clark ≈ tiana clark** (similarity 0.89)
+  - `[[Ian Clark]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computer-Mediated Communication.md
+  - `[[tiana clark]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/code lit.md
+
+- **Ian C. Smith ≈ Ian E. Smith** (similarity 0.89)
+  - `[[Ian C. Smith]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/Del Sol Review (1998-2007).md, Conferences/E-Poetry/E-Poetry 2013 London-Kingston.md
+  - `[[Ian E. Smith]]` — 2 use(s) in 2 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1990-1994.md, Conferences/ACM/ACM Hypertext Proceedings 1995-1999.md
+
+- **Hyunjoo Lee ≈ Yunjo Lee** (similarity 0.89)
+  - `[[Hyunjoo Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Yunjo Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Hyejin Kim ≈ Yeo-Jin Kim** (similarity 0.89)
+  - `[[Hyejin Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yeo-Jin Kim]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2000s Proceedings.md
+
+- **Hye Min Kim ≈ Hyomin Kim** (similarity 0.89)
+  - `[[Hye Min Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Hyomin Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Hye Min Kim ≈ Hyejin Kim** (similarity 0.89)
+  - `[[Hye Min Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Hyejin Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Huaxin Wei ≈ Sha Xin Wei** (similarity 0.89)
+  - `[[Huaxin Wei]]` — 4 use(s) in 3 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md, Conferences/ICIDS/ICIDS 2010s Proceedings.md, Conferences/ICIDS/ICIDS 2000s Proceedings.md
+  - `[[Sha Xin Wei]]` — 2 use(s) in 2 file(s), e.g. Organizations/New Centre for Research & Practice.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Heyan Huang ≈ Yan Huang** (similarity 0.89)
+  - `[[Heyan Huang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Yan Huang]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Heng Yang ≈ Heng-Li Yang** (similarity 0.89)
+  - `[[Heng Yang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Heng-Li Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Hanyu Wang ≈ Haoyu Wang** (similarity 0.89)
+  - `[[Hanyu Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Haoyu Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Hang Yuan ≈ Yuhang Yuan** (similarity 0.89)
+  - `[[Hang Yuan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yuhang Yuan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Hae Jin Lee ≈ Hyejin Lee** (similarity 0.89)
+  - `[[Hae Jin Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Hyejin Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Gary Brown ≈ Mary Brown** (similarity 0.89)
+  - `[[Gary Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
+  - `[[Mary Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
+
+- **Eun Ji Park ≈ Eunil Park** (similarity 0.89)
+  - `[[Eun Ji Park]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+  - `[[Eunil Park]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Erik Smith ≈ Erin Smith** (similarity 0.89)
+  - `[[Erik Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Counterpath Press.md
+  - `[[Erin Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+
+- **Eric White ≈ Rich White** (similarity 0.89)
+  - `[[Eric White]]` — 1 use(s) in 1 file(s), e.g. People + Labs/WordHerder Collective.md
+  - `[[Rich White]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+
+- **E. Liu ≈ Ye Liu** (similarity 0.89)
+  - `[[E. Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Ye Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+
+- **E. Liu ≈ Ke Liu** (similarity 0.89)
+  - `[[E. Liu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Ke Liu]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Dong Zhou ≈ Yadong Zhou** (similarity 0.89)
+  - `[[Dong Zhou]]` — 2 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+  - `[[Yadong Zhou]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md
+
+- **Diran Lyons ≈ Ian Lyons** (similarity 0.89)
+  - `[[Diran Lyons]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md
+  - `[[Ian Lyons]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Tekka + Tekkalogue.md
+
+- **Dina Chang ≈ Tina Chang** (similarity 0.89)
+  - `[[Dina Chang]]` — 2 use(s) in 2 file(s), e.g. Organizations/The Verse verse.md, Publications - Art Mags/Right Click Save.md
+  - `[[Tina Chang]]` — 2 use(s) in 2 file(s), e.g. Organizations/The Verse verse.md, Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Diego Cruz ≈ Diogo Cruz** (similarity 0.89)
+  - `[[Diego Cruz]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/Editorial Badosa EP.md
+  - `[[Diogo Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2023.md
+
+- **Daniel Reynolds ≈ Diane Reynolds** (similarity 0.89)
+  - `[[Daniel Reynolds]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md
+  - `[[Diane Reynolds]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2010s.md
+
+- **Dan Harris ≈ Ian Harris** (similarity 0.89)
+  - `[[Dan Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+  - `[[Ian Harris]]` — 2 use(s) in 2 file(s), e.g. Archives/Répertoire NT2 - 2007-2022.md, Publications - Lit Mags/DIAGRAM 1-10.md
+
+- **Dan Graham ≈ Ian Graham** (similarity 0.89)
+  - `[[Dan Graham]]` — 2 use(s) in 2 file(s), e.g. Anthologies/Media Art Net.md, Archives/Living Media Art (Li-ma).md
+  - `[[Ian Graham]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Daeho Kim ≈ Daehoon Kim** (similarity 0.89)
+  - `[[Daeho Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Daehoon Kim]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+
+- **D. A. Powell ≈ Dave Powell** (similarity 0.89)
+  - `[[D. A. Powell]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Electronic Poetry Review.md
+  - `[[Dave Powell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Caroline Fisher ≈ Carolyn Fisher** (similarity 0.89)
+  - `[[Caroline Fisher]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Carolyn Fisher]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+
+- **Brian Dixon ≈ Ian Dixon** (similarity 0.89)
+  - `[[Brian Dixon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md
+  - `[[Ian Dixon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Brad Gallagher ≈ Brian Gallagher** (similarity 0.89)
+  - `[[Brad Gallagher]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md, Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+  - `[[Brian Gallagher]]` — 1 use(s) in 1 file(s), e.g. Awards/Opening Up Digital Fictions Prize.md
+
+- **Ben Williamson ≈ Beth Williamson** (similarity 0.89)
+  - `[[Ben Williamson]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Beth Williamson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Book 2.0 2011-2020.md
+
+- **Ben Miller ≈ Ken Miller** (similarity 0.89)
+  - `[[Ben Miller]]` — 4 use(s) in 4 file(s), e.g. Organizations/New Centre for Research & Practice.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Lit Mags/Dead Alive Magazine and Press.md
+  - `[[Ken Miller]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+
+- **Aziel Ferguson ≈ Jamie L. Ferguson** (similarity 0.89)
+  - `[[Aziel Ferguson]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+  - `[[Jamie L. Ferguson]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+
+- **Audri Phillips ≈ Laurie Phillips** (similarity 0.89)
+  - `[[Audri Phillips]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Laurie Phillips]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Ash Watson ≈ Shy Watson** (similarity 0.89)
+  - `[[Ash Watson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Shy Watson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Tagvverk.md
+
+- **Arpita Bhattacharya ≈ Jayita Bhattacharya** (similarity 0.89)
+  - `[[Arpita Bhattacharya]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Jayita Bhattacharya]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Ghost Proposal.md
+
+- **Apryl A. Williams ≈ Cayla Williams** (similarity 0.89)
+  - `[[Apryl A. Williams]]` — 5 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Cayla Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Anne Scott ≈ Jane Scott** (similarity 0.89)
+  - `[[Anne Scott]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[Jane Scott]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
+
+- **Anjie Reynolds ≈ Daniel Reynolds** (similarity 0.89)
+  - `[[Anjie Reynolds]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+  - `[[Daniel Reynolds]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2010s.md
+
+- **Anja Meyer ≈ Dana Meyer** (similarity 0.89)
+  - `[[Anja Meyer]]` — 1 use(s) in 1 file(s), e.g. Organizations/Empirical Study of Literature Training Network.md
+  - `[[Dana Meyer]]` — 2 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+
+- **Ana Maria Rodriguez ≈ Reina María Rodríguez** (similarity 0.89)
+  - `[[Ana Maria Rodriguez]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Media Art Net.md
+  - `[[Reina María Rodríguez]]` — 2 use(s) in 2 file(s), e.g. Archives/Electronic Poetry Center Author Pages.md, Conferences/E-Poetry/E-Poetry 2011 Buffalo.md
+
+- **Ana Gutierrez ≈ Sandra Gutiérrez** (similarity 0.89)
+  - `[[Ana Gutierrez]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+  - `[[Sandra Gutiérrez]]` — 1 use(s) in 1 file(s), e.g. People + Labs/TROPOS - LEETHI.md
+
+- **Ana Gutierrez ≈ Andrea Gutierrez** (similarity 0.89)
+  - `[[Ana Gutierrez]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+  - `[[Andrea Gutierrez]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Drunken Boat.md
+
+- **An Jacobs ≈ Sean Jacobs** (similarity 0.89)
+  - `[[An Jacobs]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Sean Jacobs]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **Amy Walton ≈ Sam Walton** (similarity 0.89)
+  - `[[Amy Walton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+  - `[[Sam Walton]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Amy L. Gonzales ≈ Amy Lisa Gonzales** (similarity 0.89)
+  - `[[Amy L. Gonzales]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Amy Lisa Gonzales]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Alana Williams ≈ Amanda Williams** (similarity 0.89)
+  - `[[Alana Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Bunk Magazine.md
+  - `[[Amanda Williams]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Critical Making.md
+
+- **Alan Scott ≈ Ayla Scott** (similarity 0.89)
+  - `[[Alan Scott]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[Ayla Scott]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
+
+- **A. L. Thomas ≈ Neal Thomas** (similarity 0.89)
+  - `[[A. L. Thomas]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Neal Thomas]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Culture Machine.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+
+- **Nicholas D. Bowman ≈ Nicholas David Bowman** (similarity 0.88)
+  - `[[Nicholas D. Bowman]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Nicholas David Bowman]]` — 11 use(s) in 6 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Michael W. Kearney ≈ Michael Wayne Kearney** (similarity 0.88)
+  - `[[Michael W. Kearney]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Michael Wayne Kearney]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Katherine Brewer Ball ≈ Katie Brewer Ball** (similarity 0.88)
+  - `[[Katherine Brewer Ball]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
+  - `[[Katie Brewer Ball]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md, Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md
+
+- **Evando Nascimento ≈ Fernando Nascimento** (similarity 0.88)
+  - `[[Evando Nascimento]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Culture Machine.md
+  - `[[Fernando Nascimento]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+
+- **Arrianna M. Planey ≈ Arrianna Marie Planey** (similarity 0.88)
+  - `[[Arrianna M. Planey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Arrianna Marie Planey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Aiden J. Kosciesza ≈ Aiden James Kosciesza** (similarity 0.88)
+  - `[[Aiden J. Kosciesza]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Aiden James Kosciesza]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Stephen Graham ≈ Steven Graham** (similarity 0.88)
+  - `[[Stephen Graham]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Culture.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Steven Graham]]` — 1 use(s) in 1 file(s), e.g. Conferences/Narrascope Program 2019-present.md
+
+- **Stephan Jones ≈ Stephen S. Jones** (similarity 0.88)
+  - `[[Stephan Jones]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
+  - `[[Stephen S. Jones]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Stefan Kramer ≈ Steffen Krämer** (similarity 0.88)
+  - `[[Stefan Kramer]]` — 2 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1995-1999.md
+  - `[[Steffen Krämer]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Sean O'Donnell ≈ Susan O'Donnell** (similarity 0.88)
+  - `[[Sean O'Donnell]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Susan O'Donnell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Sandra Álvarez ≈ Sara P. Alvarez** (similarity 0.88)
+  - `[[Sandra Álvarez]]` — 1 use(s) in 1 file(s), e.g. People + Labs/TROPOS - LEETHI.md
+  - `[[Sara P. Alvarez]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+
+- **Sal Humphreys ≈ Sara Humphreys** (similarity 0.88)
+  - `[[Sal Humphreys]]` — 4 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2006-2016.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Sara Humphreys]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+
+- **Riah Buchanan ≈ Sarah Buchanan** (similarity 0.88)
+  - `[[Riah Buchanan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md
+  - `[[Sarah Buchanan]]` — 2 use(s) in 2 file(s), e.g. Organizations/Ed. Board - DHQ.md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+
+- **Nye Thompson ≈ Sandye Thompson** (similarity 0.88)
+  - `[[Nye Thompson]]` — 2 use(s) in 2 file(s), e.g. Archives/Living Media Art (Li-ma).md, Awards/Lumen Prize.md
+  - `[[Sandye Thompson]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
+
+- **Mun-Young Chung ≈ Myojung Chung** (similarity 0.88)
+  - `[[Mun-Young Chung]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Myojung Chung]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Michael Kelly ≈ Michelle Kelly** (similarity 0.88)
+  - `[[Michael Kelly]]` — 1 use(s) in 1 file(s), e.g. Archives/Cartografía Digital.md
+  - `[[Michelle Kelly]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md
+
+- **Michael Green ≈ Michelle Green** (similarity 0.88)
+  - `[[Michael Green]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+  - `[[Michelle Green]]` — 1 use(s) in 1 file(s), e.g. Awards/New Media Writing Prize.md
+
+- **Megan McIntyre ≈ Sean McIntyre** (similarity 0.88)
+  - `[[Megan McIntyre]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md, Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
+  - `[[Sean McIntyre]]` — 1 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
+
+- **Matt Goerzen ≈ Matthew Goerzen** (similarity 0.88)
+  - `[[Matt Goerzen]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+  - `[[Matthew Goerzen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Mariah Stanley ≈ Sarah Stanley** (similarity 0.88)
+  - `[[Mariah Stanley]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Sarah Stanley]]` — 1 use(s) in 1 file(s), e.g. Conferences/Narrascope Program 2019-present.md
+
+- **Mara Williams ≈ Moira Williams** (similarity 0.88)
+  - `[[Mara Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
+  - `[[Moira Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
+
+- **Mara Williams ≈ Mark J. Williams** (similarity 0.88)
+  - `[[Mara Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ADA J'of Gender, New Media, Tech.md
+  - `[[Mark J. Williams]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Solo Journals/Journ. - Computational Humanities Research.md
+
+- **Lia Robinson ≈ Olivia Robinson** (similarity 0.88)
+  - `[[Lia Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Olivia Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Laura Dempsey ≈ Laurie Dempsey** (similarity 0.88)
+  - `[[Laura Dempsey]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+  - `[[Laurie Dempsey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+
+- **Laura Dempsey ≈ Lauren Dempsey** (similarity 0.88)
+  - `[[Laura Dempsey]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+  - `[[Lauren Dempsey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Kelly Cameron ≈ Kelsey Cameron** (similarity 0.88)
+  - `[[Kelly Cameron]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+  - `[[Kelsey Cameron]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Electronic Book Review/EBR Critical Ecologies.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md
+
+- **Kate Crawford ≈ Katya Crawford** (similarity 0.88)
+  - `[[Kate Crawford]]` — 7 use(s) in 6 file(s), e.g. Publications - Lit Mags/Robot Review of Books.md, Publications - Art Mags/Neural 2020 - 2030.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+  - `[[Katya Crawford]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Jonah Warren ≈ Jonathan Warren** (similarity 0.88)
+  - `[[Jonah Warren]]` — 1 use(s) in 1 file(s), e.g. Organizations/WordHack.md
+  - `[[Jonathan Warren]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Jon Williams ≈ Jordan Williams** (similarity 0.88)
+  - `[[Jon Williams]]` — 4 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1980s.md
+  - `[[Jordan Williams]]` — 2 use(s) in 1 file(s), e.g. Conferences/MIX Conferences/MIX Conferences 2010s.md
+
+- **Joesér Alvarez ≈ José O. Álvarez** (similarity 0.88)
+  - `[[Joesér Alvarez]]` — 2 use(s) in 2 file(s), e.g. Anthologies/Ctrl-S - Atlas of Brazilian Digital Literature.md, Archives/Rhizome Artbase.md
+  - `[[José O. Álvarez]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/Directory - Hipertulia.md
+
+- **Joe Gallagher ≈ Owen Gallagher** (similarity 0.88)
+  - `[[Joe Gallagher]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md, Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Owen Gallagher]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Blogs/Blog - Remix Theory.md, Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md
+
+- **Joanna Phillips ≈ Jon Phillips** (similarity 0.88)
+  - `[[Joanna Phillips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Jon Phillips]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Jeffrey Turner ≈ Jeremy Turner** (similarity 0.88)
+  - `[[Jeffrey Turner]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Jeremy Turner]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+
+- **Jeffrey Schulz ≈ Jeremy Schulz** (similarity 0.88)
+  - `[[Jeffrey Schulz]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Jeremy Schulz]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Jason Robinson ≈ John Robinson** (similarity 0.88)
+  - `[[Jason Robinson]]` — 1 use(s) in 1 file(s), e.g. Conferences/E-Poetry/E-Poetry 2007 Paris.md
+  - `[[John Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Jason Goodyear ≈ John Goodyear** (similarity 0.88)
+  - `[[Jason Goodyear]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[John Goodyear]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+
+- **James N. Gilmore ≈ Jason Gilmore** (similarity 0.88)
+  - `[[James N. Gilmore]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Jason Gilmore]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Jack McLaren ≈ Jackson McLaren** (similarity 0.88)
+  - `[[Jack McLaren]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - First Person Scholar -.md
+  - `[[Jackson McLaren]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Herminder Kaur ≈ Raminder Kaur** (similarity 0.88)
+  - `[[Herminder Kaur]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Raminder Kaur]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Hannah Johnson ≈ Zhana Johnson** (similarity 0.88)
+  - `[[Hannah Johnson]]` — 3 use(s) in 1 file(s), e.g. Publications - Art Mags/AI Art Magazine.md
+  - `[[Zhana Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Garry Crawford ≈ gray crawford** (similarity 0.88)
+  - `[[Garry Crawford]]` — 8 use(s) in 6 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (1998–2007).md
+  - `[[gray crawford]]` — 2 use(s) in 1 file(s), e.g. People + Labs/tiat salons.md
+
+- **Evan Williams ≈ Sean D. Williams** (similarity 0.88)
+  - `[[Evan Williams]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Sean D. Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+
+- **Evan Williams ≈ Kevin Williams** (similarity 0.88)
+  - `[[Evan Williams]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Kevin Williams]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+
+- **Eric Anderson ≈ Erin R. Anderson** (similarity 0.88)
+  - `[[Eric Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Erin R. Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+
+- **Emily Anderson ≈ Neil Anderson** (similarity 0.88)
+  - `[[Emily Anderson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Neil Anderson]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md, Awards/Prix Ars Electronica - Golden Nica Winners.md
+
+- **Eliza Chandler ≈ Lisa Chandler** (similarity 0.88)
+  - `[[Eliza Chandler]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Lisa Chandler]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Elise Holland ≈ Melisa Holland** (similarity 0.88)
+  - `[[Elise Holland]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Melisa Holland]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **E. G. Cunningham ≈ Rev Cunningham** (similarity 0.88)
+  - `[[E. G. Cunningham]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
+  - `[[Rev Cunningham]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computer-Mediated Communication.md
+
+- **Duriel E. Harris ≈ Muriel Harris** (similarity 0.88)
+  - `[[Duriel E. Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+  - `[[Muriel Harris]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 1980s.md
+
+- **Diane Williams ≈ Jane Williams** (similarity 0.88)
+  - `[[Diane Williams]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Del Sol Review (1998-2007).md
+  - `[[Jane Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md
+
+- **Devin T. Johnson ≈ Evan T. Johnson** (similarity 0.88)
+  - `[[Devin T. Johnson]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Evan T. Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Della Davidson ≈ Elsa Davidson** (similarity 0.88)
+  - `[[Della Davidson]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Elsa Davidson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - Feed.md
+
+- **Daniel Simmons ≈ Diane Simmons** (similarity 0.88)
+  - `[[Daniel Simmons]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+  - `[[Diane Simmons]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Daniel Johnson ≈ Nigel Johnson** (similarity 0.88)
+  - `[[Daniel Johnson]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Nigel Johnson]]` — 4 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **Daniel Gorelick ≈ dan gorelick** (similarity 0.88)
+  - `[[Daniel Gorelick]]` — 1 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
+  - `[[dan gorelick]]` — 2 use(s) in 1 file(s), e.g. People + Labs/tiat salons.md
+
+- **Dan O'Sullivan ≈ Sean O'Sullivan** (similarity 0.88)
+  - `[[Dan O'Sullivan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Sean O'Sullivan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Electronic Book Review/EBR First Person.md
+
+- **Dale Williams ≈ Diane Williams** (similarity 0.88)
+  - `[[Dale Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Dead Alive Magazine and Press.md
+  - `[[Diane Williams]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Del Sol Review (1998-2007).md
+
+- **Clark Callahan ≈ Mark Callahan** (similarity 0.88)
+  - `[[Clark Callahan]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Mark Callahan]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+
+- **Cayla Williams ≈ Clay Williams** (similarity 0.88)
+  - `[[Cayla Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Clay Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md
+
+- **C. Dianne Martin ≈ Diane K. Martin** (similarity 0.88)
+  - `[[C. Dianne Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md
+  - `[[Diane K. Martin]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+
+- **Brian Johnson ≈ Britta Johnson** (similarity 0.88)
+  - `[[Brian Johnson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md, Publications - Lit Mags/Drunken Boat 2000-2012.md
+  - `[[Britta Johnson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Brent MacGregor ≈ R. N. MacGregor** (similarity 0.88)
+  - `[[Brent MacGregor]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md, Publications - Academic/Decades Journals/Journ. - Convergence 1995-2005.md
+  - `[[R. N. MacGregor]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md
+
+- **Brandon Harris ≈ Brian D. Harris** (similarity 0.88)
+  - `[[Brandon Harris]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Brian D. Harris]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Ashley Carter ≈ Shelley Carter** (similarity 0.88)
+  - `[[Ashley Carter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Shelley Carter]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 1990s.md
+
+- **Arne Campbell ≈ Lance Campbell** (similarity 0.88)
+  - `[[Arne Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Game Studies 2020s.md
+  - `[[Lance Campbell]]` — 1 use(s) in 1 file(s), e.g. Organizations/Interactive Fiction Tech Foundation.md
+
+- **Annie Johnson ≈ Leanne Johnson** (similarity 0.88)
+  - `[[Annie Johnson]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+  - `[[Leanne Johnson]]` — 2 use(s) in 2 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2022.md, Conferences/ELO Conferences/ELO Conference 2019.md
+
+- **Annie Johnson ≈ Daniel Johnson** (similarity 0.88)
+  - `[[Annie Johnson]]` — 1 use(s) in 1 file(s), e.g. Organizations/DH Now.md
+  - `[[Daniel Johnson]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md, Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Anne Gilbert ≈ Annette Gilbert** (similarity 0.88)
+  - `[[Anne Gilbert]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md, Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+  - `[[Annette Gilbert]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural 2020 - 2030.md
+
+- **Anne Alexander ≈ Ian Alexander** (similarity 0.88)
+  - `[[Anne Alexander]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed Newspaper.md
+  - `[[Ian Alexander]]` — 1 use(s) in 1 file(s), e.g. People + Labs/Media Archaeology Lab.md
+
+- **Anna Jacobson ≈ Jenna Jacobson** (similarity 0.88)
+  - `[[Anna Jacobson]]` — 1 use(s) in 1 file(s), e.g. Awards/Woollahra Digital Literary Award.md
+  - `[[Jenna Jacobson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Ann Hamilton ≈ Hannah Hamilton** (similarity 0.88)
+  - `[[Ann Hamilton]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - ASAP-journal (Arts of the Present).md
+  - `[[Hannah Hamilton]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Anita Coleman ≈ Renita Coleman** (similarity 0.88)
+  - `[[Anita Coleman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+  - `[[Renita Coleman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Aneka Williams ≈ Jane Williams** (similarity 0.88)
+  - `[[Aneka Williams]]` — 2 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md
+  - `[[Jane Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md
+
+- **Andy Campbell ≈ Iain D. Campbell** (similarity 0.88)
+  - `[[Andy Campbell]]` — 34 use(s) in 26 file(s), e.g. Publications - Lit Mags/The New River 2007-2017.md, Anthologies/ELC 4.md, Conferences/ELO Conferences/ELO Conference 2019.md
+  - `[[Iain D. Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **André Blessing ≈ Anke Blessing** (similarity 0.88)
+  - `[[André Blessing]]` — 2 use(s) in 1 file(s), e.g. Conferences/ELO Conferences/ELO Conference 2021.md
+  - `[[Anke Blessing]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+
+- **Andrea Nelson ≈ Andrew J. Nelson** (similarity 0.88)
+  - `[[Andrea Nelson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+  - `[[Andrew J. Nelson]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Andrea L. Guzman ≈ Andres Guzman** (similarity 0.88)
+  - `[[Andrea L. Guzman]]` — 7 use(s) in 4 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Andres Guzman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Amie Zimmerman ≈ Amy Zimmerman** (similarity 0.88)
+  - `[[Amie Zimmerman]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+  - `[[Amy Zimmerman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2010s.md
+
+- **Alondra Nelson ≈ Andrea Nelson** (similarity 0.88)
+  - `[[Alondra Nelson]]` — 4 use(s) in 3 file(s), e.g. Organizations/HASTAC Leadership.md, Organizations/FemTechNet Advisory Board.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 1990s.md
+  - `[[Andrea Nelson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2000-2012.md
+
+- **Alex Campbell ≈ Alyse Campbell** (similarity 0.88)
+  - `[[Alex Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Alyse Campbell]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Alan McDonald ≈ Paula McDonald** (similarity 0.88)
+  - `[[Alan McDonald]]` — 1 use(s) in 1 file(s), e.g. Organizations/trAce. Online Writing Centre (95-05).md
+  - `[[Paula McDonald]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Alan McDonald ≈ Anna N. McDonald** (similarity 0.88)
+  - `[[Alan McDonald]]` — 1 use(s) in 1 file(s), e.g. Organizations/trAce. Online Writing Centre (95-05).md
+  - `[[Anna N. McDonald]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
+
+- **Alan E. Williams ≈ Jane Williams** (similarity 0.88)
+  - `[[Alan E. Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Jane Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 89-98.md
+
+- **Alan E. Williams ≈ Dale Williams** (similarity 0.88)
+  - `[[Alan E. Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Dale Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Dead Alive Magazine and Press.md
+
+- **Adele Goldberg ≈ Alex Goldberg** (similarity 0.88)
+  - `[[Adele Goldberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - New Media Reader.md
+  - `[[Alex Goldberg]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Bunk Magazine.md
+
+- **Adam Silverman ≈ Amy Silverman** (similarity 0.88)
+  - `[[Adam Silverman]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Empty Set Magazine.md
+  - `[[Amy Silverman]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Adam Davidson ≈ Anna M. Davidson** (similarity 0.88)
+  - `[[Adam Davidson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Blogs/Blog - Feed.md
+  - `[[Anna M. Davidson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Silvia X. Montaña-Niño ≈ Sílvia Ximena Montaña-Niño** (similarity 0.88)
+  - `[[Silvia X. Montaña-Niño]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Sílvia Ximena Montaña-Niño]]` — 4 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Christian P. Hoffmann ≈ Christian Pieter Hoffmann** (similarity 0.88)
+  - `[[Christian P. Hoffmann]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Christian Pieter Hoffmann]]` — 11 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Conferences/AoIR Selected Papers (SPIR) (2011-2017).md
+
+- **Zhou Yang ≈ Zhuo Yang** (similarity 0.88)
+  - `[[Zhou Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Zhuo Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+
+- **Yue Zhao ≈ Yupei Zhao** (similarity 0.88)
+  - `[[Yue Zhao]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+  - `[[Yupei Zhao]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Yue Zhao ≈ Yunze Zhao** (similarity 0.88)
+  - `[[Yue Zhao]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+  - `[[Yunze Zhao]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Yue Huang ≈ Yun Huang** (similarity 0.88)
+  - `[[Yue Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+  - `[[Yun Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Yiru Zhang ≈ Yu Zhang** (similarity 0.88)
+  - `[[Yiru Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Yu Zhang]]` — 1 use(s) in 1 file(s), e.g. Organizations/The Hmm.md
+
+- **Yi Zhang ≈ Yiru Zhang** (similarity 0.88)
+  - `[[Yi Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+  - `[[Yiru Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+
+- **Yi Zhang ≈ Yini Zhang** (similarity 0.88)
+  - `[[Yi Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+  - `[[Yini Zhang]]` — 5 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Yang Zhou ≈ Yuan Zhou** (similarity 0.88)
+  - `[[Yang Zhou]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yuan Zhou]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+
+- **Yang Wang ≈ Yuan Wang** (similarity 0.88)
+  - `[[Yang Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yuan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Yan Zhang ≈ Yin Zhang** (similarity 0.88)
+  - `[[Yan Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Yan Yuan ≈ Yifan Yuan** (similarity 0.88)
+  - `[[Yan Yuan]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Yifan Yuan]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Game Poems.md
+
+- **Yan Wang ≈ Yiran Wang** (similarity 0.88)
+  - `[[Yan Wang]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yiran Wang]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+
+- **Yan Wang ≈ Yinan Wang** (similarity 0.88)
+  - `[[Yan Wang]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yinan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Yan Wang ≈ Yilan Wang** (similarity 0.88)
+  - `[[Yan Wang]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yilan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Yan Wang ≈ Yifan Wang** (similarity 0.88)
+  - `[[Yan Wang]]` — 3 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yifan Wang]]` — 2 use(s) in 2 file(s), e.g. Publications - Art Mags/E-Flux Index.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Yan Huang ≈ Yun Huang** (similarity 0.88)
+  - `[[Yan Huang]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yun Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+
+- **Yan Chen ≈ Yihan Chen** (similarity 0.88)
+  - `[[Yan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yihan Chen]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Yan Chen ≈ Yifan Chen** (similarity 0.88)
+  - `[[Yan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yifan Chen]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+
+- **Yakun Chen ≈ Yan Chen** (similarity 0.88)
+  - `[[Yakun Chen]]` — 2 use(s) in 2 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md, Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Yan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Xuan Zhou ≈ Yuan Zhou** (similarity 0.88)
+  - `[[Xuan Zhou]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md
+  - `[[Yuan Zhou]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+
+- **Xuan Wang ≈ Yuan Wang** (similarity 0.88)
+  - `[[Xuan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+  - `[[Yuan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Xiao You ≈ Xiaoye You** (similarity 0.88)
+  - `[[Xiao You]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+  - `[[Xiaoye You]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md
+
+- **Wei Wang ≈ Weili Wang** (similarity 0.88)
+  - `[[Wei Wang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Weili Wang]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Sue Huang ≈ Yue Huang** (similarity 0.88)
+  - `[[Sue Huang]]` — 3 use(s) in 3 file(s), e.g. Organizations/New Media Caucus Membership.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md
+  - `[[Yue Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md
+
+- **Su Holmes ≈ Sy Holmes** (similarity 0.88)
+  - `[[Su Holmes]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Sy Holmes]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/The New River 2018- present.md
+
+- **Siyu Zhang ≈ Yu Zhang** (similarity 0.88)
+  - `[[Siyu Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2020-'24.md
+  - `[[Yu Zhang]]` — 1 use(s) in 1 file(s), e.g. Organizations/The Hmm.md
+
+- **Sara K. Day ≈ Sarah Day** (similarity 0.88)
+  - `[[Sara K. Day]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Fandom Studies 2012-2020.md
+  - `[[Sarah Day]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - International Journal of Creative Media Research.md
+
+- **Samuel I. Cabbuag ≈ Samuel Idris Cabbuag** (similarity 0.88)
+  - `[[Samuel I. Cabbuag]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Samuel Idris Cabbuag]]` — 2 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Rong Wang ≈ Song Wang** (similarity 0.88)
+  - `[[Rong Wang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Song Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Rong Chen ≈ Zong Chen** (similarity 0.88)
+  - `[[Rong Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+  - `[[Zong Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Rang Wang ≈ Yang Wang** (similarity 0.88)
+  - `[[Rang Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yang Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Rang Wang ≈ Rong Wang** (similarity 0.88)
+  - `[[Rang Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Rong Wang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **R. Fisher ≈ Urs Fisher** (similarity 0.88)
+  - `[[R. Fisher]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md
+  - `[[Urs Fisher]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/On NFTs.md
+
+- **Qiyao Peng ≈ Yao Peng** (similarity 0.88)
+  - `[[Qiyao Peng]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yao Peng]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Drunken Boat 2012-2026.md
+
+- **Qing Yang ≈ Ying Yang** (similarity 0.88)
+  - `[[Qing Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Ying Yang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Noah Finkelstein ≈ Norman Finkelstein** (similarity 0.88)
+  - `[[Noah Finkelstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+  - `[[Norman Finkelstein]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
+
+- **Ning Ding ≈ Ying Ding** (similarity 0.88)
+  - `[[Ning Ding]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Ying Ding]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Nan Wang ≈ Yinan Wang** (similarity 0.88)
+  - `[[Nan Wang]]` — 1 use(s) in 1 file(s), e.g. Archives/Living Media Art (Li-ma).md
+  - `[[Yinan Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Ming Lei ≈ Yiming Lei** (similarity 0.88)
+  - `[[Ming Lei]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+  - `[[Yiming Lei]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Min Zhang ≈ Yin Zhang** (similarity 0.88)
+  - `[[Min Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Min Chen ≈ Yumin Chen** (similarity 0.88)
+  - `[[Min Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Yumin Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Masahiro Yamamoto ≈ Yasuhiro Yamamoto** (similarity 0.88)
+  - `[[Masahiro Yamamoto]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Yasuhiro Yamamoto]]` — 2 use(s) in 2 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2005-2009.md, Conferences/ACM/ACM Hypertext Proceedings 2000-2004.md
+
+- **Marilyn R. Rosenberg ≈ Martin Rosenberg** (similarity 0.88)
+  - `[[Marilyn R. Rosenberg]]` — 2 use(s) in 2 file(s), e.g. Archives/Ubuweb "Contemporary".md, Publications - Lit Mags/Speechless.md
+  - `[[Martin Rosenberg]]` — 2 use(s) in 2 file(s), e.g. Organizations/New Centre for Research & Practice.md, Publications - Academic/Electronic Book Review/EBR Writing post-Feminism.md
+
+- **Maria Way ≈ Maura Way** (similarity 0.88)
+  - `[[Maria Way]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 1990s.md
+  - `[[Maura Way]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+
+- **M. Graham ≈ Tim Graham** (similarity 0.88)
+  - `[[M. Graham]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Tim Graham]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Ling Yang ≈ Ying Yang** (similarity 0.88)
+  - `[[Ling Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Ying Yang]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Ling Yang ≈ Qing Yang** (similarity 0.88)
+  - `[[Ling Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Qing Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+
+- **Lin Zhang ≈ Yin Zhang** (similarity 0.88)
+  - `[[Lin Zhang]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Lin Zhang ≈ Min Zhang** (similarity 0.88)
+  - `[[Lin Zhang]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Min Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+
+- **Lin Zhang ≈ Lun Zhang** (similarity 0.88)
+  - `[[Lin Zhang]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+  - `[[Lun Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Li Zhang ≈ lily zhang** (similarity 0.88)
+  - `[[Li Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[lily zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Directory - niceinter.net.md
+
+- **Li Zhang ≈ Lina Zhang** (similarity 0.88)
+  - `[[Li Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Lina Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+
+- **Lei Zhang ≈ Lin Zhang** (similarity 0.88)
+  - `[[Lei Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+  - `[[Lin Zhang]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Lea Black ≈ Lia Black** (similarity 0.88)
+  - `[[Lea Black]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+  - `[[Lia Black]]` — 8 use(s) in 1 file(s), e.g. Publications - Academic/Podcasts/Podcast - First Person Scholar.md
+
+- **Lan Zhang ≈ Yan Zhang** (similarity 0.88)
+  - `[[Lan Zhang]]` — 3 use(s) in 3 file(s), e.g. Organizations/WordHack.md, Publications - Art Mags/LOGIC(S).md, Publications - Lit Mags/HTML Review.md
+  - `[[Yan Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Lan Zhang ≈ Lun Zhang** (similarity 0.88)
+  - `[[Lan Zhang]]` — 3 use(s) in 3 file(s), e.g. Organizations/WordHack.md, Publications - Art Mags/LOGIC(S).md, Publications - Lit Mags/HTML Review.md
+  - `[[Lun Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Lan Zhang ≈ Lin Zhang** (similarity 0.88)
+  - `[[Lan Zhang]]` — 3 use(s) in 3 file(s), e.g. Organizations/WordHack.md, Publications - Art Mags/LOGIC(S).md, Publications - Lit Mags/HTML Review.md
+  - `[[Lin Zhang]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Kun Yang ≈ Yukun Yang** (similarity 0.88)
+  - `[[Kun Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yukun Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Karin Armstrong ≈ Katharine Armstrong** (similarity 0.88)
+  - `[[Karin Armstrong]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Katharine Armstrong]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md
+
+- **Jun Zhang ≈ Lun Zhang** (similarity 0.88)
+  - `[[Jun Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+  - `[[Lun Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **John Bell ≈ Josh Bell** (similarity 0.88)
+  - `[[John Bell]]` — 5 use(s) in 5 file(s), e.g. Organizations/DH Now.md, Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Josh Bell]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md
+
+- **Joe Davis ≈ Jon Davis** (similarity 0.88)
+  - `[[Joe Davis]]` — 5 use(s) in 5 file(s), e.g. Anthologies/Media Art Net.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1990s.md, Archives/Répertoire NT2 - 2007-2022.md
+  - `[[Jon Davis]]` — 2 use(s) in 2 file(s), e.g. Publications - Lit Mags/DIAGRAM 11-20.md, Publications - Lit Mags/Drunken Boat 2012-2026.md
+
+- **Jin Zhang ≈ Yin Zhang** (similarity 0.88)
+  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/ELO Exhibitions/ELO 2015 Exhibit.md
+  - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Jin Zhang ≈ Min Zhang** (similarity 0.88)
+  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/ELO Exhibitions/ELO 2015 Exhibit.md
+  - `[[Min Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010-2014.md
+
+- **Jin Zhang ≈ Lin Zhang** (similarity 0.88)
+  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/ELO Exhibitions/ELO 2015 Exhibit.md
+  - `[[Lin Zhang]]` — 5 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2018-2027).md
+
+- **Jin Zhang ≈ Jun Zhang** (similarity 0.88)
+  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/ELO Exhibitions/ELO 2015 Exhibit.md
+  - `[[Jun Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+
+- **Jin Huang ≈ Xin Huang** (similarity 0.88)
+  - `[[Jin Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Xin Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Jieon Lee ≈ Jieun Lee** (similarity 0.88)
+  - `[[Jieon Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 19-28.md
+  - `[[Jieun Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Jie Wang ≈ Yijie Wang** (similarity 0.88)
+  - `[[Jie Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+  - `[[Yijie Wang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2010s Proceedings.md
+
+- **Jie Huang ≈ Jin Huang** (similarity 0.88)
+  - `[[Jie Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
+  - `[[Jin Huang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **Jian Lin ≈ Jovian Lin** (similarity 0.88)
+  - `[[Jian Lin]]` — 4 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Organizations/Ed. Board - Creator and Influencer Studies.md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Jovian Lin]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Jiahe Wang ≈ Jie Wang** (similarity 0.88)
+  - `[[Jiahe Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jie Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md
+
+- **Jia Zhang ≈ Jin Zhang** (similarity 0.88)
+  - `[[Jia Zhang]]` — 1 use(s) in 1 file(s), e.g. Anthologies/OUTPUT.md
+  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/ELO Exhibitions/ELO 2015 Exhibit.md
+
+- **Jay Chen ≈ Jiayi Chen** (similarity 0.88)
+  - `[[Jay Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Jiayi Chen]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Computational Humanities Research.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **J. Wagner ≈ Jed Wagner** (similarity 0.88)
+  - `[[J. Wagner]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 1-10.md
+  - `[[Jed Wagner]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+
+- **J. Curtis ≈ Jim Curtis** (similarity 0.88)
+  - `[[J. Curtis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 99-08.md
+  - `[[Jim Curtis]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Inhye Lee ≈ Jihye Lee** (similarity 0.88)
+  - `[[Inhye Lee]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Jihye Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+
+- **Ib T. Gulbrandsen ≈ Ib Tunby Gulbrandsen** (similarity 0.88)
+  - `[[Ib T. Gulbrandsen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ib Tunby Gulbrandsen]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2010s.md
+
+- **Ian Weber ≈ Ina Weber** (similarity 0.88)
+  - `[[Ian Weber]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2000s.md
+  - `[[Ina Weber]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Ian Smith ≈ Xan Smith** (similarity 0.88)
+  - `[[Ian Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
+  - `[[Xan Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Hyowon Lee ≈ Yoon Lee** (similarity 0.88)
+  - `[[Hyowon Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
+  - `[[Yoon Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Hongyu Wu ≈ Tongyu Wu** (similarity 0.88)
+  - `[[Hongyu Wu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Tongyu Wu]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Hao Wang ≈ Haoyu Wang** (similarity 0.88)
+  - `[[Hao Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Haoyu Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Han Chen ≈ Yihan Chen** (similarity 0.88)
+  - `[[Han Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md
+  - `[[Yihan Chen]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Ha Na Lee ≈ Hannah Lee** (similarity 0.88)
+  - `[[Ha Na Lee]]` — 2 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Hannah Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Fengqi Li ≈ Mengqi Li** (similarity 0.88)
+  - `[[Fengqi Li]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md
+  - `[[Mengqi Li]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Dig Humanities Quarterly Index.md, Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
+
+- **Fan Zhang ≈ Yan Zhang** (similarity 0.88)
+  - `[[Fan Zhang]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Yan Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Fan Zhang ≈ Lan Zhang** (similarity 0.88)
+  - `[[Fan Zhang]]` — 2 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2010s.md
+  - `[[Lan Zhang]]` — 3 use(s) in 3 file(s), e.g. Organizations/WordHack.md, Publications - Art Mags/LOGIC(S).md, Publications - Lit Mags/HTML Review.md
+
+- **Fan Chen ≈ Yifan Chen** (similarity 0.88)
+  - `[[Fan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Yifan Chen]]` — 1 use(s) in 1 file(s), e.g. Conferences/ICIDS/ICIDS 2020s Proceedings.md
+
+- **Eric Rice ≈ Rich Rice** (similarity 0.88)
+  - `[[Eric Rice]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Rich Rice]]` — 11 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Books/Ed. Coll. - TextGenEd.md
+
+- **E. Murray ≈ Lee Murray** (similarity 0.88)
+  - `[[E. Murray]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/Editorial Badosa EP.md
+  - `[[Lee Murray]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/Directory - Hyperizons.md
+
+- **Desmond U. Patton ≈ Desmond Upton Patton** (similarity 0.88)
+  - `[[Desmond U. Patton]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Desmond Upton Patton]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Dasol Kim ≈ Dasul Kim** (similarity 0.88)
+  - `[[Dasol Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Dasul Kim]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Publications - Lit Mags/Oral.pub.md
+
+- **Cheng Gao ≈ Zheng Gao** (similarity 0.88)
+  - `[[Cheng Gao]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[Zheng Gao]]` — 2 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2015-2019.md
+
+- **Chen Guo ≈ Yichen Guo** (similarity 0.88)
+  - `[[Chen Guo]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+  - `[[Yichen Guo]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
+
+- **Chan Chen ≈ Chao Chen** (similarity 0.88)
+  - `[[Chan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Chao Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+
+- **C. D. Wright ≈ W. D. Wright** (similarity 0.88)
+  - `[[C. D. Wright]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Rhizomes - Cultural Studies in Emerging Knowledge 2000s.md
+  - `[[W. D. Wright]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md, Publications - Academic/Decades Journals/Journ. - Leonardo 1968-1979.md
+
+- **Bing Wang ≈ Jing Wang** (similarity 0.88)
+  - `[[Bing Wang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Jing Wang]]` — 6 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Hypermedia 09-18.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Ané Murray ≈ E. Murray** (similarity 0.88)
+  - `[[Ané Murray]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[E. Murray]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/Editorial Badosa EP.md
+
+- **Ant Scott ≈ Ian Scott** (similarity 0.88)
+  - `[[Ant Scott]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 1993 - 2010.md
+  - `[[Ian Scott]]` — 1 use(s) in 1 file(s), e.g. People + Labs/Media Archaeology Lab.md
+
+- **Anfan Chen ≈ Fan Chen** (similarity 0.88)
+  - `[[Anfan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Fan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+
+- **Anfan Chen ≈ Ann Chen** (similarity 0.88)
+  - `[[Anfan Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md
+  - `[[Ann Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
+
+- **Ali Black ≈ Lia Black** (similarity 0.88)
+  - `[[Ali Black]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Lia Black]]` — 8 use(s) in 1 file(s), e.g. Publications - Academic/Podcasts/Podcast - First Person Scholar.md
+
+- **AM White ≈ Adam White** (similarity 0.88)
+  - `[[AM White]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Tagvverk.md
+  - `[[Adam White]]` — 1 use(s) in 1 file(s), e.g. Archives/Collected Writings of William K Gillespie and friends.md
+
+- **AE Smith ≈ Nate Smith** (similarity 0.88)
+  - `[[AE Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
+  - `[[Nate Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+
+- **AE Smith ≈ Ian E. Smith** (similarity 0.88)
+  - `[[AE Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
+  - `[[Ian E. Smith]]` — 2 use(s) in 2 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1990-1994.md, Conferences/ACM/ACM Hypertext Proceedings 1995-1999.md
+
+- **AE Smith ≈ Dale Smith** (similarity 0.88)
+  - `[[AE Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/LitNet - South Africa.md
+  - `[[Dale Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
+
+- **A. Andreas ≈ G. Andreas** (similarity 0.88)
+  - `[[A. Andreas]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2005-2015.md, Archives/Rhizome Artbase.md
+  - `[[G. Andreas]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 1980s.md
+
+- **Jessica Anne Robinson ≈ Jessica Yarin Robinson** (similarity 0.87)
+  - `[[Jessica Anne Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/DIAGRAM 21-30.md
+  - `[[Jessica Yarin Robinson]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Conferences/AoIR Selected Papers (SPIR) (2018 - 2027).md
+
+- **Christine B. Williams ≈ Miya Christine Williams** (similarity 0.87)
+  - `[[Christine B. Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
+  - `[[Miya Christine Williams]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Selected Papers (SPIR) (2011-2017).md

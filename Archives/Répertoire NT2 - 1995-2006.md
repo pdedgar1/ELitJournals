@@ -65,7 +65,7 @@ CELL Member : French-language E-lit
 | [[Mary-Kim Arnold]]                                      |
 | [[Beatriz Asenjo]]                                       |
 | [[Levi Asher]]                                           |
-| [[Rain Ashford]]                                         |
+| [[Rain Anne Ashford]]                                         |
 | [[Association Wikipen]]                                  |
 | [[Michael Atavar]]                                       |
 | [[Robert Atwell]]                                        |
@@ -162,7 +162,7 @@ CELL Member : French-language E-lit
 | [[Daniel Bressanutti]]                                   |
 | [[Sawad Brooks]]                                         |
 | [[Simon Brousseau]]                                      |
-| [[Richard Brown]]                                        |
+| [[Richard D. Brown]]                                        |
 | [[Christophe Bruno]]                                     |
 | [[Oni Buchanan]]                                         |
 | [[Tim Buckley]]                                          |

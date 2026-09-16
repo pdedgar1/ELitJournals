@@ -187,7 +187,7 @@
 [[Stephanie Dinkins]]
 [[Ryan Stearne]]
 [[Yufei Tian]] and [[Nanyun Peng]]
-[[Richard Lewei]]
+[[Richard Lewei huang]]
 [[Huang Zhao]] and [[Yufeng Zhao]]
 [[Jake Auchincloss]]
 [[WL]]

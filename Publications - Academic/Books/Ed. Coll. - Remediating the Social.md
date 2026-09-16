@@ -26,7 +26,7 @@
 |[[Johannes Heldén]]|
 |[[John Cayley and Daniel C. Howe]]|
 |[[Judd Morrissey and Mark Jeffery]]|
-|[[Leonardo L. Flores]]|
+|[[Leonardo Flores]]|
 |[[Loss Pequeño Glazier]]|
 |[[Mark Amerika]]|
 |[[Mez Breeze]]|

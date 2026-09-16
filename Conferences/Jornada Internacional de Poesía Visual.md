@@ -18,7 +18,7 @@
 
 - [[Alejandro Martinez]]
 - [[Leo Bazzurro]]
-- [[Franklin Valverde]]
+- [[Franklin Larrubia Valverde]]
 - [[Ornela Barisone]]
 
 ### MESA 3 — comunicações (sessão paralela) (8.11)
@@ -173,7 +173,7 @@
 - [[Claudio Mangifesta]]
 - [[Marie Kondrat]]
 - [[Anne Courtois]]
-- [[Carmen Garcia]]
+- [[Carmen Cardoso Garcia]]
 
 ### MESA 24 — Poesia e Outras Artes: Língua e Linguagem (11.11)
 
@@ -216,7 +216,7 @@
 
 - [[Alex Hamburger]]
 - [[Diego Sampaio Dias]]
-- [[Gabriel Kerhart]]
+- [[Gabriel Baldo Kerhart]]
 - [[Victor Scatolin Serra]]
 - [[Rita Balduino]]
 - [[Felipe Páros]]
@@ -240,7 +240,7 @@
 - [[Antonio Risério]]
 - [[Elson Fróes]]
 - [[Felipe Fortuna]]
-- [[Franklin Valverde]]
+- [[Franklin Larrubia Valverde]]
 - [[Gabriela Marcondes]]
 - [[Gastão Debreix]]
 - [[Gil Jorge]]
@@ -253,7 +253,7 @@
 
 ### Lançamentos de Livros (13.11)
 
-- [[Franklin Valverde]]
+- [[Franklin Larrubia Valverde]]
 - [[Luiz Weesman]]
 - [[Roberto Keppler]]
 - [[Sylvia Amélia]]
@@ -349,7 +349,7 @@
 - [[Leonello Bazurro]]
 - [[Juan García Hernández]]
 - [[Rodolfo Mata]]
-- [[Franklin Valverde]]
+- [[Franklin Larrubia Valverde]]
 
 ### Comunicação nº 07 – 28.11
 
@@ -400,7 +400,7 @@
 
 - [[Danny Bittencourt]]
 - [[Lucia Liberato]]
-- [[Rafael Passos]]
+- [[Rafael Ferreira de Aquino Passos]]
 - [[Júlio Mendonça]]
 
 ### Comunicação nº 12 – 29.11
@@ -408,7 +408,7 @@
 - [[Silvio de Gracia]]
 - [[Gabriela A. Irigoyen]]
 - [[Diego Sampaio]]
-- [[Franklin Valverde]]
+- [[Franklin Larrubia Valverde]]
 - [[Júlio Mendonça]]
 
 ### Comunicação nº 13 – 30.11
@@ -422,7 +422,7 @@
 
 - [[Laura M. Teixeira]]
 - [[João Reynaldo]]
-- [[Gabriel Kerhart]]
+- [[Gabriel Baldo Kerhart]]
 - [[Miguel de Ávila Duarte]]
 
 ### Conferência nº 04 – 30.11
@@ -464,7 +464,7 @@
 ### Comunicação nº 19 – 01.12
 
 - [[Sandra Guerreiro]]
-- [[Kedma Damasceno]]
+- [[Kedma Janaina Freitas Damasceno]]
 - [[Bianca Raupp Mayer]]
 - [[Ana Cristina Joachim]]
 
@@ -486,7 +486,7 @@
 ### Conferência nº 06 – 02.12
 
 - [[Edith Derdyk]]
-- [[Craig Saper]]
+- [[Craig J. Saper]]
 - [[Ana María Caballero]]
 - [[Renata Mancini]]
 
@@ -559,7 +559,7 @@
 - [[Fernando Aguiar]]
 - [[Flavio Catulo]]
 - [[Francis Édeline]]
-- [[Franklin Valverde]]
+- [[Franklin Larrubia Valverde]]
 - [[Gab Marcondes]]
 - [[Gastão Debreix]]
 - [[Ghazal Mosadeq]]

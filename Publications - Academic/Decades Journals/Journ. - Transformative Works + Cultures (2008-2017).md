@@ -261,7 +261,7 @@ Source: [TWC Archives](https://journal.transformativeworks.org/index.php/twc/iss
 - [[Bridget Kies]]
 - [[Maria Lindgren Leavenworth]]
 - [[Nele Noppe]]
-- [[Melanie E. S. Kohnen]]
+- [[Melanie ES Kohnen]]
 - [[Laurie B. Cubbison]]
 
 ---
@@ -350,7 +350,7 @@ Source: [TWC Archives](https://journal.transformativeworks.org/index.php/twc/iss
 - [[Paul Mason]]
 - [[Staci Stutsman]]
 - [[Francesca Coppa]]
-- [[Melanie E. S. Kohnen]]
+- [[Melanie ES Kohnen]]
 - [[Natasha Simonova]]
 - [[Nicolle Lamerichs]]
 - [[Kyra Osten Hunting]]

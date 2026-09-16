@@ -85,7 +85,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Patrice Flichy]]
 - [[Roy Attwood]]
 - [[Leena Paldán]]
-- [[Keith Reader]]
+- [[Keith A. Reader]]
 - [[Mike Tracey]]
 
 ### Vol. 2, Issue 3 (July 1980)
@@ -106,7 +106,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Paddy Scannell]]
 - [[Armand Mattelart]]
 - [[Jean-Marie Piemme]]
-- [[Keith Reader]]
+- [[Keith A. Reader]]
 - [[Franco Iseppi]]
 - [[Nicholas Garnham]]
 - [[Vincent Mosco]]
@@ -189,7 +189,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Richard J. Fletcher]]
 - [[Peter Dreier]]
 - [[Michèle Mattelart]]
-- [[Keith Reader]]
+- [[Keith A. Reader]]
 - [[David Held]]
 - [[John Keane]]
 - [[John A. Lent]]
@@ -397,7 +397,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 ### Vol. 8, Issue 1 (January 1986)
 
 - [[Paddy Scannell]]
-- [[Kevin Wilson]]
+- [[Kevin G. Wilson]]
 - [[John B. Thompson]]
 - [[Martin Montgomery]]
 - [[John B. Thompson]]
@@ -564,7 +564,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Javier Esteinou Madrid]]
 - [[Jesús Martín-Barbero]]
 - [[Néstor García Canclini]]
-- [[Colin Hoskins]]
+- [[Colin G. Hoskins]]
 - [[Rolf Mirus]]
 
 ### Vol. 11, Issue 1 (January 1989)

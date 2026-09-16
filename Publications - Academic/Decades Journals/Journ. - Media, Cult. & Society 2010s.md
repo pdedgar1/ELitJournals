@@ -18,7 +18,7 @@
 ### Vol. 32, Issue 2 (March 2010)
 
 - [[Mary Jane Kehily]]
-- [[Helen Kennedy]]
+- [[Helen W. Kennedy]]
 - [[Jason Bainbridge]]
 - [[Jane Bestwick]]
 - [[Bryan Tilt]]
@@ -260,7 +260,7 @@
 - [[Kenneth C. Werbin]]
 - [[Marc Edge]]
 - [[John Corner]]
-- [[Heather Brown]]
+- [[Heather M. Brown]]
 - [[Anthony Quinn]]
 
 ### Vol. 34, Issue 1 (January 2012)
@@ -307,7 +307,7 @@
 - [[Marina Dekavalla]]
 - [[Hun-Yul Lee]]
 - [[Charles Fairchild]]
-- [[Francis L. F. Lee]]
+- [[Francis LF Lee]]
 - [[Sebastian Kubitschko]]
 - [[Daniel Knapp]]
 - [[Mark Deuze]]
@@ -395,7 +395,7 @@
 - [[Hugo de Burgh]]
 - [[Zeng Rong]]
 - [[Mi Miao]]
-- [[Cheryll Ruth Soriano]]
+- [[Cheryll Ruth Reyes Soriano]]
 - [[T. T. Sreekumar]]
 - [[Shane Homan]]
 - [[John Corner]]
@@ -663,7 +663,7 @@
 - [[Kit Hughes]]
 - [[Erika Polson]]
 - [[Erin Whiteside]]
-- [[Michelle A Amazeen]]
+- [[Michelle A. Amazeen]]
 - [[Matt Sienkiewicz]]
 - [[Simon Dawes]]
 - [[Lindsay Ems]]
@@ -897,7 +897,7 @@
 - [[Phil Ramsey]]
 - [[Peter A. Chow-White]]
 - [[Danielle Deveau]]
-- [[Philippa Adams]]
+- [[Philippa R. Adams]]
 - [[Efrat Daskal]]
 - [[Zohar Kampf]]
 - [[Kevin G. Barnhurst]]
@@ -985,7 +985,7 @@
 - [[Rahul Mukherjee]]
 - [[Mads P. Sørensen]]
 - [[Amanda Friz]]
-- [[Robert W. Gehl]]
+- [[Robert William Gehl]]
 - [[Martha Evans]]
 - [[Emma Mesikämmen]]
 - [[Kevin Smets]]
@@ -1017,7 +1017,7 @@
 - [[Henrik Örnebring]]
 - [[Michael Karlsson]]
 - [[Jack Black]]
-- [[Francis L. F. Lee]]
+- [[Francis LF Lee]]
 - [[Joseph Man Chan]]
 - [[Åsa Kroon]]
 - [[Göran Eriksson]]
@@ -1210,7 +1210,7 @@
 - [[Marwan M. Kraidy]]
 - [[Sandrine Boudana]]
 - [[Paul Frosh]]
-- [[Akiba A Cohen]]
+- [[Akiba A. Cohen]]
 - [[Maria Eugenia Mitchelstein]]
 - [[Pablo J. Boczkowski]]
 - [[María Celeste Wagner]]
@@ -1387,7 +1387,7 @@
 - [[Rahul Mukherjee]]
 - [[David B. Nieborg]]
 - [[Anne Helmond]]
-- [[Robert Gehl]]
+- [[Robert William Gehl]]
 - [[Fenwick McKelvey]]
 - [[Ganaele Langlois]]
 - [[Greg Elmer]]
@@ -1459,7 +1459,7 @@
 
 ### Vol. 41, Issue 6 (September 2019)
 
-- [[Valerie Belair-Gagnon]]
+- [[Valérie Bélair-Gagnon]]
 - [[Pauline Cullen]]
 - [[Anne O'Brien]]
 - [[Mary Corcoran]]
@@ -1492,7 +1492,7 @@
 - [[Brett Hutchins]]
 - [[Bo Li]]
 - [[David Rowe]]
-- [[Anthony Y. H. Fung]]
+- [[Anthony YH Fung]]
 - [[Karen Donders]]
 
 ### Vol. 41, Issue 8 (November 2019)

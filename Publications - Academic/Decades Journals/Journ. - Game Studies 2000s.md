@@ -110,7 +110,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - [[Shuen-shing Lee]]
     
-- [[Laurie Taylor]]
+- [[Laurie N. Taylor]]
     
 - [[Jan Van Looy]]
     
@@ -209,7 +209,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - [[Nathan Dutton]]
     
-- [[Hector Rodriguez]]
+- [[Héctor Vera Rodríguez]]
     
 
 ---

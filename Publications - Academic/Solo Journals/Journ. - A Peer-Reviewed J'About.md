@@ -57,7 +57,7 @@ Reviewers :
 
 ## issue 3 - 2014
 [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Georgios Papadopoulos]]
-[[Florian Cramer]], [[Eric Snodgrass]], [[Magnus Lawrie]], [[Robert Jackson]], [[Geoff Cox]], [[Alessandro Ludovico]], [[Georgios Papadopoulos]], [[Jonas Fritsch]], [[Bodil Marie Stavning Thomsen]], [[Josephine Bosma]]. [[Lotte Philipsen]]. [[Budhaditya Chattopadhyay]], [[James Charlton]], [[Søren Bro Pold]], [[Christian Ulrik Andersen]], [[Morten Suder Riis]], [[Winnie Soon]], [[Jamie Allen]], [[Christophe Bruno]]
+[[Florian Cramer]], [[Eric Snodgrass]], [[Magnus Lawrie]], [[Robert B. Jackson]], [[Geoff Cox]], [[Alessandro Ludovico]], [[Georgios Papadopoulos]], [[Jonas Fritsch]], [[Bodil Marie Stavning Thomsen]], [[Josephine Bosma]]. [[Lotte Philipsen]]. [[Budhaditya Chattopadhyay]], [[James Charlton]], [[Søren Bro Pold]], [[Christian Ulrik Andersen]], [[Morten Suder Riis]], [[Winnie Soon]], [[Jamie Allen]], [[Christophe Bruno]]
 ## issue 4 - 2015
 [[Christian Ulrik Andersen]], [[Geoff Cox]], [[Ned Rossiter]], [[Soenke Zehle]], [[Renée Ridgway]], [[James Charlton]], [[Audrey Samson]]., [[Minka Stoyanova]], [[Winnie Soon]], [[Lea Muldtofte Olsen]], [[Daniel C. Howe]]
 ## issue 5 - 2016

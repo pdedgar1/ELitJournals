@@ -31,7 +31,7 @@
 - [[Jodey Castricano]]
 - [[Doreen Piano]]
 - [[Michelle Kendrick]]
-- [[Kristine Blair]], [[Angela Haas]], and [[Davin Heckman]]
+- [[Kristine L. Blair]], [[Angela Haas]], and [[Davin Heckman]]
 
 #### Rhizomes #5: Objects and their Subjects (Fall 2002)
 - [[Craig J. Saper]]

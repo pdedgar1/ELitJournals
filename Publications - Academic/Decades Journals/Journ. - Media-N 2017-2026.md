@@ -3,7 +3,7 @@
 [[Constanza Salazar]]
 [[Katherine Behar]]
 [[Riah Buchanan]]
-[[Kris Cohen]]
+[[Kris R. Cohen]]
 [[Johanna Gosse]]
 [[Meredith Hoy]]
 [[Nick Montfort]]
@@ -77,7 +77,7 @@
 - [[Zaneta Zukalova]] — Shepherd's Office: The Politics of Digital Labor and Its Impact on the Amazon Mechanical Turk Workers
 - [[xtine burrough]] — A Decade of Working with the Working Crowd
 - [[Tung-Hui Hu]] and [[Elisa Giardina Papa]] — How AI Manufactures a Smile (Review)
-- [[Kris Cohen]] — Almost Overwhelmed (Review)
+- [[Kris R. Cohen]] — Almost Overwhelmed (Review)
 
 ### Forking Paths in New Media Art Practices: Investigating Remix (Vol. 17 No. 1) — Published 2022-10-31
 

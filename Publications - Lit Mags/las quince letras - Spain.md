@@ -20,6 +20,7 @@
 [[José Manuel Lucía]]
 [[José Luis Sampedro]]
 [[Benjamín Escalonilla]]
+[[César Suey]]
 [[Miguel Ángel Gara]]
 
 [[Benjamín Pulido]]

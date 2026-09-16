@@ -70,4 +70,4 @@ Alumni
 [[Felix Bayode Oke]]
 [[Monisha Raju]]
 
-2022 Advisory Board Members: [[Catherine Ahearn]], [[Brett Bobley]], [[Sylvia Fernández Quintanilla]], [[Kathleen Fitzpatrick]], [[Julia Flanders]], [[Michelle Chesner Margolis]], [[Jeffrey W. McClurken]], [[Geoffrey Rockwell]], [[Roxanne Shirazi]], [[James Shulman]], [[Dhanashree Thorat]], and [[Laura Wexler]]
+2022 Advisory Board Members: [[Catherine Ahearn]], [[Brett Bobley]], [[Sylvia Fernández Quintanilla]], [[Kathleen Fitzpatrick]], [[Julia Flanders]], [[Michelle Chesner Margolis]], [[Jeffrey W. McClurken]], [[Geoffrey M. Rockwell]], [[Roxanne Shirazi]], [[James Shulman]], [[Dhanashree Thorat]], and [[Laura Wexler]]

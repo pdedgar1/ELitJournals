@@ -84,7 +84,7 @@
 | [[Philip B. Gallagher]], [[Philippe Meister]], [[David R. Russell]]                                                        |
 | [[Sandra J. Keele]]                                                                                                        |
 | [[Sandra Tsui Eu Lam]]                                                                                                     |
-| [[Savanna Conner]], [[Patricia Webb]]                                                                                      |
+| [[Savanna Conner]], [[Patricia R. Webb]]                                                                                      |
 |                                                                                                                            |
 | [[Stephanie Vie]]                                                                                                          |
 | [[Stephanie Vie]]                                                                                                          |
@@ -132,7 +132,7 @@
 | [[Alexis Sabryn Walston]]                                                                                    |
 | [[Ali Alalem]]                                                                                               |
 | [[Angela Laflen]]                                                                                            |
-| [[Carl Whithaus]], [[Karen Lunsford]], [[Jonathan Alexander]]                                                |
+| [[Carl Whithaus]], [[Karen J. Lunsford]], [[Jonathan Alexander]]                                                |
 | [[Carrie Grant]]                                                                                             |
 | [[Chad Szalkowski-Ference]]                                                                                  |
 | [[Chandler Mordecai]]                                                                                        |
@@ -247,7 +247,7 @@
 | [[Abram D. Anders]], [[Emily Dux Speltz]]                                                                                     |
 | [[Ali Alalem]], [[Alyse Campbell]], [[Thais Rodrigues Cons]], [[Funmilola Fadairo]], [[Nicole Koyuki Golden]]                 |
 | [[Amber M. Buck]]                                                                                                             |
-| [[Analeigh E. Horton]], [[Cindy Tekobbe]]                                                                                     |
+| [[Analeigh E. Horton]], [[Cindy Kay Tekobbe]]                                                                                     |
 | [[Bronwen Dyson]], [[Benjamin Miller]], [[Susan Thomas]]                                                                      |
 | [[Christopher McVey]], [[Pary Fassihi]], [[Shuang Geng]], [[Sarah Madsen Hardy]], [[Matthew Parfitt]]                         |
 | [[David M. Rieder]], [[Michael R. Jackson]]                                                                                   |

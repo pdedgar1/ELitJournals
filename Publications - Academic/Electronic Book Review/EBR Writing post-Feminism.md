@@ -1,6 +1,6 @@
 ### Writing Post-Feminism
 #academicJournal 
-2021 - [[Aynur Kadir]]. [[Kishonna Gray]], [[Lai-Tze Fan]]
+2021 - [[Aynur Kadir]]. [[Kishonna L. Gray]], [[Lai-Tze Fan]]
 2020 - [[Fanny Gravel-Patry]]
 [[Anastasia Salter]]
 [[Astrid Ensslin]]. [[Carla Rice]]. [[Christine Wilks]], [[Hannah Fowlie]], [[K. Alysse Bailey]]. [[Lauren Munro]], [[Megan Perram]], [[Sarah Ridgley]]

@@ -55,7 +55,7 @@
 | [[Paula Gardner]]               |
 | [[Voorhees Gerald]]             |
 | [[Jeanne Gomoll]]               |
-| [[Kishonna Gray]]               |
+| [[Kishonna L. Gray]]               |
 | [[Shelleen Greene]]             |
 | [[Pallavi Guha]]                |
 | [[Hackers of Resistance]]       |
@@ -68,7 +68,7 @@
 | [[Mar Hicks]]                   |
 | [[Janell Hobson]]               |
 | [[Anna Lauren Hoffman]]         |
-| [[Nina Huntemann]]              |
+| [[Nina B. Huntemann]]              |
 | [[Rachel Alpha Johnston Hurst]] |
 | [[Mary Ingram-Waters]]          |
 | [[Karl Irmi]]                   |

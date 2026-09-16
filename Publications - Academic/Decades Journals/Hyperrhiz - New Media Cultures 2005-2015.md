@@ -93,7 +93,7 @@ Advisory editors
 [[Nicholas Schiller]]
 [[Jichen Zhu]] and [[D. Fox Harrell]]
 [[Christine Wilks]]
-[[Hazel Smith]] and [[Roger Dean]]
+[[Hazel Smith]] and [[Roger T. Dean]]
 [[Whitney Anne Trettien]]
 [[Marvin E. Hobson]]
 
@@ -101,7 +101,7 @@ Advisory editors
 [[Hazel Smith]]
 [[David R. Gruber]] and [[David M. Rieder]]
 [[Piotr Célinski]]
-[[Hazel Smith]], [[Joanna Still]], and [[Roger Dean]]
+[[Hazel Smith]], [[Joanna Still]], and [[Roger T. Dean]]
 [[David R. Gruber]] and [[David M. Rieder]]
 [[David Ciccoricco]] and [[Jill DelSordi]]
 [[The Hanseatic Semiotic Traders League]] - 

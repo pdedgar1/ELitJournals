@@ -12,7 +12,7 @@ University of Canberra Center for Writing
 [[Motomichi Nakamura]]
 [[Robot Friend]]
 [[Hazel Smith]]
-[[Roger Dean]]
+[[Roger T. Dean]]
 [[Brian Kim Stefans]]
 
 
@@ -35,4 +35,4 @@ University of Canberra Center for Writing
 [[John Sparrow]]
 [[David Clark]]
 [[Mary Flanagan]]
-[[Roger Dean]] and [[Hazel Smith]]
+[[Roger T. Dean]] and [[Hazel Smith]]

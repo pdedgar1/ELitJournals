@@ -25,7 +25,7 @@ Sources :
 [[useit.com]] by [[Jakob Nielsen]]
 [[Webmonkey]] by [[WIRED]]
 [[WIRED]]
-[[Word Circuits + Directory]] by [[Robert Kendall]]
+[[Directory - Word Circuits]] by [[Robert Kendall]]
 
 
 LITMAGS 

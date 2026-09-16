@@ -58,7 +58,7 @@
 ## Issue Two
 
 - 
-- [[Robert W. Gehl]]
+- [[Robert William Gehl]]
 - [[Sarah Bell]]
 - [[Annette Vee]]
 - [[Bernhard Rieder]]
@@ -161,7 +161,7 @@
 - [[Jeremy Wade Morris]]
 - [[Austin Morris]]
 - [[Esther Weltevrede]]
-- [[Rowan Wilken]]
+- [[Rowan Cameron Wilken]]
 - [[Jean Burgess]]
 - [[Kath Albury]]
 - [[Fieke Jansen]]

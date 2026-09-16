@@ -24,7 +24,7 @@ Chair:[[Joseph Tabbi]]
 ❏[[Natalia Fedorova]], ❏[[Piotr Małecki]], ❏[[Álvaro Seiça]], Session 3B Artistic and Literary Bots in Social Media–Curtin 175
 Chair:[[Leonardo Flores]]
 ❏[[Leonardo Flores]], [[Zach Whalen]], [[Darius Kazemi]], [[Allison Parrish]], [[Tully Hansen]], [[Devon Baumgarten]]
-Session3C Media Arts Demo Session 1–Digital Humanities Lab, Golda Meir Library Second Floor❏[[Carolyn Guertin]]and [[Katherine Jin]],[[Amaranth Borsuk]] &[[Ian Hatcher]], [[Ian Hatcher]] &[[Stephanie Strickland]],[[Eric Suzanne]], [[Caitlin Fisher]],[[Joseph Peters]], [[Will Luers]] & [[Hazel Smith]] & [[Roger Dean]], [[Anastasia Salter]] & [[John T. Murray]], [[Jacob Garbe]] & 
+Session3C Media Arts Demo Session 1–Digital Humanities Lab, Golda Meir Library Second Floor❏[[Carolyn Guertin]]and [[Katherine Jin]],[[Amaranth Borsuk]] &[[Ian Hatcher]], [[Ian Hatcher]] &[[Stephanie Strickland]],[[Eric Suzanne]], [[Caitlin Fisher]],[[Joseph Peters]], [[Will Luers]] & [[Hazel Smith]] & [[Roger T. Dean]], [[Anastasia Salter]] & [[John T. Murray]], [[Jacob Garbe]] & 
 [[Aaron A. Reed]], [[Jim Bizzocchi]], [[John F. Barber]], [[Kathleen Ottinger]], [[Ava Aviva Avnisan]], [[Johanna Rodgers]], [[Luc Dall'Armellina]] 
 
 Session 4A Narrative, Computation, Network–Curtin 175

@@ -5,7 +5,7 @@
 - [[Pedro Barbosa]]
 - [[Pedro Reis]]
 - [[Sérgio Bairon]]
-- [[Luis Carlos Petry]]
+- [[Luís Carlos Petry]]
 
 ### Número 2 (2007) — Ciberdrama e Hipermédia
 
@@ -274,7 +274,7 @@
 - [[Manuel Portela]]
 - [[Daniela Côrtes Maduro]]
 - [[João Dionísio]]
-- [[A.K.M. Skarpelis]]
+- [[A. K. M. Skarpelis]]
 - [[Wolfgang Ernst]]
 - [[Manaíra Aires Athayde]]
 - [[Rejane Rocha]]
@@ -282,7 +282,7 @@
 - [[Simão Palmeirim]]
 - [[Giorgia Casara]]
 - [[Amelia Sanz]]
-- [[Maria Goicoechea]]
+- [[María Goicoechea de Jorge]]
 - [[Teresa Numerico]]
 - [[Sandra Camacho]]
 - [[José Maçãs de Carvalho]]

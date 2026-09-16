@@ -34,7 +34,7 @@ Contributors
 [[DAVE PARRY]] is assistant professor of emerging media and communications at the University of Texas at Dallas.
 [[Stephen Ramsay]] is associate professor of English and a fellow at the Center for Digital Research in the Humanities at the University of Nebraska, Lincoln. He is the author of Reading Machines: Toward an Algorithmic Criticism.
 [[ALEXANDER REID]] is associate professor of English and director of composition and teaching fellows at the State University of New York at Buffalo. He is the author of The Two Virtuals: New Media and Composition and coeditor of Design Discourse: Composing and Revising Programs in Professional and Technical Writing.
-[[Geoffrey Rockwell]] is professor of philosophy and director of the Canadian Institute for Research Computing in the Arts (CIRCA) at the University of Alberta. He is the author of Defining Dialogue: From Socrates to the Internet.
+[[Geoffrey M. Rockwell]] is professor of philosophy and director of the Canadian Institute for Research Computing in the Arts (CIRCA) at the University of Alberta. He is the author of Defining Dialogue: From Socrates to the Internet.
 [[Mark L. Sample]] is assistant professor of English at George Mason University.
 [[TOM SCHEINFELDT]] is managing director of the Roy Rosenzweig Center for History and New Media at George Mason University. He is coeditor with Dan Cohen of Hacking the Academy.
 [[KATHLEEN MARIE SMITH]] is a PhD candidate in the Department of Germanic Languages and Literatures at the University of Illinois at Urbana-Champaign.

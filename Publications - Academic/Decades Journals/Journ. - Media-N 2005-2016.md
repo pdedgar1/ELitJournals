@@ -74,7 +74,7 @@
 - [[Juliet Davis]] — Artist Statement
 - [[Joseph Farbrook]] — Artist Statement
 - [[Franca Formenti]] — Artist Statement
-- [[Heather Freeman]] — Artist Statement
+- [[Heather D. Freeman]] — Artist Statement
 - [[Tal Halpern]] — Artist Statement
 - [[Xtine Hanson]] — Artist Statement
 - [[Claudia Hart]] — Artist Statement
@@ -208,7 +208,7 @@
 - [[Sven Humphrey]] and [[Robyn Voshardt]] — Dialogue
 - [[Jennifer McCoy]] and [[Kevin McCoy]] — Dialogue
 - [[Stephan Hillerbrand]] and [[Mary Magsamen]] — Dialogue (Hillerbrand+Magsamen)
-- [[Leila Nadir]] and [[Cary Peppermint]] — Dialogue (ecoarttech)
+- [[Leila christine Nadir]] and [[Cary Peppermint]] — Dialogue (ecoarttech)
 - [[Julio Obelleiro]] and [[Casilda Sanchez]] — Dialogue
 - [[Ken Rinaldo]] and [[Amy M. Youngs]] — Dialogue
 - [[Pat Badani]] — LE CUBE: Center for Digital Creation, France (Review)
@@ -384,7 +384,7 @@
 - [[Ashley Ferro-Murray]] — Dancing the Hardware: Rachid Ouramdane's Embodied Performance
 - [[Ned Prutzer]] — Google Infrastructure and Geolocative Representation
 - [[Billy Friebele]] — Omniscient Prosthetic Eyes: How Satellites are Changing Our Sense of Place
-- [[Paul Taylor]] — Digital Trust Hike
+- [[Paul A. Taylor]] — Digital Trust Hike
 - [[Joana Moll]] — Move and Get Shot
 - [[Marie-Pier Boucher]] — Urban Procedures: Small Pragmatics of Collective Space
 - [[Michael Maizels]] — The Political Portrait in the Age of Protocol: Lincoln Schatz's The Network

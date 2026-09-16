@@ -27,7 +27,7 @@
 [[Jeffrey T. Johnson]] and [[Andrew Klobucar]]
 [[Eric LeMay]]
 [[Silvio Lorusso]]
-[[Will Luers]], [[Hazel Smith]] and [[Roger Dean]]
+[[Will Luers]], [[Hazel Smith]] and [[Roger T. Dean]]
 [[Judy Malloy]]
 [[Piotr Małecki]]
 [[Aleksandra Małecka]]

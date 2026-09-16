@@ -149,7 +149,7 @@
 #### Vol. 10 No. 5 (2009) — Social and Psychological Aspects of Personal Information Management
 - [[Deborah Barreau]]
 - [[Tim Coughlan]]
-- [[Peter Johnson]]
+- [[Peter Arne Johnson]]
 - [[David Elsweiler]]
 - [[Mark Baillie]]
 - [[Ian Ruthven]]
@@ -420,7 +420,7 @@
 - [[Michael Bieber]]
 - [[Roberto Galnares]]
 - [[P. J. Brown]]
-- [[Heather Brown]]
+- [[Heather M. Brown]]
 
 #### Vol. 4 No. 4 (2004) — New Applications of KOS
 - [[Douglas Tudhope]]

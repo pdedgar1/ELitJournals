@@ -6,7 +6,7 @@
 ## Editorial advisors
     
 - Prof. [[Philippe BOOTZ]]. University of Paris 8, France.E-mail:  philippe.bootz@univ-paris8.fr
-- Prof. [[Christopher FUNKHOUSER]], New Jersey Institute of Technology, USA. E-mail:  funkhous@njit.edu
+- Prof. [[Christopher T. FUNKHOUSER]], New Jersey Institute of Technology, USA. E-mail:  funkhous@njit.edu
 - Prof. [[Caitlin FISHER]],  Immersive Storytelling Lab, York University, Canada. E-mail: caitlin@yorku.ca 
 - Prof. [[Gladys Ameze IKHIMWIN]], University of Benin, Nigeria. E-mail: gladys.ikhimwin@uniben.edu
 - Prof. [[Mourad El FAHLI]], University Mohammed V, Rabat-Agdal, Morocco. E-mail:  mouradfahli@yahoo.com
@@ -23,7 +23,7 @@
 | [[Henry Chukwudi John]], [[Abayomi Olusola Awelewa]] (Author)]]  |
 | [[Julius Beneoluchi Odil]], [[Charles Nnamdi Mabude]] (Author)]] |
 | [[Rachid Benharrousse]] (Author)]]                               |
-| [[Richard Ajah]] (Author)]]                                      |
-| [[Richard Ajah]], Yohanna J. Waliya (Author)]]                   |
-| [[Richard Ajah]], Yohanna J. Waliya (Author)]]                   |
+| [[Richard Oko Ajah]] (Author)]]                                      |
+| [[Richard Oko Ajah]], Yohanna J. Waliya (Author)]]                   |
+| [[Richard Oko Ajah]], Yohanna J. Waliya (Author)]]                   |
 | [[Yohanna Joseph Waliya]], [[Etete Gregory Mbey]] (Author)]]     |

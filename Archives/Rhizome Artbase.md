@@ -918,7 +918,7 @@
 | [[Thomas Petersen]]                                 |
 | [[Dag Hensten Pettersen]]                           |
 | [[Brian Piana]]                                     |
-| [[Regina Pinto]]                                    |
+| [[Regina Célia Pinto]]                                    |
 | [[Jörg piringer]]                                  |
 | [[pirusanta]]                                       |
 | [[Émilie Pitoiset]]                                 |
@@ -1034,14 +1034,14 @@
 | [[christian schneider]]                             |
 | [[Eric Schockmel]]                                  |
 | [[Schoenerwissen]]                                  |
-| [[Trebor Scholz]]                                   |
+| [[R. Trebor Scholz]]                                   |
 | [[Finishing School]]                                |
 | [[Tamar Schori]]                                    |
 | [[christine sciulli]]                               |
 | [[Robert Seidel]]                                   |
 | [[Sebastian Seifert]]                               |
 | [[Nathan Selikoff]]                                 |
-| [[Michael Sellam]]                                  |
+| [[Michaël Sellam]]                                  |
 | [[Gebhard Sengmüller]]                              |
 | [[Daylen Seu]]                                      |
 | [[Steve Shaddick]]                                  |
@@ -1118,7 +1118,7 @@
 | [[Evelin Stermitz]]                                 |
 | [[abram stern]]                                     |
 | [[Eddo Stern]]                                      |
-| [[nathaniel stern]]                                 |
+| [[Nathaniel E. Stern]]                                 |
 | [[Mark Stock]]                                      |
 | [[Jack Stockholm]]                                  |
 | [[Reiner Strasser]]                                 |
@@ -1175,7 +1175,7 @@
 | [[Dan Trachtman]]                                   |
 | [[Mitch Trale]]                                     |
 | [[John Transue]]                                    |
-| [[Peter Traub]]                                     |
+| [[Peter Michael Traub]]                                     |
 | [[Jürgen Trautwein]]                                |
 | [[Jean-Paul Tremblay]]                              |
 | [[Cody Trepte]]                                     |
@@ -1286,7 +1286,7 @@
 | [[Mushon Zer-Aviv]]                                 |
 | [[David Zérah]]                                     |
 | [[Marina Zerbarini]]                                |
-| [[komninos zervos]]                                 |
+| [[komninos Konstantinos zervos]]                                 |
 | [[Brigitta Zics]]                                   |
 | [[Laurent Ziegler]]                                 |
 | [[Philippe Zimmermann]]                             |

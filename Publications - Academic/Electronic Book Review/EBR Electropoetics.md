@@ -248,7 +248,7 @@
 [[Stephen Bernard Hawkins]]
 [[Geneviéve Brassard]]
 [[Darren Tofts]]
-[[Rowan Wilken]]
+[[Rowan Cameron Wilken]]
 [[Marcel O'Gorman]]
 [[Michael Jarrett]]
 [[Jon McKenzie]]

@@ -20,7 +20,7 @@
 | [[Gabriel Zaid]]              |
 team: 
   Dr. [[Rodolfo Mata Sandoval]] [rmata2009@yahoo.com.mx](mailto:rmata2009@yahoo.com.mx)  
-  Dra. [[Nohelia Meza Meza]] [nohmeza@gmail.com](mailto:nohmeza@gmail.com)  
+  Dra. [[Nohelia Meza]] [nohmeza@gmail.com](mailto:nohmeza@gmail.com)  
 Desarrollo y administración  
   Ing. [[Gerardo Iván Miceli León]] [miceli_i@unam.mx](mailto:miceli_i@unam.mx)  
 Diseño gráfico  

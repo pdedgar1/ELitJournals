@@ -573,7 +573,7 @@ CELL Member : French-language E-lit
 | [[Elizabeth Tornes]]                  |
 | [[TOTeM Labs]]                        |
 | [[Mitch Trale]]                       |
-| [[Peter Traub]]                       |
+| [[Peter Michael Traub]]                       |
 | [[Simon Trépanier]]                   |
 | [[Unreality Journeys]]                |
 | [[Guido van Der Wolk]]                |

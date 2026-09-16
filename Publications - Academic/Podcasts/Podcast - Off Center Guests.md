@@ -57,6 +57,6 @@
 [[Davis Schneiderman]]
 [[Santtu Raisanen]] and [[Hanna Hellesø Lauvli]]
 [[Lukas Wilde]]
-[[Kishonna Gray]]
+[[Kishonna L. Gray]]
 
 
