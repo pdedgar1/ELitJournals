@@ -11,83 +11,83 @@
       "query": "path:\"Publications - Lit Mags\"  ",
       "color": {
         "a": 1,
-        "rgb": 15872305
-      }
-    },
-    {
-      "query": "path:\"Conferences/ELO Conferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16766208
-      }
-    },
-    {
-      "query": "path:\"Conferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16776058
-      }
-    },
-    {
-      "query": "path:Organizations  ",
-      "color": {
-        "a": 1,
-        "rgb": 60230
-      }
-    },
-    {
-      "query": "path:\"People + Labs\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6054102
-      }
-    },
-    {
-      "query": "path:\"Publications - Academic\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 4387583
-      }
-    },
-    {
-      "query": "path:Anthologies  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "path:Archives  ",
-      "color": {
-        "a": 1,
-        "rgb": 10837206
-      }
-    },
-    {
-      "query": "path:\"Publications - Art Mags\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16349166
+        "rgb": 14352384
       }
     },
     {
       "query": "path:Awards  ",
       "color": {
         "a": 1,
-        "rgb": 16753152
+        "rgb": 14784261
+      }
+    },
+    {
+      "query": "path:Conferences  ",
+      "color": {
+        "a": 1,
+        "rgb": 13230162
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Publications - Academic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8781782
+      }
+    },
+    {
+      "query": "path:Anthologies  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"People + Labs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Archives  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Publications - Art Mags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"Conferences/ELO Conferences\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15582032
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1.42393183502099,
+  "nodeSizeMultiplier": 1.51806448417378,
   "lineSizeMultiplier": 0.1,
   "collapse-forces": false,
-  "centerStrength": 0.440293899728328,
-  "repelStrength": 20,
-  "linkStrength": 1,
+  "centerStrength": 0,
+  "repelStrength": 19.0292616638985,
+  "linkStrength": 0.95,
   "linkDistance": 500,
-  "scale": 0.017768546262554374,
+  "scale": 0.019684119625208333,
   "close": false
 }
