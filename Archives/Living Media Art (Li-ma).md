@@ -148,7 +148,7 @@
     
 - [[Bob Lens]]
     
-- [[Boegel]] & [[Holtappels]]
+- [[Klaus Boegel]] & [[Heiner Holtappels]]
     
 - [[Boris Gerrets]]
     
@@ -356,7 +356,7 @@
     
 - [[Floris Kolvenbach]]
     
-- [[Foundland Collective (Lauren Alexander and Ghalia Elsrakbi)]]
+- Foundland Collective ([[Lauren Alexander]] and [[Ghalia Elsrakbi]])]]
     
 - [[Francis Alÿs]]
     
@@ -394,7 +394,7 @@
     
 - [[Gerald van der Kaap (I)]]
     
-- [[Gerald Van Der Kaap / Aukje Dekker]]
+- [[Gerald Van Der Kaap]] / [[Aukje Dekker]]
     
 - [[Gerard P. Päs]]
     
@@ -712,11 +712,11 @@
     
 - [[Loes Heebink]]
     
-- [[London Video Arts - Jane Parish]]
+- London Video Arts - [[Jane Parish]]
     
 - [[Lous America]]
     
-- [[Lous America, David Garcia, Henk Wijnen]] & [[Annie Wright]]
+- [[Lous America]], [[David Garcia]], [[Henk Wijnen]] & [[Annie Wright]]
     
 - [[Luciano Castelli]]
     
@@ -744,7 +744,7 @@
     
 - [[Manuel Saiz]]
     
-- [[Manuel Saiz, Erik Bünger, Steven Cuzner]]
+- [[Manuel Saiz]], [[Erik Bünger]], [[Steven Cuzner]]
     
 - [[Marc Burkett]]
     
@@ -878,7 +878,7 @@
     
 - [[Monique Moumblow]]
     
-- [[Montevideo/ Time Based Arts/ Netherlands Media Art Institute]]
+- Montevideo/ [[Time Based Arts]]/ [[Netherlands Media Art Institute]]
     
 - [[MST]]
     
@@ -1008,7 +1008,7 @@
     
 - [[Rebecca Horn]]
     
-- [[Reindeer Werk (Tom Puckey]] & [[Dirk Larsen)]]
+- Reindeer Werk ([[Tom Puckey]]]] & [[Dirk Larsen]])]]
     
 - [[Reiner Ruthenbeck]]
     
@@ -1070,7 +1070,7 @@
     
 - [[Roy Villevoye]]
     
-- [[Roy Villevoye and Jan Dietvorst]]
+- [[Roy Villevoye]] and [[Jan Dietvorst]]
     
 - [[Rä di Martino]]
     
@@ -1098,7 +1098,7 @@
     
 - [[Semiconductor]]
     
-- [[Semiconductor (I)]]
+- [[Semiconductor]]
     
 - [[Seoungho Cho]]
     
@@ -1134,7 +1134,7 @@
     
 - [[Skip Blumberg]]
     
-- [[Sluik / Kurpershoek]]
+- [[Sluik]] / [[Kurpershoek]]
     
 - [[Sonia Cillari]]
     
@@ -1142,7 +1142,7 @@
     
 - [[Sophie Whettnall]]
     
-- [[Stansfield / Hooykaas]]
+- [[Elsa Stansfield]] / [[Madelon Hooykaas]]
     
 - [[Steina]]
     
@@ -1292,12 +1292,5 @@
     
 - [[Zeno van den Broek]]
     
-- [[Zeno van den Broek (I)]]
-    
 - [[Zsigmund Karoly]]
     
-
--   
-    
-
-**

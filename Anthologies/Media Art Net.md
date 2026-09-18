@@ -6,7 +6,7 @@
 | [[Marina Abramovic]]                        |
 | [[Vito Acconci]]                            |
 |                                             |
-| [[Robert Adrian X.]]                         |
+| [[Robert Adrian X.]]                        |
 | [[Mark Adrian]]                             |
 | [[Eija-Liisa Ahtila]]                       |
 | [[Doug Aitken]]                             |
@@ -90,7 +90,7 @@
 | [[Christian Boustani]]                      |
 | [[Mark Boyle]]                              |
 | [[Silke Braemer]]                           |
-| \|   \|<br>\|---\|<br>\|[[Kayle Brandon]]\| |
+| [[Kayle Brandon]]                           |
 | [[Bertolt Brecht]]                          |
 | [[George Brecht]]                           |
 | [[Martin Breindl]]                          |
@@ -102,7 +102,7 @@
 | [[Michael Brodsky]]                         |
 | [[Marcel Broodthaers]]                      |
 | [[Klaus vom Bruch]]                         |
-| [[Klaus vom Bruch]]                             |
+| [[Klaus vom Bruch]]                         |
 | [[Jonah Brucker-Cohen]]                     |
 | [[Pieter Bruegel]]                          |
 | [[Ludger Brümmer]]                          |
@@ -134,7 +134,7 @@
 | [[Oron Catts]]                              |
 | [[Ismael Celis]]                            |
 | [[César) César (Baldaccini]]                |
-| [[Jake and Dinos Chapman]]                  |
+| [[Jake Chapman]] and [[Dinos Chapman]]      |
 | [[Shu Lea Cheang]]                          |
 | [[Miguel Chevalier]]                        |
 | [[Lucinda Childs]]                          |
@@ -156,7 +156,7 @@
 | [[Shane Cooper]]                            |
 | [[Waldemar Cordeiro]]                       |
 | [[Baude Cordier]]                           |
-| [[Philip Corner]]                             |
+| [[Philip Corner]]                           |
 | [[Keith Cottingham]]                        |
 | [[Luc Courchesne]]                          |
 | [[Jordan Crandall]]                         |
@@ -175,7 +175,7 @@
 | [[Joe Davis]]                               |
 | [[Guy Debord]]                              |
 | [[Robert Delaunay]]                         |
-| [[Dellbrügge & de Moll]]                    |
+| [[Christiane Dellbrügge]] & [[de Moll]]     |
 | [[Christiane Dellbrügge]]                   |
 | [[Thomas Demand]]                           |
 | [[Paul DeMarinis]]                          |
@@ -314,7 +314,7 @@
 | [[Barbara Hammann]]                         |
 | [[Gusztáv Hámos]]                           |
 | [[Handshake]]                               |
-| [[Mark B. N. Hansen]]                             |
+| [[Mark B. N. Hansen]]                       |
 | [[Donna Haraway]]                           |
 | [[Leon Harmon]]                             |
 | [[Graham Harwood]]                          |
@@ -372,7 +372,7 @@
 | [[Christian Jankowski]]                     |
 | [[Adriene Jenik]]                           |
 | [[Natalie Jeremijenko]]                     |
-| [[Karl heinz Jeron]]                         |
+| [[Karl heinz Jeron]]                        |
 | [[Lisa Jevbratt]]                           |
 | [[Norman Jewison]]                          |
 | [[Jodi]]                                    |
@@ -386,7 +386,7 @@
 | [[Markus Käch]]                             |
 | [[Wolf Kahlen]]                             |
 | [[Marcus Kaiser]]                           |
-| [[Kanal X.]]                                 |
+| [[Kanal X.]]                                |
 | [[Wassily Kandinsky]]                       |
 | [[Thomas Kapielski]]                        |
 | [[Allan Kaprow]]                            |
@@ -416,7 +416,7 @@
 | [[Kenneth Knowlton]]                        |
 | [[Vitaly Komar]]                            |
 | [[Korot/Schneider]]                         |
-| [[Andrée Korpys]]                            |
+| [[Andrée Korpys]]                           |
 | [[Andrée Korpys]]                           |
 | [[Joseph Kosuth]]                           |
 | [[Miroslav Kouřil]]                         |
@@ -425,7 +425,7 @@
 | [[Rassim Krastev]]                          |
 | [[Richard Kriesche]]                        |
 | [[Matthias Krohn]]                          |
-| [[Myron W. Krueger]]                           |
+| [[Myron W. Krueger]]                        |
 | [[Barbara Kruger]]                          |
 | [[Alexej Krutschonych]]                     |
 | [[Mischa Kuball]]                           |
@@ -445,8 +445,8 @@
 | [[Tina LaPorta]]                            |
 | [[David Larcher]]                           |
 | [[William Latham]]                          |
-| [[Laura Mulvey/Peter Wollen]]               |
-| [[Laurids & Mattheus]]                      |
+| [[Laura Mulvey]]/[[Peter Wollen]]           |
+| [[Laurids]] & [[Chris Mattheus]]            |
 | [[Le Corbusier]]                            |
 | [[Joan Leandre]]                            |
 | [[Fernand Léger]]                           |
@@ -462,7 +462,7 @@
 | [[Robert Lippok]]                           |
 | [[Christoph Lischka]]                       |
 | [[Stephan Lochner]]                         |
-| [[Carl Eugene Loeffler]]                           |
+| [[Carl Eugene Loeffler]]                    |
 | [[Markus Löffler]]                          |
 | [[Chip Lord]]                               |
 | [[Rafael Lozano-Hemmer]]                    |
@@ -507,8 +507,8 @@
 | [[Benoît Maubrey]]                          |
 | [[Max Kossatz]]                             |
 | [[Gideon May]]                              |
-| [[McCarthy/Kelley]]                         |
-| [[Jon McCormack]]                          |
+| [[McCarthy]]/[[Kelley]]                     |
+| [[Jon McCormack]]                           |
 | [[Ryan McKinley]]                           |
 | [[Alex McLean]]                             |
 | [[Marshall McLuhan]]                        |
@@ -523,7 +523,7 @@
 | [[Oliver Messiaen]]                         |
 | [[Olaf Metzel]]                             |
 | [[Gustav Metzger]]                          |
-| [[mez breeze]]                                     |
+| [[mez breeze]]                              |
 | [[Microsoft]]                               |
 | [[Rune Mields]]                             |
 | [[Laurent Mignonneau]]                      |
@@ -555,7 +555,7 @@
 | [[Victorine Müller]]                        |
 | [[Laura Mulvey]]                            |
 | [[Michael Naimark]]                         |
-| [[Antonio Muntadas]]                         |
+| [[Antonio Muntadas]]                        |
 | [[Friedrich Wilhelm Murnau]]                |
 | [[Frieder Nake]]                            |
 | [[Conlon Nancarrow]]                        |
@@ -569,7 +569,7 @@
 | [[Max Neuhaus]]                             |
 | [[Netochka Nezvanova]]                      |
 | [[Carsten Nicolai]]                         |
-| [[Nicolai/Peljhan]]                         |
+| [[Carsten Nicolai]]/[[Marko Peljhan]]       |
 | [[Anne Niemetz]]                            |
 | [[Christian Nold]]                          |
 | [[A. Michael Noll]]                         |
@@ -594,9 +594,9 @@
 | [[Paper Tiger TV]]                          |
 | [[Gordon Pask]]                             |
 | [[Cord Passow]]                             |
-| [[Steven Paxton]]                            |
+| [[Steven Paxton]]                           |
 | [[Marko Peljhan]]                           |
-| [[A. R. Penck (Ralf Winkler)]]              |
+| [[A. R. Penck]] (Ralf Winkler)]]            |
 | [[Simon Penny]]                             |
 | [[Günther Petzold]]                         |
 | [[Frederike Pezold]]                        |
@@ -659,7 +659,7 @@
 | [[Julian Rosefeldt]]                        |
 | [[Ulrike Rosenbach]]                        |
 | [[Martha Rosler]]                           |
-| [[Otto E. Rössler]]                            |
+| [[Otto E. Rössler]]                         |
 | [[Dieter Roth]]                             |
 | [[RSG]]                                     |
 | [[RTMark]]                                  |
@@ -738,7 +738,7 @@
 | [[Andrea Sodomka]]                          |
 | [[Cornelia Sollfrank]]                      |
 | [[Christa Sommerer]]                        |
-| [[Sommerer/Mignonneau]]                     |
+| [[Christa Sommerer]]/[[Laurent Mignonneau]] |
 | [[Laetitia Sonami]]                         |
 | [[Keith Sonnier]]                           |
 | [[Jan-Peter E. R. Sonntag]]                 |
@@ -793,7 +793,7 @@
 | [[Fred Truck]]                              |
 | [[Michael Tucker]]                          |
 | [[David Tudor]]                             |
-| [[Alan Turing]]                    |
+| [[Alan Turing]]                             |
 | [[James Turrell]]                           |
 | [[Günther Uecker]]                          |
 | [[Ulay]]                                    |
@@ -852,7 +852,7 @@
 | [[Marius Watz]]                             |
 | [[WDR Studio Akustische Kunst]]             |
 | [[Peter Weibel]]                            |
-| [[Grahame String Weinbren]]                        |
+| [[Grahame String Weinbren]]                 |
 | [[Wim Wenders]]                             |
 | [[Herbert Wentscher]]                       |
 | [[Anton von Werner]]                        |
@@ -869,7 +869,7 @@
 | [[Maciej Wisniewski]]                       |
 | [[Krzysztof Wodiczko]]                      |
 | [[Eva Wohlgemuth]]                          |
-| [[V. A. Wölfl]]                              |
+| [[V. A. Wölfl]]                             |
 | [[Peter Wollen]]                            |
 | [[Achim Wollscheid]]                        |
 | [[Kirk Woolford]]                           |
@@ -887,58 +887,3 @@
 | [[Ionat Zurr]]                              |
 | [[Eduardo Kac]]                             |
 | [[Andrea Zapp]]                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |
-|                                             |

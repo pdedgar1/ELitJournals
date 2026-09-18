@@ -19,7 +19,7 @@
 ### Authors 
 [[STEVAN ŽIVADINOVIĆ]]
 [[Antonio Abernú]]
-[[Emmanuel Guez and [[Annie Abrahams]]
+[[Emmanuel Guez]] and [[Annie Abrahams]]
 [[José Aburto]]
 [[Tarn Adams]] and [[Zach Adams]]
 [[Tarn Adams]] and [[Zach Adams]]

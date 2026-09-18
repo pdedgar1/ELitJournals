@@ -221,7 +221,7 @@ https://the-next.eliterature.org/collections/17
 [[Adrianne Wortzel]]
 [[Barbara Campbell]]
 [[Cat Mazza]]
-[[LeMaitre and Rosenveig]]
+[[Willy LeMaitre]] and [[Rosenveig]]
 [[Martha Carrer Cruz Gabriel]] 
 [[Michael Winkler]]
 [[Roch Forowicz]]
@@ -235,7 +235,11 @@ https://the-next.eliterature.org/collections/17
 [[John Cayley]]
 [[Yael Kanarek]]
 [[Teri Rueb]]
-[[Brian Kim Stefans]][[Brian Kim Stefans]][[Brian Kim Stefans]][[Brian Kim Stefans]][[Brian Kim Stefans]]
+[[Brian Kim Stefans]] 
+[[Brian Kim Stefans]]
+[[Brian Kim Stefans]]
+[[Brian Kim Stefans]]
+[[Brian Kim Stefans]]
 
 ## 2004
 [[Victor Liu]]

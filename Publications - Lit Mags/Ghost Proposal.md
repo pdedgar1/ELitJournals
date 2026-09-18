@@ -26,7 +26,7 @@ Ultraslant Prizes—
 | [[Lolia Copacabana]]                       |
 | [[Michael Joseph Walsh]]                   |
 | [[Tasia Trevino]]                          |
-| [[P. D. Edgar]]                             |
+| [[P. D. Edgar]]                            |
 | [[Lindsey Webb]]                           |
 | [[William Hazard]]                         |
 | [[Funto Omojola]]                          |
@@ -58,7 +58,7 @@ Ultraslant Prizes—
 | [[Leora Fridman]]                          |
 | [[F. Daniel Rzicznek]]                     |
 | [[Sara Burant]]                            |
-| [[T. R. Brady]]                               |
+| [[T. R. Brady]]                            |
 | [[Nathanael Jones]]                        |
 | [[]]                                       |
 | [[]]                                       |
@@ -99,7 +99,7 @@ Ultraslant Prizes—
 | [[Adam Stutz]]                             |
 | [[ali lanzetta]]                           |
 | [[Ashley Roach-Freiman]] & [[Emma Bolden]] |
-| [[B. J. Best]]                              |
+| [[B. J. Best]]                             |
 | [[Brent Armendinger]]                      |
 | [[Carrie Bennett]]                         |
 | [[Dynas Johnson]]                          |
@@ -167,7 +167,7 @@ Ultraslant Prizes—
 | GP5]]                                      |
 | [[Andrew Ruzkowski]]                       |
 | [[Caroline Cabrera]]                       |
-| [[Juliet Cook & j/j hastain]]              |
+| [[Juliet Cook]] & [[j/j hastain]]          |
 | [[Dalton Day]]                             |
 | [[Eva Jane Peck]]                          |
 | [[Jayita Bhattacharya]]                    |
@@ -179,7 +179,7 @@ Ultraslant Prizes—
 | [[Megan Kaminski]]                         |
 | [[Muriel Leung]]                           |
 | [[Natalie Shapero]]                        |
-| [[Stefania Heim]]                           |
+| [[Stefania Heim]]                          |
 | [[Steven Teref]]                           |
 | [[Zach Savich]]                            |
 | [[]]                                       |
@@ -188,7 +188,7 @@ Ultraslant Prizes—
 | [[Abraham Smith]]                          |
 | [[Adam Clay]]                              |
 | [[Amy Lipman]]                             |
-| [[B. J. Hollars]]                           |
+| [[B. J. Hollars]]                          |
 | [[Brian Miles]]                            |
 | [[Cameron Decker]]                         |
 | [[Chen Chen]]                              |
@@ -197,7 +197,7 @@ Ultraslant Prizes—
 | [[F. Daniel Rzicznek]]                     |
 | [[Hannah Kucharzak]]                       |
 | [[Heather Cox]]                            |
-| [[K. T. Billey]]                            |
+| [[K. T. Billey]]                           |
 | [[Kelly Connor]]                           |
 | [[Kylan Rice]]                             |
 | [[Laura Kochman]]                          |

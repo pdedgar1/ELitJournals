@@ -1,5 +1,5 @@
 African Electronic Literature Alliance & African Diaspora Electronic Literature (AELA & ADELI)
-Multilingual African Electronic Literature Database & African Diasporic Electronic Literature Database (MAELD & ADELD)
+Multilingual African Electronic Literature Database & African Diasporic Electronic Literature Database (MAELD & ADELD)**
 https://african-elit.org/index.php
 
 Founded by [[Yohanna Joseph Waliya]] and designed by [[Alex Boyd]]; another admin [[Elijah William]]
@@ -27,7 +27,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Johann P. Boshoff]]                                               |
 | [[Herman L. Bosman]]                                                |
 | [[Helen Brain]]                                                     |
-| [[Floris Brown]]                                                  |
+| [[Floris Brown]]                                                    |
 | [[Celestial games]]                                                 |
 | [[Christopher]]                                                     |
 | ChopUp ([[Zubair Abubakar]], [[Bayo Puddicombe]], [[Daniel Micah)]] |
@@ -152,12 +152,12 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Ousseni Nikiéma]]                                                 |
 | [[Issa Diallo]]                                                     |
 | [[Sanou Aïssata Dakuyo]]                                            |
-| [[Tigré, Larlé Naaba & Patrice Kouraogo]]                           |
+| [[Tigré]], [[Larlé Naaba]] & [[Patrice Kouraogo]]                   |
 | Comité de Traduction de la Bible en Kusaal]]                        |
 | [[Bantu Games]]                                                     |
 | [[Zuinder Manico]]                                                  |
 | [[Raafat Mohamed Mohamed ELsenousi]]                                |
-| [[JUMOKE VERISSIMO AND JAMES YEKU]]                                 |
+| [[JUMOKE VERISSIMO]] AND [[JAMES YEKU]]                             |
 | [[Wendi]]                                                           |
 | [[Mathews Chishinji]]                                               |
 | [[Ng'endo Mukii]]                                                   |

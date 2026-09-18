@@ -92,6 +92,14 @@ for surname, group in by_surname.items():
                     fuzzy.append((max(ratio, 0.99 if subset else ratio), a, b))
 fuzzy.sort(reverse=True)
 
+# --- tier 3: possible combined entries, e.g. "[[Jane Doe and John Smith]]" ---
+# where two people were linked as one target instead of two separate links.
+combined_re = re.compile(r'\s+(?:and|&)\s+|\btrans\b|/', re.IGNORECASE)
+# sorted by location (earliest file path the target appears in) rather than
+# alphabetically by name, so entries from the same part of the vault cluster.
+combined = sorted((n for n in names if combined_re.search(n)),
+                   key=lambda n: (sorted(usage[n].keys())[0], n))
+
 # --- report ---
 def oddchars(n):
     notes = []
@@ -116,6 +124,10 @@ lines.append(f"## Fuzzy candidates (same surname, similar/subset names — revie
 for ratio, a, b in fuzzy:
     lines.append(f"- **{a} ≈ {b}** (similarity {ratio:.2f})")
     lines.append(fmt_name(a)); lines.append(fmt_name(b)); lines.append("")
+lines.append(f"## Possible combined entries (target contains \" and \"/\" & \" — may be two people merged into one link): {len(combined)}\n")
+for n in combined:
+    lines.append(fmt_name(n))
+lines.append("")
 
 open(OUT, 'w', encoding='utf-8').write('\n'.join(lines))
-print(f"{len(names)} targets | {len(strong)} strong groups | {len(fuzzy)} fuzzy pairs -> {OUT}")
+print(f"{len(names)} targets | {len(strong)} strong groups | {len(fuzzy)} fuzzy pairs | {len(combined)} combined -> {OUT}")

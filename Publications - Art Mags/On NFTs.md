@@ -62,7 +62,7 @@ intro
 [[Rafaël Rozendaal]]
 [[Jan Robert Leegte]]
 [[Yoshi Sodeoka]]
-[[Aaron Penne & Boreta]]
+[[Aaron Penne]] & [[Boreta]]
 [[Leander Herzog]]
 [[Kim Azendorf]]
 [[Harm van den Dorpel]]

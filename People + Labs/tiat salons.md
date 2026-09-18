@@ -5,7 +5,7 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | tiat 17]]                              |
 | watch the recording]]                  |
 | [[Herdimas Anggara]]                   |
-| [[Will C. Robo]]                        |
+| [[Will C. Robo]]                       |
 | [[Hayley Mortin (Dazy Chains)]]        |
 | [[Christina Lu]]                       |
 | [[Harshit Agrawal]]                    |
@@ -20,7 +20,7 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[Toshi Anders Hoo]] + [[Liza Bender]] |
 | [[Weiwei Hsu]]                         |
 | [[Mark Hellar]]                        |
-| [[K. Allado-McDowell]]                  |
+| [[K. Allado-McDowell]]                 |
 | [[Catie Cuan]]                         |
 | tiat 15]]                              |
 | watch the recording]]                  |
@@ -60,7 +60,7 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[Andy Rappaport]]                     |
 | tiat 12]]                              |
 | watch the recording]]                  |
-| [[Leia S. Chang]]                         |
+| [[Leia S. Chang]]                      |
 | [[anna brewer]]                        |
 | [[kelley o'leary]]                     |
 | [[benjamin zweig]]                     |
@@ -88,11 +88,11 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[darren zhu]]                         |
 | tiat 10]]                              |
 | watch the recording]]                  |
-| [[rishi pandey]]                      |
+| [[rishi pandey]]                       |
 | [[daniel kuntz]]                       |
 | [[connie ye]]                          |
 | [[alicia guo]]                         |
-| [[taylor tabb & adnan aga]]            |
+| [[taylor tabb]] & [[adnan aga]]        |
 | [[halim madi]]                         |
 | [[julip]]                              |
 | [[gray crawford]]                      |
@@ -106,7 +106,7 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[jessica kim]]                        |
 | [[riley walz]]                         |
 | [[athena leong]]                       |
-| [[ninon hollanderski]]                |
+| [[ninon hollanderski]]                 |
 | [[danielle egan]]                      |
 | [[ven qiu]]                            |
 | [[zach lieberman]]                     |
@@ -119,14 +119,14 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[sharon zheng]]                       |
 | [[halim madi]]                         |
 | [[crassula shang]]                     |
-| [[darren zhu]]                       |
-| [[jeanette andrews]]                  |
+| [[darren zhu]]                         |
+| [[jeanette andrews]]                   |
 | [[evan sirchuk]]                       |
 | [[dan gorelick]]                       |
 | [[henry tran]]                         |
 | tiat 7]]                               |
 | [[ash herr]]                           |
-| [[johan ismael / david grunzweig]]    |
+| [[johan ismael / david grunzweig]]     |
 | [[claire wang]]                        |
 | [[alessio grancini]]                   |
 | [[koi ren]]                            |
@@ -156,14 +156,14 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[koven kawandeep]]                    |
 | [[mingzhu heseri]]                     |
 | [[zain shah]]                          |
-| [[Leia S. Chang]]                         |
+| [[Leia S. Chang]]                      |
 | tiat 4]]                               |
 | [[joe baker]]                          |
 | [[sri]]                                |
 | [[cody]]                               |
 | [[ritwik]]                             |
 | [[vignesh rajmohan]]                   |
-| [[Leia S. Chang]]                         |
+| [[Leia S. Chang]]                      |
 | [[alexa ann bonomo]]                   |
 | [[evan dorsky]]                        |
 | [[chris guichet]]                      |

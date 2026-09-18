@@ -181,7 +181,7 @@
 - [[Stephen Muecke]]
 - [[Leslie Dema]]
 - [[Andrew Lopez]]
-- [[Deleuze and Guattari]] (pseudonymous byline as printed)
+- [[Gilles Deleuze]] and [[Félix Guattari]]
 - [[Bobby George]]
 - [[Matthew Tiessen]]
 - [[Michael Mikulak]]

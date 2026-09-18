@@ -32,17 +32,22 @@ As you might find inside this "Little Database" (as Danny Snelson writes), E-lit
 
 This little database is a cross-section: reducing prolific scholars and conference volunteers alike to their contributor's bylines in conference proceedings, journal publications, and "about" pages.
 
-+ As of Sept. 2026, there are 101,000 outgoing links in this corpus. 
-+ Because of overlap, links, and repetitions, outgoing links represent almost 57,000 individuals with bylines in the corpus. 
-+ Of those, there are many instances of individuals that are singular—one-off bylines make up 4 of every 5 outgoing links. 
-+ But almost 11,000 individuals serve as a connection between two or more nodes: linking e-literature venues to each other and to other research communities.
++ As of Sept. 2026, there are 99,000 outgoing links in this corpus. 
++ Because of overlap, links, and repetitions, outgoing links represent almost 57,500 individuals with bylines in the corpus. 
++ Of those, one-off bylines make up 4 of every 5 outgoing links—80% of individuals with bylines appear only once. 
++ But almost 11,000 individuals serve as a connection between two or more nodes: linking conference and publication venues to each other and to other research communities!
 #### Limits / Work still to do
 
-The major limitation of this project right now is that as I've added folks to this corpus, they may have been represented differently across the web: either via name changes, pen names, or journal preferences. Obsidian considers variants of my name, for example, to be separate links: [[P. D. Edgar]] and [[Peter Edgar]] and [[Peter D. Edgar]] and [[pd edgar]] must be reconciled to a single usage if they're to be illustrative of reality. I prefer full names, accurate diacritics, and consistent punctuation where possible, and in the event of important figures in the discipline, such as Margie Luesebrink, I have reconciled the pseudonym as [[M. D. Coverley aka Marjorie C. Luesebrink]]. Many other reconciliations are still in progress, as I run a weekly scan as more is added to the corpus. 
+The major limitation of this project right now is that as I've added folks to this corpus, they may have been represented differently across the web: either via name changes, pen names, or journal preferences. Each week, I run a scan of the corpus to identify potential reconciliations, which is found in the [[Alias Report]]. The scan searches for 
+- names that have/lack diacritics
+- middle names vs. initials
+- links where two people are combined (&, and, /, etc.)
+- extra characters (spaces, commas, quotations, etc.)
+
+Obsidian considers variants of my name, for example, to be separate links: [[P. D. Edgar]] and [[Peter Edgar]] and [[Peter D. Edgar]] and [[pd edgar]] must be reconciled to a single usage if they're to be illustrative of reality. I prefer full names, accurate diacritics, and consistent punctuation where possible. In the event of important figures in the discipline, such as Margie Luesebrink, I have reconciled the scholar with her artistic pseudonym as [[M. D. Coverley aka Marjorie C. Luesebrink]].  
 #### Display Tips
 
-I use the Colored Group features on Obsidian to visualize the nodes in "Graph Mode." 
-To follow along with screenshots I've ever shown of this project, here's my display settings: 
+I use the Colored Group features on Obsidian to visualize the nodes in "Graph Mode." To follow along with screenshots I've ever shown of this project, here's my display settings: 
 ##### Forces / Display
 - Text fade threshold : 3.00 (prevents lagging/clogging)
 - Node Size : 1.50 (good contrast)

@@ -48,12 +48,12 @@
 | [[Ben Miller]]                                                                                                    |     |
 | [[Rachael Rakes]]                                                                                                 |     |
 | [[Rodolfo Sousa Ortega]]                                                                                          |     |
-| [[João Enxuto & Erica Love]]                                                                                      |     |
+| [[João Enxuto]] & [[Erica Love]]                                                                                  |     |
 | [[Zenobio de Almeida]]                                                                                            |     |
 | [[Farshid Kazemi]]                                                                                                |     |
 | [[Maria Ines Plaza Lazo]]                                                                                         |     |
 | [[Marek Poliks]]                                                                                                  |     |
-| [[Ed Keller & Carla Leitão]]                                                                                      |     |
+| [[Ed Keller]] & [[Carla Leitão]]                                                                                  |     |
 | [[Ben Woodard]]                                                                                                   |     |
 | [[Roberto Alonso Trillo]]                                                                                         |     |
 | [[Judy Radul]]                                                                                                    |     |
@@ -69,7 +69,7 @@
 | [[Cymene Howe]]                                                                                                   |     |
 | [[Inigo Wilkins]]                                                                                                 |     |
 | [[Vali Mahlouji]]                                                                                                 |     |
-| [[Emily Rose Apter & Charles de Agustin]]                                                                         |     |
+| [[Emily Rose Apter]] & [[Charles de Agustin]]                                                                     |     |
 | [[Ray Brassier]]                                                                                                  |     |
 | [[Allen Feldman]]                                                                                                 |     |
 | [[Lindsay Lerman]]                                                                                                |     |
@@ -129,7 +129,7 @@
 | [[Marwa Arsanios]]                                                                                                |     |
 | [[Navine G. Khan-Dossos]]                                                                                         |     |
 | [[Ahmet Öğüt]]                                                                                                    |     |
-| [[Ren Loren Britton]]                                                                                                 |     |
+| [[Ren Loren Britton]]                                                                                             |     |
 | [[Ganaele Langlois]]                                                                                              |     |
 | [[Jacob Eriksen]]                                                                                                 |     |
 | [[John Gerrard]]                                                                                                  |     |
@@ -213,7 +213,7 @@
 | [[Esther Leslie]]                                                                                                 |     |
 | [[Carl Sachs]]                                                                                                    |     |
 | [[Post Brothers]]                                                                                                 |     |
-| [[Ezio Blasetti & Danielle Willems]]                                                                              |     |
+| [[Ezio Blasetti]] & [[Danielle Willems]]                                                                          |     |
 | Friends of The New Centre]]                                                                                       |     |
 | [[Derek Hales]]                                                                                                   |     |
 | [[Harry Duran]]                                                                                                   |     |
@@ -228,33 +228,33 @@
 | [[]]                                                                                                              |     |
 |                                                                                                                   |     |
 | ######  Seminar Guests                                                                                            |     |
-| [[Julieta Aranda]]                                                                                               |     |
-| [[Elie Ayache]]                                                                                                 |     |
-| [[Lendl Barcelos]]                                                                                              |     |
-| [[Katrina Burch]]                                                                                               |     |
-| [[Nandita Biswas-Mellamphy]]                                                                                    |     |
-| [[Cesare Casarino]]                                                                                             |     |
-| [[Michael Cisco]]                                                                                               |     |
+| [[Julieta Aranda]]                                                                                                |     |
+| [[Elie Ayache]]                                                                                                   |     |
+| [[Lendl Barcelos]]                                                                                                |     |
+| [[Katrina Burch]]                                                                                                 |     |
+| [[Nandita Biswas-Mellamphy]]                                                                                      |     |
+| [[Cesare Casarino]]                                                                                               |     |
+| [[Michael Cisco]]                                                                                                 |     |
 | [[Bruce de'Medici]]                                                                                               |     |
 | Glass Bead ([[Fabien Giraud]], [[Jeremy Lecomte]], <br>[[Vincent Normand]], [[Ida Soulard]], & [[Inigo Wilkins]]) |     |
-| [[Debbie Goldgaber]]                                                                                            |     |
-| [[Joshua Johnson]]                                                                                              |     |
-| [[Robert King]]                                                                                                 |     |
-| [[Angela Last]]                                                                                                 |     |
-| [[Nicola Maciandaro]]                                                                                           |     |
-| [[Suhail Malik]]                                                                                                |     |
-| [[Benjamin Noys]]                                                                                               |     |
-| [[Patrick Provost-Smith]]                                                                                       |     |
-| [[Jasbir Puar]]                                                                                                 |     |
-| [[Jerome Roos]]                                                                                                 |     |
-| [[Rory Rowan]]                                                                                                  |     |
-| [[Martha Schwendener]]                                                                                          |     |
-| [[Nick Srnicek]]                                                                                                |     |
-| [[Charles Stankievich]]                                                                                         |     |
-| [[Tiziana Terranova]]                                                                                           |     |
-| [[Keith Tilford]]                                                                                               |     |
-| [[Zoe Todd]]                                                                                                    |     |
-| [[Jeff VanderMeer]]                                                                                             |     |
-| [[Juan Duchesne Winter]]                                                                                                 |     |
-| [[Ross Wolfe]]                                                                                                   |     |
+| [[Debbie Goldgaber]]                                                                                              |     |
+| [[Joshua Johnson]]                                                                                                |     |
+| [[Robert King]]                                                                                                   |     |
+| [[Angela Last]]                                                                                                   |     |
+| [[Nicola Maciandaro]]                                                                                             |     |
+| [[Suhail Malik]]                                                                                                  |     |
+| [[Benjamin Noys]]                                                                                                 |     |
+| [[Patrick Provost-Smith]]                                                                                         |     |
+| [[Jasbir Puar]]                                                                                                   |     |
+| [[Jerome Roos]]                                                                                                   |     |
+| [[Rory Rowan]]                                                                                                    |     |
+| [[Martha Schwendener]]                                                                                            |     |
+| [[Nick Srnicek]]                                                                                                  |     |
+| [[Charles Stankievich]]                                                                                           |     |
+| [[Tiziana Terranova]]                                                                                             |     |
+| [[Keith Tilford]]                                                                                                 |     |
+| [[Zoe Todd]]                                                                                                      |     |
+| [[Jeff VanderMeer]]                                                                                               |     |
+| [[Juan Duchesne Winter]]                                                                                          |     |
+| [[Ross Wolfe]]                                                                                                    |     |
 [[Parham Ghalamdar]] is a student there 
