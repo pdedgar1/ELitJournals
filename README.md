@@ -68,3 +68,6 @@ I use the Colored Group features on Obsidian to visualize the nodes in "Graph Mo
 - Purple - path:Archives
 - Pink - path:Publications - Art Magazines
 - so White/Gray are just Unspecified/Uncategorized nodes!
+
+### the graph, sept. 18, 2026
+![[Screenshot 2026-09-18 at 11.08.44 AM.png]]
