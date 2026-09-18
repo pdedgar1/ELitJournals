@@ -1,5 +1,17 @@
 ## Edited by [[Nirmala Menon]], [[Shanmugapriya T.]], [[Justy Joseph]], [[Deborah Sutton]]
 
+Vol 2
+[[Simran Bhimjyani]]
+[[Sabarno Niyogi]]
+[[S. Anas Ahmad]]
+[[Andrea]]
+[[Arundhathi Padmanabhan]]
+[[Akansha Goswami]]
+[[Mehulkumar Desai]]
+[[Aaron George]]
+
+
+Vol 1 
 [[R. Vidya]]
 [[Meghna Gangadharan]]
 [[Steven S. George]] & [[Vinit Gupta]]

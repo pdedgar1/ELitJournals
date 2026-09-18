@@ -90,7 +90,13 @@
 [[Claude]]
 ### Zines with 
 [[R. Lyle Skains]]
-[[Samya Brata Roy]]
+[[Amira Hanafi]]
+[[Deena Larsen]]
+[[Monica Storss]]
+[[Jessica Tremblay]]
+
+[[Samya Brata Roy]]?
+[[Charles Danoff]]?
 
 ### letters by 
 [[max]]
