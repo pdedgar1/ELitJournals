@@ -43,7 +43,7 @@
 - [[Tom Lavazzi]]
 - [[Davin Heckman]]
 - [[Kamal Fox]]
-- [[Lewis LaCook]], [[Marjorie Coverly Luesebrink]], [[mIEKAL aND]], [[Felt Bomar]], [[Millie Niss]], and [[Davin Heckman]]
+- [[Lewis LaCook]], [[M. D. Coverley aka Marjorie C. Luesebrink]], [[mIEKAL aND]], [[Felt Bomar]], [[Millie Niss]], and [[Davin Heckman]]
 
 #### Rhizomes #6: Codework and Surveillance (Spring 2003)
 - [[Louis Armand]]
