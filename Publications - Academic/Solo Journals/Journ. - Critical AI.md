@@ -167,7 +167,7 @@
 ### Volume 3, Issue 2 (October 2025)
 
 - [[Lauren M. E. Goodlad]]
-- [[Marit MacArthur]]
+- [[Marit J. MacArthur]]
 - [[Matthew Halm]]
 - [[Emily Hall]]
 - [[Mirko Tobias Schäfer]]

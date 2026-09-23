@@ -13,7 +13,7 @@
 [[Robert Arellano aka Bobby Rabyd]]
 [[Caitlin Fisher]]
 [[Roderick Coover]]
-[[Doris Rusch]]
+[[Doris Carmen Rusch]]
 ## Season 2
 [[Alessandro Ludovico]]
 [[Rob Wittig]]

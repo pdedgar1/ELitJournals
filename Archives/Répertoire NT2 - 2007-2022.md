@@ -293,7 +293,7 @@ CELL Member : French-language E-lit
 | [[Jodi]]                                |
 | [[Valérie Jodoin-Keaton]]               |
 | [[Edwin Martin John Conway]]            |
-| [[Robin Johnson]]                       |
+| [[Robin S. Johnson]]                       |
 | [[Shane Johnson]]                       |
 | [[David Jhave Johnston]]                |
 | [[Kaitlin Ann Jones]]                   |

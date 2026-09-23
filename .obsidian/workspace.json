@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5074306314cb771a",
+        "id": "48e48e95c6d7f231",
         "type": "tabs",
         "children": [
           {
-            "id": "c836eda35dee5608",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d71ffd1491961053",
+            "id": "75b69055d73ee64e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +21,7 @@
               "title": "Alias Report"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5920715332031
+    "width": 304.6608085632324
   },
   "right": {
     "id": "5749d4d94d08711c",
@@ -197,33 +186,45 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d71ffd1491961053",
+  "active": "75b69055d73ee64e",
   "lastOpenFiles": [
+    "Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md",
+    "Publications - Academic/Solo Journals/Journ.  - Humanities - E-Lit & Game Narratives Issue.md",
+    "Publications - Academic/Report - E-Lit as Model.md",
     "Alias Report.md",
-    "Ana Carolina Vimieiro.md",
-    "Arcangel Constantini.md",
-    "Démosthènes Agrafiotis.md",
-    "Tobias Ebbrecht-Hartmann.md",
-    "Jacqueline Burgess.md",
-    "Thorbjørn Lausten.md",
-    "Arthur Nishimoto.md",
-    "Russell Kaschula.md",
-    "Rosanna Guadagno.md",
-    "Nicolas Ranieri.md",
-    "Michailis Vaitis.md",
-    "Elaine O'Hanrahan.md",
-    "Antonio Muntadas.md",
-    "Takanori Tamura.md",
-    "Sherly Farness.md",
-    "Patrick Schmitz.md",
-    "Darryl Woodford.md",
-    "Conferences/AoIR Selected Papers (SPIR) (2011-2017).md",
-    "Paul Hartmann.md",
-    "Michael Latzer.md",
-    "Mchael Latzer.md",
-    "Kate Mondloch.md",
-    "Katharina Esau.md",
-    "Jon McCormack.md",
-    "Jörg piringer.md"
+    "Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md",
+    "Publications - Academic/Decades Journals/Journ - Media-N 2015-2026.md",
+    "Publications - Academic/Decades Journals/Journ - Media-N 2005-2015.md",
+    "Publications - Academic/Electronic Book Review/EBR Writing post-Feminism.md",
+    "Publications - Academic/Electronic Book Review/EBR Writing Under Constraint.md",
+    "Publications - Academic/Electronic Book Review/EBR Web Arts.md",
+    "Publications - Academic/Electronic Book Review/EBR Technocapitalism.md",
+    "Publications - Academic/Electronic Book Review/EBR Machine Writing.md",
+    "Publications - Academic/Electronic Book Review/EBR Music, Sound Noise.md",
+    "Publications - Academic/Electronic Book Review/EBR Internet Nation.md",
+    "Publications - Academic/Electronic Book Review/EBR Fictions Present.md",
+    "Publications - Academic/Electronic Book Review/EBR Image + Narrative.md",
+    "Publications - Academic/Electronic Book Review/EBR First Person.md",
+    "Publications - Academic/Electronic Book Review/EBR Electropoetics.md",
+    "Publications - Academic/Electronic Book Review/EBR End Construction.md",
+    "Publications - Academic/Electronic Book Review/EBR Critical Ecologies.md",
+    "Publications - Academic/Electronic Book Review",
+    "Publications - Academic/Narrascope/Narrascope 2022 Program.md",
+    "Publications - Academic/Narrascope/Narrascope 2026 Program.md",
+    "Publications - Academic/Narrascope/Narrascope 2025 Program.md",
+    "Publications - Academic/Narrascope/Narrascope 2023 Program.md",
+    "Publications - Academic/Narrascope/Narrascope 2024 Program.md",
+    "Publications - Academic/Narrascope/Narrascope 2020 Program.md",
+    "Publications - Academic/Narrascope",
+    "Publications - Academic/Podcasts",
+    "Publications - Academic/Presses",
+    "Publications - Academic/Solo Journals",
+    "Publications - Lit Mags",
+    "Publications - Art Mags",
+    "Screenshot 2026-09-18 at 11.08.44 AM.png",
+    "__pycache__/alias_scan.cpython-310.pyc",
+    "__pycache__",
+    "Pasted image 20260917114516.png",
+    "Pasted image 20260917114509.png"
   ]
 }

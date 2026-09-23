@@ -286,7 +286,7 @@ CELL Member : French-language E-lit
 | [[Stephanie Strickland]]                                 |
 | [[Alison Craighead]]                                     |
 | [[Jackie Craven]]                                        |
-| [[David Crawford]]                                       |
+| [[David L. Crawford]]                                       |
 | Cult of Marms]]                                          |
 | [[Cassidy Curtis]]                                       |
 | [[Philippe Cyroulnik]]                                   |
@@ -1166,7 +1166,7 @@ CELL Member : French-language E-lit
 | [[Josh Carroll]]                                         |
 | [[Noah Wardrip-Fruin]]                                   |
 | [[Mary Warnell]]                                         |
-| [[Jun Watanabe]]                                         |
+| [[Junji Watanabe]]                                         |
 | [[Wayne Dunkley]]                                        |
 | [[Annette Weintraub]]                                    |
 | [[Joel Weishaus]]                                        |

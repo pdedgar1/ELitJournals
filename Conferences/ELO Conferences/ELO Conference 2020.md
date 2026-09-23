@@ -13,7 +13,7 @@
 | [[Ana Maria Silva Machado]]                                         |
 | [[Andrew Haik Demirjian]]                                          |
 | [[Andrew Ferguson]]                                           |
-| [[Anne Sullivan]]                                             |
+| [[Anne M. Sullivan]]                                             |
 | [[Bonnie Cross]]                                              |
 | [[Daniel Cox]]                                                   |
 | [[David Ciccoricco]]                                          |
@@ -102,5 +102,5 @@
 [[Deena Larsen]]
 [[Ian Hatcher]]
 [[Matthew Nichols]]
-[[Michael Thomas]]
+[[Michael J. Thomas]]
 [[Jason Nelson]]

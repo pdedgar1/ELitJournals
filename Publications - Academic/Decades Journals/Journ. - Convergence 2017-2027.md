@@ -28,7 +28,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Aleksandra Kaminska]]              |
 | [[Alessandro Caliandro]]             |
 | [[Alessandro Gandini]]               |
-| [[Alex A Ahmed]]                     |
+| [[Alex A. Ahmed]]                     |
 | [[Alex Beattie]]                     |
 | [[Alex Louise Bevan]]                       |
 | [[Alex Chalk]]                       |
@@ -45,9 +45,9 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Alice Ji]]                         |
 | [[Alisha Karabinus]]                 |
 | [[Allison E. White]]                  |
-| [[Allison Lazard]]                   |
+| [[Allison J. Lazard]]                   |
 | [[Altman Yuzhu Peng]]                |
-| [[Amanda Catherine Cote]]                    |
+| [[Amanda C. Cote]]                    |
 | [[Amanda D. Lotz]]                   |
 | [[Amanda Keeler]]                    |
 | [[Ambar Reyes]]                      |
@@ -181,7 +181,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Catalina Iordache]]                |
 | [[Catarina Navio]]                   |
 | [[Catherine Johnson]]                |
-| [[Catherine Talbot]]                 |
+| [[Catherine V. Talbot]]                 |
 | [[Cathrin Helen Bengesser]]                |
 | [[Cathrin Helen Bengesser]]          |
 | [[Cecilia Chen]]                     |
@@ -277,7 +277,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Davide Cino]]                      |
 | [[Dawn Watkins]]                     |
 | [[Debarun Sarkar]]                   |
-| [[Débora Salles]]                    |
+| [[Débora Gomes Salles]]                    |
 | [[Deborah Castro]]                   |
 | [[Deborah Lupton]]                   |
 | [[Deborah Maxwell]]                  |
@@ -291,14 +291,14 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Diego Losada-Fernández]]           |
 | [[Diogo Cabral]]                     |
 | [[Dmitri Williams]]                  |
-| [[Dominique Carlon]]                 |
+| [[Dominique Maree Carlon]]                 |
 | [[Donato Ricci]]                     |
 | [[Donghee Yvette Wohn]]              |
 | [[Donna Hancox]]                     |
-| [[Donna Z. Davis]]                    |
+| [[Donna Zimmerman Davis]]                    |
 | [[Dorothy Butchard]]                 |
 | [[Douglas M. McLeod]]                 |
-| [[Dustin Edwards]]                   |
+| [[Dustin W. Edwards]]                   |
 | [[Eddy Borges-Rey]]                  |
 | [[Edgar Gómez Cruz]]                 |
 | [[Edgar Simpson]]                    |
@@ -667,11 +667,11 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Manfredo Manfredini]]              |
 | [[Manuel José Damásio]]              |
 | [[Manuel Menke]]                     |
-| [[Marc Ouellette]]                   |
+| [[Marc A. Ouellette]]                   |
 | [[Marc Tuters]]                      |
 | [[Marcel Verhoeven]]                 |
 | [[Marcelo Alves dos Santos Jr.]]          |
-| [[Marcelo Santos]]                   |
+| [[Marcelo Alves dos Santos]]                   |
 | [[Mareike Sperzel]]                  |
 | [[Maria Gemma Brown]]                |
 | [[Maria K. Alberto]]                  |
@@ -681,14 +681,14 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Maria White]]                      |
 | [[Maria-Jose Masanet]]               |
 | [[Marianne Clark]]                   |
-| [[Mariek Vanden Abeele]]             |
+| [[Mariek MP Vanden Abeele]]             |
 | [[Marika Cifor]]                     |
 | [[Marika Lüders]]                    |
 | [[Marina Dekavalla]]                 |
 | [[Mário Passos Ascenção]]            |
 | [[Mark Andrejevic]]                  |
 | [[Mark Eisenegger]]                  |
-| [[Mark R. Johnson]]                   |
+| [[Mark Richard Johnson]]                   |
 | [[Markus Stauff]]                    |
 | [[Marleen te Walvaart]]              |
 | [[Marta Severo]]                     |
@@ -711,7 +711,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Matthew David]]                    |
 | [[Matthew Hilborn]]                  |
 | [[Matthew Pittman]]                  |
-| [[Matthew Vetter]]                   |
+| [[Matthew A. Vetter]]                   |
 | [[Matti Tedre]]                      |
 | [[Mattias Ekman]]                    |
 | [[Maxime Crépel]]                    |
@@ -902,7 +902,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Sandra Martorell]]                 |
 | [[Sanni Kahila]]                     |
 | [[Sara E. Davies]]                    |
-| [[Sara Liao]]                        |
+| [[Sara X. T. Liao]]                        |
 | [[Sara Van Bruyssel]]                |
 | [[Sarah Atkinson]]                   |
 | [[Sarah Cardey]]                     |
@@ -1038,7 +1038,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Vicki Clifton]]                    |
 | [[Víctor Ávila Torres]]              |
 | [[Víctor Navarro-Remesal]]           |
-| [[Victoria Gosling]]                 |
+| [[Victoria K. Gosling]]                 |
 | [[Viktor Grechyn]]                   |
 | [[Ville Malinen]]                    |
 | [[Vincent Miller]]                   |

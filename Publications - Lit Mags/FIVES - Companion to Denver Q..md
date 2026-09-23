@@ -24,7 +24,7 @@
 | [[Francesco Levato]]                                     |
 | [[Francesco Levato]]                                     |
 | [[Ginger Ko]]                                            |
-| [[Gregg Williard]]                                       |
+| [[Greg Williard]]                                       |
 | [[Gwylym Cano]]                                          |
 | [[Hannah Bishop]]                                        |
 | [[Hao Guang Tse]] & [[Boedi Widjaja]]                    |

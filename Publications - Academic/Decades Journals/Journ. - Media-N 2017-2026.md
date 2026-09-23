@@ -160,7 +160,7 @@
 
 - [[Corinna Kirsch]] and [[Rebecca Uliasz]] — Introduction: Media and Climate (Editorial)
 - [[Jung Choi]] — The Subversive Path: Art Toward the Neganthropocene
-- [[Thomas Pringle]] — Political Climates: Proxy, Population, and Global Heating
+- [[Thomas Patrick Pringle]] — Political Climates: Proxy, Population, and Global Heating
 - [[Rahel Kesselring]] — I Like to Think of a Cybernetic Forest Filled With Pines and Electronics
 - [[Nicole Sansone Ruiz]] — Looking at Nothing, Bigly: The Right-Wing Politics of Texture Mapping Earth
 - [[Tega Brain]], [[Sam Lavigne]], [[Corinna Kirsch]], and [[Rebecca Uliasz]] — Sabotage, Implementation, and Expanded Geo-engineering (Interview)

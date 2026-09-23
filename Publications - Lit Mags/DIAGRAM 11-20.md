@@ -233,7 +233,7 @@
 [[Jill Talbot]]
 [[Jocelyn Sears]]
 [[Leora Fridman]]
-[[Lillian-Tvonne Bertram]]
+[[Lillian-Yvonne Bertram]]
 [[Megan Peak]]
 [[Meghan L. Dowling]]
 [[Paul Crenshaw]]]]

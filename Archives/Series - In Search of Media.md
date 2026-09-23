@@ -22,7 +22,7 @@
 |[[Ranjodh Singh Dhaliwal]], [[Théo Lepage-Richer]] and [[Lucy A. Suchman]]|
 |[[Rutvica Andrijasevic]], [[Melissa Gregg]], [[Marc Steinberg]] and [[Julie Yujie Chen]]|
 |[[Tero Jukka Karppi]], [[Urs Stäheli]], [[Clara Wieghorst]] and [[Lea Zierott]]|
-|[[Thomas Pringle]], [[Gertrud Koch]] and [[Bernard Stiegler]]|
+|[[Thomas Patrick Pringle]], [[Gertrud Koch]] and [[Bernard Stiegler]]|
 |[[Timon Beyes]], [[Lisa Conrad]] and [[Reinhold Martin]]|
 
   

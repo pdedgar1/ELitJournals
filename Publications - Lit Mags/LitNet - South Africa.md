@@ -304,7 +304,7 @@ _PoetryNet, LitNet's English-language poetry platform: previously published poet
 - [[Sue Clark]]
 - [[Eckhard Cloete]]
 - [[Lisa Combrinck]]
-- [[Michael Cope]]
+- [[Michael R. Cope]]
 - [[Gary Cummiskey]]
 - [[Sumeera Dawood]]
 - [[Leon de Kock]]

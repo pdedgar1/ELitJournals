@@ -96,7 +96,7 @@
 - [[Debra Howcroft]]
 - [[Robert Hassan]]
 - [[John Hudson]]
-- [[Rachel Gibson]]
+- [[Rachel K. Gibson]]
 - [[Stephen Ward]]
 - [[Diane F. Witmer]]
 
@@ -134,7 +134,7 @@
 - [[Roger Burrows]]
 - [[Sarah Nettleton]]
 - [[Nicholas Pleace]]
-- [[Brian Loader]]
+- [[Brian D. Loader]]
 - [[Steven Muncer]]
 
 ---
@@ -379,7 +379,7 @@
 
 - [[Bob Rehak]]
 - [[TL Taylor]]
-- [[Beth Kolko]]
+- [[Beth E. Kolko]]
 - [[Dmitri Williams]]
 - [[Bernadette Flynn]]
 - [[Diane Nutt]]
@@ -403,7 +403,7 @@
 - [[Ana Viseu]]
 - [[Andrew Clement]]
 - [[Jane Aspinall]]
-- [[Debora Halbert]]
+- [[Debora J. Halbert]]
 
 ---
 
@@ -426,7 +426,7 @@
 
 - [[Roger Burrows]]
 - [[Nick Ellison]]
-- [[Concetta Stewart]]
+- [[Concetta M. Stewart]]
 - [[Gisela Gil-Egui]]
 - [[Mary Pileggi]]
 - [[Ronald McQuaid]]
@@ -588,7 +588,7 @@
 - [[Ana Viseu]]
 - [[Andrew Clement]]
 - [[Jane Aspinall]]
-- [[Tracy L. M. Kennedy]]
+- [[Tracy LM Kennedy]]
 - [[Nelly Oudshoorn]]
 - [[Andre Somers]]
 
@@ -677,7 +677,7 @@
 
 - [[Brian D. Loader]]
 - [[William H. Dutton]]
-- [[Michael Xenos]]
+- [[Michael A. Xenos]]
 - [[W. Lance Bennett]]
 - [[Limor Shifman]]
 - [[Stephen Coleman]]
@@ -699,7 +699,7 @@
 - [[William H. Dutton]]
 - [[Sonia Livingstone]]
 - [[Ellen J. Helsper]]
-- [[Tracy L. M. Kennedy]]
+- [[Tracy LM Kennedy]]
 - [[Barry Wellman]]
 - [[Anabel Quan-Haase]]
 - [[Sonja Utz]]

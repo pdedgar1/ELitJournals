@@ -26,14 +26,14 @@
 ### Volume 1, Issue 2 (April 2006)
 
 - [[Barry Atkins]]
-- [[Thomas Malaby]]
+- [[Thomas M. Malaby]]
 - [[Edward Castronova]]
 
 ### Volume 1, Issue 3 (July 2006)
 
-- [[Constance Steinkuehler]]
+- [[Constance A. Steinkuehler]]
 - [[Robert Alan Brookey]]
-- [[Paul Booth]]
+- [[Paul J. Booth]]
 - [[Adriana de Souza e Silva]]
 - [[Girlie C. Delacruz]]
 - [[Anders Tychsen]]
@@ -45,13 +45,13 @@
 
 - [[Tanya Krzywinska]]
 - [[Henry Lowood]]
-- [[Nicolas Ducheneaut]]
+- [[Nicolas B. Ducheneaut]]
 - [[Nick Yee]]
 - [[Eric Nickell]]
 - [[Robert J. Moore]]
 - [[TL Taylor]]
 - [[Dmitri Williams]]
-- [[Nicolas Ducheneaut]]
+- [[Nicolas B. Ducheneaut]]
 - [[Li Xiong]]
 - [[Yuanyuan Zhang]]
 - [[Nick Yee]]
@@ -134,7 +134,7 @@
 
 ### Volume 3, Issue 3-4 (July 2008)
 
-- [[Constance Steinkuehler]]
+- [[Constance A. Steinkuehler]]
 - [[James Paul Gee]]
 - [[Ben DeVane]]
 - [[Kurt D. Squire]]
@@ -143,7 +143,7 @@
 - [[Elisabeth R. Hayes]]
 - [[Ivan Alex Games]]
 - [[David W. Simkins]]
-- [[Constance Steinkuehler]]
+- [[Constance A. Steinkuehler]]
 - [[Drew Davidson]]
 
 ### Volume 4, Issue 1 (January 2009)

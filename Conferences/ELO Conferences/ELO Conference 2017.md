@@ -72,7 +72,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Liliana Vasques]] (U. Coimbra, Portugal), "Remixing and Textual Appropriation in Digital Poetry"
 - [[Piotr Małecki]] (Jagiellonian U., Poland) and [[Jan K. Argasiński]] (Jagiellonian U., Poland), "Internet of Things and Electronic Literature. Tadeusz Peiper's Spatially Blossoming Poem"
 
-- [[Salif Silva]] (U. Cape Verde), "Metafor[ma]: Metamorphoses of Cape Verdean Poetry"
+- [[Salif Diallo Silva]] (U. Cape Verde), "Metafor[ma]: Metamorphoses of Cape Verdean Poetry"
 - [[Shanmugapriya T.]] (Indian Institute of Technology Indore, India) and Nirmala Menon*, "Locating Literary Practices/Expressions in Indian Digital Spaces"
 - [[Susie Cronin]] (U. Cambridge, UK), "Can we (still) Speak of a 'French' Digital Literature?"
 - [[Roberta Iadevaia]] (International U. Languages and Media, Italy), "(Ghosts of the) Generative Literature in Italy Between Past, Present and Future"
@@ -264,7 +264,7 @@ Communities in the Making: Motivations, Objectives, and Values of Creative Liter
 
 - [[Anastasia Salter]] (U. Central Florida, USA), "You're the Star of the Story? Adventure Games in Virtual Reality"
 - [[John T. Murray]] (U. California Santa Cruz, USA), "What is Chosen: Rethinking Choice-based Narrative Games Traversals"
-- [[Anne Sullivan]] (U. Central Florida, USA), "Crafting Play: Creating Tangible Artifacts from Player Narrative"
+- [[Anne M. Sullivan]] (U. Central Florida, USA), "Crafting Play: Creating Tangible Artifacts from Player Narrative"
  Keynote @Auditório [Presenter: [[M. D. Coverley aka Marjorie C. Luesebrink]]  
 [[Matthew G. Kirschenbaum]] (U. Maryland, USA), "ELO and the Electric Light Orchestra: Lessons for [Host: [[Dene Grigar]]
 Retooling the Tools [Chair: [[David Jhave Johnston]]]]  

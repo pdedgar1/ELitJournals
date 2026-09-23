@@ -188,7 +188,7 @@
 | [[Mary K. Stewart]], [[Andrew Kelly Stewart]]                                                           |
 | [[Matthew A. Vetter]], [[Brent Lucia]], [[Jialei Jiang]], [[Mahmoud Othman]]                            |
 | [[Matthew A. Vetter]], [[Jialei Jiang]], [[Mahmoud Othman]], [[Mercy Muguimi]]                          |
-| [[Matthew Bryan]]                                                                                       |
+| [[Matthew D. Bryan]]                                                                                       |
 | [[Michael Pennell]], [[Gianna Riley]]                                                                   |
 | [[Nupoor Ranade]], [[Douglas Eyman]]                                                                    |
 | [[Payal Nagpal]]                                                                                        |
@@ -214,7 +214,7 @@
 | [[Courtney Rivard]], [[DA Hall]], [[Stephanie Kinzinger]], [[Doug Stark]]                                         |
 | [[Daniel Libertz]], [[Kamal Belmihoub]], [[Constantin Schreiber]], [[Lisa Blankenship]]                           |
 | [[Dongmei Cheng]], [[Mimi Li]], [[Tony Lee]]                                                                      |
-| [[Dr. Jason Tham]]                                                                                                |
+| [[Jason Tham]]                                                                                                |
 | [[Elise Silva]]                                                                                                   |
 | [[Emma Kostopolus]]                                                                                               |
 | [[Eric J. York]]                                                                                                  |
@@ -226,11 +226,11 @@
 | [[Joe Schicke]], [[Scott Weedon]]                                                                                 |
 | [[John R. Gallagher]], [[Kyle Wagner]], [[Jordan Canzonetta]]                                                     |
 | [[Krista Grant]]                                                                                                  |
-| [[Lisa Sperber]], [[Marit MacArthur]], [[Sophia Minnillo]], [[Nicholas Stillman]], [[Carl Whithaus]]              |
-| [[Maggie Fernandes]], [[Megan McIntyre]]                                                                          |
+| [[Lisa Sperber]], [[Marit J. MacArthur]], [[Sophia Minnillo]], [[Nicholas Stillman]], [[Carl Whithaus]]              |
+| [[Maggie Fernandes]], [[Megan M. McIntyre]]                                                                          |
 | [[Matt Manierre]], [[Lisa Propst]], [[Alex Cohen]], [[JoAnn Rogers]]                                              |
 | [[Matthew Overstreet]]                                                                                            |
-| [[Megan McIntyre]]                                                                                                |
+| [[Megan M. McIntyre]]                                                                                                |
 | [[Nóra Wünsch-Nagy]]                                                                                              |
 | [[Rebekah Shultz Colby]]                                                                                          |
 | [[Roberto Rojas-Alfaro]], [[Jeshua Enriquez]]                                                                     |
@@ -272,7 +272,7 @@
 | [[Margaret Webb]], [[Sweta Baniya]], [[Katrina Powell]], [[Layla Scott]], ... [[Grant Rissler]]                               |
 | [[Meghan Velez]], [[Kara Taczak]], [[Matthew D. Bryan]]                                                                       |
 | [[Meng Yu]]                                                                                                                   |
-| [[Morgan Banville]], [[Leah Heilig]], [[Madison Jones]]                                                                       |
+| [[Morgan Banville]], [[Leah Heilig]], [[Madison Percy Jones]]                                                                       |
 | [[Naomi Silver]], [[Jason Tham]], [[Zhaozhe Wang]]                                                                            |
 | [[Nupoor Ranade]], [[Daniel L. Hocutt]]                                                                                       |
 | [[Qianqian Zhang-Wu]]                                                                                                         |

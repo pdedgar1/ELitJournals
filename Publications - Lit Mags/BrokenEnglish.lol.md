@@ -24,7 +24,7 @@ _A loose, ongoing collection of individually published poems and text pieces, mo
 - [[Andrea Muriel]]
 - [[María Cristina Hall]]
 - [[Crhistian Bafomec]]
-- [[David Martínez]]
+- [[David Tomas Martínez]]
 - [[Melissa Cerrillo]]
 - [[Berta García Faet]]
 - [[Carolina Villanueva Lucero]]

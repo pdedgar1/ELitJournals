@@ -71,7 +71,7 @@
 - [[Juha Herkman]]
 - [[Anthony Quinn]]
 - [[Heather Walmsley]]
-- [[David Hill]]
+- [[David W. Hill]]
 
 ### Vol. 32, Issue 5 (September 2010)
 
@@ -86,14 +86,14 @@
 - [[Annelies Knoppers]]
 - [[Sonja De Leeuw]]
 - [[Aswin Punathambekar]]
-- [[Melissa Wall]]
+- [[Melissa A. Wall]]
 - [[Michael Meyen]]
 - [[Senta Pfaff-Rüdiger]]
 - [[Kathrin Dudenhöffer]]
 - [[Julia Huss]]
 - [[Vili Lehdonvirta]]
 - [[Panayiota Tsatsou]]
-- [[David Brake]]
+- [[David R. Brake]]
 - [[Jerry Komia Domatob]]
 
 ### Vol. 32, Issue 6 (November 2010)
@@ -152,7 +152,7 @@
 - [[Laura Stein]]
 - [[Sandrine Boudana]]
 - [[Janelle Ward]]
-- [[Claes de Vreese]]
+- [[Claes H. de Vreese]]
 - [[Tae-Il Yoon]]
 - [[Kyung-Hee Kim]]
 - [[Han-Jin Eom]]
@@ -170,7 +170,7 @@
 
 - [[Herbert Pimlott]]
 - [[Niels van Doorn]]
-- [[David Lee]]
+- [[David S. Lee]]
 - [[Christine Hine]]
 - [[Sanem Şahin]]
 - [[Valérie Gorin]]
@@ -667,7 +667,7 @@
 - [[Matt Sienkiewicz]]
 - [[Simon Dawes]]
 - [[Lindsay Ems]]
-- [[Daya Thussu]]
+- [[Daya Kishan Thussu]]
 - [[Raymond Boyle]]
 - [[Yves Laberge]]
 
@@ -1212,7 +1212,7 @@
 - [[Paul Frosh]]
 - [[Akiba A. Cohen]]
 - [[Maria Eugenia Mitchelstein]]
-- [[Pablo J. Boczkowski]]
+- [[Pablo Javier Boczkowski]]
 - [[María Celeste Wagner]]
 - [[Karin van Es]]
 - [[Ranjana Das]]
@@ -1448,10 +1448,10 @@
 - [[Irene Costera Meijer]]
 - [[Leena Ripatti-Torniainen]]
 - [[Grażyna Stachyra]]
-- [[Mark R. Johnson]]
+- [[Mark Richard Johnson]]
 - [[Jamie Woodcock]]
 - [[Tanya Notley]]
-- [[Michael Dezuanni]]
+- [[Michael Luigi Dezuanni]]
 - [[Mariam Betlemidze]]
 - [[John Corner]]
 - [[Tianru Guan]]
@@ -1497,7 +1497,7 @@
 
 ### Vol. 41, Issue 8 (November 2019)
 
-- [[Mervi Pantti]]
+- [[Mervi Katriina Pantti]]
 - [[Markus Ojala]]
 - [[Penelope Papailias]]
 - [[Benjamin Haber]]

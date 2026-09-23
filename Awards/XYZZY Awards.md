@@ -315,7 +315,7 @@
 - 2018: Dialog
 - 2019: AI Dungeon
 - 2020: Adventuron
-- 2021: [[Robin Johnson]] (Gruescript)
+- 2021: [[Robin S. Johnson]] (Gruescript)
 - 2022: Inform 7 build 10.1.0
 
 #### Best Supplemental Materials

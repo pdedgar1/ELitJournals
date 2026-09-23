@@ -22,7 +22,7 @@ ed by [[Cary Wolfe]]
 | [[David Wills]]                                               |
 | [[David Wills]]                                               |
 | [[David Wills]]                                               |
-| [[David Wood]]                                                |
+| [[David Murakami Wood]]                                                |
 | [[Davide Tarizzo]]                                            |
 | [[Dominic Pettman]]                                           |
 | [[Dominic Pettman]]                                           |

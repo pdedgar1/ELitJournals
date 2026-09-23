@@ -26,7 +26,7 @@
 - [[Marko Jobst]]
 - [[Nicola Masciandaro]]
 - [[Jacob Huntley]]
-- [[Peter McDonald]]
+- [[Peter D. McDonald]]
 - [[Dennis Mischke]]
 - [[Danielle Bouchard]]
 - [[Andrew Robinson]]

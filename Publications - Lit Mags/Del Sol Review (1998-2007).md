@@ -455,7 +455,7 @@ chief editor [[Kara De Folo]], SFF ed [[Richard Hacker]], managing [[Lorena Knig
 - [[Bruce Rogers]] — "Evictions" / "The Last Gift"
 - [[Franziska Sperr]] — "The Lipstick"
 - [[Sheela Sukumaran]] — "Reclaiming Savitri"
-- [[Teresa Swingler]] — "The Laughing Buddha"
+- [[Teresa Shen Swingler]] — "The Laughing Buddha"
 - [[Belle Brett]] — "Heartbreak Hotel"
 - [[Eugene Luetkemeyer]] — "Luminous"
 - [[Chien-Wen Kao]] — "Breaking Through The Ice"

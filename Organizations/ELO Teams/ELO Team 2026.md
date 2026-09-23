@@ -22,7 +22,7 @@
 | [[Christina Restrepo Nazar]]             |
 | [[Claudia Kozak]]                        |
 | [[Daniel Cox]]                           |
-| [[Daniel Heslep]]                        |
+| [[Daniel Grant Heslep]]                        |
 | [[Deena Larsen]]                         |
 | [[Dene Grigar]]                          |
 | [[Élika Ortega]]                         |
@@ -56,7 +56,7 @@
 | [[Alex Saum-Pascual]]                    |
 | [[Alyssa Barrack]]                       |
 | [[Anastasia Salter]]                     |
-| [[Anne Sullivan]]                        |
+| [[Anne M. Sullivan]]                        |
 | [[Claudia Kozak]]                        |
 | [[Daniel Cox]]                           |
 | [[Deena Larsen]]                         |
@@ -103,11 +103,11 @@
 | [[Vee Kennedy]]                          |
 | [[Emery Beckman]]                        |
 | [[Emilie Buckley]]                       |
-| [[Daniel Heslep]]                        |
+| [[Daniel Grant Heslep]]                        |
 | [[Alyssa Barrack]]                       |
 | [[Favour Boluwade]]                      |
 | [[Kirk M. Lundblade]]                       |
-| [[Matthew Bryan]]                        |
+| [[Matthew D. Bryan]]                        |
 | [[P. D. Edgar]]                           |
 | [[Glenn S. Ritchey III]]                 |
 | [[Mark C. Marino]]                       |

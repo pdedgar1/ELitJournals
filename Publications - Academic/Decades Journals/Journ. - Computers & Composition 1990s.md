@@ -195,7 +195,7 @@
 [[Laura L. Sullivan]]
 [[Will Hochman]]
 [[Jonathan Alexander]]
-[[Michael Bennett]], [[Kathleen Walsh]]
+[[Michael Y. Bennett]], [[Kathleen Walsh]]
 [[Scott Lloyd DeWitt]]
 [[Michelle Comstock]]
 [[Joanne Addison]]

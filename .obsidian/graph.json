@@ -11,35 +11,42 @@
       "query": "path:\"Publications - Lit Mags\"  ",
       "color": {
         "a": 1,
-        "rgb": 14352384
+        "rgb": 16711680
       }
     },
     {
       "query": "path:Awards  ",
       "color": {
         "a": 1,
-        "rgb": 14784261
+        "rgb": 13736192
+      }
+    },
+    {
+      "query": "path:\"Conferences/ELO Conferences\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16767785
       }
     },
     {
       "query": "path:Conferences  ",
       "color": {
         "a": 1,
-        "rgb": 13230162
+        "rgb": 16773468
       }
     },
     {
       "query": "path:Organizations  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 61440
       }
     },
     {
       "query": "path:\"Publications - Academic\"  ",
       "color": {
         "a": 1,
-        "rgb": 8781782
+        "rgb": 8060883
       }
     },
     {
@@ -69,25 +76,18 @@
         "a": 1,
         "rgb": 14701233
       }
-    },
-    {
-      "query": "path:\"Conferences/ELO Conferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15582032
-      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1.51806448417378,
+  "nodeSizeMultiplier": 1.50743190716543,
   "lineSizeMultiplier": 0.1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 19.0292616638985,
-  "linkStrength": 0.95,
+  "centerStrength": 0.01,
+  "repelStrength": 19.0115510423278,
+  "linkStrength": 0.900940723421813,
   "linkDistance": 500,
-  "scale": 0.019684119625208333,
+  "scale": 0.049682834805331186,
   "close": false
 }

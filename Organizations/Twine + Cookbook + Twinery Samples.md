@@ -104,7 +104,7 @@ Samples
 | [[Justin Reichard]]                                       |
 | [[Lauren O'Donoghue]]                                     |
 | [[sexartpolitics]]                                        |
-| [[Andrew Brown]]                                          |
+| [[Andrew R. Brown]]                                          |
 | [[Andrew Schultz]]                                        |
 | [[SuperFreak]]                                            |
 | [[Mostafa Haque]]                                         |

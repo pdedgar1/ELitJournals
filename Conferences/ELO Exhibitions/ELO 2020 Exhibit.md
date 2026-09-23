@@ -52,7 +52,7 @@
  [[Piotr Małecki]], [[Krzysztof Kaz Ziembik]], [[Tomasz Tbxx Boksa]], and [[Krystian Pinokio Iwaszko]]
  [[Yovanna Pineda]], [[Emily K. Johnson]], [[Amy Larner Giroux]], and [[Fon Gordon]]
  [[Hazel Smith]], [[Roger T. Dean]], and [[Sieglinde Karl-Spence]]
- [[Anne Sullivan]], [[Katie Farris]], [[Maria Elena Margarella]], and [[Zehua Chen]]
+ [[Anne M. Sullivan]], [[Katie Farris]], [[Maria Elena Margarella]], and [[Zehua Chen]]
 [[Matthew Mosher]]
 [[Jeff Morris]]
 [[M. D. Coverley aka Marjorie C. Luesebrink]]

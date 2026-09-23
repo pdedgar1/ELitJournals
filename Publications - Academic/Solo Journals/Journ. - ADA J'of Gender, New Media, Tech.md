@@ -162,7 +162,7 @@
 | [[Maria Stehle]]                |
 | [[Jenny Sundén]]                |
 | [[Cara K. Synder]]               |
-| [[Leonie Tanczer]]              |
+| [[Leonie Maria Tanczer]]              |
 | [[Nicholas Taylor]]             |
 | [[Sophie Toupin]]               |
 | [[John Vanderhoef]]             |

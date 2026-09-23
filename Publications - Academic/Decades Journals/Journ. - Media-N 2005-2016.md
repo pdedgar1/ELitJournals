@@ -2,7 +2,7 @@
 
 ### Invitational Issue (Vol. 01 No. 01) — Fall 2005
 
-- [[Doreen LaMantia Maloney]] and [[Rachel Clarke]] — Screenshots and Audio Effects: Electronic Events (Introduction)
+- [[Doreen LaMantia Maloney]] and [[Rachel Ivy Clarke]] — Screenshots and Audio Effects: Electronic Events (Introduction)
 - [[Nomi Talisman]] — Everything I Knew About America I Learned from the Movies
 - [[Susan Otto]] — Video as Data: Cross Media Art Practice in the Post-Technological Landscape
 - [[Roberto Bocci]] — From Serial to Parallel, New Forms of Viewer Interaction
@@ -19,7 +19,7 @@
 
 ### Mediated Perspectives (Vol. 02 No. 01) — Spring 2006
 
-- [[Rachel Clarke]] — Editorial Introduction
+- [[Rachel Ivy Clarke]] — Editorial Introduction
 - [[Juliet Davis]] — Representing the Body in Cyberfeminist Art
 - [[Nancy Atakan]] — From New Media from the Periphery
 - [[Judy Bullington]] — MEDIA + WAR = War Room
@@ -50,7 +50,7 @@
 - [[Claudia Hart]] — On the Geek As Humanist
 - [[Gordon Winiemko]] — Let Me Tell You Something: Why I Like Movies Better than Art
 - [[Caroline Jones]] — Sensorium: New Media Complexities for Embodied Experience
-- [[Katie Brewer Ball]] — (Re)sounding Fantasy and Seeking Pleasure: Brad Neely's Hideously Fabulous Wizard People, Dear Reader
+- [[Katherine Brewer Ball]] — (Re)sounding Fantasy and Seeking Pleasure: Brad Neely's Hideously Fabulous Wizard People, Dear Reader
 - [[Jane Chin Davidson]] — Instrumental Conceptions of Images and the Globalized 'Everyday'
 - [[Andrew McNamara]] — The Myth of New Media
 - [[Donald Preziosi]] — Afterword: Artifice and Interactivity
@@ -101,7 +101,7 @@
 
 ### Imaging in the Digital (Vol. 04 No. 02) — Winter 2008
 
-- [[Rachel Clarke]] — Editor's Introduction
+- [[Rachel Ivy Clarke]] — Editor's Introduction
 - [[Cathy Treadway]] — Shorelines: Revealing Experience in Digital Practice
 - [[Joan Truckenbrod]] — Digital Raw Materials
 - [[Paul Catanese]] — The Small Magnetism: Interrogating the Nature of Collection
@@ -115,7 +115,7 @@
 
 ### Foreignness and Translation in New Media (Vol. 05 No. 01) — Spring 2009
 
-- [[Rachel Clarke]] — Editor's Introduction
+- [[Rachel Ivy Clarke]] — Editor's Introduction
 - [[Roderick Coover]] — Artifacts: Displacements of Technological Culture and the Concept of Foreignness
 - [[Heidi J. Davis]] — New Media and Travel: How New Media Practices Shape Tourism
 - [[Veronika Tzankova]] and [[Thecla Schiphorst]] — Turkish Tea and Internet: The Invasion of New Media and the Shifting Sands of Culture
@@ -147,12 +147,12 @@
 
 ### Highlights from New Media Caucus Events at the CAA Conference, Dallas 2008 (Vol. 04 No. 03) — CAA 2008
 
-- [[Rachel Clarke]] — Editor's Introduction
+- [[Rachel Ivy Clarke]] — Editor's Introduction
 - [[Paul Catanese]] — "Art Blogging == Global.Exhibit(Local)"
 - [[Michael Jay McClure]] — Thickened Surface: Pipilotti Rist's Sip My Ocean (1996)
 - [[Andrea Ackerman]] — New Media Art Takes as its Subject the Processes of the Brain/Mind
 - [[Leslie Raymond]] — NMC CAA Dallas, February 2008 (Introduction)
-- [[Rachel Clarke]] — Real Time: Interview with Dean Terry
+- [[Rachel Ivy Clarke]] — Real Time: Interview with Dean Terry
 
 ### agriART: Companion Planting for Social and Biological Systems (Vol. 05 No. 03) — Winter 2009
 
@@ -165,7 +165,7 @@
 - [[Fritz Haeg]] — Edible Estates
 - [[Nance Klehm]] and [[Martha Bayne]] — As Above So Below: An Interview with Nance Klehm
 - [[Amanda Matles]] — CHEW ON THIS: Scientific Inquiry by the City, Not by the Book
-- [[Rachel Clarke]] — Stephen Eakin "In Memory Of" (Review)
+- [[Rachel Ivy Clarke]] — Stephen Eakin "In Memory Of" (Review)
 
 ### CAA Conference Edition, 2010 (Vol. 06 No. 01) — Summer 2010
 
@@ -191,7 +191,7 @@
 
 ### Dynamic Coupling (Vol. 06 No. 02) — Fall 2010
 
-- [[Rachel Clarke]] — Editorial Statement
+- [[Rachel Ivy Clarke]] — Editorial Statement
 - [[Jessica Westbrook]] and [[Adam Trowbridge]] — Guest Editors' Statement
 - [[Shannon C. McMullen]] and [[Fabian Winkler]] — Featured Conversation: A Conversation About Collaboration
 - [[Petra Bachmaier]] and [[Sean Gallero]] — Dialogue (Luftwerk)
@@ -217,8 +217,8 @@
 
 ### Under Fire: 3D Animation Pedagogy (Vol. 07 No. 01) — Summer 2011
 
-- [[Rachel Clarke]] and [[Claudia Hart]] — Editorial Statement
-- [[Rachel Clarke]] — Developing a Model for 3D CG Education
+- [[Rachel Ivy Clarke]] and [[Claudia Hart]] — Editorial Statement
+- [[Rachel Ivy Clarke]] — Developing a Model for 3D CG Education
 - [[Claudia Hart]] — Under Fire: 3D Animation Pedagogy and Industry Complicity in New Media Education
 - [[Gregory Little]] — 3D Animation Pedagogy and the Aesthetics of Denial
 - [[Michael Rees]] — Techno Luddite
@@ -244,9 +244,9 @@
 - [[Sabine Gruffat]] — Arduino-based Video Synth: An Open Source Interface
 - [[N_DREW]] (Andrew Bucksbarg) — Intimate Architectures/Social Gestures/Cinema Ontologies
 - [[Silvia Ruzanka]] and [[Katherine Behar]] — Open Dialogue, Feminism and New Media Art: Hot or Not?
-- [[Pat Badani]] and [[Rachel Clarke]] — Media-N Roundtable Discussion
+- [[Pat Badani]] and [[Rachel Ivy Clarke]] — Media-N Roundtable Discussion
 - [[Paul Catanese]] — New Media Caucus Showcase (Review)
-- [[Melissa Potter]] — A Room To View (Review)
+- [[Melissa Hilliard Potter]] — A Room To View (Review)
 
 ### CAA Conference Edition 2012 (Vol. 08 No. 01) — Spring 2012
 
@@ -404,7 +404,7 @@
 - [[Daniel Rourke]] — Case Study #2: The Phantom Zone
 - [[Alex Myers]] — Case Study #3: Fire in the Hole
 - [[Rob Gallagher]] — Case Study #4: Exaptation, Interpretation, PlayStation
-- [[Tom Burtonwood]] and [[Rachel Clarke]] — Panel Chairs Introduction: 3D Printing
+- [[Tom Burtonwood]] and [[Rachel Ivy Clarke]] — Panel Chairs Introduction: 3D Printing
 - [[Morehshin Allahyari]], [[Jason J. Ferguson]], [[Taylor Hokanson]], [[Sophie Kahn]], [[Tom Lauerman]], [[Luis Navarro]], [[Jamie Obermeier]], [[Barbara Rauch]], [[Kristin Stransky]], and [[David Van Ness]] — 3D Printing Panelist Project Statements
 - [[Carolyn L. Kane]] — Jeremy Blake's Cinematic Color
 - [[Elia Vargas]] — A New Ecology of Human Identity
@@ -496,7 +496,7 @@
 - [[Paula Gaetano Adi]] and [[Gustavo Crembil]] — Guest Editorial Statement
 - [[Gabriela Aceves Sepúlveda]] and [[Sarah Shamash]] — Feminizing Oswald de Andrade's "Manifesto Antropófago" and Vasconcelos' Raza Cósmica
 - [[Tania Aedo]] — Travel Notes on Mestizaje and Technoscience
-- [[Diana Domingues]] — Ouroboric Perception and the Effects of Enactive Affective Systems
+- [[Diana Maria Gallicchio Domingues]] — Ouroboric Perception and the Effects of Enactive Affective Systems
 - [[Eduardo Castillo]] — Matter Made from Tradition
 - [[Pedro J. S. Vieira de Oliveira]] and [[Luiza Prado de O. Martins]] — Decolonizing Ecologies of Time
 - [[José-Carlos Mariátegui]] — In Search of Transdisciplinary Models of Creation in Latin America

@@ -13,7 +13,7 @@ gone from internet?
 |52| [[Alex Fleck]], [[Giuseppe Femia]], [[Collin Walsh]], [[Andrew Bailey]]?
 |51| [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Alex Chalk]], [[Aldijana Halilagic]], [[Andrew Bailey]]? 
 |50| [[Emma Vossen]], [[Patrick R. Dolan]], [[Giuseppe Femia]], [[Alex Chalk]]
-|49| [[Alex Chalk]], [[Alison Harvey]], [[Daniel Joseph]]
+|49| [[Alex Chalk]], [[Alison Harvey]], [[Daniel J. Joseph]]
 |48| [[Kacper Szozda]], [[Andrew Bailey]], [[Francis Parr]], [[Patrick R. Dolan]]
 |47| [[Giuseppe Femia]], [[Alex Chalk]], [[Patrick R. Dolan]]
 |46| [[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Alex Chalk]], [[Patrick R. Dolan]]
@@ -27,7 +27,7 @@ transition to youtube
 |39|[[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Lia Black]], [[Patrick R. Dolan]]
 |38|[[Giuseppe Femia]], [[Sabrina Sgandurra]], [[Lia Black]], [[Patrick R. Dolan]]
 |37| [[Michelle Lee Brown]], [[Beth LaPenseé]], [[Maru Nihoniho]], [[Meagan Byrne]], [[Betsy Brey]]
-|36|  [[Elise Vist]], [[Rob Parker]], [[Chris Persaud]], [[Matthew Perks]]
+|36|  [[Elise Vist]], [[Rob Parker]], [[Chris Persaud]], [[Matthew E. Perks]]
 |35| [[Lindsay Meaning]], [[Rob Parker]], [[Sabrina Sgandurra]], [[Axel Hassen Taiari]]
 |34| [[Lia Black]], [[Betsy Brey]], [[Sarah Marie Stang]], [[Nicholas Hobin]], [[Sabrina Sgandurra]]
 |33|[[Lia Black]], [[Giuseppe Femia]], [[Chris Lawrence]], [[Sabrina Sgandurra]]
@@ -38,7 +38,7 @@ transition to youtube
 |29|[[Jason Lajoie]], [[Betsy Brey]], [[Chris Lawrence]], [[Jeremy Antley]], [[Will Fast]], [[Rob Parker]], [[Elise Vist]]
 |28| [[Betsy Brey]], [[Pierson Browne]], [[Will Fast]], [[Rob Parker]], [[Jason Lajoie]]
 |27| [[Betsy Brey]], [[Pierson Browne]], [[Chris Lawrence]]
-|26| [[Betsy Brey]], [[E. Deshane]], [[Matthew Perks]], [[Jason Lajoie]]
+|26| [[Betsy Brey]], [[E. Deshane]], [[Matthew E. Perks]], [[Jason Lajoie]]
 |25| [[Betsy Brey]], [[Chris Lawrence]], [[Will Fast]], [[Justin Carpenter]], [[Jason Lajoie]], [[Pierson Browne]], [[Rob Parker]]
 |24| [[Jason Lajoie]], [[Hazel Monforton]], [[Betsy Brey]], [[Rob Parker]]
 |23| [[Jason Lajoie]], [[Betsy Brey]], [[Chris Lawrence]], [[Will Fast]], [[Pierson Browne]]

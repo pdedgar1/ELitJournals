@@ -642,7 +642,7 @@
 - [[Alix Beeston]]
 - [[Jess Arndt]]
 - [[Ohan Breiding]]
-- [[Katie Brewer Ball]]
+- [[Katherine Brewer Ball]]
 - [[Rianna Turner]]
 - [[Christopher Patrick Miller]]
 - [[Krystale Tremblay-Moll]]
@@ -650,11 +650,11 @@
 
 ### Vol. 10, Issue 3 (September 2025)
 
-- [[David James]]
+- [[David A. James]]
 - [[Alexandra Kingston-Reese]]
 - [[Jay Buchanan]]
 - [[Lorenzo Triburgo]]
-- [[David James]]
+- [[David A. James]]
 - [[Alexandra Kingston-Reese]]
 - [[Amber Jamilla Musser]]
 - [[Scott Herring]]

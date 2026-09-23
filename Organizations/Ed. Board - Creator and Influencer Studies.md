@@ -88,7 +88,7 @@ University of Sydney, Australia
 **[[Shaheen Kanthawala]]**  
 University of Alabama, United States
 
-**[[Do Own Kim]]**  
+**[[Do Own Donna Kim]]**  
 University of Illinois Chicago, United States
 
 **[[Treepon Kirdnark]]**  
@@ -109,7 +109,7 @@ University of Groningen, The Netherlands
 **[[Tanner Mirrlees]]**  
 Ontario Tech University, Canada
 
-**[[David Nieborg]]**  
+**[[David B. Nieborg]]**  
 University of Toronto Scarborough, Canada
 
 **[[Thomas Poell]]**  
@@ -133,7 +133,7 @@ Massachusetts Institute of Technology, United States
 **[[Katrin Tiidenberg]]**  
 Tallinn University, Estonia
 
-**[[Mariah Wellman]]**  
+**[[Mariah L. Wellman]]**  
 Michigan State University, United States
 
 **[[Jian Xu]]**  

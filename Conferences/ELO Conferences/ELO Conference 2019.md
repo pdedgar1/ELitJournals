@@ -350,7 +350,7 @@
 | [[Sally Morfill]]                                                                                       |
 | [[Tychonas Michailidis]]                                                                                |
 | [[Gillian Smith]]                                                                                       |
-| [[Anne Sullivan]]                                                                                       |
+| [[Anne M. Sullivan]]                                                                                       |
 | [[Carolina Gainza]]                                                                                     |
 | [[Nohelia Meza]] & [[Thea Pitman]]                                                                      |
 | [[Rob Wittig]]                                                                                          |

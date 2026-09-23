@@ -25,7 +25,7 @@
 - [[Michael Uhall]]
 - [[Abby Lloyd]]
 - [[John Lawton]]
-- [[Barry Mauer]]
+- [[Barry J. Mauer]]
 - [[Craig J. Saper]]
 - [[Jen Senko]]
 

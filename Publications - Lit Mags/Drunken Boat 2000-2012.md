@@ -27,7 +27,7 @@
 [[Alfred Corn]]
 [[Jenny Factor]]
 [[Melissa Kirsch]]
-[[Ryan Nance]]
+[[Ryan Scott Nance]]
 [[Ned O'Gorman]]
 [[Leslie Scalapino]]
 [[Paul Stephens]]
@@ -569,7 +569,7 @@
 | [[Jeffrey Skinner]]                                                                                                                                                                                                                                                                                                                           |
 | [[Michael Snediker]]                                                                                                                                                                                                                                                                                                                          |
 | [[Lisa Russ Spaar]]                                                                                                                                                                                                                                                                                                                           |
-| [[Steven Stewart]]                                                                                                                                                                                                                                                                                                                            |
+| [[Steven J. Stewart]]                                                                                                                                                                                                                                                                                                                            |
 | [[Terese Svoboda]]                                                                                                                                                                                                                                                                                                                            |
 | [[Nathaniel Tarn]]                                                                                                                                                                                                                                                                                                                            |
 | [[Jeet Thayil]]                                                                                                                                                                                                                                                                                                                               |
@@ -1324,7 +1324,7 @@
 [[J. J. Starr]]
 [[Jeff Nagy]]
 [[Julie Batten]]
-[[Kristen Kostick]]
+[[Kristin Kostick-Quenet]]
 [[Kristin Dykstra]]
 [[Kyle McCord]]
 [[Luis Francia]]
@@ -1402,5 +1402,5 @@
 [[Nico Vassilakis]]
 [[Pamela Paulsrud]]
 [[Scott Helmes]]
-[[Stephanie Schlaifer]]
+[[Stephanie Jukka Schlaifer]]
 [[Toby Fitch]]

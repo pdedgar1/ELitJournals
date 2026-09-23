@@ -37,7 +37,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - [[Celia Pearce]]
     
-- [[Kurt Squire]]
+- [[Kurt D. Squire]]
     
 - [[Aki Järvinen]]
     
@@ -332,7 +332,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - [[Steven Conway]]
     
-- [[Adam Ruch]]
+- [[Adam W. Ruch]]
     
 
 ---

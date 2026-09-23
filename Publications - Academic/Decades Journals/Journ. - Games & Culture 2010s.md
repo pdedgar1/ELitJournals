@@ -16,7 +16,7 @@
 - [[Christopher A. Paul]]
 - [[Dennis Charsky]]
 - [[Chad Raphael]]
-- [[Christine Bachen]]
+- [[Christine M. Bachen]]
 - [[Kathleen-M. Lynn]]
 - [[Jessica Baldwin-Philippi]]
 - [[Kristen A. McKee]]
@@ -60,7 +60,7 @@
 - [[Garry Crawford]]
 - [[Bob De Schutter]]
 - [[Dmitri Williams]]
-- [[Tracy L. M. Kennedy]]
+- [[Tracy LM Kennedy]]
 - [[Robert J. Moore]]
 
 ### Volume 6, Issue 3 (May 2011)
@@ -132,7 +132,7 @@
 ### Volume 7, Issue 2 (March 2012)
 
 - [[Malcolm Ryan]]
-- [[Brigid Costello]]
+- [[Brigid Mary Costello]]
 - [[Samuel Tobin]]
 - [[Kristine Jørgensen]]
 - [[Jenny Sundén]]
@@ -232,7 +232,7 @@
 - [[Margaret de Larios]]
 - [[John T. Lang]]
 - [[Marcus Carter]]
-- [[Martin Gibbs]]
+- [[Martin Ross Gibbs]]
 - [[Mitchell Harrop]]
 
 ### Volume 9, Issue 3 (May 2014)
@@ -272,7 +272,7 @@
 - [[Maxwell Foxman]]
 - [[Michelle Forelle]]
 - [[Ri Pierce-Grove]]
-- [[Peter McDonald]]
+- [[Peter D. McDonald]]
 - [[Kathryn Thompson]]
 - [[Nico Dicecco]]
 - [[Julia Helen Lane]]
@@ -291,7 +291,7 @@
 
 ### Volume 10, Issue 2 (March 2015)
 
-- [[Vinicius Marino Carvalho]]
+- [[Vinícius Marino Carvalho]]
 - [[Margarida Romero]]
 - [[Mireia Usart]]
 - [[Michela Ott]]
@@ -325,7 +325,7 @@
 - [[Rabindra A. Ratan]]
 - [[Nicholas Taylor]]
 - [[Jameson Hogan]]
-- [[Tracy Kennedy]]
+- [[Tracy LM Kennedy]]
 - [[Dmitri Williams]]
 - [[Calum Matheson]]
 - [[Soonhwa Seok]]
@@ -446,7 +446,7 @@
 
 ### Volume 12, Issue 2 (March 2017)
 
-- [[Mark R. Johnson]]
+- [[Mark Richard Johnson]]
 - [[Amanda C. Cote]]
 - [[Holger Pötzsch]]
 - [[Daniel Black]]
@@ -529,7 +529,7 @@
 - [[Jonne Arjoranta]]
 - [[Jason Begy]]
 - [[Felan Parker]]
-- [[Oskar Milik]]
+- [[Oskar Tadeusz Milik]]
 
 ### Volume 13, Issue 1 (January 2018)
 
@@ -561,8 +561,8 @@
 - [[Katherine Frank]]
 - [[Katriina Irja Heljakka]]
 - [[Sebastian Deterding]]
-- [[Melissa J. Rogerson]]
-- [[Martin Gibbs]]
+- [[Melissa Jane Rogerson]]
+- [[Martin Ross Gibbs]]
 - [[Annakaisa Kultima]]
 - [[Timo Nummenmaa]]
 - [[Heikki Tyni]]
@@ -576,7 +576,7 @@
 
 - [[Benjamin Stokes]]
 - [[Dmitri Williams]]
-- [[Thomas Apperley]]
+- [[Thomas H. Apperley]]
 - [[Jussi Parikka]]
 - [[Elizabeth Nyman]]
 - [[Ryan Lee Teten]]
@@ -647,8 +647,8 @@
 
 - [[Shira Chess]]
 - [[Christopher A. Paul]]
-- [[Mark R. Johnson]]
-- [[Sarah Christina Ganzon]]
+- [[Mark Richard Johnson]]
+- [[Sarah Christina Villanueva Ganzon]]
 - [[Cameron Lindsey]]
 - [[Kelly Bergstrom]]
 
@@ -667,7 +667,7 @@
 - [[Malcolm Ryan]]
 - [[Paul Formosa]]
 - [[Rowan Tulloch]]
-- [[Karen Schrier]]
+- [[Karen (Kat) Schrier]]
 - [[Johannes Katsarov]]
 - [[Markus Christen]]
 - [[Ralf Mauerhofer]]

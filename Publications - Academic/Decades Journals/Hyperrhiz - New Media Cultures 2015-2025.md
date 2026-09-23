@@ -98,7 +98,7 @@ Advisory editors
 [[DB Bauer]]
 [[Seth Ellis]]
 [[Darren Tofts]]
-[[Barry Mauer]] and [[Craig J. Saper]]
+[[Barry J. Mauer]] and [[Craig J. Saper]]
 [[Steven Smith]] and [[Jeremiah Roberts]]
 [[Shane Denson]]
 [[Jim Andrews]]

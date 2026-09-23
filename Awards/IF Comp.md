@@ -19,7 +19,7 @@
 - **2013:** _Coloratura_ by [[Lynnea Glasser]]
 - **2014:** _Hunger Daemon_ by [[Sean M. Shore]]
 - **2015:** _Brain Guzzlers from Beyond!_ by [[Steph Cherrywell]]
-- **2016:** _Detectiveland_ by [[Robin Johnson]]
+- **2016:** _Detectiveland_ by [[Robin S. Johnson]]
 - **2017:** _[The Wizard Sniffer](https://en.wikipedia.org/wiki/The_Wizard_Sniffer "The Wizard Sniffer")_ by [[Buster Hudson]]
 - **2018:** _Alias "The Magpie"_ by [[J. J. Guest]]
 - **2019:** _Zozzled_ by [[Steph Cherrywell]]

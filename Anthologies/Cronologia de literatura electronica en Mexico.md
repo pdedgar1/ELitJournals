@@ -8,7 +8,7 @@
 | [[Jesús del Toro]]           |
 | [[Vinicius Marquet]]         |
 | [[Rodolfo Mata]]             |
-| [[Benjamín Moreno]]          |
+| [[Raul Benjamín Moreno]]          |
 | [[Élika Ortega]]             |
 | [[Rodrigo Pérez Ramírez]]    |
 | [[Rafael Pérez y Pérez]]     |

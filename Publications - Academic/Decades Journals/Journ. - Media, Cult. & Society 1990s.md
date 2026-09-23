@@ -182,7 +182,7 @@
 
 - [[Nicholas Garnham]]
 - [[Kevin G. Wilson]]
-- [[Martin C. Elton]]
+- [[Martin C. J. Elton]]
 - [[Rohan Samarajiva]]
 - [[Peter Shields]]
 - [[Paul Lichterman]]

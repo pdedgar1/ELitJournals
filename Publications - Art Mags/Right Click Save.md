@@ -59,7 +59,7 @@ Digital Art Magazine Post-2020
 |[[Charlotte Kent]]|
 |[[Charlotte Kent]]|
 |[[Charlotte Kent]]|
-|[[Chris King]]|
+|[[Chris Jan King]]|
 |[[Christos A. Makridis]] and [[Soula Parassidis]]|
 |[[Clara Peh]]|
 |[[Cody Edison]]|

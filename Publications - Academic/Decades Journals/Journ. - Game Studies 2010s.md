@@ -101,7 +101,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Tuur Ghys]]
     
-- [[Martin Gibbs]]
+- [[Martin Ross Gibbs]]
     
 - [[Joji Mori]]
     
@@ -251,7 +251,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Marcus Carter]]
     
-- [[Martin Gibbs]]
+- [[Martin Ross Gibbs]]
     
 - [[Michael Arnold]]
     

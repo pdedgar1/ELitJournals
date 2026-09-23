@@ -50,7 +50,7 @@
 | [[Alexandra Atiya]]                              |
 | [[Sarah Atkinson]]                               |
 | [[Christoph Aurnhammer]]                         |
-| [[Dr. Jeanie Austin]]                            |
+| [[Jeanie Austin]]                            |
 | [[Loretta Auvil]]                                |
 | [[Djibrirou Daouda Ba]]                          |
 | [[Alexander Babbitt]]                            |
@@ -1147,7 +1147,7 @@
 | [[Mark Pyzyk]]                                   |
 | [[Ana Quiring]]                                  |
 | [[Wesley Raabe]]                                 |
-| [[Daphne Raban]]                                 |
+| [[Daphne Ruth Raban]]                                 |
 | [[Michael Rabby]]                                |
 | [[Joseph Raben]]                                 |
 | [[Milena Radzikowska]]                           |

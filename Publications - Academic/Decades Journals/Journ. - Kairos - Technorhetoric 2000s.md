@@ -135,7 +135,7 @@
 - [[Carl Whithaus]]
 - [[Wendy Warren Austin]]
 - [[Jennifer L. Bowie]]
-- [[Billie Jones]]
+- [[Billie J. Jones]]
 - [[Angela Crow]]
 - [[Margaret Morrison]]
 - [[Deborah Brown]]
@@ -143,13 +143,13 @@
 - [[Bernadette Longo]]
 - [[Lori Mayo]]
 - [[Lisa Hammond Rashley]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Erin Smith]]
 - [[Robert P. Yagelski]]
 - [[Ray Rodrigues]]
 - [[Cynthia Jeney]]
 - [[Joel English]]
-- [[Michael Salvo]]
+- [[Michael J. Salvo]]
 - [[Annmarie Guzy]]
 - [[Danika Brown]]
 - [[Tracy Clark]]
@@ -171,10 +171,10 @@
 ### Vol. 7, Issue 1 (Spring 2002): Disability - Demonstrated By and Mediated Through Technology
 
 - [[Cheryl E. Ball]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Patricia A. Dunn]]
 - [[Kathleen Dunn De Mers]]
-- [[Michael Salvo]]
+- [[Michael J. Salvo]]
 - [[Marlana Portolano]]
 - [[Brenda Brueggemann]]
 - [[Wendy L. Chrisman]]
@@ -184,14 +184,14 @@
 - [[Susan Grover]]
 - [[Anne Hendricks]]
 - [[Marlana Portolano]]
-- [[Michael Salvo]]
+- [[Michael J. Salvo]]
 - [[Brenda Brueggemann]]
 - [[Wendy L. Chrisman]]
 - [[Angeline Kapferer]]
 - [[Marian Lupo]]
 - [[Ben Patton]]
 - [[Cheryl E. Ball]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Sarah K. Brem]]
 - [[Joyce R. Walker]]
 - [[Daniel Anderson]]
@@ -389,7 +389,7 @@
 - [[Anthony Ellertson]]
 - [[Andrea Lunsford]]
 - [[Michael Leff]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Leslie Blair]]
 - [[Ralph Wahlstrom]]
 - [[Libby Allison]]
@@ -399,7 +399,7 @@
 - [[Angelica Maria DeAngelis]]
 - [[Chidsey Dickson]]
 - [[Virginia Kuhn]]
-- [[Melissa Meeks]]
+- [[Melissa Graham Meeks]]
 - [[Alex Ilyasova]]
 - [[Laura Palmer]]
 - [[Tiffany Craft Portewig]]
@@ -408,7 +408,7 @@
 ### Vol. 9, Issue 1 (Fall 2004): The Rhetoric and Pedagogy of Portable Technologies
 
 - [[Cheryl E. Ball]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Christopher W. Dean]]
 - [[Will Hochman]]
 - [[Carra Hood]]
@@ -422,7 +422,7 @@
 - [[Stuart Moulthrop]]
 - [[Nancy Kaplan]]
 - [[Krista Homicz]]
-- [[David Sheridan]]
+- [[David M. Sheridan]]
 - [[Amy C. Kimme Hea]]
 - [[Steven D. Krause]]
 - [[Libby Allison]]
@@ -461,7 +461,7 @@
 ### Vol. 10, Issue 1 (Fall 2005): The Intersections of Online Writing Spaces, Rhetorical Theory, and the Composition Classroom
 
 - [[Leah F. Cassorla]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Cheryl E. Ball]]
 - [[Bill Hart-Davidson]]
 - [[Ellen Cushman]]
@@ -485,7 +485,7 @@
 ### Vol. 10, Issue 2 (Spring 2006): New Writing and Computer Technologies: Computers and Writing 2005
 
 - [[Cheryl E. Ball]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Suzanne Blum-Malley]]
 - [[Elize Naude]]
 - [[Brendan Riley]]
@@ -510,7 +510,7 @@
 ### Vol. 11, Issue 1 (Fall 2006): Kairos 10th Anniversary Issue
 
 - [[Cheryl E. Ball]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Tracy Bridgeford]]
 - [[Leah F. Cassorla]]
 - [[Douglas Eyman]]
@@ -528,7 +528,7 @@
 ### Vol. 11, Issue 2 (Spring 2007): Celebrating Computers and Writing 2006
 
 - [[Cheryl E. Ball]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Rich Rice]]
 - [[Beth Brunk-Chavez]]
 - [[Shawn J. Miller]]
@@ -548,7 +548,7 @@
 ### Vol. 11, Issue 3 (Summer 2007): Special Issue: Classical Rhetoric and Digital Communication
 
 - [[Cheryl E. Ball]]
-- [[Beth Hewett]]
+- [[Beth L. Hewett]]
 - [[Kevin Brooks]]
 - [[Andrew Mara]]
 - [[Kristie Fleckenstein]]
@@ -588,7 +588,7 @@
 ### Vol. 12, Issue 2 (Spring 2008): Computers and Writing 2007: Virtual Urbanism
 
 - [[David Fisher]]
-- [[David Russell]]
+- [[David R. Russell]]
 - [[Joseph Williams]]
 - [[Dan Fisher]]
 - [[Curtis Hisayasu]]
@@ -652,7 +652,7 @@
 - [[Jason Helms]]
 - [[theamishaugur]]
 - [[D. Alexis Hart]]
-- [[Marshall Kitchens]]
+- [[Marshall W. Kitchens]]
 - [[Angela Bullard]]
 - [[Kelly Cameron]]
 - [[David Elder]]

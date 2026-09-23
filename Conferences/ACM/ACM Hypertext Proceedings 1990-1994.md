@@ -49,7 +49,7 @@
 | [[Frank G. Halasz]]            |
 | [[Russell A. Rogers]]          |
 | [[William C. Janssen]]         |
-| [[Charles Ess]]                |
+| [[Charles Melvin Ess]]                |
 | [[Stuart Moulthrop]]           |
 | [[Dennis E. Egan]]             |
 | [[Michael E. Lesk]]            |

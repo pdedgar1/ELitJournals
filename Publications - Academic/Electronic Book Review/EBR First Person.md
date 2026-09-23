@@ -221,7 +221,7 @@
 [[Celia Pearce]]
 [[Jesper Juul]]
 [[Mark Bernstein]]
-[[Mizuku Ito]]
+[[Mizuko Ito]]
 [[Henry Jenkins]]
 [[Jon McKenzie]]
 [[Lucy A. Suchman]]
@@ -231,7 +231,7 @@
 [[Eric Zimmerman]]
 [[Eugene Thacker]]
 [[Gonzalo Frasca]]
-[[Mizuku Ito]]
+[[Mizuko Ito]]
 [[N. Katherine Hayles]]
 [[Simon Penny]]
 

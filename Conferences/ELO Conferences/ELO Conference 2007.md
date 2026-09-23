@@ -25,7 +25,7 @@
 - [[Bridget A. Burns]] (University of Maryland)
 - [[Joseph E. Byrne]] (University of Maryland)
 - [[Yvonne A. Carignan]] (University of Maryland)
-- [[Michael Carroll]] (Johns Hopkins University)
+- [[Michael W. Carroll]] (Johns Hopkins University)
 - [[Amy L. Cavanaugh]]
 - [[James G. Chagetas]] (University of Maryland)
 - [[Tanya E. Clement]] (University of Maryland)

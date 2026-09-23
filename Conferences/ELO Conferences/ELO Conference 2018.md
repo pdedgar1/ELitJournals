@@ -500,7 +500,7 @@
 | [[Yan St-Onge]]                   |     |
 | [[Ioana Stanescu]]                 |     |
 | [[Amber Strother]]                |     |
-| [[Anne Sullivan]]                 |     |
+| [[Anne M. Sullivan]]                 |     |
 |                                   |     |
 | [[Shanmugapriya T.]]               |     |
 | [[Joseph Tabbi]]                  |     |

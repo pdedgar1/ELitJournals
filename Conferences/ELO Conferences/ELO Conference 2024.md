@@ -1,6 +1,6 @@
 #conference 
 
-## Keynotes [[Chris Klimas]] [[Edmond Y. Chang]] [[Hartmut Koenitz]] [[Anne Sullivan]]
+## Keynotes [[Chris Klimas]] [[Edmond Y. Chang]] [[Hartmut Koenitz]] [[Anne M. Sullivan]]
 
 Proceedings introduction 
 [[Jack Murray]]
@@ -114,10 +114,10 @@ Proceedings introduction
 | [[Aleksey Tikhonov]]                                                                                      |
 | [[Alex Mitchell]]                                                                                         |
 | [[Amy Spencer]]                                                                                           |
-| [[Anne Sullivan]]                                                                                         |
+| [[Anne M. Sullivan]]                                                                                         |
 | [[Annie Abrahams]]                                                                                        |
 | [[Austin Anderson]]                                                                                       |
-| [[Brett Halperin]]                                                                                        |
+| [[Brett A. Halperin]]                                                                                        |
 | [[Chloe Anna Milligan]]                                                                                     |
 | [[Claudia Kozak]]                                                                                         |
 | [[Collier Nogues]]                                                                                        |

@@ -439,7 +439,7 @@ Note: as of this writing (2026), the journal has not yet reached 2027 — Vol. 4
 - [[Chris Comerford]]
 - [[Natalie Krikowa]]
 - [[Lauren Chalk]]
-- [[Katriina Heljakka]]
+- [[Katriina Irja Heljakka]]
 - [[Ellie Jane Turner-Kilburn]]
 - [[Kimberly Kennedy]]
 - [[Shira Belén Buchsbaum]]

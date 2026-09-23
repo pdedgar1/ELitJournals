@@ -79,7 +79,7 @@ pieces
 [[Marijam Didžgalvytė]]
 [[Larissa Ophelia]]
 [[Yuying Huang]]
-[[Becca Young]]
+[[Rebecca Young]]
 [[Isabella Haid]]
 [[allapopp]]
 

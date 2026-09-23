@@ -26,7 +26,7 @@
 | [[Alex Chalk]]                |
 | [[Andrew Bailey]]            |
 | [[Scott DeJong]]              |
-| [[Jack McLaren]]              |
+| [[Jackson McLaren]]              |
 | [[Aleksander Franiczek]]      |
 | [[Julie Veitch]]              |
 | [[Máire Slater]]              |
@@ -56,7 +56,7 @@ Lead [[Aleksander Franiczek]] and [[Emma Vossen]]
 [[Chris Martin]]
 [[Luis Aguasvivas]]
 ### 2023 Issue 
-Leads [[Sabrina Sgandurra]], [[Scott DeJong]], [[Jack McLaren]], 
+Leads [[Sabrina Sgandurra]], [[Scott DeJong]], [[Jackson McLaren]], 
 [[Christopher Howell]]
 [[Aleksander Franiczek]]
 [[Luke Arnott]]

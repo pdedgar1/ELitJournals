@@ -21,7 +21,7 @@ Edited by [[Annette Vee]], [[Tim Laquintano]], [[Carly Schnitzler]]
 | [[Daniel Hutchinson]]       |
 | [[Erin Jensen]]             |
 | [[Christopher D. Jimenez]]  |
-| [[Alan Knowles]]            |
+| [[Alan M. Knowles]]            |
 | [[Timothy Laquintano]]      |
 | [[Justin Lewis]]            |
 | [[Douglas Luman]]           |

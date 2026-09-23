@@ -143,7 +143,7 @@ Ultraslant Prizes—
 | [[Gabrielle Faith Williams]]               |
 | [[Gale Marie Thompson]]                    |
 | [[Holly Lyn Walrath]]                      |
-| [[Jamie Brunton]]                          |
+| [[Jaime Brunton]]                          |
 | [[Jamie Zuckerman]]                        |
 | [[Jennifer Moore]]                         |
 | [[Jenny Boully]]                           |

@@ -194,7 +194,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[John Keane]]
 - [[John A. Lent]]
 - [[Angela Spindler-Brown]]
-- [[Anthony Smith]]
+- [[Anthony N. Smith]]
 - [[Philip Schlesinger]]
 
 ### Vol. 4, Issue 3 (July 1982)
@@ -486,7 +486,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Philippe Urfalino]]
 - [[William Boddy]]
 - [[Colin Sparks]]
-- [[David Morrison]]
+- [[David E. Morrison]]
 - [[John Brown]]
 - [[Robin McGregor]]
 - [[Guy Cumberbatch]]
@@ -520,7 +520,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Guy Cumberbatch]]
 - [[John Brown]]
 - [[Robin McGregor]]
-- [[David Morrison]]
+- [[David E. Morrison]]
 - [[Tudor Barry Jones]]
 - [[Jessica Evans]]
 - [[Desmond Bell]]

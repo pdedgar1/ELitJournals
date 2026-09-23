@@ -777,7 +777,7 @@ Track Chairs [[Sam Brooker]], [[Alessandro Adamou]], [[Lovro Škopljanac]] and [
 |[[Joni Salminen]]|
 |[[Risqo Wahid]]|
 |[[Yanwu Yang]]|
-|[[Bernard Jansen]]|
+|[[Bernard J. Jansen]]|
 |[[Kevin Bönisch]]|
 |[[Manuel Stoeckel]]|
 |[[Alexander Mehler]]|
@@ -807,7 +807,7 @@ Track Chairs [[Sam Brooker]], [[Alessandro Adamou]], [[Lovro Škopljanac]] and [
 |[[Joni Salminen]]|
 |[[Ali Farooq]]|
 |[[Soon-Gyo Jung]]|
-|[[Bernard Jansen]]|
+|[[Bernard J. Jansen]]|
 |[[Claus Atzenbeck]]|
 |[[Jessica Rubart]]|
 |[[Francesca Benatti]]|

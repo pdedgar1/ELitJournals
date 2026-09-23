@@ -7,7 +7,7 @@
 - [[Aleksandra Małecka]]
 - [[Søren Bro Pold]]
 - [[Rui Torres]]
-- [[Luís Claudio Fajardo]]
+- [[Luís Cláudio Costa Fajardo]]
 - [[Giovanna Di Rosario]]
 - [[Scott Weintraub]]
 - [[Maya Zalbildea]]

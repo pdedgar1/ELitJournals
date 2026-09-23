@@ -164,7 +164,7 @@ CELL member : Portuguese Language E-lit
 |[[Cidália Fachada]]|
 |[[Clara Almeida Santos]]|
 |[[Cláudia Madeira]]|
-|[[Luís Claudio Fajardo]]|
+|[[Luís Cláudio Costa Fajardo]]|
 |[[Cláudio Teixeira]]|
 |[[Craig Hill]]|
 |[[Christopher T. Funkhouser]]|
@@ -426,7 +426,7 @@ CELL member : Portuguese Language E-lit
 |[[Túlia Saldanha]]|
 |[[Uwe Warnke]]|
 |[[Valéria Nassif Domingues]]|
-|[[Vera Carvalho]]|
+|[[Vera Tavares de Carvalho]]|
 |[[Vinícius Carvalho Pereira]]|
 |[[Vítor Freitas]]|
 |[[Wagner Moreira]]|

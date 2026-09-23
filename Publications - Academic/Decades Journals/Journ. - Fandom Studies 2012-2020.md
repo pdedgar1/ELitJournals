@@ -394,7 +394,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Jaquelin Elliott]]
     
-- [[Megan Fowler]]
+- [[Megan Justine Fowler]]
     
 - [[Emily E. Roach]]
     

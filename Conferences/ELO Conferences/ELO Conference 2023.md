@@ -5,7 +5,7 @@ in Coimbra
 w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual]], [[Rui Torres]]
 [[Jason Nelson]]
 
-#### Volunteers : [[Adriana Moreira]], [[Carolina Abed]], [[Catarina Canas]], [[Cristina de Campos]], [[Cristina Mendonça]], [[Diogo Cruz]], [[Eloise Porto]], [[Isabel Campante]], [[Juliana Ferreira]], [[Nuno Alves]], [[Nuno Pessoa]], [[Mafalda Lalanda]], [[Marília Lemos]], [[Milton Joel Henriques]], [[Rita Semedo]]
+#### Volunteers : [[Adriana Moreira]], [[Carolina Abed]], [[Catarina Canas]], [[Cristina de Campos]], [[Cristina Mendonça]], [[Diogo Cruz]], [[Eloise Porto]], [[Isabel Campante]], [[Juliana Ferreira]], [[Nuno de Almeida Alves]], [[Nuno Pessoa]], [[Mafalda Lalanda]], [[Marília Lemos]], [[Milton Joel Henriques]], [[Rita Semedo]]
 
 |                                            |
 | ------------------------------------------ |

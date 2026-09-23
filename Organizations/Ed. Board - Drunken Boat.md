@@ -79,7 +79,7 @@
 [[Mike White]] — Production Assistant (18)
 [[Ngoho Reavey]] — Marketing Director (20)
 [[Nick Briano]] — Fiction Editor (25)
-[[Nick Potter]] — Comics Editor (24)
+[[Nick Francis Potter]] — Comics Editor (24)
 [[Nicholas YB Wong]] — Librotraficante Reader (18); Assistant Poetry Editor (18, 19, 20, 21); Poetry Co-editor (22)
 [[Nina Feng]] — Non-Fiction/Librotraficante/Nonfiction Reader (17, 18, 19, 20, 21, 22, 23)
 [[Peter Phillips]] — Fiction Reader (22)

@@ -1,5 +1,6 @@
 #Litmag 
 Digital Fiction Magazine of the 2000s
+http://intertext.com/magazine/ 
 
 |                                      |
 | ------------------------------------ |
@@ -108,7 +109,7 @@ Digital Fiction Magazine of the 2000s
 | [[Evan Palmer]]                      |
 | [[Andrea Payne]]                     |
 | [[Diane Payne]]                      |
-| [[Will Payne]]                       |
+| [[Will B. Payne]]                       |
 | [[Gary Percesepe]]                   |
 | [[Eric Prochaska]]                   |
 | [[Brian Quinn]]                      |

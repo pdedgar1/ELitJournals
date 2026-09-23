@@ -117,7 +117,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[David O. Dowling]]               |
 | [[David Fernández-Quijada]]     |
 | [[David Gurney]]                |
-| [[David Lee]]                   |
+| [[David S. Lee]]                   |
 | [[David Miller]]                |
 | [[David Moorhead]]              |
 | [[David Rowe]]                  |
@@ -276,7 +276,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Kevin C. Desouza]]             |
 | [[Kjetil Vaage Øie]]            |
 | [[Konstantin Mitgutsch]]        |
-| [[Kurt Squire]]                 |
+| [[Kurt D. Squire]]                 |
 | [[Kyong Yoon]]                  |
 | [[Lara Fielden]]                |
 | [[Larissa Hjorth]]              |
@@ -322,7 +322,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Marius Foley]]                |
 | [[Mark de Reuver]]              |
 | [[Mark Deuze]]                  |
-| [[Martin Gibbs]]                |
+| [[Martin Ross Gibbs]]                |
 | [[Martin Hand]]                 |
 | [[Martin Lister]]               |
 | [[Martin Spinelli]]             |

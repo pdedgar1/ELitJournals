@@ -42,7 +42,7 @@
 | [[Kateryna Iakovlenko]]                                            |
 | [[Simon Hajdini]] & [[John Douglas Millar]]                        |
 | [[Jeremy Millar]]                                                  |
-| [[Minh Nguyen]]                                                    |
+| [[Minh Hao Nguyen]]                                                    |
 | [[Luise Mörke]]                                                    |
 | [[Cathryn Drake]]                                                  |
 | [[Yervant Gianikian]] & [[Angela Ricci Lucchi]] & [[Lua Vollaard]] |
@@ -85,7 +85,7 @@
 | [[George Kafka]]                                                   |
 | [[David Gissen]]                                                   |
 | [[Ewa Borysiewicz]]                                                |
-| [[Toby Üpson]] & [[Amy Zhang]]                                     |
+| [[Toby Üpson]] & [[Amy X. Zhang]]                                     |
 | [[Luis Othoniel Rosa]]                                             |
 | [[Sophie Rose]]                                                    |
 | [[Post-Novis]]                                                     |

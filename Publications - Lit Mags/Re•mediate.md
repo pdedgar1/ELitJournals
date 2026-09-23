@@ -84,7 +84,7 @@
 [[Collier Nogues]]
 [[Sean Carroll]]
 [[Aaron El Sabrout]]
-[[Mark C. Marino]], [[Tina Escaja aka Alm@ Pérez]], [[Benjamín Escalonilla]], [[Victoria Clarckson]], [[María Garay Arriba]], [[David Ciccoricco]], [[AltSalt Publishing + ScrollCinema]], [[La Rata Hedionda]], [[Joshua Wood]], [[ChatGPT]]
+[[Mark C. Marino]], [[Tina Escaja aka Alm@ Pérez]], [[Benjamín Escalonilla]], [[Victoria Clarckson]], [[María Garay Arriba]], [[David Ciccoricco]], [[AltSalt Publishing + ScrollCinema]], [[La Rata Hedionda]], [[Joshua Wood]], [[ChatGPT]], [[Perla B. Sassón-Henry]]
 [[Amanda Hodes]]
 [[Nicolás Gerardi Rousset]]
 [[Claude]]

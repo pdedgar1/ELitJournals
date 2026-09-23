@@ -123,7 +123,7 @@ Advisory
 | CHR Expanding the Toolkit: Large Language Models in Humanities Research]] |
 | [[Simona Bisiani]]                                                        |
 | [[Ágnes Gulyás]]                                                          |
-| [[Bahareh Heravi]]                                                        |
+| [[Bahareh Rahmanzadeh Heravi]]                                                        |
 | [[Tristan Karch]]                                                         |
 | [[Jakhongir Saydaliev]]                                                   |
 | [[Isabella Di Lenardo]]                                                   |

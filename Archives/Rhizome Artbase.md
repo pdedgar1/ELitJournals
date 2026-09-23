@@ -1119,7 +1119,7 @@
 | [[abram stern]]                                     |
 | [[Eddo Stern]]                                      |
 | [[Nathaniel E. Stern]]                              |
-| [[Mark Stock]]                                      |
+| [[Mark J. Stock]]                                      |
 | [[Jack Stockholm]]                                  |
 | [[Reiner Strasser]]                                 |
 | [[Joshua Strebel]]                                  |
@@ -1127,7 +1127,7 @@
 | [[Kim Stringfellow]]                                |
 | [[Jeanne Strole]]                                   |
 | [[Igor Štromajer]]                                  |
-| [[Bob Sturm]]                                       |
+| [[Bob L. T. Sturm]]                                       |
 | [[Kiran Subbaiah]]                                  |
 | [[sufilala]]                                        |
 | [[Chris Sugrue]]                                    |

@@ -300,7 +300,7 @@
 - [[Chaomei Chen]]
 - [[Mary Czerwinski]]
 - [[Andrew Dillon]]
-- [[Misha Vaughan]]
+- [[Misha Walker Vaughan]]
 - [[Stephen W. Draper]]
 - [[Mark D. Dunlop]]
 - [[Gene Golovchinsky]]

@@ -218,7 +218,7 @@
 | [[António Brisson]]                 |
 | [[Brian Magerko]]                   |
 | [[Ana Paiva]]                       |
-| [[Anne Sullivan]]                   |
+| [[Anne M. Sullivan]]                   |
 | [[April Grow]]                      |
 | [[Tabitha Chirrick]]                |
 | [[Max Stokols]]                     |
@@ -1383,12 +1383,12 @@
 
 ## 2019 
 
-[[Rogelio Enrique Cardona-Rivera]], [[Anne Sullivan]], [[R. Michael Young]]
+[[Rogelio Enrique Cardona-Rivera]], [[Anne M. Sullivan]], [[R. Michael Young]]
 
 |                                     |
 | ----------------------------------- |
 | [[Rogelio Enrique Cardona-Rivera]]  |
-| [[Anne Sullivan]]                   |
+| [[Anne M. Sullivan]]                   |
 | [[R. Michael Young]]                |
 | Lecture Notes in Computer Science]] |
 | [[Saylee Bhide]]                    |

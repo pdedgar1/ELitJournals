@@ -242,7 +242,7 @@
 - [[Bjørn Nansen]]
 - [[Jane Mavoa]]
 - [[Simon Coghlan]]
-- [[Martin Gibbs]]
+- [[Martin Ross Gibbs]]
 - [[Praveen Kumar Kollu]]
 - [[Avvaru Hari Sai Babu]]
 - [[Penubaku Anil]]

@@ -118,7 +118,7 @@ Founder [[John Tranter]]
 | [[Curtis Faville]]              |
 | [[Cynthia Hogue]]               |
 | [[Cyrus Console]]               |
-| [[Dale Smith]]                  |
+| [[Dale Martin Smith]]                  |
 | [[Dan Beachy-Quick]]            |
 | [[Dandi Meng]]                  |
 | [[Daniel Benjamin]]             |

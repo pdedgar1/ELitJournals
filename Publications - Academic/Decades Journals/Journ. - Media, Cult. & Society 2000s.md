@@ -425,7 +425,7 @@
 
 - [[Rodney Benson]]
 - [[Jan Wieten]]
-- [[Mervi Pantti]]
+- [[Mervi Katriina Pantti]]
 - [[David Buckingham]]
 - [[Margaret Scanlon]]
 - [[Peter Lunt]]
@@ -850,7 +850,7 @@
 - [[Suhi Choi]]
 - [[Tom Woodin]]
 - [[Natascha Just]]
-- [[Mervi Pantti]]
+- [[Mervi Katriina Pantti]]
 - [[Johanna Sumiala]]
 - [[John Corner]]
 - [[Jane Holgate]]
@@ -880,7 +880,7 @@
 
 - [[Younghan Cho]]
 - [[Douglas Bicket]]
-- [[Melissa Wall]]
+- [[Melissa A. Wall]]
 - [[Shannon Arvizu]]
 - [[Dimitra L. Milioni]]
 - [[Markus Nivala]]

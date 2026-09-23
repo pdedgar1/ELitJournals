@@ -136,7 +136,7 @@ regular reviews
 [[Glen Gatin]]
 [[Deena Larsen]] and [[MaJe Larsen]]
 [[Mez Breeze]]
-[[Peter McDonald]] and [[Patrick Jagoda]]
+[[Peter D. McDonald]] and [[Patrick Jagoda]]
 [[Reed Gaines]]
 [[Rob Wittig]], [[Mark C. Marino]] and [[SpeidiShow Players]]
 

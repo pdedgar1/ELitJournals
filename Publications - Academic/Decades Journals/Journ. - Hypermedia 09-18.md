@@ -183,7 +183,7 @@
 
 ### Vol 18, Iss 4
 - [[Jeremy Hunsinger]]
-- [[Adrienne Massanari]]
+- [[Adrienne L. Massanari]]
 - [[Burcu S. Bakioğlu]]
 - [[K. L. Gray]]
 - [[Jean-François Lucas]]
@@ -541,7 +541,7 @@
 
 ### Vol 24, Iss 4
 - [[Luke van Ryn]]
-- [[Thomas Apperley]]
+- [[Thomas H. Apperley]]
 - [[Justin Clemens]]
 - [[Fatemeh Orooji]]
 - [[Fattaneh Taghiyareh]]

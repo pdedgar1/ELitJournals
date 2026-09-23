@@ -231,7 +231,7 @@
 | [[Belinda Smaill]]                  |
 | [[Beryl Graham]]                    |
 | [[Bill Seaman]]                     |
-| [[Brian Carroll]]                   |
+| [[Brian Thomas Carroll]]                   |
 | [[Brian Lonsway]]                   |
 | [[Bruce Garrison]]                  |
 | [[Bruce Klopfenstein]]              |

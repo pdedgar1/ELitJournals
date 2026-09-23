@@ -139,7 +139,7 @@
 - [[Anton Koch]]
 - [[Nick Lally]]
 - [[Ryan Burns]]
-- [[Will Payne]]
+- [[Will B. Payne]]
 - [[Warren Sack]]
 - [[Pip Thornton]]
 - [[Zara Dinnen]]
@@ -156,7 +156,7 @@
 
 - [[Carolin Gerlitz]]
 - [[Anne Helmond]]
-- [[David Nieborg]]
+- [[David B. Nieborg]]
 - [[Fernando N. van der Vlist]]
 - [[Jeremy Wade Morris]]
 - [[Austin Morris]]

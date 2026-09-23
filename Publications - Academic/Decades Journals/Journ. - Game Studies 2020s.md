@@ -98,7 +98,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Stephanie Rennick]]
     
-- [[Seán Roberts]]
+- [[Seán G. Roberts]]
     
 - [[Weimin Toh]]
     
@@ -119,7 +119,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Matthew Farber]]
     
-- [[Karen Schrier]]
+- [[Karen (Kat) Schrier]]
     
 - [[Dom Ford]]
     
@@ -354,7 +354,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - Volume/Issue: 24.3
     
-- [[Robson Bello]]
+- [[Robson Scarassati Bello]]
     
 - [[James Cartlidge]]
     
@@ -421,7 +421,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Stephanie Rennick]]
     
-- [[Seán Roberts]]
+- [[Seán G. Roberts]]
     
 - [[Zsófia O. Réti]]
     
@@ -436,7 +436,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - Volume/Issue: 25.3
     
-- [[Ana Bahia]]
+- [[Ana Beatriz Bahia]]
     
 - [[DA Hall]]
     

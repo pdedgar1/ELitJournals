@@ -366,7 +366,7 @@
 [[Richard Frailing]]
 [[Tova Gannana]]
 [[Yun Wei]]
-[[Aaron Smith]]
+[[Aaron CT Smith]]
 [[Andrea Jurjević]]
 [[Andrew Pilet]]
 [[Anna Drzewiecki]]

@@ -55,7 +55,7 @@
 |[[Susan Dwyer]]|
 |[[Kathyrn D. Ellis]]|
 |[[Greg Elmer]]|
-|[[Charles Ess]]|
+|[[Charles Melvin Ess]]|
 |[[Denise Ethier]]|
 |[[Denise Ethier]]|
 |[[Alexei Falaleev]]|

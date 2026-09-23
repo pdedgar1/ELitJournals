@@ -122,7 +122,7 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[darren zhu]]                         |
 | [[jeanette andrews]]                   |
 | [[evan sirchuk]]                       |
-| [[dan gorelick]]                       |
+| [[daniel gorelick]]                       |
 | [[henry tran]]                         |
 | tiat 7]]                               |
 | [[ash herr]]                           |
@@ -172,7 +172,7 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[justine sun dela cruz]]              |
 | [[jake mclain]]                        |
 | [[mylene tu]]                          |
-| [[dan gorelick]]                       |
+| [[daniel gorelick]]                       |
 | [[marisa lu]]                          |
 | tiat 2]]                               |
 | [[ara]]                                |

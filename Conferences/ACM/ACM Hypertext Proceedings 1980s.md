@@ -20,7 +20,7 @@
 | [[Peggy M. Irish]]                               |
 | [[Davida Charney]]                               |
 | [[Christine Neuwirth]]                           |
-| [[David Kaufer]]                                 |
+| [[David S. Kaufer]]                                 |
 | [[Rick Chimera]]                                 |
 | [[Terilyn Gillespie]]                            |
 | [[Darrell R. Raymond]]                           |

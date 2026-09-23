@@ -322,7 +322,7 @@ Keynote' [[Hidetaka "SWERY" Suehiro]]
 [[Bahiyya Khan]]
 [[Iga Stankiewicz-Szadowiak]]
 [[Meredith Gran]]
-[[Francisco González]], [[Milo Duclayan]], [[Nicholas O'Brien]], [[Kaitlin Bonfiglio]], [[Jon G. Cole]], [[Rebecca Slitt]]
+[[Francisco González]], [[Milo Duclayan]], [[Nicholas O'Brien]], [[Kaitlin Bonfiglio]], [[John G. Cole]], [[Rebecca Slitt]]
 [[Jax Ceceri]], [[Alex M. Lee]], [[Aaron Fox-Lerner]], [[Wojtek Borowicz]], [[Adriana X. Jacobs]], [[Rebecca Rouse]], [[Charles Collins-Rouse]]
 [[Leslie Zeng]], [[Amanda Lange]], [[John Bechtold]], [[Stanley Baxton]]
 [[Richard Dansky]], [[Allyson Gray]], [[Matthew F. Griffin]], [[Amanda Laven]], [[Nahir Fajardo]], [[Michael Mora]],

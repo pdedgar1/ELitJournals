@@ -88,7 +88,7 @@
 | [[Srividya Vaishnavi Surampudi]]    |
 | [[Pratyusha Karanam]]               |
 | [[Sharon Lynn Chu]]                 |
-| [[Matthew Higgins]]                 |
+| [[Matthew R. Higgins]]                 |
 | [[Peter Howell]]                    |
 | [[]]                                |
 | [[Cristina Sylla]]                  |
@@ -331,7 +331,7 @@
 | [[]]                                |
 | [[Noura Howell]]                    |
 | [[]]                                |
-| [[Anne Sullivan]]                   |
+| [[Anne M. Sullivan]]                   |
 | [[]]                                |
 | [[Dimitra Petousi]]                 |
 | [[]]                                |
@@ -454,7 +454,7 @@
 | [[Mark J. Nelson]]                  |
 | [[Michael Mateas]]                  |
 | [[Luowen Qiao]]                     |
-| [[Anne Sullivan]]                   |
+| [[Anne M. Sullivan]]                   |
 | [[]]                                |
 | [[Vincenzo Lombardo]]               |
 | [[Jonathan Barbara]]                |
@@ -494,7 +494,7 @@ Part 1
 |[[]]|
 |[[John T. Murray]]|
 |Lecture Notes in Computer Science]]|
-|[[Matthew Higgins]]|
+|[[Matthew R. Higgins]]|
 |[[Hartmut Koenitz]]|
 |[[Mirjam Palosaari Eladhari]]|
 |[[Mirek Stolee]]|

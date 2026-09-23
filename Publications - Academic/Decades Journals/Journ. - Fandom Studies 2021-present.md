@@ -196,7 +196,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Andrew Thomson]]
     
-- [[Melissa Beattie]]
+- [[Melissa Anne Beattie]]
     
 - [[Neta Yodovich]]
     

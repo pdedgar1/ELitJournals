@@ -16,7 +16,7 @@
 
 ### MESA 2 — comunicações (8.11)
 
-- [[Alejandro Martinez]]
+- [[Alejandro Tablado Martinez]]
 - [[Leo Bazzurro]]
 - [[Franklin Larrubia Valverde]]
 - [[Ornela Barisone]]
@@ -113,7 +113,7 @@
 - [[Antonio Martín Flores]]
 - [[Renata da Silva de Barcellos]]
 - [[Carmen Cardoso Garcia]]
-- [[Marina Mattar]]
+- [[Marina Ribeiro Mattar]]
 
 ### MESA 16 — comunicações (10.11)
 
@@ -477,7 +477,7 @@
 
 ### Comunicação nº 20 – 01.12
 
-- [[Marina Mattar]]
+- [[Marina Ribeiro Mattar]]
 - [[Vitória Dias Cuba]]
 - [[Juliana Maffeis]]
 - [[Sirley Rojas]]

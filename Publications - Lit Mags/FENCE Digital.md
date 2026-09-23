@@ -13,7 +13,7 @@
  [[Noah Warren]]
  [[Joe Hall]]
  [[Madeleine Barnes]]
- [[David Shapiro]], [[Joanna Fuhrman]], [[Elaine Equi]]
+ [[David F. Shapiro]], [[Joanna Fuhrman]], [[Elaine Equi]]
  [[Renee Gladman]] and [[Edmund Berrigan]]
  [[Thom Donovan]] and [[Julius Eastman]]
   [[Joanna Fuhrman]], [[Elaine Equi]]
