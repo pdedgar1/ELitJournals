@@ -778,7 +778,7 @@
     
 - [[Marina Abramovic]]
     
-- [[Marina Abramovic / Ulay]]
+- [[Marina Abramovic]] / [[Ulay]]
     
 - [[Marinus Boezem]]
     

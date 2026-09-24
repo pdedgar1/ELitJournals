@@ -54,7 +54,7 @@
 | [[Amber Wisteria]]                                                                                                         |
 | [[Harrison Robert]]                                                                                                        |
 | [[Helen Jackson]]                                                                                                          |
-| [[Sarah K. Day]]                                                                                                              |
+| [[Sara K. Day]]                                                                                                              |
 | [[Rosemary Joiner]]                                                                                                        |
 | [[Agata Lulkowska]]                                                                                                        |
 | [[Agnieszka Piotrowska]]                                                                                                   |

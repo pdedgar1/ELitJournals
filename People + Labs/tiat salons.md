@@ -6,10 +6,10 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | watch the recording]]                  |
 | [[Herdimas Anggara]]                   |
 | [[Will C. Robo]]                       |
-| [[Hayley Mortin (Dazy Chains)]]        |
+| [[Hayley Mortin]] (Dazy Chains)]]      |
 | [[Christina Lu]]                       |
 | [[Harshit Agrawal]]                    |
-| [[Michelle Chen / morning close]]      |
+| [[Michelle Chen]] / morning close]]    |
 | [[Jiabao Li]]                          |
 | [[Memo Akten]]                         |
 | [[Katie Hofstader]]                    |
@@ -69,7 +69,7 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[tigris li]]                          |
 | [[char stiles]]                        |
 | [[scott snibbe]]                       |
-| [[]]                                   |
+|                                        |
 | [[héloïse garry]]                      |
 | tiat 11]]                              |
 | watch the recording]]                  |
@@ -78,7 +78,7 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[melissa liu]]                        |
 | [[inés rodríguez hsu]]                 |
 | [[r tyler]]                            |
-| [[ritwik / jonny]]                     |
+| [[ritwik]] / jonny]]                   |
 | [[kelin carolyn zhang]]                |
 | [[andy kong]]                          |
 | [[osebo]]                              |
@@ -122,11 +122,11 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[darren zhu]]                         |
 | [[jeanette andrews]]                   |
 | [[evan sirchuk]]                       |
-| [[daniel gorelick]]                       |
+| [[daniel gorelick]]                    |
 | [[henry tran]]                         |
 | tiat 7]]                               |
 | [[ash herr]]                           |
-| [[johan ismael / david grunzweig]]     |
+| [[johan ismael]] / [[david grunzweig]] |
 | [[claire wang]]                        |
 | [[alessio grancini]]                   |
 | [[koi ren]]                            |
@@ -172,7 +172,7 @@ run by [[ash herr]], [[Leia S. Chang]], and [[Brandon Tran]]
 | [[justine sun dela cruz]]              |
 | [[jake mclain]]                        |
 | [[mylene tu]]                          |
-| [[daniel gorelick]]                       |
+| [[daniel gorelick]]                    |
 | [[marisa lu]]                          |
 | tiat 2]]                               |
 | [[ara]]                                |

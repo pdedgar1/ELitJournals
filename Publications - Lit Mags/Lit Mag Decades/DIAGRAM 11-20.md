@@ -903,7 +903,7 @@
 [[E. C. Messer]]
 [[Jacob Griffin Hall]]
 [[Jess Williard]]
-[[JI Daniels]]
+[[J. I. Daniels]]
 [[John Mark Brown]]
 [[Kara Dorris]]
 [[Kara McMullen]]

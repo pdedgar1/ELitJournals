@@ -75,7 +75,7 @@
 - [[Stephen Green]]
 - [[Puay Tang]]
 - [[Jos De Mul]]
-- [[John Taylor]]
+- [[John A. Taylor]]
 
 ---
 
@@ -203,7 +203,7 @@
 - [[Gillian Youngs]]
 - [[Tim Jordan]]
 - [[Eleanor Burt]]
-- [[John Taylor]]
+- [[John A. Taylor]]
 - [[Paul A. Taylor]]
 - [[Howard Tumber]]
 - [[Karim H. Karim]]
@@ -222,7 +222,7 @@
 - [[Patrizia Marti]]
 - [[Francesco Pucci]]
 - [[Antonio Rizzo]]
-- [[Edward Comor]]
+- [[Edward A. Comor]]
 - [[Ted Becker]]
 
 ---
@@ -486,7 +486,7 @@
 
 - [[Sonia Livingstone]]
 - [[Magdalena Bober]]
-- [[Ellen J. Helsper]]
+- [[Ellen Johanna Helsper]]
 - [[Michael Adler]]
 - [[Paul Henman]]
 - [[Ben Anderson]]
@@ -687,7 +687,7 @@
 - [[Eileen Green]]
 - [[Carrie Singleton]]
 - [[Giovanna Mascheroni]]
-- [[James Stewart]]
+- [[James K. Stewart]]
 
 ---
 
@@ -698,7 +698,7 @@
 - [[Corinna Di Gennaro]]
 - [[William H. Dutton]]
 - [[Sonia Livingstone]]
-- [[Ellen J. Helsper]]
+- [[Ellen Johanna Helsper]]
 - [[Tracy LM Kennedy]]
 - [[Barry Wellman]]
 - [[Anabel Quan-Haase]]

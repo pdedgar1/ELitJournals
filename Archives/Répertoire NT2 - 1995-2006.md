@@ -309,7 +309,7 @@ CELL Member : French-language E-lit
 | [[Stéphanie Dauget]]                                     |
 | [[Joëlle Dautricourt]]                                   |
 | [[Dylan Davis]]                                          |
-| [[Joshua Davis]]                                         |
+| [[Joshua L. Davis]]                                         |
 | [[Adrianna de Barros]]                                   |
 | [[Lucie de Boutiny]]                                     |
 | [[Amaya de Esteban]]                                     |
@@ -1021,7 +1021,7 @@ CELL Member : French-language E-lit
 | [[Isabelle Sigal]]                                       |
 | [[Juliette Silva]]                                       |
 | [[Rick Silva]]                                           |
-| [[John F. Jr. Simon]]                                    |
+| [[John F. Simon]]                                    |
 | [[Mathieu Simoneau]]                                     |
 | [[Candas Sisman]]                                        |
 | [[John Slepian]]                                         |

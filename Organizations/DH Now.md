@@ -265,7 +265,7 @@ Advisory Board
 | [[Erin Altman]]                     |
 | [[Erin Bush]]                       |
 | [[Ernesto Priego]]                  |
-| [[Estee Beck]]                      |
+| [[Estee N. Beck]]                      |
 | [[Estelle Pope]]                    |
 | [[Ester Rincon Calero]]             |
 | [[Ethan Miller]]                    |
@@ -536,7 +536,7 @@ Advisory Board
 | [[Pamela Andrews]]                  |
 | [[Parashar Kulkarni]]               |
 | [[Patrick Wingrove]]                |
-| [[Patrick Williams]]                |
+| [[J. Patrick Williams]]                |
 | [[Patrizia Rebulla]]                |
 | [[Paula Webb]]                      |
 | [[Pavel Cenkl]]                     |

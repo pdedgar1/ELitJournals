@@ -157,7 +157,7 @@ at one time editors [[Tunde Ope-Davies]], [[Mourad El Fhali]], [[Richard Oko Aja
 | [[Bantu Games]]                                                     |
 | [[Zuinder Manico]]                                                  |
 | [[Raafat Mohamed Mohamed ELsenousi]]                                |
-| [[JUMOKE VERISSIMO]] AND [[JAMES YEKU]]                             |
+| [[JUMOKE VERISSIMO]] AND [[JAMES Yékú]]                             |
 | [[Wendi]]                                                           |
 | [[Mathews Chishinji]]                                               |
 | [[Ng'endo Mukii]]                                                   |

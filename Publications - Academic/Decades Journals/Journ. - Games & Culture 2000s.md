@@ -63,8 +63,8 @@
 ### Volume 2, Issue 1 (January 2007)
 
 - [[Christian Elverdam]]
-- [[Espen Aarseth]]
-- [[Elisabeth Hayes]]
+- [[Espen J. Aarseth]]
+- [[Elisabeth R. Hayes]]
 - [[Cindy Poremba]]
 - [[Weihua Wu]]
 - [[Steve Fore]]
@@ -162,11 +162,11 @@
 ### Volume 4, Issue 2 (April 2009)
 
 - [[Patrick Crogan]]
-- [[Helen Kennedy]]
+- [[Helen W. Kennedy]]
 - [[Ewan Kirkland]]
 - [[Graeme Kirkpatrick]]
 - [[Seth Giddings]]
-- [[Julian Kücklich]]
+- [[Julian Raul Kücklich]]
 - [[Anders Tychsen]]
 - [[Michael Hitchens]]
 

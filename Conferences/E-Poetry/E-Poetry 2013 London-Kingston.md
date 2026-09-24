@@ -40,7 +40,7 @@ An International digital Poetry Festival
 | [[Maria Engberg]]          |
 | [[Maria Engberg]]          |
 | [[Natalia Fedorova]]       |
-| [[John Ferguson]]          |
+| [[John R. Ferguson]]          |
 | [[Penny Florence]]         |
 | [[Leonardo Flores]]        |
 | [[Leonardo Flores]]        |

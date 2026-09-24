@@ -115,7 +115,7 @@ Founding Editor [[Edward Falco]]
 
 
 
-### Fall 2020 - Edited by [[John Darcy]] and [[Kira Homsher]]
+### Fall 2020 - Edited by [[John Darcy]] and [[Kira K. Homsher]]
 [[Tina Escaja aka Alm@ Pérez]]
 [[Ella Rosenblatt]]
 [[Caitlin Foley]] & [[Misha Rabinovich]]

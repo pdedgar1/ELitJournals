@@ -162,7 +162,7 @@
 
 [[Judy Malloy]] followed 
 
-[[Justin Bortnick]] is a designer and researcher whose work centers on digital narratives, game storytelling, political games 
+[[Justin A. Bortnick]] is a designer and researcher whose work centers on digital narratives, game storytelling, political games 
 
 86
 

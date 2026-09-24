@@ -172,7 +172,7 @@ Nair Renata Amâncio
 | [[Marina Gabelica]]                                                                                         |
 | [[Thales Estefani]], [[João Queiroz]]                                                                       |
 | [[Pedro Andrade]]                                                                                           |
-| [[Cláudia Cristina da Silva]], [[Valentina Nisi]], [[Joseph Straubhaar]]                                    |
+| [[Cláudia Cristina da Silva]], [[Valentina Nisi]], [[Joseph D. Straubhaar]]                                    |
 | [[Rogério Barbosa da Silva]], [[Amanda R. G. Martins]], [[Caio Roberto Saldanha]]                           |
 | [[Mônica Daisy Vieira Araújo]], [[Isabel Cristina Alves da Silva Frade]]                                                 |
 | [[Margaret Simon]], [[Helen J. Burgess]]                                                                    |

@@ -274,7 +274,7 @@
 - [[Kristin Stransky]]
 - [[Nicole Shaver]]
 - [[Myriam Boucher]]
-- [[LIgorano/Reese]]
+- [[Nora Ligorano]]/[[Reese]]
 - [[Laurie Frick]]
 - [[Clive McCarthy]]
 - [[Daniel Canogar]]

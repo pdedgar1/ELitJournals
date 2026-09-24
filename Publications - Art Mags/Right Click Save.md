@@ -152,7 +152,7 @@ Digital Art Magazine Post-2020
 |[[Louis Jebb]]|
 |[[Louis Jebb]]|
 |[[Louis Jebb]]|
-|[[Lu Yang and Sputniko!]]|
+|[[Lu Yang]] and [[Sputniko!]]|
 |[[Luba Elliott]]|
 |[[Luba Elliott]]|
 |[[Lucy Rose Sollitt]]|
@@ -257,3 +257,4 @@ Digital Art Magazine Post-2020
 |[[Zsofi Valyi-Nagy]]|
 |[[Zsofi Valyi-Nagy]]|
 |[[Zsofi Valyi-Nagy]]|
+[[Lev Manovich]]

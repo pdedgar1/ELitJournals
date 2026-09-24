@@ -62,7 +62,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[J. R. Carpenter]] (UK)
 - [[David Devanny]] (Falmouth U., UK)
 
-- [[James Brown]] (Rutgers U. Camden, USA), "Spectral Symptoms: Machine Learning and E-lit"
+- [[James J. Brown]] (Rutgers U. Camden, USA), "Spectral Symptoms: Machine Learning and E-lit"
 - [[Elizabeth Losh]] (College of William & Mary, USA), "Learning to Curse: Machine Learning, Bad Actors, and Electronic Literature"
 - [[Jeremy Douglass]] (U. California San Diego, USA), "Art in the Age of Mechanical Recommendation"
 
@@ -154,7 +154,7 @@ Welcome by the Conference Chair [[Rui Torres]]
 - [[Alex Saum-Pascual]] (U. California Bekerley, USA)
 - [[Dene Grigar]] (Washington State U. Vancouver, USA)
 - [[Scott Rettberg]] (U. Bergen, Norway)
-- [[James Brown]] (Rutgers U., USA)
+- [[James J. Brown]] (Rutgers U., USA)
 - [[Robert Emmons]] (Rutgers U., USA)
 - [[Daniela Côrtes Maduro]] (U. Bremen, Germany)
 - [[Giovanna Di Rosario]] (Catholic U. Louvain, Belgium)

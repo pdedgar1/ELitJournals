@@ -79,7 +79,7 @@ _Twitter. Supervised by Begoña Regueiro Salgado._
 - [[Pablo Luque Rey]]
 - [[Jardel Díaz Chico]]
 - [[Alejandro Sánchez Vilches]]
-- [[Jose Manuel Blanco González]]
+- [[José Manuel Blanco González]]
 - [[Pablo Arévalo Martín]]
 
 ---

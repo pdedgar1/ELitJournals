@@ -9,7 +9,7 @@
 | GAIA]]                                                                                                                                                                                    |
 | [[Matthew Mosher]]                                                                                                                                                                        |
 | Static Sky: And Yet It █████]]                                                                                                                                                            |
-| [[Rhett Tsai]] (蔡宇潇) and [[Justin Bortnick]]                                                                                                                                              |
+| [[Rhett Tsai]] (蔡宇潇) and [[Justin A. Bortnick]]                                                                                                                                              |
 | "At the Guggenheim (redux)"]]                                                                                                                                                             |
 | [[Alan Bigelow]]                                                                                                                                                                          |
 | A Last Goodbye]]                                                                                                                                                                          |

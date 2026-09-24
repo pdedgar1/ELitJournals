@@ -37,7 +37,7 @@ Founder [[John Tranter]]
 | [[Ainsley Morse]]               |
 | [[Akua Lezli Hope]]             |
 | [[Al Filreis]]                  |
-| [[Alan W. Bernheimer]]             |
+| [[Alan W. Bernheimer]]          |
 | [[Alan Davies]]                 |
 | [[Alan Golding]]                |
 | [[Albert Mobilio]]              |
@@ -74,7 +74,7 @@ Founder [[John Tranter]]
 | [[Brandy Nālani Mcdougall]]     |
 | [[Brian Ang]]                   |
 | [[Brian Kim Stefans]]           |
-| [[Brian M. Reed]]                  |
+| [[Brian M. Reed]]               |
 | [[Brian Unger]]                 |
 | [[Bronwyn Preece]]              |
 | [[Bruce Holsapple]]             |
@@ -94,7 +94,7 @@ Founder [[John Tranter]]
 | [[Charles Tomlinson]]           |
 | [[Charli Brissey]]              |
 | [[Chris Alexander]]             |
-| [[Christopher T. Funkhouser]]            |
+| [[Christopher T. Funkhouser]]   |
 | [[Chris Holdaway]]              |
 | [[Chris Martin]]                |
 | [[Chris Mustazza]]              |
@@ -118,7 +118,7 @@ Founder [[John Tranter]]
 | [[Curtis Faville]]              |
 | [[Cynthia Hogue]]               |
 | [[Cyrus Console]]               |
-| [[Dale Martin Smith]]                  |
+| [[Dale Martin Smith]]           |
 | [[Dan Beachy-Quick]]            |
 | [[Dandi Meng]]                  |
 | [[Daniel Benjamin]]             |
@@ -180,7 +180,7 @@ Founder [[John Tranter]]
 | [[George Oppen]]                |
 | [[Georgina Colby]]              |
 | [[Germán Labrador Méndez]]      |
-| [[W. Gilbert Adair]]               |
+| [[W. Gilbert Adair]]            |
 | [[Gillian Osborne]]             |
 | [[Gregory Betts]]               |
 | [[Gregory Dunne]]               |
@@ -194,7 +194,7 @@ Founder [[John Tranter]]
 | [[Ira Livingston]]              |
 | [[Ivan Emil Labayne]]           |
 | [[J. Gordon Faylor]]            |
-| [[Jonathan Peter Moore]]              |
+| [[Jonathan Peter Moore]]        |
 | [[J. R. Carpenter]]             |
 | [[Jacek Gutorow]]               |
 | [[Jacob Edmond]]                |
@@ -213,9 +213,9 @@ Founder [[John Tranter]]
 | [[Jean Uhm]]                    |
 | [[Jean-Marie Gleize]]           |
 | [[Jean-Michel Rabaté]]          |
-| [[Jeffrey T. Johnson]]             |
+| [[Jeffrey T. Johnson]]          |
 | [[Jeffrey Bergfalk]]            |
-| [[Jen/Eleana Hofer]]            |
+| [[Jen Hofer]]/[[Eleana Hofer]]  |
 | [[Jena Osman]]                  |
 | [[Jennifer Aglio]]              |
 | [[Jennifer Firestone]]          |
@@ -258,7 +258,7 @@ Founder [[John Tranter]]
 | [[Juliana Spahr]]               |
 | [[Julie Carr]]                  |
 | [[Julie Phillips Brown]]        |
-| [[K. Prevallet]]                 |
+| [[K. Prevallet]]                |
 | [[Kacper Bartczak]]             |
 | [[Kaegan Sparks]]               |
 | [[Kaia Sand]]                   |
@@ -307,7 +307,7 @@ Founder [[John Tranter]]
 | [[Lyn Hejinian]]                |
 | [[Lynn Keller]]                 |
 | [[Lytle Shaw]]                  |
-| [[M. A. King]]                    |
+| [[M. A. King]]                  |
 | [[M. G. Stephens]]              |
 | [[M. Nourbese Philip]]          |
 | [[Maciej Melecki]]              |
@@ -323,7 +323,7 @@ Founder [[John Tranter]]
 | [[Margaret Ronda]]              |
 | [[Maria Damon]]                 |
 | [[Maria Sledmere]]              |
-| [[Marit J. MacArthur]]             |
+| [[Marit J. MacArthur]]          |
 | [[Marjorie Perloff]]            |
 | [[Marjorie Welish]]             |
 | [[Mark Goldstein]]              |
@@ -353,7 +353,7 @@ Founder [[John Tranter]]
 | [[Michael Cross]]               |
 | [[Michael Farrell]]             |
 | [[Michael Heller]]              |
-| [[Michael S. Hennessey]]           |
+| [[Michael S. Hennessey]]        |
 | [[Michael Leong]]               |
 | [[Michele Leggott]]             |
 | [[Michele Minnick]]             |
@@ -401,7 +401,7 @@ Founder [[John Tranter]]
 | [[Pierre Joris]]                |
 | [[Piotr Florczyk]]              |
 | [[Piotr Gwiazda]]               |
-| [[Poetry & Science Panelists]]  |
+| Poetry & Science Panelists]]    |
 | [[Polina Barskova]]             |
 | [[Raad Ahmad]]                  |
 | [[Rachael M. Wilson]]           |
@@ -421,12 +421,12 @@ Founder [[John Tranter]]
 | [[Rob Mclennan]]                |
 | [[Rob Stanton]]                 |
 | [[Robert Bertholf]]             |
-| [[Robert O. Duncan]]               |
+| [[Robert O. Duncan]]            |
 | [[Robert Grenier]]              |
 | [[Robert Hampson]]              |
 | [[Robert Majzels]]              |
 | [[Robert Mittenthal]]           |
-| [[Robert Emmett Mueller]]              |
+| [[Robert Emmett Mueller]]       |
 | [[Robert Sheppard]]             |
 | [[Robert Zaller]]               |
 | [[Ron Padgett]]                 |
@@ -475,7 +475,7 @@ Founder [[John Tranter]]
 | [[Susan Holbrook]]              |
 | [[Swati Rana]]                  |
 | [[Syrus Marcus Ware]]           |
-| [[Tanya E. Clement]]               |
+| [[Tanya E. Clement]]            |
 | [[Ted Pearson]]                 |
 | [[Teresa Carmody]]              |
 | [[Thom Donovan]]                |
@@ -488,7 +488,7 @@ Founder [[John Tranter]]
 | [[Tom Kozlowski]]               |
 | [[Tom Weatherly]]               |
 | [[Toni Bowers]]                 |
-| [[Tim Trace Peterson]]              |
+| [[Tim Trace Peterson]]          |
 | [[Tracie Morris]]               |
 | [[Travis Ortiz]]                |
 | [[Trevor Winkfield]]            |

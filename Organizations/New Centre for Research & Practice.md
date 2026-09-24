@@ -218,7 +218,7 @@
 | [[Derek Hales]]                                                                                                   |     |
 | [[Harry Duran]]                                                                                                   |     |
 | [[Ivan Niccolai]]                                                                                                 |     |
-| [[Linda Stewart]]                                                                                                 |     |
+| [[Linda S. Stewart]]                                                                                                 |     |
 | [[Ryota Matsumoto]]                                                                                               |     |
 | [[Bradley Kaye]]                                                                                                  |     |
 | [[Martin Rosenberg]]                                                                                              |     |

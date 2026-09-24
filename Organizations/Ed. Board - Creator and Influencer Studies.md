@@ -82,7 +82,7 @@ Aarhus University, Denmark
 **[[Kylie Jarrett]]**  
 University College Dublin, Ireland
 
-**[[Mark Johnson]]**  
+**[[Mark Richard Johnson]]**  
 University of Sydney, Australia
 
 **[[Shaheen Kanthawala]]**  

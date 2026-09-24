@@ -7,7 +7,7 @@
 | [[Abigail Bakke]]                                                      |
 | [[Analeigh E. Horton]]                                                 |
 | [[Andrew Pilsch]]                                                      |
-| [[Ann Hill Duin]], [[Jason Tham]]                                      |
+| [[Ann Hill Duin]], [[Jason Chew Kit Tham]]                                      |
 | [[Ann N. Amicucci]]                                                    |
 | [[Bethany Monea]]                                                      |
 | [[Charles Woods]]                                                      |
@@ -17,7 +17,7 @@
 | [[Dongmei Cheng]], [[Mimi Li]]                                         |
 | [[Drew Virtue]]                                                        |
 | [[Emma Kostopolus]]                                                    |
-| [[Estee Beck]]                                                         |
+| [[Estee N. Beck]]                                                         |
 | [[Even Einum]]                                                         |
 | [[Fernando Sánchez]]                                                   |
 | [[Forooq Zarrabi]], [[Hossein Bozorgian]]                              |
@@ -68,11 +68,11 @@
 | [[Dustin W. Edwards]]                                                                                                      |
 | [[Elin Strømman]]                                                                                                          |
 | [[Eric James York]]                                                                                                        |
-| [[Estee Beck]], [[M. Ellen Goin]], [[Andrew Ho]], [[Alexis Parks]], [[Stephen Rowe]]                                       |
+| [[Estee N. Beck]], [[M. Ellen Goin]], [[Andrew Ho]], [[Alexis Parks]], [[Stephen Rowe]]                                       |
 | [[Jacob D. Richter]]                                                                                                       |
 | [[Janine Butler]], [[Stacy Bick]]                                                                                          |
 | [[Jason Chew Kit Tham]], [[Kenyan Degles Burnham]], [[Daniel L. Hocutt]], [[Nupoor Ranade]], ... [[Jessica Lynn Campbell]] |
-| [[Jason Tham]], [[Ann Hill Duin]], [[Saveena (Chakrika) Veeramoothoo]], [[Brandi J. Fuglsby]]                              |
+| [[Jason Chew Kit Tham]], [[Ann Hill Duin]], [[Saveena (Chakrika) Veeramoothoo]], [[Brandi J. Fuglsby]]                              |
 | [[Jennifer Bay]], [[Rachel Atherton]]                                                                                      |
 | [[Kimberly Fahle Peck]]                                                                                                    |
 | [[Kristina A. McKinney]]                                                                                                   |
@@ -104,9 +104,9 @@
 | [[Emily K. Johnson]], [[Anastasia Salter]]                                |
 | [[Emily Kulp]]                                                            |
 | [[Heidi Skurat Harris]], [[Cat Mahaffey]], [[Melvin Beavers]]             |
-| [[Jason Tham]], [[Rob Grace]]                                             |
+| [[Jason Chew Kit Tham]], [[Rob Grace]]                                             |
 | [[Jessie Borgman]], [[Casey McArdle]]                                     |
-| [[Jialei Jiang]], [[Jason Tham]]                                          |
+| [[Jialei Jiang]], [[Jason Chew Kit Tham]]                                          |
 | [[Jordan Brianna Albrecht]]                                               |
 | [[Kristine L. Blair]]                                                     |
 | [[Lynn O. Ludwig]]                                                        |
@@ -115,12 +115,12 @@
 | [[Meagan E. Malone]]                                                      |
 | [[Melissa Stone]]                                                         |
 | [[Neil Evan Jon Anthony Bowen]], [[Nathan Thomas]], [[Nina Vandermeulen]] |
-| [[Rebecca Miner]]                                                         |
+| [[Rebecca L. Miner]]                                                         |
 | [[Rebekah Shultz Colby]]                                                  |
 |                                                                           |
 | [[Rebekah Shultz Colby]], [[Steven K. Holmes]]                                |
 | [[Robert E. Cummings]]                                                    |
-| [[Sarah Riddick]], [[Rich Shivener]]                                      |
+| [[Sarah A. Riddick]], [[Rich Shivener]]                                      |
 | [[Shannon R. Wooden]]                                                     |
 | [[Sheida Marzban]]                                                        |
 | [[Todd Ruecker]]                                                          |
@@ -140,7 +140,7 @@
 | [[Chris Friend]]                                                                                             |
 | [[Dorcas A. Anabire]]                                                                                        |
 | [[Jacob D. Richter]]                                                                                         |
-| [[Jason Tham]], [[Jack Hennes]]                                                                              |
+| [[Jason Chew Kit Tham]], [[Jack Hennes]]                                                                              |
 | [[Jianfen Chen]], [[Sarah Hughes]], [[Nupoor Ranade]]                                                        |
 | [[John R. Gallagher]], [[Hsiang Wang]], [[Matthew Modaff]], [[Junjing Liu]], ... [[Aaron Beveridge]]         |
 | [[John R. Gallagher]], [[Hsiang Wang]], [[Matthew Modaff]], [[Junjing Liu]], [[Yi Xu]]                       |
@@ -175,7 +175,7 @@
 | [[Daniel L. Hocutt]]                                                                                    |
 | [[Fernando Sánchez]], [[Katelyn Brunner]]                                                               |
 | [[Gabriel Lorenzo Aguilar]]                                                                             |
-| [[Gavin P. Johnson]], [[Charles Woods]], [[Laura L. Allen]], [[Amber M. Buck]], ... [[Jason Tham]]      |
+| [[Gavin P. Johnson]], [[Charles Woods]], [[Laura L. Allen]], [[Amber M. Buck]], ... [[Jason Chew Kit Tham]]      |
 | [[Hossein Bozorgian]], [[Maryam Kazemi]], [[Kimia Deylami]], [[Musa Nushi]]                             |
 | [[J. A. T. Smith]]                                                                                        |
 | [[Jialei Jiang]]                                                                                        |
@@ -214,14 +214,14 @@
 | [[Courtney Rivard]], [[DA Hall]], [[Stephanie Kinzinger]], [[Doug Stark]]                                         |
 | [[Daniel Libertz]], [[Kamal Belmihoub]], [[Constantin Schreiber]], [[Lisa Blankenship]]                           |
 | [[Dongmei Cheng]], [[Mimi Li]], [[Tony Lee]]                                                                      |
-| [[Jason Tham]]                                                                                                |
+| [[Jason Chew Kit Tham]]                                                                                                |
 | [[Elise Silva]]                                                                                                   |
 | [[Emma Kostopolus]]                                                                                               |
-| [[Eric J. York]]                                                                                                  |
+| [[Eric James York]]                                                                                                  |
 | [[Fei Victor Lim]], [[Øystein Gilje]], [[Emilia Djonov]]                                                          |
 | [[Greg Hlavaty, Heather Lindenman, Travis Maynard]]                                                               |
 | [[Hem Lal Pandey]], [[Purna Chandra Bhusal]], [[Sanjeev Niraula]]                                                 |
-| [[Jason Tham]]                                                                                                    |
+| [[Jason Chew Kit Tham]]                                                                                                    |
 | [[Jeanne Dutton]]                                                                                                 |
 | [[Joe Schicke]], [[Scott Weedon]]                                                                                 |
 | [[John R. Gallagher]], [[Kyle Wagner]], [[Jordan Canzonetta]]                                                     |
@@ -237,7 +237,7 @@
 | [[Shyam Pandey]]                                                                                                  |
 | [[Stephanie Redekop]], [[Olivia Hobbs]]                                                                           |
 | [[Todd Ruecker]], [[Tristan Beach]], [[Emily Sawan]]                                                              |
-| [[Tracey Hayes]]                                                                                                  |
+| [[Tracey J. Hayes]]                                                                                                  |
 |                                                                                                                   |
 | [[Xiao Tan]], [[Wei Xu]], [[Chaoran Wang]]                                                                        |
 | [[Zhaozhe Wang]], [[Chaoran Wang]]                                                                                |
@@ -273,7 +273,7 @@
 | [[Meghan Velez]], [[Kara Taczak]], [[Matthew D. Bryan]]                                                                       |
 | [[Meng Yu]]                                                                                                                   |
 | [[Morgan Banville]], [[Leah Heilig]], [[Madison Percy Jones]]                                                                       |
-| [[Naomi Silver]], [[Jason Tham]], [[Zhaozhe Wang]]                                                                            |
+| [[Naomi Silver]], [[Jason Chew Kit Tham]], [[Zhaozhe Wang]]                                                                            |
 | [[Nupoor Ranade]], [[Daniel L. Hocutt]]                                                                                       |
 | [[Qianqian Zhang-Wu]]                                                                                                         |
 | [[Samir Nadra]], [[James P. Purdy]]                                                                                           |

@@ -30,7 +30,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[John Sharp]]
     
-- [[Espen Aarseth]]
+- [[Espen J. Aarseth]]
     
 
 ---
@@ -53,7 +53,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Charlie Cullen]]
     
-- [[Gregory P. Perreault]]
+- [[Gregory Pearson Perreault]]
     
 - [[Emory Daniel Jr.]]
     
@@ -154,7 +154,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Milan Jaćević]]
     
-- [[Elizabeth Nijdam]]
+- [[Elizabeth "Biz" Nijdam]]
     
 - [[Cecilia Rodéhn]]
     
@@ -189,7 +189,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Ida Katherine Hammeleff Jørgensen]]
     
-- [[Espen Aarseth]]
+- [[Espen J. Aarseth]]
     
 
 ---
@@ -206,7 +206,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Marina Fontolan]]
     
-- [[James Malazita]]
+- [[James W. Malazita]]
     
 - [[Janaina Pamplona]]
     
@@ -300,7 +300,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - Volume/Issue: 24.1
     
-- [[James Malazita]]
+- [[James W. Malazita]]
     
 - [[Rebecca Rouse]]
     

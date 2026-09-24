@@ -1265,7 +1265,7 @@
 | [[Nick Verouden]]                   |
 | [[Mirjam Vosmeer]]                  |
 | [[]]                                |
-| [[Alyea Sandovar]]                  |
+| [[Alyea M. Sandovar]]                  |
 | [[Declan Dowling]]                  |
 | [[Colm O. Fearghail]]               |
 | [[Aljoša Smolic]]                   |
@@ -1274,7 +1274,7 @@
 | [[Rebecca Rouse]]                   |
 | [[Scott Palmer]]                    |
 | [[Mirjam Vosmeer]]                  |
-| [[Alyea Sandovar]]                  |
+| [[Alyea M. Sandovar]]                  |
 | [[Ben A. M. Schouten]]              |
 | [[Daniel Barnard]]                  |
 | [[Sytze Schalk]]                    |

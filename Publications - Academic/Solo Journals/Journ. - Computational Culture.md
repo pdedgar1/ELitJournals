@@ -134,7 +134,7 @@
 - 
 - [[Nicolas Salazar Sutil]]
 - [[Scott delaHunta]]
-- [[John Stell]]
+- [[John G. Stell]]
 - [[Stamatia Portanova]]
 - [[Anton Koch]]
 - [[Nick Lally]]

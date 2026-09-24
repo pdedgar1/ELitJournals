@@ -32,7 +32,7 @@
 [[David Jhave Johnston]] — Digital Poetry Folio Editor (20)
 [[David Kutz-Marks]] — Production Assistant (17, 18)
 [[Dene Grigar]] — Director of The NEXT (25)
-[[Ebony Chinn]] — Translation Reader (23)
+[[Ebony E. Chinn]] — Translation Reader (23)
 [[Emily Vizzo]] — Assistant Managing Editor (18, 19, 20, 21)
 [[Erin Wilcox]] — Non-Fiction/Nonfiction Editor (16, 17, 18, 19, 20, 21)
 [[Eunsong Kim]] — Translation Reader (23); Poetry Editor (24)

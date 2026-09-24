@@ -16,7 +16,7 @@
 
 ### MESA 2 — comunicações (8.11)
 
-- [[Alejandro Tablado Martinez]]
+- [[Alejandro Tablado Martínez]]
 - [[Leo Bazzurro]]
 - [[Franklin Larrubia Valverde]]
 - [[Ornela Barisone]]
@@ -26,7 +26,7 @@
 - [[Coulibaly Tamfolo Roger]]
 - [[Nahadjenin Seleho]]
 - [[Diego Sampaio Dias]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 
 ### MESA 4 — comunicações (8.11)
 
@@ -56,7 +56,7 @@
 - [[Giovanni Fontana]]
 - [[Patrícia Lino]]
 - [[Valentina Cantori]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 
 ### MESA 8 — comunicações (9.11)
 
@@ -99,7 +99,7 @@
 - [[Francis Édeline]]
 - [[Marianne Simon-Oikawa]]
 - [[Martial Lengellé]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 
 ### MESA 14 — comunicações (10.11)
 
@@ -180,7 +180,7 @@
 - [[Walter Silveira]]
 - [[Simone Homem de Melo]]
 - [[Lenora de Barros]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 
 ### MESA 25 — Três Arquivos da Poesia Visual (12.11)
 
@@ -195,7 +195,7 @@
 - [[Christian Xatrec]]
 - [[Anne Courtois Vidal]]
 - [[Bianca Raupp Mayer]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 
 ### MESA 27 — comunicações (sessão paralela) (12.11)
 
@@ -231,7 +231,7 @@
 ### Conferência de Encerramento (13.11)
 
 - [[Jessé Diama]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 
 ### Depoimentos em Vídeo (13.11)
 
@@ -278,7 +278,7 @@
 
 ### Mesa 1 – 23.11
 
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 - [[Gustavo de Castro]]
 - [[Ana Paula El-Jaick]]
 
@@ -297,7 +297,7 @@
 ### Boas-vindas – 27.11
 
 - [[Anderson Gomes]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 - [[Júlio Mendonça]]
 
 ### Comunicação nº 01 – 27.11
@@ -320,7 +320,7 @@
 - [[Fabio Fon]]
 - [[Alexandra Saemmer]]
 - [[Eduardo Kac]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 
 ### Comunicação nº 03 – 27.11
 
@@ -363,7 +363,7 @@
 - [[Eduardo Veras]]
 - [[Larissa Drigo]]
 - [[Conrado Fogagnolli]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 
 ### Comunicação nº 08 – 28.11
 
@@ -451,7 +451,7 @@
 - [[Marianne Simon-Oikawa]]
 - [[Giovanni Fontana]]
 - [[Germana Lopes de Oliveira]]
-- [[Juliana Pondian]]
+- [[Juliana Di Fiori Pondian]]
 
 ### Comunicação nº 18 – 01.12
 
@@ -535,7 +535,7 @@
 - [[Ornela Barisone]]
 - [[Patrícia Lino]]
 - [[Rodolfo Mata]]
-- [[Vinícius Carvalho]]
+- [[Vinícius Marino Carvalho]]
 
 ### Convidados (Palestrantes Confirmados)
 

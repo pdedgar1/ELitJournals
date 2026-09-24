@@ -39,7 +39,7 @@
 - [[Timothy Dodd Alley]]
 - [[Nathan Dutton]]
 - [[Matthew Falk]]
-- [[Howard Fisher]]
+- [[Howard D. Fisher]]
 - [[Todd Harper]]
 - [[Adam Yulish]]
 - [[Adrienne Shaw]]
@@ -141,7 +141,7 @@
 
 - [[Christoph Klimmt]]
 - [[Christian Roth]]
-- [[Ivar Vermeulen]]
+- [[Ivar E. Vermeulen]]
 - [[Peter Vorderer]]
 - [[Franziska Susanne Roth]]
 - [[Michael L. Black]]
@@ -639,7 +639,7 @@
 - [[Marcus Maloney]]
 - [[Kristine Levan]]
 - [[Steven Downing]]
-- [[Daniel Dooghan]]
+- [[Daniel M. Dooghan]]
 - [[Olli Sotamaa]]
 - [[Jaakko Stenros]]
 

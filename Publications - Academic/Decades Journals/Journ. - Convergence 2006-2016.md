@@ -139,7 +139,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Elias Markstedt]]             |
 | [[Elisenda Ardèvol]]            |
 | [[Elizabeth Bettendorf]]        |
-| [[Elizabeth Evans]]             |
+| [[Elizabeth Jane Evans]]             |
 | [[Elspeth Broady]]              |
 | [[Emanuelle Santos]]            |
 | [[Emanuelle Wessels]]           |
@@ -148,7 +148,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Eric T. Meyer]]                |
 | [[Erkki Huhtamo]]               |
 | [[Espen Ytreberg]]              |
-| [[Eva Giraud]]                  |
+| [[Eva Haifa Giraud]]                  |
 | [[Eva-Karin Olsson]]           |
 | [[Evan Barba]]                  |
 | [[Evelien D'heer]]              |
@@ -210,7 +210,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Jake Lange]]                  |
 | [[Jakob Svensson]]              |
 | [[Jakub Macek]]                 |
-| [[James Bennett]]               |
+| [[James T. Bennett]]               |
 | [[James Newman]]                |
 | [[James Pope]]                  |
 | [[Janey Gordon]]                |

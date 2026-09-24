@@ -597,7 +597,7 @@ CELL Member : French-language E-lit
 | [[Stefi Weisburd]]                      |
 | [[Herbert George Wells]]                |
 | [[Sasha West]]                          |
-| [[Jessica Westbrook]]                   |
+| [[Jessica Parris Westbrook]]                   |
 | [[Dianne Whelan]]                       |
 | [[Christine Wilks]]                     |
 | [[Lynda Williams]]                      |

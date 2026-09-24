@@ -76,7 +76,7 @@
 #### Nonfiction
 [[Gregory Pardlo]], [[Jericho Parms]], [[Mark Dow]], [[Kelly Kathleen Ferguson]], [[Shelly Hubman]], [[Francesca Louise Grossman]], [[Sherri Mitchell - Wena' Gamu' Gwasit]]
 #### Poetry
-[[Gerry LaFemina]], [[V. V. Ganeshananthan]], [[Philip Metres]] & [[Tatiana Tulchinsky]] (trans. [[Lev Rubinstein]]), [[Mộng-Lan]], [[Peter Mishler]], [[Denise Duhamel]], [[Christopher Brunt]], [[Mia Ayumi Malhotra]], [[Meg Day]], [[Liz Robbins]], [[Marcelo Castillo]], [[Jan Clausen]], [[J. Scott Brownlee]], [[Jessica Smith]], [[Collier Nogues]], [[Janine Joseph]], [[Sho Sugita]], [[sam sax]], [[Lisa Sewell]], [[Kamilah Aisha Moon]], [[Loren Kleinman]], [[E. G. Cunningham]], [[Anna Claire Hodge]], [[Aaron Belz]]
+[[Gerry LaFemina]], [[V. V. Ganeshananthan]], [[Philip Metres]] & [[Tatiana Tulchinsky]] (trans. [[Lev Rubinstein]]), [[Mộng-Lan]], [[Peter Mishler]], [[Denise Duhamel]], [[Christopher Brunt]], [[Mia Ayumi Malhotra]], [[Meg Day]], [[Liz Robbins]], [[Marcelo Castillo]], [[Jan Clausen]], [[J. Scott Brownlee]], [[Jessica Lynn Smith]], [[Collier Nogues]], [[Janine Joseph]], [[Sho Sugita]], [[sam sax]], [[Lisa Sewell]], [[Kamilah Aisha Moon]], [[Loren Kleinman]], [[E. G. Cunningham]], [[Anna Claire Hodge]], [[Aaron Belz]]
 #### Digital Poetry
 [[Amaranth Borsuk]], [[Kate Durbin]] & [[Ian Hatcher]], [[Nick Canty]] & [[Hynninen]], [[J. R. Carpenter]], [[Christopher T. Funkhouser]], [[Zuzana Husárová]], [[Heldén]] & [[Jonson]], [[Daniel C. Howe]], [[Jason Edward Lewis]], [[Louise Marois]], [[Nick Montfort]] & [[Stephanie Strickland]], [[Smith]], [[Will Luers]] & [[Roger T. Dean]], [[Brian Kim Stefans]], [[Steve Tomasula]], [[Braxton Soderman]], [[Michael Coppola]], [[Qianxun Chen]], [[David Jhave Johnston]]
 
@@ -102,7 +102,7 @@
 ## Romani
 [[Allison Williams]], [[Arturo Desimone]], [[Chad Evans Wyatt]], [[Emerson Whitney]], [[Glenda Bailey-Mershon]], [[Jessica Reidy]], [[Olivia Sears]] & [[Chandra Livia Candiani]], [[Qristina Zavačková Cummings]], [[Sarah Barbieux]], [[Sydnee Wagner]], [[Hedina Tahirović-Sijerčić]] & [[Lynn Hutchinson Lee]]
 ## Poetry
-[[Talin Tahajian]], [[John A. Nieves]], [[Maureen Mulhern]], [[Benjamin Goldberg]], [[Jennifer Givhan]], [[Cody Ernst]], [[Chen Chen]], [[Laurie Blauner]], [[Peter Giebel]], [[Kai Carlson-Wee]], [[Nomi Stone]], [[Sue William Silverman]], [[Molly Damm]], [[Mary Jo Thompson]], [[Caroline Crew]], [[Nick Admussen]] (trans. [[Ya Shi]]), [[Brandon Lewis]], [[Gary McDowell]], [[M. B. McLatchey]], [[Maureen Thorson]], [[Hank Lazer]], [[Hoyt Jacobs]], [[Jake Levine]] (trans. [[Kim Kyung Ju]]), [[Usha Akella]]
+[[Talin Tahajian]], [[John A. Nieves]], [[Maureen Mulhern]], [[Benjamin Goldberg]], [[Jennifer Givhan]], [[Cody Ernst]], [[Chen Chen]], [[Laurie Blauner]], [[Peter Giebel]], [[Kai Carlson-Wee]], [[Nomi Stone]], [[Sue William Silverman]], [[Molly Damm]], [[Mary Jo Thompson]], [[Caroline Crew]], [[Nick Admussen]] (trans. [[Ya Shi]]), [[Brandon Lewis]], [[Gary L. McDowell]], [[M. B. McLatchey]], [[Maureen Thorson]], [[Hank Lazer]], [[Hoyt Jacobs]], [[Jake Levine]] (trans. [[Kim Kyung Ju]]), [[Usha Akella]]
 ## Fiction
 [[Carolyn Guinzio]], [[Rebecca Cook]], [[Jill Widner]], [[Devin Kelly]]
 ## Nonfiction

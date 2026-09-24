@@ -190,7 +190,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Aaron Trammell]]
     
-- [[Espen Aarseth]]
+- [[Espen J. Aarseth]]
     
 
 ---
@@ -211,7 +211,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Rainforest Scully-Blaker]]
     
-- [[Gerald Voorhees]]
+- [[Gerald A. Voorhees]]
     
 - [[Kristine Jørgensen]]
     
@@ -267,7 +267,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Sebastian Deterding]]
     
-- [[Espen Aarseth]]
+- [[Espen J. Aarseth]]
     
 
 ---
@@ -363,7 +363,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Jukka Vahlo]]
     
-- [[Espen Aarseth]]
+- [[Espen J. Aarseth]]
     
 
 ---
@@ -467,7 +467,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Brianna Dym]]
     
-- [[Jed Brubaker]]
+- [[Jed R. Brubaker]]
     
 - [[Casey Fiesler]]
     
@@ -525,7 +525,7 @@ Source: [Game Studies Archive](https://gamestudies.org/2201/archive)
     
 - [[Jaakko Suominen]]
     
-- [[Espen Aarseth]]
+- [[Espen J. Aarseth]]
     
 
 ---

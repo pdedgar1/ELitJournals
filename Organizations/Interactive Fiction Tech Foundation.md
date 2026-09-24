@@ -2,14 +2,14 @@
 
 Board : 
 [[Albert Bassili]]
-[[Justin Bortnick]]
+[[Justin A. Bortnick]]
 [[David Cornelson]]
 [[Leena van Deventer]]
 [[Kofi Oduro]]
 [[Mark L. Sample]]
 
 Officers : 
-[[Justin Bortnick]]
+[[Justin A. Bortnick]]
 [[Kofi Oduro]]
 [[Colette Zinna]]
 [[Doug Valenta]]

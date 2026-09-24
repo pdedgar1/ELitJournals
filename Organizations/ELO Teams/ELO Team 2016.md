@@ -8,7 +8,7 @@
 [[Sandy Baldwin]], [[Helen J. Burgess]]. [[Christopher T. Funkhouser]]. [[Maria Engberg]], [[Jeneen Naji]], [[Joseph Tabbi]] [[Davin Heckman]] .[[Stuart Moulthrop]] [[Patsy Baudoin]]
 ### Panels etc. 
 [[Rui Torres]]
-[[James Brown]]
+[[James J. Brown]]
 [[Joellyn Rock]]
 [[Lisa Swanstrom]]
 [[Johanna Rodgers]]

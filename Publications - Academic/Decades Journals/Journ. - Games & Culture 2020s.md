@@ -11,7 +11,7 @@
 - [[Constance A. Steinkuehler]]
 - [[Rory Summerley]]
 - [[Donghee Yvette Wohn]]
-- [[Guo Freeman]]
+- [[Guo Zhang Freeman]]
 
 ### Volume 15, Issue 2 (March 2020)
 
@@ -55,7 +55,7 @@
 - [[Marcus Carter]]
 - [[Kyle Moore]]
 - [[Jane Mavoa]]
-- [[Heather Horst]]
+- [[Heather A. Horst]]
 - [[luke gaspard]]
 
 ### Volume 15, Issue 5 (July 2020)
@@ -284,7 +284,7 @@
 - [[Gavin Oxburgh]]
 - [[Pam Briggs]]
 - [[Mildred F. Perreault]]
-- [[Gregory Perreault]]
+- [[Gregory Pearson Perreault]]
 - [[Andrea Suarez]]
 - [[Jørn Weines]]
 - [[Melania Borit]]
@@ -293,7 +293,7 @@
 ### Volume 17, Issue 3 (May 2022)
 
 - [[Rhett Loban]]
-- [[Elizabeth A LaPensée]]
+- [[Elizabeth LaPensée]]
 - [[Outi Laiti]]
 - [[Maize Longboat]]
 - [[Steven E. Jones]]
@@ -643,7 +643,7 @@
 - [[Mirela Jaśkowiec]]
 - [[Małgorzata Kowalska-Chrzanowska]]
 - [[Alena Cicholewski]]
-- [[Eduardo Luersen]]
+- [[Eduardo H. Luersen]]
 - [[Julieth Paula]]
 - [[Justin A. Bortnick]]
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "48e48e95c6d7f231",
+        "id": "8e24ecf93352e292",
         "type": "tabs",
         "children": [
           {
-            "id": "75b69055d73ee64e",
+            "id": "76f0d8bb8373d306",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alias Report.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alias Report"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -83,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.6608085632324
+    "width": 316.8808403015137,
+    "collapsed": true
   },
   "right": {
     "id": "5749d4d94d08711c",
@@ -186,35 +183,37 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "75b69055d73ee64e",
+  "active": "76f0d8bb8373d306",
   "lastOpenFiles": [
-    "Publications - Academic/Solo Journals/Journ. - A Peer-Reviewed J'About.md",
-    "Publications - Academic/Solo Journals/Journ.  - Humanities - E-Lit & Game Narratives Issue.md",
-    "Publications - Academic/Report - E-Lit as Model.md",
+    "Publications - Lit Mags/Cursor Mag.md",
+    "Samuel J. Huskey.md",
     "Alias Report.md",
-    "Publications - Academic/Decades Journals/Journ. - Transformative Works + Cultures (2008-2017).md",
-    "Publications - Academic/Decades Journals/Journ - Media-N 2015-2026.md",
-    "Publications - Academic/Decades Journals/Journ - Media-N 2005-2015.md",
-    "Publications - Academic/Electronic Book Review/EBR Writing post-Feminism.md",
-    "Publications - Academic/Electronic Book Review/EBR Writing Under Constraint.md",
-    "Publications - Academic/Electronic Book Review/EBR Web Arts.md",
-    "Publications - Academic/Electronic Book Review/EBR Technocapitalism.md",
-    "Publications - Academic/Electronic Book Review/EBR Machine Writing.md",
-    "Publications - Academic/Electronic Book Review/EBR Music, Sound Noise.md",
-    "Publications - Academic/Electronic Book Review/EBR Internet Nation.md",
-    "Publications - Academic/Electronic Book Review/EBR Fictions Present.md",
-    "Publications - Academic/Electronic Book Review/EBR Image + Narrative.md",
-    "Publications - Academic/Electronic Book Review/EBR First Person.md",
-    "Publications - Academic/Electronic Book Review/EBR Electropoetics.md",
-    "Publications - Academic/Electronic Book Review/EBR End Construction.md",
-    "Publications - Academic/Electronic Book Review/EBR Critical Ecologies.md",
+    "Publications - Lit Mags/Jacket2.md",
+    "Publications - Art Mags/Right Click Save.md",
+    "Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md",
+    "Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md",
+    "Publications - Academic/Decades Journals/Journ. - Leonardo 1980s.md",
+    "Conferences/New Media Conferences/Currents New Media Festival 2020s.md",
+    "Anthologies/Media Art Net.md",
+    "Archives/Arquivo Digital Po.Ex.md",
+    "Conferences/New Media Conferences/Currents New Media Festival 2010s.md",
+    "Archives/Rhizome Artbase.md",
+    "Conferences/MIX Conferences/MIX Conferences 2010s.md",
+    "Publications - Lit Mags/Lit Mag Decades/DIAGRAM 1-10.md",
+    "People + Labs/tiat salons.md",
+    "People + Labs/If, Then Working Group.md",
+    "Awards/Prix Ars Electronica - Golden Nica Winners.md",
+    "Archives/Living Media Art (Li-ma).md",
+    "Archives/Cartografía Digital.md",
+    "Jorge Luiz Antônio.md",
+    "Sara K. Day.md",
+    "J. I. Daniels.md",
+    "Yuxin Zhang.md",
+    "Lillian W. Mina.md",
+    "Carmen K. M. Lee.md",
+    "Publications - Lit Mags/Lit Mag Decades",
+    "Docs",
     "Publications - Academic/Electronic Book Review",
-    "Publications - Academic/Narrascope/Narrascope 2022 Program.md",
-    "Publications - Academic/Narrascope/Narrascope 2026 Program.md",
-    "Publications - Academic/Narrascope/Narrascope 2025 Program.md",
-    "Publications - Academic/Narrascope/Narrascope 2023 Program.md",
-    "Publications - Academic/Narrascope/Narrascope 2024 Program.md",
-    "Publications - Academic/Narrascope/Narrascope 2020 Program.md",
     "Publications - Academic/Narrascope",
     "Publications - Academic/Podcasts",
     "Publications - Academic/Presses",
@@ -223,7 +222,6 @@
     "Publications - Art Mags",
     "Screenshot 2026-09-18 at 11.08.44 AM.png",
     "__pycache__/alias_scan.cpython-310.pyc",
-    "__pycache__",
     "Pasted image 20260917114516.png",
     "Pasted image 20260917114509.png"
   ]

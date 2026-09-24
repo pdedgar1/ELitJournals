@@ -296,7 +296,7 @@ Note: as of this writing (2026), the journal has not yet reached 2027 — Vol. 4
 - [[Erika Ningxin Wang]]
 - [[Ian Reed Kelley]]
 - [[Ludi Price]]
-- [[Kristen Schuster]]
+- [[Kristen M. Schuster]]
 - [[Mandy Rhae Olejnik]]
 - [[Danielle Hart]]
 - [[Sarah Elizabeth Ader]]

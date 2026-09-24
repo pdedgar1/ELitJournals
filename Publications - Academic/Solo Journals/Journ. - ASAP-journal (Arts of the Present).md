@@ -241,7 +241,7 @@
 - [[Ellie M. Hisama]]
 - [[Mieke Bal]]
 - [[Jeannette Christensen]]
-- [[Eliza Rodriguez Gibson]]
+- [[Eliza Rodriguez Y. Gibson]]
 - [[Paul Wilson]]
 - [[M. J. Rymsza-Pawlowska]]
 - [[Paul Stephens]]

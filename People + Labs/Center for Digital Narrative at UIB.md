@@ -32,7 +32,7 @@ LEAD |[[Jason Nelson]]|
 |[[Doris Carmen Rusch]]|
 |[[Ida Martine Gard Rysjedal]]|
 |[[Debarun Sarkar]]|
-|[[Joseph Paul Tabbi]]|
+|[[Joseph Tabbi]]|
 |[[Haoyuan Tang]]|
 |[[Yağmur Çisem Vik]]|
 |[[Rafael Pérez y Pérez]]|

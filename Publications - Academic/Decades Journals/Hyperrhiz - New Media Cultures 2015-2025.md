@@ -85,7 +85,7 @@ Advisory editors
 [[Michael Leong]]
 [[Darren Tofts]] and [[Peter Milne]]
 [[Steven Wingate]]
-[[JeongHyun Lee]]
+[[JeongHyun (Janice) Lee]]
 [[Markus Wust]]
 [[James J. Brown, Jr.]]
 [[Sarah Beth Evans]]
@@ -113,7 +113,7 @@ Advisory editors
 [[Karl Wolfgang Flender]]
 [[Jeneen Naji]]
 [[Odile Farge]]
-[[Mark Leahy]]
+[[Mark H. Leahy]]
 [[Chloe Anna Milligan]]
 [[Siobhan O'Flynn]] 
 

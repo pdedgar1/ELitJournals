@@ -56,7 +56,7 @@ UC Boulder Lab!
 |[[Mark Amerika]]|
 |[[Betsey Biggs]]|
 |[[August Black]]|
-|[[Jed Brubaker]]|
+|[[Jed R. Brubaker]]|
 |[[Thora Brylowe]]|
 |[[Laura Devendorf]]|
 |[[Erin Espelie]]|

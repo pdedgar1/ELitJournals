@@ -70,7 +70,7 @@ intro
 [[Mad Dog Jones]]
 [[Pak]]
 [[Andreas Gysin]]
-[[Joshua Davis]]
+[[Joshua L. Davis]]
 [[Ezra Miller]]
 [[P1xelfool]]
 [[Nicolas Sassoon]]

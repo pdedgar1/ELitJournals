@@ -181,7 +181,7 @@
 - [[Samantha Furneaux]]
 - [[Ulrike Rohn]]
 - [[Garry Whannel]]
-- [[Jason Smith]]
+- [[Jason E. Smith]]
 - [[John Corner]]
 
 ### Vol. 33, Issue 5 (July 2011)
@@ -221,7 +221,7 @@
 - [[Karoline A. Ihlebæk]]
 - [[C. S. H. N. Murthy]]
 - [[Deborah Shaw]]
-- [[Jason Smith]]
+- [[Jason E. Smith]]
 
 ### Vol. 33, Issue 7 (October 2011)
 
@@ -268,7 +268,7 @@
 - [[Roei Davidson]]
 - [[Siobhan Holohan]]
 - [[Jean K. Chalaby]]
-- [[Jin Kim]]
+- [[Jin Sol Kim]]
 - [[Tom Inglis]]
 - [[Carol MacKeogh]]
 - [[Felicitas Macgilchrist]]
@@ -295,7 +295,7 @@
 - [[Carrie Anne Myers]]
 - [[Helen Thornham]]
 - [[Tapas Ray]]
-- [[John Robinson]]
+- [[John P. Robinson]]
 - [[Andreas Hoffbauer]]
 - [[Devon Powers]]
 
@@ -307,7 +307,7 @@
 - [[Marina Dekavalla]]
 - [[Hun-Yul Lee]]
 - [[Charles Fairchild]]
-- [[Francis LF Lee]]
+- [[Francis Lap Fung Lee]]
 - [[Sebastian Kubitschko]]
 - [[Daniel Knapp]]
 - [[Mark Deuze]]
@@ -528,7 +528,7 @@
 - [[Afonso de Albuquerque]]
 - [[Alan McKee]]
 - [[Piotr Bobkowski]]
-- [[Jessica Smith]]
+- [[Jessica Lynn Smith]]
 - [[Radha S. Hegde]]
 - [[Annette Hill]]
 
@@ -573,7 +573,7 @@
 - [[Martijn Kleppe]]
 - [[Christopher Joseph Westgate]]
 - [[John Corner]]
-- [[Jonathan Gray]]
+- [[Jonathan W. Y. Gray]]
 - [[Amanda D. Lotz]]
 - [[Nick Couldry]]
 - [[Graham Murdock]]
@@ -704,7 +704,7 @@
 - [[Ainara Larrondo]]
 - [[Paddy Dolan]]
 - [[Llewellyn Leonard]]
-- [[Jonathan Gray]]
+- [[Jonathan W. Y. Gray]]
 - [[Stefania Vicari]]
 - [[Fran Martin]]
 - [[Fazal Rizvi]]
@@ -738,7 +738,7 @@
 - [[Anne O'Brien]]
 - [[Sangeet Kumar]]
 - [[Red Chidgey]]
-- [[John Hondros]]
+- [[John J. Hondros]]
 
 ### Vol. 37, Issue 1 (January 2015)
 
@@ -836,7 +836,7 @@
 - [[Tom Evens]]
 - [[Petros Iosifidis]]
 - [[Oranit Klein Shagrir]]
-- [[James Meese]]
+- [[James Michael Meese]]
 - [[Colin Agur]]
 - [[Flora Tsapovsky]]
 - [[Paul Frosh]]
@@ -975,7 +975,7 @@
 - [[Joris Van Hoboken]]
 - [[ShinJoung Yeo]]
 - [[Ergin Bulut]]
-- [[Jack Qiu]]
+- [[Jack Linchuan Qiu]]
 - [[Martha Evans]]
 - [[Burcu Baykurt]]
 - [[Pascaline Lorentz]]
@@ -1017,7 +1017,7 @@
 - [[Henrik Örnebring]]
 - [[Michael Karlsson]]
 - [[Jack Black]]
-- [[Francis LF Lee]]
+- [[Francis Lap Fung Lee]]
 - [[Joseph Man Chan]]
 - [[Åsa Kroon]]
 - [[Göran Eriksson]]
@@ -1315,7 +1315,7 @@
 
 ### Vol. 40, Issue 6 (September 2018)
 
-- [[Earvin Charles Cabalquinto]]
+- [[Earvin Charles Borja Cabalquinto]]
 - [[Delia Dumitrica]]
 - [[Maria Bakardjieva]]
 - [[Evan Elkins]]
@@ -1433,7 +1433,7 @@
 - [[Simone Natale]]
 - [[Nikos Sotirakopoulos]]
 - [[Mark Monaghan]]
-- [[Gabriella Coleman]]
+- [[E. Gabriella Coleman]]
 - [[Tim Jordan]]
 - [[Judith Aldridge]]
 

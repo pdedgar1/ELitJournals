@@ -35,14 +35,14 @@
 | [[Holly Okonkwo]]                                                             |
 | [[Baden Pailthorpe]]                                                          |
 | [[Britt S. Paris]]                                                            |
-| [[Jamie Pietruska]]                                                           |
+| [[Jamie L. Pietruska]]                                                           |
 | [[Deborah Raji]]                                                              |
 | [[Carolyn Schuster]]                                                          |
 | [[Matthew Stone]]                                                             |
 | [[Elisabeth Sylvan]]                                                          |
 | [[Lee Vinsel]]                                                                |
 | [[Meredith Whittaker]]                                                        |
-| [[Ewa Ziarek]]                                                                |
+| [[Ewa Plonowska Ziarek]]                                                                |
 | [[]]                                                                          |
 | International Advisory Board:]]                                               |
 | [[Ruha Benjamin]]                                                             |
@@ -143,7 +143,7 @@
 - [[Tiffany DeRewal]]
 - [[Elizabeth Losh]]
 - [[Francis Hunger]]
-- [[Lauren Klein]]
+- [[Lauren F. Klein]]
 - [[Suvir Kaul]]
 - [[James E. Dobson]]
 

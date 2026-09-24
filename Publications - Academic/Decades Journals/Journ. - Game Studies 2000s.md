@@ -10,7 +10,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - Volume/Issue: 1.1
     
-- [[Espen Aarseth]]
+- [[Espen J. Aarseth]]
     
 - [[Marie-Laure Ryan]]
     
@@ -31,7 +31,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - Volume/Issue: 2.1
     
-- [[Espen Aarseth]]
+- [[Espen J. Aarseth]]
     
 - [[James Newman]]
     
@@ -87,7 +87,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - [[Johannes Fromme]]
     
-- [[Julian Kücklich]]
+- [[Julian Raul Kücklich]]
     
 - [[Tony Manninen]]
     
@@ -324,7 +324,7 @@ Source: [Game Studies Archive](https://gamestudies.org/archive)
     
 - [[Marcus Schulzke]]
     
-- [[Gerald Voorhees]]
+- [[Gerald A. Voorhees]]
     
 - [[Ryan M. Moeller]]
     

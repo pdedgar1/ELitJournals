@@ -13,7 +13,7 @@
 [[Jennifer Foley]]
 [[Matthew G. Kirschenbaum]]
 [[Kari Kraus]]
-[[Jason Jones]]
+[[Jason J. Jones]]
 [[Marc N. Ruppel]]
 [[Chuck Tryon]]
 [[Eric White]]

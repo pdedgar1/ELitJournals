@@ -180,7 +180,7 @@ w. thanks to [[Daniela Côrtes Maduro]], [[Manuel Portela]], [[Alex Saum-Pascual
 | [[Alec Ekvall]]                            |
 | [[Carolina López Jiménez]]                 |
 | [[Aidan Walker]]                           |
-| [[Jacob Hall]]                             |
+| [[Jacob Griffin Hall]]                             |
 | [[Caitlin Fisher]]                         |
 | [[Rob Wittig]]                             |
 | [[Jeremy Douglass]]                        |

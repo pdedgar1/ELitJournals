@@ -59,7 +59,7 @@ Part 2 Methods, Tools, & Techniques
 
 14 The Present and Future of Encoding Text(s) 147
 
-[[James Cummings]]
+[[James J. Cummings]]
 
 15 On Computers in Text Analysis 159
 

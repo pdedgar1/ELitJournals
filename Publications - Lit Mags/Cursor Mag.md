@@ -101,3 +101,14 @@ pieces
 [[Claire Zhang]]
 [[Freja Smith]]
 [[Anna Shams Ili]] and [[Clara Eddy]]
+
+### issue 8 
+[[Julianne Aguilar]]
+[[Sandy Di Yu]]
+[[Lauren Lee]]
+[[Celine Lassus]]
+[[Anne Lee Steele]]
+[[Queenie Wu]]
+[[Zeh Fernandes]]
+[[Dora Siafla]]
+[[Halim Madi]]

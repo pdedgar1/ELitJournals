@@ -360,7 +360,7 @@
 
 - [[Lee Marshall]]
 - [[Allen J. Scott]]
-- [[Francis LF Lee]]
+- [[Francis Lap Fung Lee]]
 - [[Paula Chakravartty]]
 - [[Clive Barnett]]
 - [[Göran Bolin]]
@@ -458,7 +458,7 @@
 - [[Charles MacDonald]]
 - [[Jennifer Birks]]
 - [[Yvette Taylor]]
-- [[James Hamilton]]
+- [[James F. Hamilton]]
 - [[Yves Laberge]]
 - [[Philip Schlesinger]]
 - [[Paul Shaw]]
@@ -511,7 +511,7 @@
 - [[Melissa A. Wall]]
 - [[KwangSuk Lee]]
 - [[Charles MacDonald]]
-- [[James Hamilton]]
+- [[James F. Hamilton]]
 - [[Mary P. Wood]]
 
 ### Vol. 27, Issue 6 (November 2005)
@@ -548,7 +548,7 @@
 - [[Mary O'Regan]]
 - [[Peter Jachimiak]]
 - [[Brian McNair]]
-- [[James Hamilton]]
+- [[James F. Hamilton]]
 - [[John Corner]]
 
 ### Vol. 28, Issue 2 (March 2006)

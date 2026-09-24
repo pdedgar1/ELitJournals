@@ -22,7 +22,7 @@
 - [[Patricia Wright]]
 - [[Cliff Mcknight]]
 - [[Andrew Dillon]]
-- [[John Richardson]]
+- [[John Adkins Richardson]]
 - [[Richard Furuta]]
 - [[Catherine Plaisant]]
 - [[Ben Shneiderman]]

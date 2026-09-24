@@ -72,7 +72,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Emilie Hurst]]
     
-- [[Judith Fathallah]]
+- [[Judith May Fathallah]]
     
 - [[Dina Smith]]
     

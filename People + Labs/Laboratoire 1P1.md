@@ -24,7 +24,7 @@ https://1p1.uqam.ca/membres/
 | [[Roxane Lussier]]                              |
 | [[Barbara Meilleur]]                            |
 | [[Kloé Montreuil]]                              |
-| [[Bao Nguyen]]                                  |
+| [[Bao Anh Bui Nguyen]]                                  |
 | [[Michel Poulin]]                               |
 | [[Marie-Anne Vezeau-Jové]]                      |
 | [[Ugo Besson]]                                  |

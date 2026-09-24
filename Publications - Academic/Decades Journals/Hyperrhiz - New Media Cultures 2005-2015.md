@@ -172,7 +172,7 @@ regular reviews
 ## 13 - Fall 2015 - Kits, Plans, Schematics - [[Helen J. Burgess]] and [[David M. Rieder]]
 
 [[David M. Rieder]]
-[[Robert A. Emmons Jr.]], [[James Brown]]
+[[Robert A. Emmons Jr.]], [[James J. Brown]]
 [[Helen J. Burgess]]
 
 [[David M. Rieder]]

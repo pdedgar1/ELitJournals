@@ -36,7 +36,7 @@ Colaboradores
 | [[Carlos Herrera]]                                           |
 | [[Carlos Prieto]]                                            |
 | [[Carlos Ramírez]]                                           |
-| [[Carlos Roberto Torres]]                                            |
+| [[Carlos Roberto Torres]]                                    |
 | [[Carole Chargueron]]                                        |
 | [[Carolina Lucio]]                                           |
 | [[Carolina Romano]]                                          |
@@ -53,7 +53,7 @@ Colaboradores
 | [[Fidel Cordero]]                                            |
 | [[Florencia Azorín]]                                         |
 |                                                              |
-| [[Gabriella Gordillo]]                                        |
+| [[Gabriella Gordillo]]                                       |
 | [[Galo González]]                                            |
 | [[Gatamot Shaku]]                                            |
 | [[Gisella Soledad Gastín]]                                   |
@@ -75,7 +75,7 @@ Colaboradores
 | [[Leonardo Aranda]]                                          |
 | [[Leonardo Santiago]]                                        |
 | [[Lina Leal]]                                                |
-| [[Los usuario/as/lector/aes]]                                |
+| Los usuario/as/lector/aes]]                                  |
 | [[Luca Carrubba]]                                            |
 | [[Luis Llorens]]                                             |
 | [[madialab.mx]]                                              |
@@ -110,7 +110,7 @@ Colaboradores
 | [[Santiago Muedano]]                                         |
 | [[Sergio Roncallo]]                                          |
 | [[Tábula Rasa]]                                              |
-| [[Vanessa López García]]                                           |
+| [[Vanessa López García]]                                     |
 | [[Violeta Gau]]                                              |
 | [[Ximena Atristain]]                                         |
 | [[Adriana Díaz]]                                             |
@@ -129,10 +129,10 @@ Colaboradores
 | [[Andrés Paniagua]]                                          |
 | [[Anuar Cichero]]                                            |
 | [[Belén Gache]]                                              |
-| [[Raul Benjamín Moreno]]                                          |
+| [[Raul Benjamín Moreno]]                                     |
 | [[Bernardo Arroyo]]                                          |
 | [[Boriss Mejías]]                                            |
-| [[Boriss Mejías C.]]                                          |
+| [[Boriss Mejías C.]]                                         |
 | [[brkn]]                                                     |
 | [[Camila Gormaz]]                                            |
 | [[Canek Zapata]]                                             |
@@ -140,7 +140,7 @@ Colaboradores
 | [[Carlos Cociña]]                                            |
 | [[Carlos Labbé]]                                             |
 | [[Carlos Roberto Torres]]                                    |
-| [[Carlos Roberto Torres]]                                            |
+| [[Carlos Roberto Torres]]                                    |
 | [[Carmen Gil, Camilo Giraldo]]                               |
 | [[Carmen Muñoz]]                                             |
 | [[Carolina López Jiménez]]                                   |
@@ -155,7 +155,7 @@ Colaboradores
 | [[Colectivo de Artes Integradas (CAIN)]]                     |
 | [[coño micky]]                                               |
 | [[David Losada]]                                             |
-| [[David Tomas Martínez]]                                           |
+| [[David Tomas Martínez]]                                     |
 | [[David Medina]]                                             |
 | [[Demian Schopf]]                                            |
 | [[Denise Audirac]]                                           |
@@ -181,7 +181,7 @@ Colaboradores
 | [[Isabel Zapata]]                                            |
 | [[Israel Martínez]]                                          |
 | [[Iván Palacios Ocaña]]                                      |
-| [[Jaime Alejandro Rodríguez Ruiz]]                                |
+| [[Jaime Alejandro Rodríguez Ruiz]]                           |
 | [[Javier Guerra]]                                            |
 | [[Jenny Lam]]                                                |
 | [[José Aburto]]                                              |
@@ -236,7 +236,7 @@ Colaboradores
 | [[Tetjockeys]]                                               |
 | [[Textjockeys]]                                              |
 | [[Tilsa Otta]]                                               |
-| [[Augusto Vinicius Marquet]]                                         |
+| [[Augusto Vinicius Marquet]]                                 |
 | [[Vivian Abenshushan]]                                       |
 | [[Xitlálitl Rodríguez Mendoza]]                              |
 | [[Yolanda de la Torre]]                                      |

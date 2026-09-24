@@ -138,7 +138,7 @@ Source: [Ars Electronica Archive – Prix](https://archive.aec.at/prix/) (all 19
 - 1999 – _Linux_ – [[Linus Torvalds]]
 - 2000 – _In the Beginning was the Command Line (Excerpts)_ – [[Neal Stephenson]]
 - 2001 – _Banja_ – [[Team cHmAn]]
-- 2001 – _PrayStation_ – [[Joshua Davis]]
+- 2001 – _PrayStation_ – [[Joshua L. Davis]]
 - 2002 – _Carnivore_ – [[Radical Software Group]]
 - 2002 – _They Rule_ – [[Josh On]]
 - 2003 – _Noderunner_ – [[Yury Gitman]], [[Carlos J. Gómez de Llarena]]
@@ -229,6 +229,6 @@ Source: [Ars Electronica Archive – Prix](https://archive.aec.at/prix/) (all 19
 - 2014 – [[Roy Ascott]]
 - 2015 – [[Jeffrey Shaw]]
 - 2016 – [[Jasia Reichardt]]
-- 2018 – [[Leonardo/ISAST]]
+- 2018 – [[Journ. - Leonardo 2010s]]/[[ISAST]]
 - 2020 – [[VALIE EXPORT]] _(Visionary Pioneer of Feminist Media Art)_
 - 2022 – [[Laurie Anderson]]

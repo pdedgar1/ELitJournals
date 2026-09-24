@@ -192,7 +192,7 @@
 | [[Koenraad Brosens]]                             |
 | [[Elspeth Brown]]                                |
 | [[Hannah L. P. Brown]]                            |
-| [[Susan Brown]]                                  |
+| [[Susan A. Brown]]                                  |
 | [[Cameron Browne]]                               |
 | [[Paul A. Broyles]]                              |
 | [[Viktoria Brüggemann]]                          |
@@ -308,7 +308,7 @@
 | [[Constance Crompton]]                           |
 | [[Adam Crymble]]                                 |
 | [[Alexis Culotta]]                               |
-| [[James Cummings]]                               |
+| [[James J. Cummings]]                               |
 | [[Rebekah Cummings]]                             |
 | [[Kyle Cunningham]]                              |
 | [[Richard Cunningham]]                           |
@@ -341,7 +341,7 @@
 | [[Ronald Haentjens Dekker]]                      |
 | [[Isabel del Bosque González]]                   |
 | [[Riccardo Del Gratta]]                          |
-| [[Angelo Del Grosso]]                            |
+| [[Angelo Mario Del Grosso]]                            |
 | [[Gimena del Rio Riande]]                        |
 | [[Steve Delamarter]]                             |
 | [[Marie Delcourte-Debarre]]                      |

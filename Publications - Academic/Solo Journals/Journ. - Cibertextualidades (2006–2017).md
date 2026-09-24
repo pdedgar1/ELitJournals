@@ -21,7 +21,7 @@
 - [[Eunice Gonçalves Duarte]]
 - [[Otávio Filho]]
 - [[Arlete dos Santos Petry]]
-- [[Eric Messa]]
+- [[Eric Eroi Messa]]
 - [[Henrique Sobral]]
 - [[Maurício Pontuschka]]
 - [[Fábio Fernandes]]
@@ -132,7 +132,7 @@
 
 - [[Rui Torres]]
 - [[Luís Carlos Petry]]
-- [[Espen Aarseth]]
+- [[Espen J. Aarseth]]
 - [[Gordon Calleja]]
 - [[Antônio Vargas]]
 - [[Ana Beatriz Bahia]]

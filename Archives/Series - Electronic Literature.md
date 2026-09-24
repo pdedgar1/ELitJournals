@@ -12,7 +12,7 @@ Bloomsbury
 [[Stephanie Boluk]]
 [[Philippe Bootz]]
 [[Serge Bouchardon]]
-[[James Brown]]
+[[James J. Brown]]
 [[Jeremy Douglass]]
 [[Anna Gibbs]]
 [[Robert Glick]]

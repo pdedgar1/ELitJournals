@@ -1,6 +1,6 @@
 |                                   |
 | --------------------------------- |
-| [[A Jamali Rad]]                  |
+| [[A. Jamali Rad]]                 |
 | [[Alessandra Zinicola Lopez]]     |
 | [[Alex Calderwood]]               |
 | [[Alex Cohen]]                    |
@@ -50,7 +50,7 @@
 | [[farrell]]                       |
 | [[Fereshteh Toosi]]               |
 | [[Fi]]                            |
-| [[Francesca Bolla Tripodi]]             |
+| [[Francesca Bolla Tripodi]]       |
 | [[Fred L. Joiner]]                |
 | [[Freia Lobo]]                    |
 | [[Grant Glass]]                   |
@@ -66,8 +66,8 @@
 | [[Jon Stapleton]]                 |
 | [[Jonathan W. Y. Gray]]           |
 | [[Josh Grams]]                    |
-| [[Kate Alexandrite (Guillen)]]    |
-| [[Katelin Ten/geya]]              |
+| [[Kate Alexandrite]] (Guillen)]]  |
+| [[Katelin Ten]]/geya]]            |
 | [[Katherine Diemert]]             |
 | [[Katherine Yang]]                |
 | [[kathy wu]]                      |

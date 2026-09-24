@@ -192,7 +192,7 @@
 ### Dynamic Coupling (Vol. 06 No. 02) — Fall 2010
 
 - [[Rachel Ivy Clarke]] — Editorial Statement
-- [[Jessica Westbrook]] and [[Adam Trowbridge]] — Guest Editors' Statement
+- [[Jessica Parris Westbrook]] and [[Adam Trowbridge]] — Guest Editors' Statement
 - [[Shannon C. McMullen]] and [[Fabian Winkler]] — Featured Conversation: A Conversation About Collaboration
 - [[Petra Bachmaier]] and [[Sean Gallero]] — Dialogue (Luftwerk)
 - [[Annette Barbier]] and [[Drew Browning]] — Dialogue (Un-real Estates)
@@ -302,7 +302,7 @@
 - [[Jon Satrom]] and [[Patrick Lichty]] — Breaking Reality: Talking about Glitch with Jon Satrom
 - [[Alvaro Pastor]] and [[Pat Badani]] — La Casa Ida: Interview with Alvaro Pastor
 - [[Will Pappenheimer]] — Critical Space
-- [[Adam Trowbridge]], [[Jessica Westbrook]], and [[Oskar Westbridge]] — Radical Togetherness.pervasiveFeminism
+- [[Adam Trowbridge]], [[Jessica Parris Westbrook]], and [[Oskar Westbridge]] — Radical Togetherness.pervasiveFeminism
 - [[Daniel Temkin]] — Brainfuck
 
 ### CAA Conference Edition, 2013 (Vol. 09 No. 02) — Summer 2013
@@ -330,7 +330,7 @@
 - [[Doo-Sung Yoo]] — "Vishtauroborg:" Part Human, Part Animal, Part Machine
 - [[Meredith Drum]] — Somatic Shifts: Augmented Reality and the Corporal Body
 - [[Meredith Hoy]] — Digital Sensing: Intersections of Sonification and Visualization in Media Arts
-- [[Paul Johnson]] — The Turing Image
+- [[J. Paul Johnson]] — The Turing Image
 - [[Carolyn L. Kane]] — From Blue Screen and Chromakey to the Alpha Channel and 2.0 Look, Dirt Style
 - [[Leslie Raymond]] — Sit Close to the Screen
 - [[Nicolas Shawn King Ruley]] — Twitter is the New Chance

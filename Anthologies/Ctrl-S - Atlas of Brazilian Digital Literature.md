@@ -56,7 +56,7 @@
 |[[Júlio Mendonça]]|
 |[[Josiel Vieira]]|
 |[[José Lino Grünewald]]|
-|[[Jorge Luis Antônio]]|
+|[[Jorge Luiz Antônio]]|
 |[[Regina Célia Pinto]]|
 |[[Inês Raphaelian]]|
 |[[Haroldo de Campos]]|

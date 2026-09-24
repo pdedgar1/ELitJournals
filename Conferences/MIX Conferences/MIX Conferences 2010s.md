@@ -30,7 +30,7 @@ speakers [[Mark Amerika]], [[Kate Pullinger]], [[Tom Konyves]]
 | [[Jillian Abbot]]                             |
 | [[Joelle Adams]]                              |
 | [[Eiliyas (Nicholas]]                         |
-| [[Patrick and Kelli Fuery]]                   |
+| [[Patrick Fuery]] and [[Kelli Fuery]]         |
 | [[Terry Flaxton]]                             |
 | [[Claire Reddington]]                         |
 | [[Martin Reiser]]                             |
@@ -159,7 +159,7 @@ Keynotes [[Naomi Alderman]], [[Florian Cramer]],
 
 
 ## 2017
-keynote [[Caitlin Fisher]],[[elizabeth evans]], [[jonathan dovey]], [[anna gerber]] and [[britt iverson]]
+keynote [[Caitlin Fisher]],[[Elizabeth Jane Evans]], [[jonathan dovey]], [[anna gerber]] and [[britt iverson]]
 
 |                          |
 | ------------------------ |

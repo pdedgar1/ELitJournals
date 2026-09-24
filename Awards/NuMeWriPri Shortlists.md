@@ -101,7 +101,7 @@ https://newmediawritingprize.co.uk/2024-shortlist/
 | [[Denise]]                                                                                                                                                  |
 | [[Drew Ott]]                                                                                                                                                |
 | [[Rosalind Fielding]]                                                                                                                                       |
-| [[James Walker]]                                                                                                                                            |
+| [[James Faure Walker]]                                                                                                                                            |
 | [[Saanvi Kiran]]                                                                                                                                            |
 | [[David Thomas Henry Wright]], [[Louis Pratt]], [[Karen Lowry]], [[Chris Arnold]]                                                                           |
 | [[Chris Pang]]                                                                                                                                              |

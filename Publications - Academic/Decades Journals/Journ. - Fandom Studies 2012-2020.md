@@ -257,7 +257,7 @@ Source: [Journal of Fandom Studies — Previous Issues](https://intellectdiscove
     
 - [[Katherine Larsen]]
     
-- [[Judith Fathallah]]
+- [[Judith May Fathallah]]
     
 - [[Thessa Jensen]]
     

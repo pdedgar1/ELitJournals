@@ -8,7 +8,7 @@ The most recent of beaulieu's editing projects over the last dozen years, Speech
 [[Mary Ellen Solt]]
 
 [[Giles Goodland]]
-[[jessica Smith]]
+[[Jessica Lynn Smith]]
 [[Billy Mavreas]]
 [[Valerie Roybal]]
 [[Emmett Williams]]

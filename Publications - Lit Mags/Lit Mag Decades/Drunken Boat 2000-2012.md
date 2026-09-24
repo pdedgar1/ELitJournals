@@ -771,7 +771,7 @@
 |[[Jennifer Whitaker]]|
 |[[Jerry Williams]]|
 |[[Elizabeth Willis]]|
-|[[Joseph Wood]]|
+|[[Joseph P. Wood]]|
 |[[Corey Zeller]]|
 
 # Issue 11

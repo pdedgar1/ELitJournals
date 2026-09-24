@@ -13,7 +13,7 @@
 - [[Diana Adams]] — "And then it was like she could see another Scott inside the Scott in front of her"
 - [[Madhushree Ghosh]] — "Queen of The Block"
 - [[Adam Dickinson]] — "A Spade in The Canadian Shield" / "Devonian"
-- [[Jennifer Sweeney]] — "How to Live on Bread and Music" / "Comfort"
+- [[Jennifer K. Sweeney]] — "How to Live on Bread and Music" / "Comfort"
 - [[Sammy Greenspan]] — "Poisoned Awake"
 - [[Amy Newman]] — "Planet"
 - [[Avery Slater]] — "La Cocina" / "River de la Seine"

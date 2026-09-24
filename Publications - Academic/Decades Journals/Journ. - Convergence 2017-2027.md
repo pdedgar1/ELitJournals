@@ -304,7 +304,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Edgar Simpson]]                    |
 | [[Editorial]]                      |
 | [[Ediz Ozelkan]]                     |
-| [[Edward Hurcombe]]                  |
+| [[Edward Flipo Hurcombe]]                  |
 | [[Edward Summers]]                   |
 | [[Eedan R. Amit-Danhi]]               |
 | [[Eedan R. Amit-Danhi]]              |
@@ -325,7 +325,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Elizabeth Fetterolf]]              |
 | [[Elizabeth Joan Kelly]]             |
 | [[Elizabeth Van Couvering]]          |
-| [[Ellen J. Helsper]]                  |
+| [[Ellen Johanna Helsper]]                  |
 | [[Elliot Montpellier]]               |
 | [[Ellis Jones]]                      |
 | [[Elsa C. Gomis]]                     |
@@ -336,7 +336,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Emily M. Cramer]]                   |
 | [[Emily Tarvin]]                     |
 | [[Emily van der Nagel]]              |
-| [[Emily Weinstein]]                  |
+| [[Emily C. Weinstein]]                  |
 | [[Emma Segar]]                       |
 | [[Emma Witkowski]]                   |
 | [[Emmanuel Billias]]                 |
@@ -357,7 +357,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Ezgi Kocabalkanlı]]                |
 | [[Fabian Hoose]]                     |
 | [[Fahed Al-Sumait]]                  |
-| [[Fan Yang]]                         |
+| [[Fan ("Ellie") Yang]]                         |
 | [[Fang Su]]                          |
 | [[Farley J. Joseph]]                  |
 | [[Fatemeh Shayesteh]]                |
@@ -465,7 +465,7 @@ https://journals.sagepub.com/loi/CON?_gl=1*1n588xs*_up*MQ..*_ga*MjAxOTE5MDg0NS4x
 | [[Jacob Gursky]]                     |
 | [[Jacob M. Rigby]]                    |
 | [[Jacob Ørmen]]                      |
-| [[Jacob Richter]]                    |
+| [[Jacob D. Richter]]                    |
 | [[Jaka Primorac]]                    |
 | [[James Baguley]]                    |
 | [[James Douglas]]                    |

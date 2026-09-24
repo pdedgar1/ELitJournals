@@ -45,7 +45,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 - [[Cees J. Hamelink]]
 - [[Bernard Miége]]
 - [[Nicholas Garnham]]
-- [[James Carey]]
+- [[James W. Carey]]
 - [[Simon Watney]]
 - [[Colin Sparks]]
 
@@ -528,7 +528,7 @@ Note: 1979 (Vol. 1) is included in this file even though it is technically the t
 ### Vol. 10, Issue 2 (April 1988)
 
 - [[Hanno Hardt]]
-- [[John D. Downing]]
+- [[John D. H. Downing]]
 - [[Tadeusz Kowalski]]
 - [[Jan Ekecrantz]]
 - [[Colin Sparks]]

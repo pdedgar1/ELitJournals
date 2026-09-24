@@ -4,7 +4,7 @@ https://computer-arts-society.com/casarchive/index.html
 
 ## CAS Conference / Exhibition 1973
 - [[Stroud Cornock]]
-- [[Ernest Edmonds]]
+- [[Ernest A. Edmonds]]
 - [[A. Jebb]], [[C. B. Besant]], [[S. A. Hayward]] 
 - [[Jerry Hunt]]
 - [[R. J. Howarth]]
