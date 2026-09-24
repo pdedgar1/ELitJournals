@@ -27,7 +27,7 @@ With this in mind, E-literature exists as a collective of events and archives in
 - Academic Book Series and Imprints about Electronic Literature
 - and a ton of Academic Journals about E-Lit, Digital Narratives and Culture, Social Media studies, and so on.
 
-As you might find inside this "Little Database" (as Danny Snelson writes), E-literature exists in and among many disciplines revolving around computers and creativity, the humanities and the social sciences. We study stories that circulate in digital spaces, *and* we write our own. 
+As you might find inside this "Little Database" (to borrow Danny Snelson's term), E-literature exists in and among many disciplines revolving around computers and creativity, the humanities and the social sciences. We study stories that circulate in digital spaces, *and* we write our own. 
 #### By the numbers, as of Sept 23, 2026 
 
 This little database is a cross-section: reducing prolific scholars and conference volunteers alike to their contributor's bylines in conference proceedings, journal publications, and "about" pages.
