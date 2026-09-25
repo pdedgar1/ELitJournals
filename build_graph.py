@@ -10,7 +10,7 @@ What it writes (into the output folder):
     index.html, app.js, style.css   copied from ./site/
     data/graph.json                 notes + "bridge" people + edges + color groups
     data/people.json                every linked name -> the notes that link it
-    data/notes/<n>.md               raw text of each note (loaded on demand)
+    data/notes/<n>.txt              raw text of each note (loaded on demand)
     data/files/...                  embedded attachments (![[image.png]])
 
 Each block below is independent — tweak one without touching the others.
@@ -156,7 +156,7 @@ def write_site(root, out, notes, graph, people_index, attachments):
     (out / "data" / "people.json").write_text(
         json.dumps(people_index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     for i, rel in enumerate(notes):
-        shutil.copy2(root / rel, out / "data" / "notes" / f"{i}.md")
+        shutil.copy2(root / rel, out / "data" / "notes" / f"{i}.txt")
 
     # attachments are looked up by file name anywhere in the vault (Obsidian-style)
     for name in attachments:
