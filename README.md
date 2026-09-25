@@ -32,10 +32,10 @@ As you might find inside this "Little Database" (to borrow Danny Snelson's term)
 
 This little database is a cross-section: reducing prolific scholars and conference volunteers alike to their contributor's bylines in conference proceedings, journal publications, and "about" pages.
 
-+ As of Sept. 2026, there are 101,000 outgoing links in this corpus from 445 nodes. 
-+ Because of overlap, links, and repetitions, outgoing links represent almost 58,000 individuals with bylines in the corpus. 
++ As of Sept. 2026, there are more than 100,000 outgoing links in this corpus from 450+ nodes. 
++ Because of overlap, links, and repetitions, outgoing links represent almost 60,000 individuals with bylines in the corpus. 
 + Of those, one-off bylines make up 4 of every 5 outgoing links—80% of individuals with bylines appear only once. 
-+ But almost 11,100 individuals serve as a connection between two or more nodes: linking conference and publication venues to each other and to other research communities!
++ But more than 11,000 individuals serve as a connection between two or more nodes: linking conference and publication venues to each other and to other research communities!
 #### Limits / Work still to do
 
 The major limitation of this project right now is that as I've added folks to this corpus, they may have been represented differently across the web: either via name changes, pen names, or journal preferences. Each week, I run a scan of the corpus to identify potential reconciliations, which is found in the [[Alias Report]]. The scan searches for 
