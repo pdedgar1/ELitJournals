@@ -227,7 +227,7 @@ Digital Art Magazine Post-2020
 |[[Sebastián Martínez Sánchez]]|
 |[[Seth Goldstein]]|
 |[[Shahrzad Hamzeh]]|
-|[[Silvia Anna Barrilà]]|
+|[[Silvia Anna Barrilá]]|
 |[[Simon Denny]] and [[Guile Twardowski]]|
 |[[Simon Denny]] and [[Karamia Müller]]|
 |[[Simon Indelicate]]|

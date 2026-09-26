@@ -9,7 +9,7 @@ Reviewers :
 
 |                                  |     |
 | -------------------------------- | --- |
-| [[Alexandra Anikina]]            |     |
+| [[Alexandra (Sasha) Anikina]]            |     |
 | [[Andrew Murphie]]               |     |
 | [[Andrew Prior]]                 |     |
 | [[Annet Dekker]]                 |     |
@@ -75,10 +75,10 @@ contributions from [[Marloes de Valk]]; [[Gabriel Pereira]]; [[Dusan Cotoras Str
 
 Edited by [[Christian Ulrik Andersen]] and [[Geoff Cox]]
 ## issue 11 - 2022
-[[Geoff Cox]], [[Christian Ulrik Andersen]], [[Miriam Matthiessen]], [[Anne Lee Steele]], [[One Research Collective]], [[Malthe Stavning Erslev]], [[Ruben van de Ven]], [[Ildikó Zonga Plájás]], [[Sheung Yiu]], [[Hanna Grześkiewicz]], [[Vítor Blanco-Fernández]], [[Clareese Hill]], [[Elly Clarke]], [[Alexandra Anikina]], 
+[[Geoff Cox]], [[Christian Ulrik Andersen]], [[Miriam Matthiessen]], [[Anne Lee Steele]], [[One Research Collective]], [[Malthe Stavning Erslev]], [[Ruben van de Ven]], [[Ildikó Zonga Plájás]], [[Sheung Yiu]], [[Hanna Grześkiewicz]], [[Vítor Blanco-Fernández]], [[Clareese Hill]], [[Elly Clarke]], [[Alexandra (Sasha) Anikina]], 
 
 ## issue 12 - 2023
-contributions by [[Camille Crichlow]], [[Teodora Sinziana Fartan]], [[Susanne Förster]], [[Inte Gloerich]], [[Mara Karagianni]], [[Jung-Ah Kim]], [[Freja Kir]], [[Inga Luchs]], [[Alasdair Milne]], [[Shusha Niederberger]], [[Jack Wilson]], [[nate wessalowski]], xenodata co-operative ([[Alexandra Anikina]] & [[Yasemin Keskintepe]]), [[Sandy Di Yu]], and edited by [[Christian Ulrik Andersen]] & [[Geoff Cox]].
+contributions by [[Camille Crichlow]], [[Teodora Sinziana Fartan]], [[Susanne Förster]], [[Inte Gloerich]], [[Mara Karagianni]], [[Jung-Ah Kim]], [[Freja Kir]], [[Inga Luchs]], [[Alasdair Milne]], [[Shusha Niederberger]], [[Jack Wilson]], [[nate wessalowski]], xenodata co-operative ([[Alexandra (Sasha) Anikina]] & [[Yasemin Keskintepe]]), [[Sandy Di Yu]], and edited by [[Christian Ulrik Andersen]] & [[Geoff Cox]].
 ## issue 13 - 2024
 contributions by [[Manetta Berends]] & [[Simon Browne]], [[Denise Helene Sumi]], [[Kendal Beynon]], [[Bilyana Palankasova]], [[Edoardo Biscossi]], [[Luca Cacini]], [[Pierre Depaz]], [[Asker Bryld Staunæs]] & [[Maja Bak Herrie]], [[Marie Naja Lauritzen Dias]], [[Esther Rizo-Casado]], and [[Mateus Domingos]], edited by [[Christian Ulrik Andersen]] & [[Geoff Cox]].
 ## issue 14 - 2025

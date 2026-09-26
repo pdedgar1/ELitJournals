@@ -87,7 +87,7 @@
 [[Emily Edelman]]
 [[Gisel Florez]]
 [[Gretta Louw]]
-[[Harry Yeff x Trung Bao Nguyen]]
+[[Harry Yeff]] x [[Trung Bao Nguyen]]
 [[Helena Sarin]]
 [[Ivona Tau]]
 [[Joëlle Snaith]]

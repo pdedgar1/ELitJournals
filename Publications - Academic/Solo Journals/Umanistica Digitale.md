@@ -462,7 +462,7 @@
 - [[Enrica Salvatori]]
 - [[Federico Meschini]]
 - [[Flavio Massimiliano Cecchini]]
-- [[Floriana Sciumbata]]
+- [[Floriana Carlotta Sciumbata]]
 - [[Francesco Bianco]]
 - [[Francesco Figoli]]
 - [[Francesco Mambrini]]

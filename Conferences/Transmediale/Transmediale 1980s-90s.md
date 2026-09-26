@@ -266,7 +266,7 @@ _Sparse on site — full programme likely only exists in the printed catalogue P
 
 - [[Arne Tympe]]
 - [[Bertram Quosdorf]]
-- [[K.P. Ludwig]]
+- [[K. P. Ludwig]]
 - [[Markus Ramershoven]]
 - [[Perry Hoberman]]
 
@@ -295,7 +295,7 @@ _Sparse on site — full programme likely only exists in the printed catalogue P
 - [[Andreas Heineke]]
 - [[Stefaan Decostere]]
 - [[Anne-Marie Duguet]]
-- [[John Hanhardt]]
+- [[John G. Hanhardt]]
 - [[Wulf Herzogenrath]]
 - [[Joachim Sauter]]
 
@@ -344,14 +344,14 @@ _Sparse on site — full programme likely only exists in the printed catalogue P
 - [[Christina Kempe]]
 - [[Boris Schmidt]]
 - [[Amie Robinson]]
-- [[Flora Tálasi]]
+- [[Flóra Tálasi]]
 - [[Maximilian Stelzl]]
 - [[Matthias Behrens]]
 - [[Hannes Ickert]]
 - [[Stefan Koppelkamm]]
 - [[Stefaan Decostere]]
 - [[Anne-Marie Duguet]]
-- [[John Hanhardt]]
+- [[John G. Hanhardt]]
 - [[Wulf Herzogenrath]]
 - [[Joachim Sauter]]
 

@@ -132,7 +132,7 @@
 
 ### 2015 Award Winners
 
-- Gold Award: [[Gibson/Martelli]]
+- Gold Award: [[Gibson]]/[[Martelli]]
 - Silver Award: [[Scenocosme]]
 - Bronze Award: [[Golan Levin]], [[Kyle McDonald]] and [[Christine Sugrue]]
 - VR/AR Award: [[Michael Takeo Magruder]]

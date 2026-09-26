@@ -58,7 +58,7 @@
 |[[Lucía Carvalho]], Yamil Vivancos]] >> Ninã perro|
 |[[Lucila Mayol Pohl]] >> place must exist before departure|
 |[[Luis Navarro Del Angel]] >> SEIS8S, Un lenguaje de codificación en vivo para la música de baile Latino|
-|[[Maria Rosa Duarte de Oliveira]], [[Marcus Fainer Bastos]] >> Hiperlivro Memorias Postumas de Bras Cubas|
+|[[Maria Rosa Duarte de Oliveira]], [[Marcus Vinicius Fainer Bastos]] >> Hiperlivro Memorias Postumas de Bras Cubas|
 |[[Martín Rangel Noguez]] >> [local_distante]|
 |[[Matías Buonfrate]] >> noposeas1miedo|
 |[[Mer Grazzini]] >> Distant Memories|

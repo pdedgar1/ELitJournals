@@ -1,7 +1,7 @@
 ### ed board 
 |   |
 |---|
-|[[Nitesh Chawla]]|
+|[[Nitesh V. Chawla]]|
 |[[]]|
 |[[Barry O'Sullivan]]|
 |[[Richa Singh]]|
@@ -27,7 +27,7 @@
 |[[Srikanta Bedathur]]|
 |[[Christian Bessiere]]|
 |[[Ken Brown]]|
-|[[Jawahar C.V.]]|
+|[[Jawahar C. V.]]|
 |[[Lingyang Chu]]|
 |[[David Crandall]]|
 |[[Munmun De Choudhury]]|
@@ -53,7 +53,7 @@
 |[[Reza Zafarani]]|
 |[[Aidong Zhang]]|
 |[[Xiangliang Zhang]]|
-|[[Pedro Abreu]]|
+|[[Pedro H. Abreu]]|
 |[[Francesco Amigoni]]|
 |[[Sunpreet Arora]]|
 |[[Roman Bartak]]|
@@ -151,7 +151,7 @@
 | [[Sadia Tasnim Meem]]          |
 | [[Amarda Shehu]]               |
 | Issue 1 : [[Nitesh V. Chawla]] |
-| [[Barry O’Sullivan]]           |
+| [[Barry O'Sullivan]]           |
 | [[Richa Singh]]                |
 | [[Mattias Rost]]               |
 | [[Cody Kommers]]               |
@@ -159,7 +159,7 @@
 | [[Julia Gordon]]               |
 | [[Ari Holtzman]]               |
 | [[Tess McNulty]]               |
-| [[Spencer Stewart]]            |
+| [[Spencer Dean Stewart]]            |
 | [[Lindsay Thomas]]             |
 | [[Richard Jean So]]            |
 | [[Hoyt Long]]                  |
@@ -175,7 +175,7 @@
 | [[Yi Wang]]                    |
 | [[Massimiliano Todisco]]       |
 | [[Chiara Galdi]]               |
-| [[Raphael Troncy]]             |
+| [[Raphaël Troncy]]             |
 | [[Nicholas Evans]]             |
 | [[Weiwei Lin]]                 |
 | [[Lap-Pui Chau]]               |

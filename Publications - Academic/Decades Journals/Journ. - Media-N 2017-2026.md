@@ -83,7 +83,7 @@
 
 - [[xtine burrough]], [[Owen Gallagher]], and [[Eduardo Navas]] — Forking Paths in New Media Art Practices: Investigating Remix (Editorial)
 - [[Scott Haden Church]] — Funes the Crate Digger: AI, Perception, and Recall
-- [[Lucy HG Solomon]] and [[Cesar Baio]] — Case Study: Remixing Knowledge with Layered Intelligences
+- [[Lucy HG Solomon]] and [[César Baio]] — Case Study: Remixing Knowledge with Layered Intelligences
 - [[Liat Rachel Berdugo]] — Remix and Reproduction in the Post-Internet Age
 - [[Tess Baxter]] — "Found Collaboration," and the Art of Leaving Things for Others to Find and Use
 - [[Andrew Haik Demirjian]] — Imagining a Borderless Future

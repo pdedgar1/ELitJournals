@@ -22,7 +22,7 @@
 # Issue 17
 
 #### Art
-[[Brian Howe]] & [[Tim Van Dyke]], [[Dan Waber]], [[Daniel Rehn]], [[Emily Kuehn]], [[Luis Hernandez]], [[Mitsuko Brooks]], [[Monica Panzarino]], [[Niki Sehmbi]], [[Sabrina Ratté]], [[Theodore Darst]]
+[[Brian Howe]] & [[Tim Van Dyke]], [[Dan Waber]], [[Daniel Rehn]], [[Emily Kuehn]], [[Luis Felipe Hernández]], [[Mitsuko Brooks]], [[Monica Panzarino]], [[Niki Sehmbi]], [[Sabrina Ratté]], [[Theodore Darst]]
 #### Fiction
 [[Adnan Mahmutović]], [[Alex Czaja]], [[Alyson Hagy]], [[Andrew F. Sullivan]], [[C. A. Schaefer]], [[Dean Marshall Tuck]], [[James Robison]], [[Jennifer MacKenzie]], [[Liana Scalettar]], [[Lydia Melby]], [[Michael Myers]]
 #### Non-Fiction

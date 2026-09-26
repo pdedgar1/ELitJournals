@@ -208,7 +208,7 @@
 [[Melanie Kenny]]
 [[Rae Gouirand]]
 [[Steve Langan]]
-[[Virgil]] (trans. [[Kimberly Johnson)]]
+[[Virgil]] (trans. [[Kimberly Johnson]]
 [[Adriana Grant]]
 [[D. J. Dolack]]
 [[Dana Sonnenschein]]

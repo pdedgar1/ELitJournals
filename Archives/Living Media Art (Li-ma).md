@@ -124,7 +124,7 @@
     
 - [[Beide Kunstenaars]]
     
-- [[belit sag]]
+- [[belit sağ]]
     
 - [[Ben d' Armagnac]]
     

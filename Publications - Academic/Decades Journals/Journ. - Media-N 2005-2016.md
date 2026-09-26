@@ -119,7 +119,7 @@
 - [[Roderick Coover]] — Artifacts: Displacements of Technological Culture and the Concept of Foreignness
 - [[Heidi J. Davis]] — New Media and Travel: How New Media Practices Shape Tourism
 - [[Veronika Tzankova]] and [[Thecla Schiphorst]] — Turkish Tea and Internet: The Invasion of New Media and the Shifting Sands of Culture
-- [[Heba Amin]] — Fragmented City: Visualizing the City-psyche Relationship of Cairo
+- [[Heba Y. Amin]] — Fragmented City: Visualizing the City-psyche Relationship of Cairo
 - [[Aaron Oldenburg]] — The Mischief of Created Things
 - [[Joaquin Palencia]] — Chong! A Parallel Environment
 - [[Lily]] and [[Honglei]] — Land of Illusion

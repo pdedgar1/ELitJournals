@@ -29,7 +29,7 @@
 | [[Max Amagliani]]                                     |
 | [[Mark Amerika]]                                      |
 | [[Andrew Y. Ames]]                                    |
-| [[Komar and Melamid]]                                 |
+| [[Komar]] and [[Melamid]]                             |
 | [[Jason Van Anden]]                                   |
 | [[Laurie Anderson]]                                   |
 | [[Nadia Anderson]]                                    |
@@ -295,7 +295,7 @@
 | [[Carla Diana]]                                       |
 | [[Diller]] + [[Scofidio]]                             |
 | [[Roz Dimon]]                                         |
-| [[Claire Dinsmore]]                                   |
+| [[Claire Allen Dinsmore]]                             |
 | [[trip Dixon]]                                        |
 | [[dlsan]]                                             |
 | [[[dNASAb]]]                                          |
@@ -383,15 +383,15 @@
 | [[Vivian Fu]]                                         |
 | [[matthew fuller]]                                    |
 | [[Futurefarmers]]                                     |
-| [[Martha Gabriel]]                                    |
+| [[Martha Carrer Cruz Gabriel]]                        |
 | [[Gaya Gajewska]]                                     |
 | [[Anna Galkina]]                                      |
-| [[Alexander Galloway]]                                |
+| [[Alexander R. Galloway]]                             |
 | [[Åsmund Gamlesaeter]]                                |
 | [[Hannes Gamper]]                                     |
 | [[carla gannis]]                                      |
 | [[Jaanis Garancs]]                                    |
-| [[Daniel Garcia Andujar]]                             |
+| [[Daniel Garcia Andújar]]                             |
 | [[mario garcia torres]]                               |
 | [[Matt Gardiner]]                                     |
 | [[Lacie Garnes]]                                      |
@@ -424,7 +424,7 @@
 | [[Thomas Goldstrasz]]                                 |
 | [[David Golumbia]]                                    |
 | [[Emilio Gomariz]]                                    |
-| [[Carlos J. Gomez de Llarena]]                        |
+| [[Carlos J. Gómez de Llarena]]                        |
 | [[Jeff Gompertz]]                                     |
 | [[Jessica Gomula]]                                    |
 | [[Marisa Gonzalez]]                                   |
@@ -436,7 +436,7 @@
 | [[Baruch Gottlieb]]                                   |
 | [[GRAF+ZYX]]                                          |
 | [[Saraswati Gramich]]                                 |
-| [[Valery Grancher]]                                   |
+| [[Valéry Grancher]]                                   |
 | [[Joseph Gray]]                                       |
 | [[Andy Graydon]]                                      |
 | [[michael greathouse]]                                |

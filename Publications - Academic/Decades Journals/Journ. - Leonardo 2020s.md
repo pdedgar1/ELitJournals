@@ -881,7 +881,7 @@ Note: Volume 59 (2026) is partial/in-progress as of September 2026; only issues 
 - [[Michele Gouiffès]]
 - [[Véronique Caye]]
 - [[Lucy Hg Solomon]]
-- [[Cesar Baio]]
+- [[César Baio]]
 - [[Cesar & Lois]]
 - [[Yiannis Kranidiotis]]
 - [[Aksiniya Peycheva]]

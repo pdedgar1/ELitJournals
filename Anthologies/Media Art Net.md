@@ -46,7 +46,7 @@
 | [[Thomas Bayrle]]                            |
 | [[Liza Bear]]                                |
 | [[Louis Bec]]                                |
-| [[Bernd/Hilla Becher]]                       |
+| [[Bernd Becher]]/[[Hilla Becher]]            |
 | [[Stefan Beck]]                              |
 | [[Stephen Beck]]                             |
 | [[Samuel Beckett]]                           |
@@ -224,7 +224,7 @@
 | [[Paul Feyerabend]]                          |
 | [[Frank Fietzek]]                            |
 | [[Oskar Fischinger]]                         |
-| [[Fischli & Weiss]]                          |
+| [[Fischli]] & [[Weiss]]                      |
 | [[Dan Flavin]]                               |
 | [[Alain Fleischer]]                          |
 | [[Monika Fleischmann]]                       |
@@ -415,7 +415,7 @@
 | [[Imi Knoebel]]                              |
 | [[Kenneth Knowlton]]                         |
 | [[Vitaly Komar]]                             |
-| [[Korot/Schneider]]                          |
+| [[Beryl Korot]]/[[Schneider]]                |
 | [[Andrée Korpys]]                            |
 | [[Andrée Korpys]]                            |
 | [[Joseph Kosuth]]                            |
@@ -858,7 +858,7 @@
 | [[Anton von Werner]]                         |
 | [[Tom Wesselmann]]                           |
 | [[WGBH]]                                     |
-| [[Norman White]]                             |
+| [[Norman T. White]]                          |
 | [[Robert Whitman]]                           |
 | [[Joyce Wieland]]                            |
 | [[Norbert Wiener]]                           |
