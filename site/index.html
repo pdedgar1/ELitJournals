@@ -33,6 +33,10 @@
         <label class="ctl" title="Only show people who appear in at least this many venues">
           Min venues <input type="range" id="min-venues" min="2" max="12" value="2"> <output id="min-venues-out">2</output>
         </label>
+        <div id="mode" class="seg" role="group" aria-label="Layout mode"></div>
+        <label class="ctl" title="Scale how hard nodes push apart">
+          Spread <input type="range" id="spread"> <output id="spread-out">1×</output>
+        </label>
         <button id="layout-btn" class="ctl-btn">Pause layout</button>
         <button id="fit-btn" class="ctl-btn">Recenter</button>
       </div>

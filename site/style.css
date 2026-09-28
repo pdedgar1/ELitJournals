@@ -98,6 +98,12 @@ a.wl.person.bridge { color: var(--link); }
 .ctl input[type=range] { width: 90px; accent-color: var(--accent); }
 .ctl input[type=checkbox] { accent-color: var(--accent); }
 
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
+  background: color-mix(in srgb, var(--bg-2) 88%, transparent); backdrop-filter: blur(4px); }
+.seg button { background: none; border: 0; padding: 4px 11px; cursor: pointer; color: var(--fg-2); }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: #111; }
+
 /* ---------- small screens: panel becomes a bottom sheet ---------- */
 @media (max-width: 760px) {
   main { flex-direction: column-reverse; }

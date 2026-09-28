@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "752376616595e98d",
+        "id": "b1a752d2583da18c",
         "type": "tabs",
         "children": [
           {
-            "id": "11048c9f10fbfa88",
+            "id": "d702a8386ded9e93",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -183,8 +183,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "11048c9f10fbfa88",
+  "active": "d702a8386ded9e93",
   "lastOpenFiles": [
+    "Archives/Indian Electronic Literature Database.md",
+    "Kavisha Dilipbhai Alagiya.md",
+    "Anthologies/Indian Electronic Literature Anthology.md",
     "Alias Report.md",
     "Anthologies/Media Art Net.md",
     "Bernd/Hilla Becher.md",
@@ -209,9 +212,6 @@
     "Juan A. Romero.md",
     "Luis Felipe Hernández.md",
     "Magdalena Regina Tyżlik-Carver.md",
-    "Marcus Vinicius Fainer Bastos.md",
-    "Morten Suder Riis.md",
-    "Nicholas A. Knouf.md",
     "Conferences/Transmediale",
     "_site/verify/data/people.json",
     "_site/verify/data/notes",

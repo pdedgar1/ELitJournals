@@ -16,7 +16,43 @@ const S = {
   hovered: null, selected: null, focus: new Set(),
   hiddenGroups: new Set(), showPeople: true, minVenues: 2,
   layoutOn: true, readme: null,
+  mode: null, spread: 1,           // current layout mode + Spread multiplier
 };
+// ================================================================== TWEAKABLE NUMBERS
+// Change a value, save, and push (or preview locally). Nothing else needs editing.
+
+// Layout forces — the web equivalent of Obsidian's Graph "Forces" sliders.
+const LAYOUT = {
+  startMode: "archipelago", // which mode the page opens in: "continent" or "archipelago"
+  steps: 600,             // how many animation steps before the layout stops moving
+  slowDown: 6,            // higher = calmer, slower movement; lower = faster but jittery
+  seedRadius: 800,        // size of the starting "pie" the groups begin in (Antarctica wedges)
+  spreadMin: 0.25,        // the Spread slider's range, as a multiplier of each mode's repel force
+  spreadMax: 4,
+};
+// The two modes behind the ELO Continent / Archipelago toggle.
+//   gravity      = Center force: pull toward the middle (0 = none, 1 = strong; Obsidian 0.00–0.01)
+//   scalingRatio = Repel force: how hard nodes push apart (Obsidian 19)
+//   hubsSpread   = true stops big hubs (EBR, ELO) dragging everything into one clump
+//   linLog       = true pushes each community out toward its own "coastline"
+const MODES = {
+  continent:   { label: "ELO Continent", gravity: 0.6,   scalingRatio: 12, hubsSpread: false, linLog: false },
+  archipelago: { label: "Archipelago",   gravity: 0.005, scalingRatio: 30, hubsSpread: true,  linLog: true  },
+};
+
+// Appearance.
+const LOOK = {
+  noteSize: 3,          // base size of venue/note nodes
+  noteGrowth: 0.35,     // how much notes grow with the number of people they name
+  personSize: 0.8,      // base size of bridge-people nodes
+  personGrowth: 0.18,   // how much people grow per extra venue they appear in
+  labelThreshold: 7,    // labels appear once a node is this big on screen; lower = more labels
+  labelDensity: 0.6,    // 0–1: how crowded labels may get
+  flyZoom: 0.25,        // camera zoom when jumping to a node (smaller = closer)
+};
+// (The "bridge" cutoff — people in 2+ venues — is MIN_BRIDGE at the top of build_graph.py.)
+// ==================================================================
+
 const $ = (id) => document.getElementById(id);
 const UNGROUPED = "#8a8a8a";
 const PERSON = "#8f8a80";
@@ -33,6 +69,8 @@ async function load() {
   S.readme = S.data.nodes.find((n) => n.kind === "note" && n.path.toLowerCase() === "readme.md");
   buildGraph();
   buildLegend();
+  S.mode = MODES[LAYOUT.startMode] ? LAYOUT.startMode : Object.keys(MODES)[0];
+  buildLayoutControls();
   startLayout();
   route();
   // people index is only needed for search + person pages; fetch it quietly afterwards
@@ -54,10 +92,10 @@ function buildGraph() {
     if (n.kind !== "note") continue;
     const k = n.group >= 0 ? n.group : groups.length;
     const angle = (k / sectors) * Math.PI * 2 + Math.random() * (Math.PI * 2 / sectors);
-    const r = n.group === eloIdx ? 40 + Math.random() * 60 : 300 + Math.random() * 500;
+    const r = n.group === eloIdx ? Math.random() * LAYOUT.seedRadius * 0.12 : LAYOUT.seedRadius * (0.35 + Math.random() * 0.65);
     g.addNode(n.id, {
       x: Math.cos(angle) * r, y: Math.sin(angle) * r,
-      size: 3 + Math.sqrt(n.people || 1) * 0.35, label: n.label, color: colorOf(n), kind: "note", group: n.group,
+      size: LOOK.noteSize + Math.sqrt(n.people || 1) * LOOK.noteGrowth, label: n.label, color: colorOf(n), kind: "note", group: n.group,
     });
   }
   // People start at the average position of the venues that name them.
@@ -73,14 +111,14 @@ function buildGraph() {
     const d = vs.length || 1;
     g.addNode(n.id, {
       x: x / d + (Math.random() - 0.5) * 40, y: y / d + (Math.random() - 0.5) * 40,
-      size: 0.8 + Math.min(n.venues, 30) * 0.18, label: n.label, color: PERSON, kind: "person", venues: n.venues,
+      size: LOOK.personSize + Math.min(n.venues, 30) * LOOK.personGrowth, label: n.label, color: PERSON, kind: "person", venues: n.venues,
     });
   }
   for (const [a, b] of S.data.edges) if (!g.hasEdge(a, b)) g.addEdge(a, b, { size: 0.3 });
   S.graph = g;
 
   S.renderer = new Sigma(g, $("graph"), {
-    labelRenderedSizeThreshold: 7, labelDensity: 0.6, labelGridCellSize: 90,
+    labelRenderedSizeThreshold: LOOK.labelThreshold, labelDensity: LOOK.labelDensity, labelGridCellSize: 90,
     labelColor: { color: "#e6e3dc" }, labelFont: "system-ui, sans-serif", labelSize: 12,
     defaultEdgeColor: "#3a3f47", zIndex: true, minCameraRatio: 0.02, maxCameraRatio: 4,
     nodeReducer, edgeReducer, defaultDrawNodeHover: drawHover,
@@ -106,22 +144,52 @@ function drawHover(ctx, d, st) {
 }
 
 // ------------------------------------------------------------------ layout (ForceAtlas2, animated in small steps)
-let layoutTicks = 0;
+let layoutTicks = 0, looping = false, fa2Settings = null;
+function computeSettings() {
+  const fa2 = graphologyLibrary.layoutForceAtlas2, m = MODES[S.mode];
+  fa2Settings = { ...fa2.inferSettings(S.graph), barnesHutOptimize: true, slowDown: LAYOUT.slowDown,
+    gravity: m.gravity, scalingRatio: m.scalingRatio * S.spread,
+    outboundAttractionDistribution: m.hubsSpread, linLogMode: m.linLog };
+}
 function startLayout() {
-  const fa2 = graphologyLibrary.layoutForceAtlas2;
-  const settings = { ...fa2.inferSettings(S.graph), barnesHutOptimize: true, gravity: 0.6, scalingRatio: 12, slowDown: 8 };
+  if (looping) return;              // already animating
+  if (!fa2Settings) computeSettings();
+  looping = true;
   const step = () => {
-    if (!S.layoutOn) return;
-    fa2.assign(S.graph, { iterations: 1, settings });
-    if (++layoutTicks < 400) requestAnimationFrame(step);
-    else setLayout(false);
+    if (!S.layoutOn) { looping = false; return; }
+    graphologyLibrary.layoutForceAtlas2.assign(S.graph, { iterations: 1, settings: fa2Settings });
+    if (++layoutTicks < LAYOUT.steps) requestAnimationFrame(step);
+    else { looping = false; setLayout(false); }
   };
   requestAnimationFrame(step);
 }
 function setLayout(on) {
   S.layoutOn = on;
   $("layout-btn").textContent = on ? "Pause layout" : "Resume layout";
-  if (on) { layoutTicks = Math.min(layoutTicks, 250); startLayout(); }
+  if (on) { layoutTicks = Math.min(layoutTicks, LAYOUT.steps - 150); startLayout(); }
+}
+// called by the mode toggle and Spread slider: new forces, full re-run
+function relayout() {
+  computeSettings();
+  layoutTicks = 0;
+  setLayout(true);
+  layoutTicks = 0;
+}
+function buildLayoutControls() {
+  $("mode").innerHTML = Object.entries(MODES).map(([k, m]) =>
+    `<button data-mode="${k}" aria-pressed="${k === S.mode}">${m.label}</button>`).join("");
+  $("mode").querySelectorAll("button").forEach((b) => b.onclick = () => {
+    S.mode = b.dataset.mode;
+    $("mode").querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+    relayout();
+  });
+  // slider works on a log scale so "1" (the mode's own value) sits in the middle
+  const sl = $("spread"), lo = Math.log(LAYOUT.spreadMin), hi = Math.log(LAYOUT.spreadMax);
+  sl.min = 0; sl.max = 100; sl.value = Math.round((0 - lo) / (hi - lo) * 100);
+  const show = () => ($("spread-out").textContent = S.spread.toFixed(S.spread < 1 ? 2 : 1) + "×");
+  show();
+  sl.oninput = () => { S.spread = Math.exp(lo + (sl.value / 100) * (hi - lo)); show(); };
+  sl.onchange = relayout;           // re-run once the thumb is released
 }
 
 // ------------------------------------------------------------------ highlight / filtering (sigma reducers)
@@ -160,7 +228,7 @@ function edgeReducer(id, a) {
 }
 function flyTo(n) {
   const pos = S.renderer.getNodeDisplayData(n);
-  if (pos) S.renderer.getCamera().animate({ x: pos.x, y: pos.y, ratio: 0.25 }, { duration: 600 });
+  if (pos) S.renderer.getCamera().animate({ x: pos.x, y: pos.y, ratio: LOOK.flyZoom }, { duration: 600 });
 }
 
 // ------------------------------------------------------------------ reader: markdown + wikilinks

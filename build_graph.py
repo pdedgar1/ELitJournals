@@ -21,7 +21,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 SKIP_DIRS = {".git", ".obsidian", ".trash", ".github", "site", "_site", "node_modules"}
-MIN_BRIDGE = 2  # a person becomes a graph node when linked from this many notes
+MIN_BRIDGE = 2  # TWEAKABLE: a person becomes a map node ("bridge") when linked from this many notes.
+                # Raise to 3+ for a lighter, faster map; the site's "Min venues" slider filters further.
 
 # ---------------------------------------------------------------- block: find notes
 def find_notes(root):
