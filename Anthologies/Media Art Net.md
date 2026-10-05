@@ -199,7 +199,7 @@
 | [[Pierre Dutilleux]]                         |
 | [[Thomas Alva Edison]]                       |
 | [[Viking Eggeling]]                          |
-| [[Sergei Mikhailovich Eisenstein]]           |
+| [[Sergei Eisenstein]]                        |
 | [[El Greco]]                                 |
 | [[Lazar Markovich Lisitskii]]                |
 | [[Ulrich Eller]]                             |

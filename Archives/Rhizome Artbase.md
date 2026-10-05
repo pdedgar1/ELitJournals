@@ -391,7 +391,7 @@
 | [[Hannes Gamper]]                                     |
 | [[carla gannis]]                                      |
 | [[Jaanis Garancs]]                                    |
-| [[Daniel Garcia Andújar]]                             |
+| [[Daniel García Andújar]]                             |
 | [[mario garcia torres]]                               |
 | [[Matt Gardiner]]                                     |
 | [[Lacie Garnes]]                                      |
@@ -427,7 +427,7 @@
 | [[Carlos J. Gómez de Llarena]]                        |
 | [[Jeff Gompertz]]                                     |
 | [[Jessica Gomula]]                                    |
-| [[Marisa Gonzalez]]                                   |
+| [[Marisa González]]                                   |
 | [[Daniel Merlin Goodbrey]]                            |
 | [[Daniel Goodwin]]                                    |
 | [[Penny Goring]]                                      |

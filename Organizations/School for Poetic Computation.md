@@ -243,7 +243,7 @@
 [[Niklas May]]
 [[Nitcha Tothong]]
 [[Oleg Pashkovsky]]
-[[Olivia Ross]]
+[[Olivia M. Ross]]
 [[Omayeli Arenyeka]]
 [[Oren Shoham]]
 [[Oscar Schwartz]]

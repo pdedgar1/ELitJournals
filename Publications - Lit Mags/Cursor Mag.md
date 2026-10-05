@@ -28,8 +28,17 @@ Editorial Team
 [[Sebastián Martínez Sánchez]]
 
 ### Issue 2
+[[brin]]
+[[Anna Shams Ili]]
+[[Kate Zaprazna]]
+[[Ana Meiseil]] with [[Camila Galaz]]
+
 
 ### Issue 3
+[[Aditi Peyush]]
+[[Kristoffer Tjalve]]
+[[Ella Wiberg]]
+[[Mia Lunding Christensen]]
 
 ### Issue 4
 [[August Liljenberg]]
@@ -112,3 +121,6 @@ pieces
 [[Zeh Fernandes]]
 [[Dora Siafla]]
 [[Halim Madi]]
+[[Vita Eva Weisseisen]]
+[[MD]]
+[[Liza Abramishvili]], [[Gaitana Jaramillo]], [[Apoorva Sood]], [[Noemi Carrara]], [[Frederico Medda]], [[Karla Tapia]], [[Hong Nguyen]], [[Luisa Trigo da Roza]], [[Caoimhe Gallahue]], [[Meike Lips]], [[Frederico Torretti]], [[Gagik Amaryan]]

@@ -953,7 +953,7 @@
 - [[Omsk Social Club]]
 - [[Panasiagirl]]
 - [[Pedram Nasouri]]
-- [[Pedro Oliveira]]
+- [[Pedro J. S. Vieira de Oliveira]]
 - [[PolakvanBekkum]]
 - [[Rebecca Coleman]]
 - [[Robin Curtis]]

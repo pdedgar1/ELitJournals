@@ -18,7 +18,7 @@ Vol 1
 [[Pinaki Gayen]]
 [[Subhanjali Saraswati]]
 [[Alakananda Lal]]
-[[Mohamed Rafiq]] & [[. Kanimozhi]]
+[[Mohamed Rafiq]] & [[Kanimozhi]]
 [[Antriksh Bali]]
 [[Ali Fathima Shanavaz]]
 [[Shivayan Mukherjee]]

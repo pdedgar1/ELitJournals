@@ -10,11 +10,11 @@
 | [[Aaron George]]; [[Richa Srishti]]                                              |
 | [[Sabarno Niyogi]]                                                               |
 | [[Mehulkumar Desai]]                                                             |
-| [[S Anas Ahmad]]                                                                 |
+| [[S. Anas Ahmad]]                                                                |
 | [[Kavya Benara]]                                                                 |
-| [[Prakruti Bhatt]]; [[Deena Larsen]]                                             |
+| [[Prakruti K. Bhatt]]; [[Deena Larsen]]                                             |
 | [[Shanmugapriya T.]]                                                             |
-| [[Rakshitha R]]                                                                  |
+| [[Rakshitha R.]]                                                                 |
 | [[Nikhil Chawdhary]]                                                             |
 | [[Mehulkumar Desai]]                                                             |
 | [[Mehulkumar Desai]]; [[Deena Larsen]]                                           |
@@ -47,9 +47,9 @@
 |                                                                                  |
 | [[Samya Brata Roy]]                                                              |
 |                                                                                  |
-| [[D Soul]]                                                                       |
+| [[D. Soul]]                                                                      |
 | [[Afrah Shafiq]]                                                                 |
-| [[K V Ketan Kain]]                                                               |
+| [[K. V. Ketan Kain]]                                                             |
 | [[Jyothi Justin]]                                                                |
 | inkle (written by [[Meg Jayanth]], with [[Jon Ingold]] and [[Joseph Humfrey]])]] |
 | [[RO GUE]]                                                                       |
@@ -70,7 +70,7 @@
 | [[M. Rizwan Khan]]                                                               |
 | [[Deena Larsen]]                                                                 |
 | [[Nirmala Menon]]                                                                |
-| [[Ram Prakash D]]                                                                |
+| [[Ram Prakash D.]]                                                               |
 | [[Zahra Rizvi]]                                                                  |
 | [[Samya Brata Roy]]                                                              |
 | [[S. Rukmini]]                                                                   |
@@ -80,8 +80,8 @@
 | [[Deborah Sutton]]                                                               |
 | [[Kavisha Dilipbhai Alagiya]]                                                    |
 | [[Kavisha Dilipbhai Alagiya]]                                                    |
-| [[Prakruti Bhatt]]                                                               |
-| [[Prakruti Kaushikbhai Bhatt]]                                                   |
+| [[Prakruti K. Bhatt]]                                                               |
+| [[Prakruti K. Bhatt]]                                                               |
 | [[Simran Bhimjyani]]                                                             |
 | [[Pooja Bhuyan]]                                                                 |
 | [[Mehulkumar Desai]]                                                             |
