@@ -124,3 +124,26 @@ pieces
 [[Vita Eva Weisseisen]]
 [[MD]]
 [[Liza Abramishvili]], [[Gaitana Jaramillo]], [[Apoorva Sood]], [[Noemi Carrara]], [[Frederico Medda]], [[Karla Tapia]], [[Hong Nguyen]], [[Luisa Trigo da Roza]], [[Caoimhe Gallahue]], [[Meike Lips]], [[Frederico Torretti]], [[Gagik Amaryan]]
+
+
+
+### Cursor Creative Coding Camp 2023 
+[[Anna Shams Ili]]
+[[Hannah Cobb]]
+[[Jeanyoon Choi]]
+[[Freja Smith]]
+[[Mao Yinglun]]
+[[Jasmine Broadhurst]]
+[[Batool Desouky]]
+[[Semeli Hadjiloizou]]
+[[jiaoyang]]
+[[Jessica Fleur]]
+[[Laura Lisauskaite]]
+[[Maya Ellen Hertz]]
+[[Anna Corfa]]
+[[Freja Smith]]
+[[Bryn]]
+[[Cai]]
+[[Finn Weaver]]
+[[Identity 2.0]]
+[[L.A.B.]] and [[Greg Swan]]
