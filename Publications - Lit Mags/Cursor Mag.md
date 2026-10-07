@@ -146,4 +146,4 @@ pieces
 [[Cai]]
 [[Finn Weaver]]
 [[Identity 2.0]]
-[[L.A.B.]] and [[Greg Swan]]
+[[L. A. B.]] and [[Greg Swan]]

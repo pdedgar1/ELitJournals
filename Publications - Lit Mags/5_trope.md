@@ -1,0 +1,397 @@
+recommendations 
+[[DIAGRAM 1-10]]
+
+[[Jacket2]]
+[[Press - ALT-X Press]]
+
+Masthead 
+[[Gunnar Benediktsson]]
+[[Joel Chace]]
+[[Heather Thomas]]
+[[Gary Lutz]]
+[[Ander Monson]]
+[[Mike Neff]]
+
+Contributors by Issue
+Source: [5_Trope (Web Del Sol)](https://www.webdelsol.com/5_trope/past.htm). Every contributor listed in each issue's table of contents (lit, art, reviews); authors of reviewed books excluded. Listed per issue, deduplicated within each issue.
+## 5_Trope
+
+### Issue 1
+
+- [[Judy Kravis]]
+- [[David Kaufmann]]
+- [[John M. Kaman]]
+- [[Mark McMorris]]
+- [[Ben Marcus]]
+- [[Judy Bloomfield]]
+- [[Githa Hariharan]]
+- [[Gary Lutz]]
+- [[Brian Evenson]]
+
+### Issue 2
+
+_The server folder for this issue is empty, so no contributor list could be retrieved._
+
+### Issue 3 (Fall 1998)
+
+- [[Matthew Derby]]
+- [[Michael Brodsky]]
+- [[Jake Berry]]
+- [[Paul Beckman]]
+- [[Cris Mazza]]
+- [[Kip Knott]]
+- [[Garrett Caples]]
+- [[Sheila Murphy]]
+- [[Rachel Sherman]]
+- [[David Hunter Sutherland]]
+- [[Jack Kimball]]
+
+### Issue 4 (Winter 1998)
+
+- [[Dawn Raffel]]
+- [[Kate Bernheimer]]
+- [[Ed Barrett]]
+- [[Dan Raphael]]
+- [[Albert Mobilio]]
+- [[Matt Marinovich]]
+- [[Walt Phillips]]
+- [[Amy Trussell]]
+- [[Stacey Duff]]
+- [[John M. Bennett]]
+- [[Edward Kim]]
+- [[Ivan Arguelles]]
+
+### Issue 5 (Summer 1999)
+
+- [[E.F. Taylor Jr.]]
+- [[David Buuck]]
+- [[Peter Balestrieri]]
+- [[Brian Lennon]]
+- [[Scott MacLeod]]
+- [[Miekal And]]
+- [[Gwendolyn Albert]]
+- [[Sheila Murphy]]
+- [[Joe Maynard]]
+- [[Sam Lipsyte]]
+- [[Harry Polkinhorn]]
+
+### Issue 6 (Winter 2000)
+
+- [[Daryl Scroggins]]
+- [[Elizabeth B. Cho]]
+- [[Viola Weinberg]]
+- [[Barry Spacks]]
+- [[Bryan Tomasavich]]
+- [[Kevin Sampsell]]
+- [[Marc Kipniss]]
+- [[Patrick Ehlen]]
+- [[Ron Silliman]]
+- [[Buck Downs]]
+- [[Matt Marinovich]]
+- [[Gerard Crinnin]]
+- [[Bill Berkson]]
+- [[Cynthia Weiner]]
+- [[Michael Rothenberg]]
+
+### Issue 7 (Fall 2000)
+
+- [[Norman Lock]]
+- [[Gil Ott]]
+- [[M. Sarki]]
+- [[Cooper Esteban]]
+- [[Catherine Casper]]
+- [[Barton Allen]]
+- [[Eric Melbye]]
+- [[Victoria Redel]]
+- [[Ralph Adamo]]
+- [[Doug Martin]]
+- [[Ilya Kaminsky]]
+- [[Josef Aukee]]
+- [[Allison Cobb]]
+- [[A. H. Bramhall]]
+- [[Simon Perchik]]
+- [[Ginger Knowlton]]
+
+### Issue 8 (Winter 2001)
+
+- [[Hank Lazer]]
+- [[Chad Woody]]
+- [[Clayton Eshleman]]
+- [[W.P. Osborn]]
+- [[Heather Thomas]]
+- [[Michael Basinski]]
+- [[Brian Beatty]]
+- [[Shelley Berc]]
+- [[David Ryan]]
+- [[Joe Keenan]]
+- [[Peter Ganick]]
+- [[Louis Armand]]
+- [[Amy Trussell]]
+- [[Matt Blackburn]]
+
+### Issue 9 (March 2001)
+
+- [[Jerome Rothenberg]]
+- [[Ken Sparling]]
+- [[Megan Burns]]
+- [[Joe Ahearn]]
+- [[Jim Ruland]]
+- [[Sarah Balcomb]]
+- [[Linh Dinh]]
+- [[Stacey Duff]]
+- [[John Davies]]
+- [[Bob Castle]]
+- [[J.J. Blickstein]]
+- [[Fred Muratori]]
+- [[Mark O'Neil]]
+- [[Eugene Thacker]]
+
+### Issue 10 (May 2001)
+
+- [[Rachel Blau Duplessis]]
+- [[Sara Levine]]
+- [[Clayton Eshleman]]
+- [[Dave Brinks]]
+- [[Joy Kaplan]]
+- [[Peter Markus]]
+- [[Eugene Thacker]]
+- [[John Rybicki]]
+- [[Norman Lock]]
+- [[Bob Grumman]]
+- [[Richard Eoin Nash]]
+
+### Issue 11 (July 2001)
+
+- [[Maile Chapman]]
+- [[Donna Kuhn]]
+- [[Jane Unrue]]
+- [[John Kinsella]]
+- [[Gerald Majer]]
+- [[Bernadette Raffoul]]
+- [[Rebecca Beegle]]
+- [[John Olson]]
+- [[Tom Bradley]]
+- [[Geneva Chao]]
+- [[Anthony Wallace]]
+- [[John Timpane]]
+
+### Issue 12 (December 2001)
+
+- [[Kevin Harvey]]
+- [[James Wagner]]
+- [[Jena Osman]]
+- [[Michael Ives]]
+- [[Eric Raschke]]
+- [[Michael Maschio]]
+- [[Linda M. Morgenstern]]
+- [[Gil Ott]]
+- [[Emmit Fox]]
+- [[Nanette Rayman]]
+
+### Issue 13 (May 2002)
+
+- [[Matthew Derby]]
+- [[Will Eno]]
+- [[Jack Kimball]]
+- [[Kip Knott]]
+- [[Sheila Murphy]]
+- [[Rachel Sherman]]
+- [[Matt Marinovich]]
+- [[Dawn Raffel]]
+- [[Sam Lipsyte]]
+- [[Ron Silliman]]
+- [[Cooper Esteban]]
+- [[Ginger Knowlton]]
+- [[Simon Perchik]]
+- [[Megan Burns]]
+- [[Peter Markus]]
+
+### Issue 14 (July 2002)
+
+- [[Charles Bernstein]]
+- [[Hoa Nguyen]]
+- [[Anne Pepper]]
+- [[Dan Raphael]]
+- [[John M. Bennett]]
+- [[Valerie Fox]]
+- [[Jake Berry]]
+- [[Tom Sheehan]]
+- [[Craig Czury]]
+- [[Paul Hardacre]]
+- [[Bonnie Jones]]
+- [[Jill Jones]]
+- [[Jessy Kendall]]
+- [[Lewis Lacook]]
+- [[Carley Moore]]
+- [[Larry Sawyer]]
+- [[Sean Dougherty]]
+- [[Annabelle Clippinger]]
+- [[J.P. Craig]]
+- [[Spencer Selby]]
+
+### Issue 15 (December 2002)
+
+- [[Jonathan Kessler]]
+- [[Susan M. Schultz]]
+- [[Michael Basinski]]
+- [[David McLendon]]
+- [[Kathryn Rantala]]
+- [[Magdalen Powers]]
+- [[Alicia Askenase]]
+- [[Catherine Daly]]
+- [[Kevin Sampsell]]
+- [[Ivan Arguelles]]
+- [[Tanja Sofia Krupa]]
+- [[Mike Topp]]
+- [[Chris Pusateri]]
+- [[Mark O'Neil]]
+- [[Jukka-Pekka Kervinen]]
+- [[Norman Lock]]
+
+### Issue 16 (June 2003)
+
+- [[Alison Stine]]
+- [[Lorraine Graham]]
+- [[Jane Unrue]]
+- [[MTC Cronin]]
+- [[Peter Markus]]
+- [[Sheila Murphy]]
+- [[Kate Schapira]]
+- [[Stephen Graham Jones]]
+- [[Chris Sawyer]]
+- [[Simon Perchik]]
+- [[James Wagner]]
+- [[Camille Martin]]
+- [[John Denton]]
+- [[Gregory Vincent St. Thomasino]]
+- [[Mandee Wright]]
+- [[Jeff Johnson]]
+
+### Issue 17 (March 2004)
+
+- [[Christopher Kennedy]]
+- [[Samantha Peale]]
+- [[Jerome Rothenberg]]
+- [[Jukka Lehmus]]
+- [[Magdalen Powers]]
+- [[Jeff Harrison]]
+- [[Kari Edwards]]
+- [[Catherine Kasper]]
+- [[Megan Burns]]
+- [[Thomas Fink]]
+- [[Lina Ramona Vitkauskas]]
+- [[Peter Conners]]
+- [[Ron Bayes]]
+- [[Ian Alexander Faring]]
+- [[Norman Lock]]
+- [[Mike Topp]]
+
+### Issue 18 (March 2005)
+
+- [[David McLendon]]
+- [[Liz Waldner]]
+- [[Nico Vassilakis]]
+- [[Branda C. Maholtz]]
+- [[Andrew Lundvall]]
+- [[Greg Mulcahy]]
+- [[Terry Temescu]]
+- [[Hugh Steinberg]]
+- [[Jennifer Pilch]]
+- [[Emma Ramey]]
+- [[Nicholas Alexander Hayes]]
+- [[Ian Randall Wilson]]
+- [[Steve Timm]]
+- [[Jack Foley]]
+- [[James Wagner]]
+- [[Miles Clark]]
+- [[Linda Bellamy]]
+- [[Annmarie Eldon]]
+- [[Kim Chinquee]]
+- [[Matt Briggs]]
+- [[Jack Spicer]]
+- [[Jane Unrue]]
+- [[Mike Topp]]
+- [[Matt Marinovich]]
+- [[Dennis Barone]]
+- [[B. Belltower]]
+- [[Dave Maass]]
+
+### Issue 19 (July 2005)
+
+- [[Cole Swensen]]
+- [[J.J. Blickstein]]
+- [[Stacey Duff]]
+- [[Vernon Frazer]]
+- [[Craig Freeman]]
+- [[August Highland]]
+- [[Pete Leed]]
+- [[Hugh Tribbey]]
+- [[Andrew Mossin]]
+- [[Bruna Mori]]
+
+### Issue 20 (January 2006)
+
+- [[Maile Chapman]]
+- [[Jane Unrue]]
+- [[Paul Hardacre]]
+- [[Samantha Peale]]
+- [[Hank Lazer]]
+- [[Magdalen Powers]]
+- [[John Rybicki]]
+- [[James Wagner]]
+- [[Christopher Wells]]
+- [[Derek White]]
+- [[Robert Lopez]]
+
+### Issue 21 (2006)
+
+- [[J.P. Craig]]
+- [[Norman Lock]]
+- [[Christopher Eaton]]
+- [[Don Swartzentruber]]
+- [[Hank Lazer]]
+- [[Paul Hardacre]]
+- [[Matt Vadnais]]
+- [[Carol Novack]]
+- [[Anne Germanacos]]
+- [[Miles Clark]]
+- [[Steven J. Stewart]]
+- [[Kate Hall]]
+- [[Shya Scanlon]]
+- [[Clayton A. Couch]]
+
+### Issue 22 (January 2007)
+
+- [[Charles P. Ries]]
+- [[Corey Palmer]]
+- [[Benjamin Kroh]]
+- [[Thomas Lowe Taylor]]
+- [[Jago Flood]]
+- [[Jeremey Cagle]]
+- [[The Ghost of Samuel Pink]]
+- [[Chris Stroffolino]]
+- [[Crag Hill]]
+- [[Benjamin Buchholz]]
+- [[Ben Kharakh]]
+- [[Jenna Humphrey]]
+- [[Norman Lock]]
+
+### Issue 23 (October 2007)
+
+- [[Christian Peet]]
+- [[Jane Joritz Nakagawa]]
+- [[Ryan Ridge]]
+- [[Edward McWhinney]]
+- [[Ben Stein]]
+- [[Peter Schwartz]]
+- [[Danielle Dutton]]
+- [[Robert Lietz]]
+- [[Nicholas Alexander Hayes]]
+- [[Joseph Starr]]
+- [[Rob Walsh]]
+- [[Ruth Lepson]]
+- [[Allison Carter]]
+- [[Davis Schneiderman]]
+- [[Matthew Simmons]]
+- [[Forrest Roth]]
+- [[Susan M. Schultz]]
