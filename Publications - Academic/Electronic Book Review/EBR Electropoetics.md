@@ -1,7 +1,9 @@
 #academicJournal 
 
 # 2026
-
+[[Manuel Portela]], [[Ana Marques da Silva]]
+[[Kiera Obbard]], [[Najwa Zebian]]
+[[Patricia López Gay]]
 [[Kurt Heintz]]
 [[N. Katherine Hayles]] and [[Deena Larsen]]
 # 2025

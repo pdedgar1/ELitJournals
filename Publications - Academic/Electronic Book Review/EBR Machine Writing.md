@@ -1,4 +1,6 @@
 ### 2026 
+[[Stuart Moulthrop]]
+[[Davin Heckman]]
 [[Daniel Johannes Rosnes]]
 [[Mark C. Marino]], [[ChatGPT]], [[Rob Wittig]]
 [[Stuart Moulthrop]]
