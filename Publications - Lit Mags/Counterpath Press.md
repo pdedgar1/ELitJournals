@@ -37,7 +37,7 @@
 [[Robert Fitterman]]
 [[Carol Snow]]
 [[Ronaldo V. Wilson]]
-[[Craig Dworkin]]
+[[Craig Douglas Dworkin]]
 [[Brenda Iijima]]
 [[Aleš Šteger]]
 [[Nick Montfort]]

@@ -80,7 +80,7 @@ Author names by paper, from the ACH Volume 3 proceedings.
 
 ### Vision Language Models for Novel Art Therapy Evaluation in Schizophrenia
 
-[[Ivan Nenchev]] [[Karin Dannecker]] [[Maren Rabe]] [[Marie Jeschke]] [[Christiane Montag]]
+[[Ivan Nenchev]] [[Karin Dannecker]] [[Maren Rabe]] [[Marie Jeschke]] [[Christian Montag]]
 
 ### Framing the Canon: A Computational Study of Canonicity in Danish Golden Age Paintings (1750-1870)
 

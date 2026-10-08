@@ -112,7 +112,7 @@ Founder [[John Tranter]]
 | [[Claudio Sansone]]             |
 | [[Clemente Padín]]              |
 | [[Connie Yu]]                   |
-| [[Craig Dworkin]]               |
+| [[Craig Douglas Dworkin]]               |
 | [[Craig Santos Perez]]          |
 | [[Curtis Faville]]              |
 | [[Curtis Faville]]              |

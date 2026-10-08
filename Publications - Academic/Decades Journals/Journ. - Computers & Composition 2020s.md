@@ -84,7 +84,7 @@
 | [[Philip B. Gallagher]], [[Philippe Meister]], [[David R. Russell]]                                                        |
 | [[Sandra J. Keele]]                                                                                                        |
 | [[Sandra Tsui Eu Lam]]                                                                                                     |
-| [[Savanna Conner]], [[Patricia R. Webb]]                                                                                      |
+| [[Savanna Conner]], [[Patricia Rose Webb]]                                                                                      |
 |                                                                                                                            |
 | [[Stephanie Vie]]                                                                                                          |
 | [[Stephanie Vie]]                                                                                                          |

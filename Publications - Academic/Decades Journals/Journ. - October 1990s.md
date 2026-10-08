@@ -61,7 +61,7 @@
 - [[John Frow]]
 - [[Joseph Kosuth]]
 - [[Seth Siegelaub]]
-- [[Benjamin Buchloh]]
+- [[Benjamin H. D. Buchloh]]
 
 ### No. 58 — Autumn 1991
 
@@ -71,7 +71,7 @@
 - [[Slavoj Žižek]]
 - [[Michel Chion]]
 - [[Ben Brewster]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Catherine Millot]]
 - [[James B. Swenson, Jr.]]
 
@@ -109,11 +109,11 @@
 - [[Cornel West]]
 - [[Chantal Mouffe]]
 - [[Anders Stephanson]]
-- [[Joan Scott]]
+- [[Joan W. Scott]]
 - [[Homi K. Bhabha]]
 - [[Jacques Rancière]]
 - [[Andreas Huyssen]]
-- [[Homi Bhabha]]
+- [[Homi K. Bhabha]]
 - [[Ernesto Laclau]]
 - [[Stanley Aronowitz]]
 - [[Judith Butler]]
@@ -171,7 +171,7 @@
 - [[Rosalind E. Krauss]]
 - [[Silvia Kolbowski]]
 - [[Miwon Kwon]]
-- [[Benjamin Buchloh]]
+- [[Benjamin H. D. Buchloh]]
 - [[Carol Armstrong]]
 - [[Louise Lawler]]
 - [[Sherrie Levine]]
@@ -188,7 +188,7 @@
 ### No. 67 — Winter 1994
 
 - [[Hal Foster]]
-- [[Benjamin Buchloh]]
+- [[Benjamin H. D. Buchloh]]
 - [[Rosalind E. Krauss]]
 - [[Yve-Alain Bois]]
 - [[Denis Hollier]]
@@ -215,7 +215,7 @@
 - [[Hal Foster]]
 - [[Silvia Kolbowski]]
 - [[Martha Buskirk]]
-- [[Benjamin Buchloh]]
+- [[Benjamin H. D. Buchloh]]
 - [[T. J. Clark]]
 - [[Anne M. Wagner]]
 - [[Lygia Clark]]
@@ -240,7 +240,7 @@
 - [[Sherrie Levine]]
 - [[Louise Lawler]]
 - [[Fred Wilson]]
-- [[Benjamin Buchloh]]
+- [[Benjamin H. D. Buchloh]]
 - [[Alexander Alberro]]
 - [[Yve-Alain Bois]]
 
@@ -248,7 +248,7 @@
 
 - [[Silvia Kolbowski]]
 - [[Ayisha Abraham]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Maurice Berger]]
 - [[Victor Burgin]]
 - [[Juli Carson]]
@@ -299,7 +299,7 @@
 - [[David J. Levin]]
 - [[Wiltrud Rosenzweig]]
 - [[Andreas Huyssen]]
-- [[Eric Santner]]
+- [[Eric L. Santner]]
 - [[Silvia Kolbowski]]
 
 ### No. 73 — Summer 1995
@@ -347,7 +347,7 @@
 - [[Kurt W. Forster]]
 - [[David Britt]]
 - [[Svetlana Alpers]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Carol Armstrong]]
 - [[Susan Buck-Morss]]
 - [[Tom Conley]]

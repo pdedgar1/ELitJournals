@@ -597,7 +597,7 @@
 - [[Asif Majid]]
 - [[Bridget Fleming]]
 - [[Adair Rounthwaite]]
-- [[Faye Gleisser]]
+- [[Faye R. Gleisser]]
 
 ### Vol. 9, Issue 3 (September 2024)
 

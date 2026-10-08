@@ -150,7 +150,7 @@
 - [[Andrew Ross]]
 - [[Martha Schwendener]]
 - [[Gregory Sholette]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Eva Díaz]]
 - [[Homay King]]
 - [[Robert Bailey]]
@@ -287,12 +287,12 @@
 
 ### No. 155 — Winter 2016
 
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Ed Atkins]]
 - [[Armen Avanessian]]
 - [[Bill Brown]]
 - [[Giuliana Bruno]]
-- [[Manuel Borja-Villel]]
+- [[Manuel J. Borja-Villel]]
 - [[Benjamin H. D. Buchloh]]
 - [[Christophe Cherix]]
 - [[Rachel Haidu]]
@@ -305,7 +305,7 @@
 - [[Katarzyna Kobro]]
 - [[Władysław Strzemiński]]
 - [[Jo Applin]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Michel Feher]]
 - [[Hal Foster]]
 - [[Eyal Weizman]]
@@ -459,7 +459,7 @@
 ### No. 170 — Fall 2019
 
 - [[David Joselit]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Hal Foster]]
 - [[Jakob Schillinger]]
 - [[Oswald Wiener]]

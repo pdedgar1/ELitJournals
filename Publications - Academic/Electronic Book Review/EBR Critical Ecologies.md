@@ -199,7 +199,7 @@
 [[Cary Wolfe]]
 [[Mark Amerika]]
 [[Marjorie Perloff]]
-[[Jamie Daniel]]
+[[Jamie Owen Daniel]]
 [[Curtis White]]
 [[Joe Amato]]
 [[Gregory L. Ulmer]]

@@ -53,7 +53,7 @@
 - [[Eryn Whitworth]]
 - [[Hanna Maurin]]
 - [[Helen Keegan]]
-- [[John Jones]]
+- [[John E. Jones]]
 - [[Joseph Reagle]]
 - [[Kristene Unsworth]]
 - [[Lene Pettersen]]

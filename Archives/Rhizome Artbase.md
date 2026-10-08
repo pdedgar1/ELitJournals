@@ -321,7 +321,7 @@
 | [[Luke Duncalfe]]                                     |
 | [[Dune & Devil]]                                      |
 | [[gair dunlop]]                                       |
-| [[Matt Dunnerstick]]                                  |
+| [[Matthew Dunnerstick]]                                  |
 | [[Diane Dwyer]]                                       |
 | [[Ollivier Dyens]]                                    |
 | [[Eric Dymond]]                                       |

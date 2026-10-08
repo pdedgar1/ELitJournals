@@ -328,7 +328,7 @@
 [[christian bök]]
 [[élisabeth chamontin]]
 [[catherine daly]]
-[[craig dworkin]]
+[[Craig Douglas Dworkin]]
 [[daniel godston]]
 [[jeff harrison]]
 [[paul hoover]]
@@ -499,7 +499,7 @@
 | [[Steve Bradbury]]                                                       |
 | [[Caterina Davinio]]                                                     |
 | [[Dave Durgin]]                                                          |
-| [[Craig Dworkin]]                                                        |
+| [[Craig Douglas Dworkin]]                                                        |
 | [[Patrick Friesen]]                                                      |
 | [[P. K. Brask]]                                                           |
 | [[Niels Hav]]                                                            |

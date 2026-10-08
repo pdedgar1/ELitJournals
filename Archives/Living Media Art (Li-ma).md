@@ -1100,7 +1100,7 @@
     
 - [[Semiconductor]]
     
-- [[Seoungho Cho]]
+- [[Seungho Cho]]
     
 - [[SERVAAS]]
     

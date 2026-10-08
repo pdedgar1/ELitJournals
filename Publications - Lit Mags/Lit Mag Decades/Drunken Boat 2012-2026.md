@@ -157,7 +157,7 @@
 ## Outranspo
 [[Pablo Martín Ruiz]], [[Lily Robert-Foley]], [[Santiago Artozqui]], [[Irène Gayraud]], [[Chris Clarke]], [[Jonathan Baillehache]], [[Eliana Vicari]], [[Ari Lieberman]]
 ## Para-Outranspo
-[[Derek Beaulieu]], [[Christian Bök]], [[Ludivine Bouton-Kelly]] & [[Tiphaine Samoyault]], [[Geoffrey Brock]] (trans. [[John Burrasca]]), [[Antoine Cazé]], [[Jeff Diteman]], [[Dave Drayton]], [[Isaiah Dufort]], [[Craig Dworkin]], [[Kristin Dykstra]] (trans. [[Ángel Escobar]]), [[Toby Fitch]], [[Christiana Hills]], [[Bernard Hoepffner]], [[Sabine Macher]], [[Salvatore Marano]], [[Michèle Métail]], [[Ian Monk]] (trans. [[Pierre de Ronsard]]), [[Sarah Riggs]], [[Urayoán Noel]]
+[[Derek Beaulieu]], [[Christian Bök]], [[Ludivine Bouton-Kelly]] & [[Tiphaine Samoyault]], [[Geoffrey Brock]] (trans. [[John Burrasca]]), [[Antoine Cazé]], [[Jeff Diteman]], [[Dave Drayton]], [[Isaiah Dufort]], [[Craig Douglas Dworkin]], [[Kristin Dykstra]] (trans. [[Ángel Escobar]]), [[Toby Fitch]], [[Christiana Hills]], [[Bernard Hoepffner]], [[Sabine Macher]], [[Salvatore Marano]], [[Michèle Métail]], [[Ian Monk]] (trans. [[Pierre de Ronsard]]), [[Sarah Riggs]], [[Urayoán Noel]]
 # # Issue 25
 
 ## Bodies

@@ -138,7 +138,7 @@
 | [[Murtaza Vali]]                                                   |
 | [[Marianna Janowicz]]                                              |
 | [[Sean O'Toole]] & [[Lucia Rebolino]]                              |
-| [[Erin McElroy]]                                                   |
+| [[Erin Mariel Brownstein McElroy]]                                                   |
 | [[Francisco Nunes]]                                                |
 | [[Liara Roux]]                                                     |
 | [[Nina Chkareuli-Mdivani]]                                         |
@@ -255,7 +255,7 @@
 | [[Sylvie Fortin]]                                                  |
 | [[Hallie Ayres]] & [[Lukas Brasiskis]]                             |
 | [[Zhen Zhang]]                                                     |
-| [[Suzanne Hudson]]                                                 |
+| [[Suzanne Perling Hudson]]                                                 |
 | [[Jasmina Cibic]]                                                  |
 | [[Łukasz Stanek]]                                                  |
 | [[Andres Lepik]] & [[Bonaventure Soh Bejeng Ndikung]]              |

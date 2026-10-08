@@ -410,7 +410,7 @@
 - [[Greta Maneschi]]
 - [[Irene Rossi]]
 - [[Jacqueline Christmas]]
-- [[Jeff Rydberg-Cox]]
+- [[Jeffrey A. Rydberg-Cox]]
 - [[Jérémie Schiettecatte]]
 - [[Luca Marcozzi]]
 - [[Lucia Giagnolini]]

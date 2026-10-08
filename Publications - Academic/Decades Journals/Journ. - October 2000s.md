@@ -25,7 +25,7 @@
 ### No. 93 — Summer 2000
 
 - [[Mary Kelly]]
-- [[Michael Jennings]]
+- [[Michael W. Jennings]]
 - [[Nikolai Tarabukin]]
 - [[Rosamund Bartlett]]
 - [[Maria Gough]]
@@ -56,7 +56,7 @@
 - [[Kaja Silverman]]
 - [[Eduardo Cadava]]
 - [[Robert Morris]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Christine Ross]]
 
 ### No. 97 — Summer 2001
@@ -86,7 +86,7 @@
 
 - [[Abdelwahab Meddeb]]
 - [[Pierre Joris]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Robert Kaufman]]
 - [[Hal Foster]]
 - [[Harry Cooper]]
@@ -456,7 +456,7 @@
 - [[Kelly Baum]]
 - [[Howard Singerman]]
 - [[T. J. Demos]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Mark Godfrey]]
 
 ### No. 127 — Winter 2009

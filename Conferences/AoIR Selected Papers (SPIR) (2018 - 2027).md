@@ -3131,7 +3131,7 @@
 - [[Laura Guimarães Corrêa]]
 - [[Laura Valle Gontijo]]
 - [[Laura Vodden]]
-- [[Laurs Vodden]]
+- [[Laura Vodden]]
 - [[Leila Zia]]
 - [[Leon Zhenglang Wang]]
 - [[Leonardo Foletto]]

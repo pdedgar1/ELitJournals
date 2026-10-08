@@ -23,7 +23,7 @@
 
 - [[Abigail Susik]] — Introduction (Editorial)
 - [[Erica Levin]] — Social Media and the New Newsreel
-- [[Erin McElroy]] — Mediating the Tech Boom: Temporalities of Displacement and Resistance
+- [[Erin Mariel Brownstein McElroy]] — Mediating the Tech Boom: Temporalities of Displacement and Resistance
 - [[Lisa Moren]] — Algorithmic Pollution: Artists Working with Dataveillance and Societies of Control
 - [[Yasuhito Abe]] — Why Manga Matters after Fukushima
 - [[Randall Packer]] — Disruption of the Broadcast

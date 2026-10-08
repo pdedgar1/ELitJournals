@@ -173,7 +173,7 @@ _Sparse on site — full programme likely only exists in the printed catalogue P
 - [[Andreas Buchholz]]
 - [[Katrin Gausepohl]]
 - [[Alex Adriaansens]]
-- [[Ann-Marie Duguet]]
+- [[Anne-Marie Duguet]]
 - [[John G. Hanhardt]]
 - [[Wulf Herzogenrath]]
 - [[Joachim Sauter]]

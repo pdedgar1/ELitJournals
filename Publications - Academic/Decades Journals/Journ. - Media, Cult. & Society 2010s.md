@@ -828,7 +828,7 @@
 
 ### Vol. 37, Issue 5 (July 2015)
 
-- [[Jing Meng]]
+- [[Jingbo Meng]]
 - [[Niall P. Brennan]]
 - [[Jayde Cahir]]
 - [[Justine Lloyd]]

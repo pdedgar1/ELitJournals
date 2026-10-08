@@ -343,7 +343,7 @@
 - [[Londie T. Martin]]
 - [[Adela C. Licona]]
 - [[Elizabeth H. Tilley]]
-- [[John Jones]]
+- [[John E. Jones]]
 - [[Ron Balthazor]]
 - [[Elizabeth A. Davis]]
 - [[Erik Ellis]]

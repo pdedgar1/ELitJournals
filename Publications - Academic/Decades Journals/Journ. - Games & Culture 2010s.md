@@ -412,7 +412,7 @@
 - [[David González-Cutre]]
 - [[Stuart J. H. Biddle]]
 - [[Carlos Montero-Carretero]]
-- [[Charley Reed]]
+- [[Charles Reed]]
 
 ### Volume 11, Issue 7-8 (November-December 2016)
 

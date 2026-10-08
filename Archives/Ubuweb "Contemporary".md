@@ -24,7 +24,7 @@ Works included in this section, on the whole, must not be able to be reproduced 
 | [[Christian Bök]]                                |
 | [[Clark Lunberry]]                               |
 | [[Claude Closky]]                                |
-| [[Craig Dworkin]]                                |
+| [[Craig Douglas Dworkin]]                                |
 | [[Dana Teen Lomax]]                              |
 | [[Danielle Tegeder]]                             |
 | [[David Cammack]]                                |

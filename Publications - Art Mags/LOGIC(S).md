@@ -179,7 +179,7 @@
 
 # 012 - 2020
 [[Oscar H. Gandy Jr.]]
-[[Erin McElroy]] and [[Azad Amir-Ghassemi]]
+[[Erin Mariel Brownstein McElroy]] and [[Azad Amir-Ghassemi]]
 [[Audrey Eschright]]
 [[Anonymous]]
 [[Alex Hanna]], [[Emily Denton]], [[Razvan Amironesei]], [[Andrew Smart]], [[Hilary Nicole]]

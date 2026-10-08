@@ -160,7 +160,7 @@ _Sparse on site — full programme likely only exists in the printed catalogue P
 - [[Jan Jaksiewicz]]
 - [[Ole Klingemann]]
 - [[Bodo Müller]]
-- [[Martina Müller]]
+- [[Martin Müller]]
 - [[Andrea Nienhuisen]]
 - [[Josef Plank]]
 - [[Michael Rusert]]

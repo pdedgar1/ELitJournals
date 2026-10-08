@@ -191,7 +191,7 @@
 - [[Perry Meisel]]
 - [[François Roustang]]
 - [[Jennifer Stone]]
-- [[Homi Bhabha]]
+- [[Homi K. Bhabha]]
 
 ### No. 29 — Summer 1984
 
@@ -336,7 +336,7 @@
 - [[Giuliana Bruno]]
 - [[Steve Fagin]]
 - [[Peter Wollen]]
-- [[Friedrich Kittler]]
+- [[Friedrich A. Kittler]]
 - [[Dorothea von Mücke]]
 - [[Philippe L. Similon]]
 
@@ -404,7 +404,7 @@
 - [[Peter Labanyi]]
 - [[Edgar Reitz]]
 - [[Wilfried Reinke]]
-- [[Miriam Hansen]]
+- [[Miriam Bratu Hansen]]
 - [[Joyce Rheuban]]
 - [[Andreas Huyssen]]
 - [[Heide Schlüpmann]]
@@ -422,7 +422,7 @@
 - [[Victor]]
 - [[Thomas Y. Levin]]
 - [[Walter Benjamin]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 
 ### No. 48 — Spring 1989
 
@@ -430,7 +430,7 @@
 - [[Rosalind E. Krauss]]
 - [[Gertrud Koch]]
 - [[Jamie Owen Daniel]]
-- [[Miriam Hansen]]
+- [[Miriam Bratu Hansen]]
 - [[Andreas Huyssen]]
 - [[Eric Rentschler]]
 - [[Douglas Crimp]]

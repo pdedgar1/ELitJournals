@@ -163,7 +163,7 @@
 [[Scott Lloyd Dewitt]]
 [[Kristine L. Blair]]
 [[Thomas H. Reynolds]], [[Curtis Jay Bank]]
-[[Patricia R. Webb]]
+[[Patricia Rose Webb]]
 -
 [[Kathleen Blake Yancey]]
 [[Alan C. Purves]]
@@ -210,7 +210,7 @@
 [[Gary Heba]]
 [[George Braine]]
 [[Danica Hubbard]], [[Herbert J. Walberg]]
-[[Patricia R. Webb]]
+[[Patricia Rose Webb]]
 [[Michael F. Johanyak]]
 [[Michael J. Salvo]]
 [[Bernard susser]]

@@ -55,7 +55,7 @@
 - [[Susan Ballard]]
 - [[Alexander Miller]]
 - [[Catherine Malabou]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Peter Szendy]]
 - [[Emanuela Bianchi]]
 
@@ -68,7 +68,7 @@
 - [[Jean Ma]]
 - [[Pamela L. Lee]]
 - [[Jane Weinstock]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Natalia Brizuela]]
 - [[Julia Bryan-Wilson]]
 
@@ -229,7 +229,7 @@
 - [[Sophie Hamacher]]
 - [[Faye R. Gleisser]]
 - [[Kim Córdova]]
-- [[Joan Scott]]
+- [[Joan W. Scott]]
 
 ### No. 191 — Winter 2025
 
@@ -270,7 +270,7 @@
 - [[Hal Foster]]
 - [[Benjamin H. D. Buchloh]]
 - [[James Meyer]]
-- [[Emily Apter]]
+- [[Emily Rose Apter]]
 - [[Sébastien Pluot]]
 
 ### No. 195 — Winter 2026

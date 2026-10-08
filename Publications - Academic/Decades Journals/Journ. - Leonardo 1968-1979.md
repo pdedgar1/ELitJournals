@@ -1111,7 +1111,7 @@
 - [[Myron A. Coler]]
 - [[James J. Gibson]]
 - [[Lincoln Rothschild]]
-- [[Louis R. Marcheschi]]
+- [[Louis Cork Marcheschi]]
 - [[John S. Keel]]
 - [[Lee Harrison III]]
 - [[James A. Goldman]]

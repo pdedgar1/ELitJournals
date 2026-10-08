@@ -172,7 +172,7 @@
 
 [[Kavi Duvvoori]] is a writer and PhD candidate in English at UWaterloo, with an MFA from UCSC, researching how algorithms 
 
-[[Kavisha Alagiya]] is a PhD researcher in English Literature and Digital Narratives at Maharaja Krishnakumarsinhji Bhavnagar 
+[[Kavisha Dilipbhai Alagiya]] is a PhD researcher in English Literature and Digital Narratives at Maharaja Krishnakumarsinhji Bhavnagar 
 
 [[Kenneth Sherwood]] is a poet with an interest in performance, orality, materiality, remix, and code. He co-edited RIF/T, one 
 

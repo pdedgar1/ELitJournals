@@ -27,7 +27,7 @@
 [[Jean-Pierre Balpe]]
 [[Pedro Barbosa]]
 [[Michael J. Maguire]]
-[[domenico Chiappe]]
+[[Doménico Chiappe]]
 [[riccardo Giovanni Milanesi]]
 [[Fabrizio Venerandi]]
 [[Leonardo Flores]]

@@ -127,7 +127,7 @@
 | [[Jay Jordan]]                   |
 | [[Jean Bessette]]                |
 | [[Jeff Rice]]                    |
-| [[Jeffery T. Grabill]]           |
+| [[Jeffrey T. Grabill]]           |
 | [[Jeffrey M. Ringer]]            |
 | [[Jeffrey R. Galin]]             |
 | [[Jeffrey S. Moore]]             |
@@ -145,7 +145,7 @@
 | [[Jessie L. Moore]]              |
 | [[Joan S. Latchaw]]                 |
 | [[John B. Killoran]]             |
-| [[John Jones]]                   |
+| [[John E. Jones]]                   |
 | [[John Logie]]                   |
 | [[John R. Gallagher]]            |
 | [[John Scenters-Zapico]]         |
@@ -409,7 +409,7 @@
 | [[Collin Bjork]]             |
 | [[Cristina Sánchez Martín]]  |
 | [[Crystal VanKooten]]        |
-| [[Dan Ehrenfeld]]            |
+| [[Daniel Ehrenfeld]]            |
 | [[Dánielle Nicole DeVoss]]          |
 | [[David Blakesley]]          |
 | [[David T. Coad]]            |
@@ -455,7 +455,7 @@
 | [[Lauren E. Cagle]]          |
 | [[Lauren E. Salisbury]]      |
 | [[Lauren Marshall Bowen]]    |
-| [[Les Hutchinson]]           |
+| [[Leslie Hutchinson]]           |
 | [[Lillian W. Mina]]           |
 | [[Lisa M. Litterio]]         |
 | [[Lori Beth De Hertogh]]     |
@@ -464,7 +464,7 @@
 | [[Marie-Josée Goulet]]       |
 | [[Mary E. Hocks]]            |
 | [[Mary K. Stewart]]          |
-| [[Matt Bridgewater]]         |
+| [[Matthew Bridgewater]]         |
 | [[Matthew A. Vetter]]        |
 | [[McKinley Green]]           |
 | [[Michael Greer]]            |
@@ -492,7 +492,7 @@
 | [[Sarah A. Riddick]]         |
 | [[Shane A. Wood]]            |
 | [[Stephanie Vie]]            |
-| [[Steve Holmes]]             |
+| [[Steven K. Holmes]]             |
 | [[Susanne Seybold Geise]]    |
 | [[Tanya K. Rodrigue]]        |
 | \|[[Timothy Lockridge]]\|    |

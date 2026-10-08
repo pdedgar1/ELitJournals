@@ -30,7 +30,7 @@ http://www.tekka.net/index.html
 | [[William Gibson]]          |
 [[Eliza Blair]]
 [[Cathy Marshall]]
-[[Rachel Lee]]
+[[Rachel C. Lee]]
 [[Sasha Cagen]]
 
 #### TEKKA 9 (Volume 3, Number 2)
