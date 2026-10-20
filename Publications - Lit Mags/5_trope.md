@@ -63,7 +63,7 @@ _The server folder for this issue is empty, so no contributor list could be retr
 
 ### Issue 5 (Summer 1999)
 
-- [[E.F. Taylor Jr.]]
+- [[E. F. Taylor Jr.]]
 - [[David Buuck]]
 - [[Peter Balestrieri]]
 - [[Brian Lennon]]
@@ -117,7 +117,7 @@ _The server folder for this issue is empty, so no contributor list could be retr
 - [[Hank Lazer]]
 - [[Chad Woody]]
 - [[Clayton Eshleman]]
-- [[W.P. Osborn]]
+- [[W. P. Osborn]]
 - [[Heather Thomas]]
 - [[Michael Basinski]]
 - [[Brian Beatty]]
@@ -141,7 +141,7 @@ _The server folder for this issue is empty, so no contributor list could be retr
 - [[Stacey Duff]]
 - [[John Davies]]
 - [[Bob Castle]]
-- [[J.J. Blickstein]]
+- [[J. J. Blickstein]]
 - [[Fred Muratori]]
 - [[Mark O'Neil]]
 - [[Eugene Thacker]]
@@ -226,7 +226,7 @@ _The server folder for this issue is empty, so no contributor list could be retr
 - [[Larry Sawyer]]
 - [[Sean Dougherty]]
 - [[Annabelle Clippinger]]
-- [[J.P. Craig]]
+- [[J. P. Craig]]
 - [[Spencer Selby]]
 
 ### Issue 15 (December 2002)
@@ -319,7 +319,7 @@ _The server folder for this issue is empty, so no contributor list could be retr
 ### Issue 19 (July 2005)
 
 - [[Cole Swensen]]
-- [[J.J. Blickstein]]
+- [[J. J. Blickstein]]
 - [[Stacey Duff]]
 - [[Vernon Frazer]]
 - [[Craig Freeman]]
@@ -345,7 +345,7 @@ _The server folder for this issue is empty, so no contributor list could be retr
 
 ### Issue 21 (2006)
 
-- [[J.P. Craig]]
+- [[J. P. Craig]]
 - [[Norman Lock]]
 - [[Christopher Eaton]]
 - [[Don Swartzentruber]]

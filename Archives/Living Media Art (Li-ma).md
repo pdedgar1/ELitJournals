@@ -922,7 +922,7 @@
     
 - [[NOX]]
     
-- [[Nye Thompson]] & [[UBERMORGEN.COM]]
+- [[Nye Thompson]] & [[UBERMORGEN]]
     
 - [[Oliver Laric]]
     
@@ -1220,7 +1220,7 @@
     
 - [[Tsk Tsk Tsk]]
     
-- [[UBERMORGEN.COM]]
+- [[UBERMORGEN]]
     
 - [[Ulay]]
     

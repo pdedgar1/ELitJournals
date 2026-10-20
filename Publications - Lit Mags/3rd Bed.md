@@ -28,7 +28,7 @@
 |[[Ben Miller]]|
 |[[Bill Knott]]|
 |[[Bill Kushner]]|
-|[[Billy X O'Brien]]|
+|[[Billy X. O'Brien]]|
 |[[Bob Harrison]]|
 |[[Brian Evenson]]|
 |[[Brian VanKleeck]]|

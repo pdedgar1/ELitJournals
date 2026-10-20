@@ -10,7 +10,7 @@
 ### soi 3 modern poets
 
 - [[Luke Beesley]]
-- [[B.R. Dionysius]]
+- [[B. R. Dionysius]]
 - [[Billy Jones]]
 - [[MTC Cronin]]
 - [[Barry Hill]]
