@@ -141,7 +141,7 @@
 - [[Pasha Malla]]
 - [[Scott Gould]]
 - [[David Gianadda]]
-- [[Will RatBlood]]
+- [[Will Von RatBlood]]
 - [[Sarah M. Balcomb]]
 - [[Steve Delahoyde]]
 - [[Waki Gamez]]

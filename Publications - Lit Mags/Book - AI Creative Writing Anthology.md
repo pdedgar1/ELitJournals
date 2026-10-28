@@ -30,7 +30,7 @@
 [[Simon Lewis]]
 [[Brad Gallagher]] and [[Laura Hyunjhee Kim]]
 [[Klaus Spiess]]
-[[Timothy Miller]]
+[[Timothy S. Miller]]
 [[Dana Dason]]
 [[Shu Wan]]
 [[Fania Raczinski]]

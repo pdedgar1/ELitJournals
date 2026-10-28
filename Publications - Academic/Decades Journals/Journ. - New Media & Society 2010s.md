@@ -540,7 +540,7 @@ _97 issues across 10 volumes._
 - [[Martin Ross Gibbs]]
 - [[Rachel K. Gibson]]
 - [[Rachel K. Gibson]]
-- [[Sarah Gilbert]]
+- [[Sarah A. Gilbert]]
 - [[Michael Gilbert]]
 - [[Kevin Gillan]]
 - [[Tarleton Gillespie]]

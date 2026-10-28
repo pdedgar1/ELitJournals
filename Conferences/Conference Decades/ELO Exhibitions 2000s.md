@@ -1,3 +1,7 @@
+#conference
+
+## ELO 2008 Exhibit
+
 Artist Gallery
 [[Mark Amerika]] [[Alan Bigelow]] [[Serge Bouchardon]] [[Jay Bushman]] [[Roderick Coover]]
 [[Brian Evans]] [[Robert Kendall]] [[Deena Larsen]] [[M. D. Coverley aka Marjorie C. Luesebrink]] [[Judy Malloy]]

@@ -243,7 +243,7 @@
 |[[Thomas V. Davis]]|
 |[[Tim Conley]]|
 |[[Timothy Watt]]|
-|[[Tomaz Salamun]]|
+|[[Tomaž Šalamun]]|
 |[[Tristan Tzara]]|
 |[[Tuan-Li Diana Liao]]|
 |[[Virgil Suárez]]|

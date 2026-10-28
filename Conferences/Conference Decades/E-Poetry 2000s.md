@@ -1,3 +1,77 @@
+#conference
+
+## E-Poetry 2001 Buffalo
+
+An International digital Poetry Festival 
+#conference 
+## Directed by [[Loss Pequeño Glazier]]
+
+[[Kenneth Goldsmith]]
+
+## E-Poetry 2003 Morgantown
+
+An International digital Poetry Festival 
+#conference 
+## Directed by [[Loss Pequeño Glazier]] and [[Sandy Baldwin]]
+
+[[Sandy Baldwin]], [[Harward]], [[Jason Nelson]], [[Christopher T. Funkhouser]], [[Alan Sondheim]]
+[[Wilton Azevedo]], [[Giselle Beiguelman]], [[Lawrence Upton]], [[Talan Memmott]], 
+
+[[Lori Talley]], [[Judd Morrissey]], [[Loss Pequeño Glazier]], [[Philippe Bootz]], [[aya karpińska]], [[Miekal And]], [[Jean-Pierre Balpe]], [[Patrick-Henri Burgaud]], [[María Mencía]], [[Giselle Beiguelman]]
+[[Florian Cramer]], [[Friedrich W. Block]], [[Jörg Piringer]], [[Lori Emerson]]
+[[John Cayley]]
+
+## E-Poetry 2005 London
+
+An International digital Poetry Festival 
+#conference 
+## Directed by [[Loss Pequeño Glazier]]
+
+|                                                                           |
+| ------------------------------------------------------------------------- |
+| [[Albert Pellicer]]                                                       |
+| [[Ben Watson]] (chair, was 'unavoidably called away' Cayley stood in)[4]] |
+| [[Brigid McLeer]]                                                         |
+| [[Ceridwen Buckmaster]]                                                   |
+| [[Elizabeth James]]                                                       |
+| [[Elizabeth Knipe]]                                                       |
+| [[Elizabeth Jane Burnett]]                                                |
+| [[Gavin Stewart]]                                                         |
+| [[Janis Jefferies]]                                                       |
+| [[Jean-Pierre Balpe]]                                                     |
+| [[Jérôme Fletcher]]                                                       |
+| [[Jim Rosenberg]]                                                         |
+| [[Jörg Piringer]]                                                         |
+| [[Jörg Piringer]]                                                         |
+| [[Jörg Piringer]]                                                         |
+| [[John Cayley]]                                                           |
+| [[John Cayley]]                                                           |
+| [[John Levack Drever]] & [[Lawrence Upton]]                                      |
+| [[John Sparrow]]                                                          |
+| [[Judd Morrissey]]& [[Lori Talley]]                                       |
+| [[Justin Katko aka jUStin!katKO]]                                                          |
+| [[Justin Katko aka jUStin!katKO]] & [[Lawrence Upton]]                                     |
+| [[Kate Pullinger]]                                                        |
+| [[Keston Sutherland]]                                                     |
+| [[Kirsten Lavers]]                                                        |
+| [[London Under Construction]]                                             |
+| [[Loss Pequeño Glazier]]                                                  |
+| [[Loss Pequeño Glazier]]                                                  |
+| [[Lutz Hamel]], [[Judd Morrissey]], [[Lori Talley]], & [[Hyejin Yun]]     |
+| [[Maria Damon]]                                                           |
+| [[María Mencía]]                                                          |
+| [[Nicky Marsh]]                                                           |
+| [[Patrick-Henri Burgaud]]                                                 |
+| [[Philippe Bootz]]                                                        |
+| [[Philippe Bootz]]                                                        |
+| [[Sandy Baldwin]]                                                         |
+| [[Søren Bro Pold]]                                                        |
+| [[Talan Memmott]]                                                         |
+| [[Talan Memmott]]                                                         |
+| [[Tammy McGovern]]                                                        |
+
+## E-Poetry 2007 Paris
+
 An International digital Poetry Festival 
 #conference 
 ## Directed by [[Loss Pequeño Glazier]]
@@ -42,3 +116,29 @@ An International digital Poetry Festival
 
 
 **
+
+## E-Poetry 2009 Barcelona
+
+An International digital Poetry Festival 
+#conference 
+## Directed by [[Loss Pequeño Glazier]]
+### keynotes [[N. Katherine Hayles]], [[Roberto Simanowski]], [[Jean Clément]]
+
+##### committee 
+[[Joan Elies Adell]] (UOC)
+[[Sandy Baldwin]] (U. West Virginia)
+[[Giselle Beiguelman]] (Catholic University of São Paulo)
+[[Philippe Bootz]] (Univ. Paris VIII
+[[Laura Borràs Castanyer]] (UB)
+[[John Cayley]] (Brown University)
+[[Carles Lindín]] (Hermeneia)
+[[Raffaele Pinto]] (UB)
+[[Susana Pajares Tosca]] (IT University of Copenhagen)
+[[Rita Raley]] (UC Sta. Barbara)
+[[Giovanna di Rosario]] (UOC)
+[[Janez Strehovec]] (Univ. Ljubljana)
+[[Rui Torres]] (Fernando Pessoa University)
+
+Presentations recorded for Youtube :epoetry2009Barcelona
+
+[[Philippe Bootz]], [[Stephanie Strickland]], [[Jason Nelson]], [[Isaías Herrero]], [[Loss Pequeño Glazier]], [[María Mencía]], [[]]

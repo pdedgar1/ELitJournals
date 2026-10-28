@@ -11,21 +11,14 @@
       "query": "path:\"Publications - Lit Mags\"  ",
       "color": {
         "a": 1,
-        "rgb": 16451849
+        "rgb": 14701138
       }
     },
     {
       "query": "path:Awards  ",
       "color": {
         "a": 1,
-        "rgb": 16624392
-      }
-    },
-    {
-      "query": "path:\"Conferences/ELO Conferences\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15722241
+        "rgb": 14725458
       }
     },
     {
@@ -39,14 +32,14 @@
       "query": "path:Organizations  ",
       "color": {
         "a": 1,
-        "rgb": 392965
+        "rgb": 5431378
       }
     },
     {
       "query": "path:\"Publications - Academic\"  ",
       "color": {
         "a": 1,
-        "rgb": 6422474
+        "rgb": 5431473
       }
     },
     {
@@ -60,34 +53,34 @@
       "query": "path:\"People + Labs\"  ",
       "color": {
         "a": 1,
-        "rgb": 1316065
+        "rgb": 5395168
       }
     },
     {
       "query": "path:Archives  ",
       "color": {
         "a": 1,
-        "rgb": 11211001
+        "rgb": 11621088
       }
     },
     {
       "query": "path:\"Publications - Art Mags\"  ",
       "color": {
         "a": 1,
-        "rgb": 16338368
+        "rgb": 14701233
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 2.48909382518043,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.99186993994407,
   "lineSizeMultiplier": 0.1,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 20,
-  "linkStrength": 1,
+  "repelStrength": 18.092740321242,
+  "linkStrength": 0.9,
   "linkDistance": 500,
-  "scale": 0.0078125,
-  "close": true
+  "scale": 0.024644229499963467,
+  "close": false
 }

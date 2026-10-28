@@ -821,7 +821,7 @@
 
 #### Fiction
 [[Steve Almond]]
-[[Sarah Balcomb]]
+[[Sarah M. Balcomb]]
 [[g. martinez cabrera]]
 [[Beth Couture]]
 [[Lori D'Angelo]]
@@ -1254,7 +1254,7 @@
 [[Laynie Browne]]
 [[Megan Burns]]
 [[Louis Bury]]
-[[CA Conrad]]
+[[CAConrad]]
 [[Stephen Cope]]
 [[Brenda Coultas]]
 [[Kathryn Cowles]]

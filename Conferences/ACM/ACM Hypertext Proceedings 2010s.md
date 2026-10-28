@@ -574,7 +574,7 @@ Presiding, [[Leo Ferres]], [[Gustavo Rossi]], [[Virgilio Almeida]], [[Eelco Herd
 |[[Reza Zafarani]]|
 |[[Jiliang Tang]]|
 |[[Huan Liu]]|
-|[[Remy Cazabet]]|
+|[[Rémy Cazabet]]|
 |[[Hideaki Takeda]]|
 |[[Evandro Cunha]]|
 |[[Gabriel Magno]]|

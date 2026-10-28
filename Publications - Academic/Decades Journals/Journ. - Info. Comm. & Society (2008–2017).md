@@ -1764,7 +1764,7 @@
 - [[Philip Mai]]
 - [[Bahareh Rahmanzadeh Heravi]]
 - [[Natalie Harrower]]
-- [[Sarah Gilbert]]
+- [[Sarah A. Gilbert]]
 - [[Bree McEwan]]
 - [[Guang Ying Mo]]
 - [[Keith N. Hampton]]

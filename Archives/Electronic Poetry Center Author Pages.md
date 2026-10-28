@@ -120,7 +120,7 @@
 | [[Lisa Samuels]]            |
 | [[Leslie Scalapino]]        |
 | [[James Schuyler]]          |
-| [[Susan Schultz]]           |
+| [[Susan M. Schultz]]           |
 | [[James Sherry]]            |
 | [[Ron Silliman]]            |
 | [[Rod Smith]]               |
