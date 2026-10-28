@@ -70,6 +70,7 @@ a.wl { text-decoration: none; border-bottom: 1px dotted currentColor; cursor: po
 a.wl.note { color: var(--accent); border-bottom-style: solid; }
 a.wl.person { color: var(--fg); }
 a.wl.person.bridge { color: var(--link); }
+.wl-off { color: var(--fg-2); font-style: italic; }
 .tag { font-family: system-ui, sans-serif; font-size: .75rem; background: var(--bg-3); padding: 1px 7px; border-radius: 10px; color: var(--fg-2); }
 .chip { display: inline-flex; align-items: center; gap: 6px; font-family: system-ui, sans-serif; font-size: .78rem; background: var(--bg-3); padding: 2px 9px; border-radius: 12px; }
 .meta { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }

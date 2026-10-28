@@ -251,6 +251,8 @@ function wikify(md) {
     const t = linkTarget(raw);
     const shown = raw.includes("|") ? raw.replace(/\\\|/g, "|").split("|").slice(1).join("|").trim() || t : t;
     const key = t.toLowerCase();
+    if ((S.data.excluded || []).some((x) => x.toLowerCase() === key))   // left off the map (EXCLUDE_NOTES in build_graph.py)
+      return `<span class="wl-off" title="Not shown on the map">${esc(shown)}</span>`;
     if (S.byLabel.has(key)) return `<a class="wl note" data-note="${S.byLabel.get(key)}">${esc(shown)}</a>`;
     const bridge = S.personNode.has(key) ? " bridge" : "";
     return `<a class="wl person${bridge}" data-person="${esc(t)}">${esc(shown)}</a>`;

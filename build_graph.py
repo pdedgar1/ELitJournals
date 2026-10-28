@@ -21,8 +21,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 SKIP_DIRS = {".git", ".obsidian", ".trash", ".github", "site", "_site", "node_modules"}
+# TWEAKABLE: notes left out of the map entirely (no node, their links don't count, links TO them are ignored).
+# Use the note's file name without ".md". Matching ignores upper/lower case.
+EXCLUDE_NOTES = {"Alias Report"}
 MIN_BRIDGE = 2  # TWEAKABLE: a person becomes a map node ("bridge") when linked from this many notes.
                 # Raise to 3+ for a lighter, faster map; the site's "Min venues" slider filters further.
+
+EXCLUDED = {n.lower() for n in EXCLUDE_NOTES}
 
 # ---------------------------------------------------------------- block: find notes
 def find_notes(root):
@@ -30,6 +35,8 @@ def find_notes(root):
     for p in sorted(root.rglob("*.md")):
         rel = p.relative_to(root)
         if any(part in SKIP_DIRS for part in rel.parts):
+            continue
+        if rel.stem.lower() in EXCLUDED:
             continue
         notes.append(rel)
     return notes
@@ -100,6 +107,8 @@ def build(root, out):
         people = set()
         for t in links:
             key = t.lower()
+            if key in EXCLUDED:
+                continue
             if key in by_name:
                 j = by_name[key]
                 if j != i:
@@ -130,6 +139,7 @@ def build(root, out):
         "groups": groups,
         "nodes": nodes,
         "edges": sorted(edges),
+        "excluded": sorted(EXCLUDE_NOTES),
         "stats": {"notes": n_notes, "people": len(person_links),
                   "bridges": len(nodes) - n_notes,
                   "links": sum(len(v) for v in person_links.values()),
