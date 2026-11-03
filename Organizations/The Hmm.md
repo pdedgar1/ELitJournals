@@ -39,7 +39,7 @@
 | [[anna andrejew]]                     |
 | [[Anna Reutinger]]                    |
 | [[Anna Schjøtt Hansen]]               |
-| [[Anna Theunissen  ]]                 |
+| [[Anna Theunissen]]                 |
 | [[Anne Bras]]                         |
 | [[Anne Horel]]                        |
 | [[Anne Trouillet Rogers]]             |
@@ -78,7 +78,7 @@
 | [[Britte Sloothaak]]                  |
 | [[]]                                  |
 | [[Carmen Dusmet Carrasco]]            |
-| [[Carmen Roca Igual  ]]               |
+| [[Carmen Roca Igual]]               |
 | [[Cas van de Ven]]                    |
 | [[Casper Schipper]]                   |
 | [[Catalina Goanta]]                   |
@@ -255,7 +255,7 @@
 | [[Julia Veldman]]                     |
 | [[Juliette Lizotte]]                  |
 | [[]]                                  |
-| [[K Allado-McDowell]]                 |
+| [[K. Allado-McDowell]]                 |
 | [[Kamo]]                              |
 | [[Kanthavel Pasupathipillai]]         |
 | [[Karin van Es]]                      |
@@ -398,7 +398,7 @@
 | [[Naomi Hubèrt]]                      |
 | [[Nastia Cistakova]]                  |
 | [[Natalie Dixon]]                     |
-| [[Natan Sinigaglia]]                  |
+| [[Natan Sinigaglia]]                  |
 | [[Natasha Tontéy]]                    |
 | [[Natasja Straat]]                    |
 | [[Nazanin Karimi]]                    |

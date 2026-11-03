@@ -45,11 +45,11 @@
 | [[Derek Taylor]]           |
 | [[Divya Manian]]           |
 | [[Dorothy Lu]]             |
-| [[Durand D’souza]]         |
+| [[Durand D'souza]]         |
 | [[Elaina Natario]]         |
 | [[Elio Quinton]]           |
 | [[Elizabeth de Luna]]      |
-| [[Elle O’Brien]]           |
+| [[Elle O'Brien]]           |
 | [[Eric Hausken]]           |
 | [[Erin Davis]]             |
 | [[Eunice Lee]]             |
