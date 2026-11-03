@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2d31144234e2b5d",
+            "id": "64a51f2f090322da",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -164,7 +164,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,8 +184,30 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c2d31144234e2b5d",
+  "active": "64a51f2f090322da",
   "lastOpenFiles": [
+    "Organizations/ELO 2020s Teams.md",
+    "Organizations/ELO Teams/ELO Team 2024.md",
+    "Organizations/ELO Teams/ELO Team 2026.md",
+    "Organizations/ELO Teams/ELO Team 2022.md",
+    "Organizations/ELO Teams/ELO Team 2021.md",
+    "Organizations/ELO Teams/ELO Team 2016.md",
+    "Organizations/ELO 2010s Teams.md",
+    "Organizations/ELO Teams/ELO Team 2014.md",
+    "Organizations/The Hmm.md",
+    "Publications - Lit Mags/The Fathoms.md",
+    "Publications - Lit Mags/soft lock.md",
+    "_site/excl/data/files/Screenshot 2026-09-18 at 11.08.44 AM.png",
+    "_site/excl/data/notes/440.txt",
+    "_site/excl/data/notes/439.txt",
+    "_site/excl/data/notes/438.txt",
+    "_site/excl/data/notes/437.txt",
+    "_site/excl/data/notes/436.txt",
+    "_site/excl/data/notes/435.txt",
+    "_site/excl/data/notes/434.txt",
+    "_site/excl/data/notes/433.txt",
+    "_site/excl/data/notes/432.txt",
+    "_site/excl/data/notes/431.txt",
     "MTC Cronin.md",
     "Aurelia Tamò Larrieux.md",
     "Sarah M. Balcomb.md",
@@ -200,27 +223,6 @@
     "Susan L. Lin.md",
     "Susan M. Schultz.md",
     "Timothy S. Miller.md",
-    "Viviane Mieko Ito.md",
-    "Victoria A. Copeland.md",
-    "Tobias R. Keller.md",
-    "Will Von RatBlood.md",
-    "Salvador Ruiz Correa.md",
-    "Rémy Cazabet.md",
-    "Martín Tironi.md",
-    "Jung Ah Lee.md",
-    "MC Forelle.md",
-    "Eric PS Baumer.md",
-    "Óscar Coromina.md",
-    "Conferences/Conference Decades",
-    "Publications - Academic/Blogs/Untitled",
-    "Bernd",
-    "Conferences/Transmediale",
-    "_site/verify/data/people.json",
-    "_site/verify/data/notes",
-    "_site/verify/data/graph.json",
-    "_site/verify/data/files",
-    "_site/verify/style.css",
-    "_site/verify/app.js",
     "_site/check/data/files/Screenshot 2026-09-18 at 11.08.44 AM.png",
     "_site/data/files/Screenshot 2026-09-18 at 11.08.44 AM.png",
     "Screenshot 2026-09-18 at 11.08.44 AM.png",
