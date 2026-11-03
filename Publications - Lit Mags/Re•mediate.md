@@ -88,6 +88,21 @@
 [[Amanda Hodes]]
 [[Nicolás Gerardi Rousset]]
 [[Claude]]
+
+## Issue 7
+1. [[Sameera Abdulrahman Malakmurad]] static story
+2. [[Evelyn Spear]]
+3. [[Gustavo Gómez-Mejía]]
+4. [[Joses Ho]]
+5. [[Nicol Smith]]
+6. [[Ian Goodale]]
+7. [[Stasha Cole]]
+8. [[Andrea Kim]]
+9. [[Zzyw]] aka [[Zhenzhen Qi]] and [[Yang Wang]]
+ 10. [[Kevin G. Smith]]
+## Issue 8
+
+
 ### Zines with 
 [[R. Lyle Skains]]
 [[Amira Hanafi]]
