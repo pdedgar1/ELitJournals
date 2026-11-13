@@ -90,7 +90,7 @@
 [[Claude]]
 
 ## Issue 7
-1. [[Sameera Abdulrahman Malakmurad]] static story
+1. [[Sameera Abdulrahman Malakmurad]] 
 2. [[Evelyn Spear]]
 3. [[Gustavo Gómez-Mejía]]
 4. [[Joses Ho]]
