@@ -22,7 +22,7 @@
 |[[Andréa Catrópa]]|
 |[[Felipe Mariani]]|
 |[[Eduardo Kac]]|
-|[[Augusto de Campos]]|
+|[[Augusto deCampos]]|
 |[[André Vallias]]|
 |[[Marinho boy]]|
 |[[Fernando Tangi]]|
@@ -85,7 +85,7 @@
 |[[Arnaldo Antunes]]|
 |[[Alexandre Azeredo]]|
 |[[André Vallias]]|
-|[[Augusto de Campos]]|
+|[[Augusto deCampos]]|
 |[[Ricardo Aleixo]]|
 |[[Joesér Alvarez]]|
 |[[Binho]]|

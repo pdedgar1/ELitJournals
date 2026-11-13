@@ -883,7 +883,7 @@
 
 #### participants
 
-- [[!Mediengruppe Bitnik]]
+- [[Mediengruppe Bitnik]]
 - [[#purplenoise]]
 - [[AAA]]
 - [[Abiol Lual Deng]]

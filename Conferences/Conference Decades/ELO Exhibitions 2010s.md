@@ -101,7 +101,7 @@ _:terror(aw)ed patches:_	[[Mez Breeze]], [[Shane Hinton]]
 
 [[Mez Breeze]] + [[shane hinton]]
 
-[[A. Bill Miller]]
+[[A Bill Miller]]
 
 [[Alexander Mouton]]
 

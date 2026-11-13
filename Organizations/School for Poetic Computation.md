@@ -253,7 +253,7 @@
 [[Paola Antonelli]]
 [[Paola González Olea]]
 [[Patricia Robinson]]
-[[Patricio Gonzalez Vivo]]
+[[Patricio González Vivo]]
 [[Patrick Steppan]]
 [[Paul Cheng]]
 [[Pedro J. S. Vieira de Oliveira]]

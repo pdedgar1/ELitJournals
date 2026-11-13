@@ -29,7 +29,7 @@ Note: CURRENTS 2026 is the most recently completed festival covered here. CURREN
 - [[Tabita Rezaire]]
 - [[Sarah Banks]]
 - [[Bryan Whitney]]
-- [[Joao Pedro Oliveira]]
+- [[João Pedro Oliveira]]
 - [[David Stout]]
 
 ### CURRENTS 2021
@@ -553,7 +553,7 @@ Note: CURRENTS 2026 is the most recently completed festival covered here. CURREN
 - [[Irving Kinnersley]] & [[Finn Kinnersley]]
 - [[Testu Collective]]
 - [[Hsuan-Kuang Hsieh]]
-- [[Joao Pedro Oliveira]]
+- [[João Pedro Oliveira]]
 - [[Susanna Carlisle]]
 - [[Gabriela Tropia]]
 - [[David Stout]]

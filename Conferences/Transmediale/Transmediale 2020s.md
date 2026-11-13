@@ -40,7 +40,7 @@
 - [[Darsha Hewitt]]
 - [[David Garcia]]
 - [[Gabriel S. Moses]]
-- [[Carmel Barnea Brezner Jonas]]
+- [[Carmel Barnea Brezner-Jonas]]
 - [[Eva Haifa Giraud]]
 - [[Fabian Offert]]
 - [[Florian Wüst]]
@@ -135,7 +135,7 @@
 
 #### participants
 
-- [[!Mediengruppe Bitnik]]
+- [[Mediengruppe Bitnik]]
 - [[Frank Sweeney]]
 - [[Aaron Benanav]]
 - [[Aay Liparoto]]
@@ -267,7 +267,7 @@
 - [[Mihaela Brebenel]]
 - [[Mimi Ọnụọha]]
 - [[Moldiyar Yergebekov]]
-- [[Natasha Tontey]]
+- [[Natasha Tontéy]]
 - [[Nazanin Noori]]
 - [[Nicole L'Huillier]]
 - [[Nishant Shah]]
@@ -367,7 +367,7 @@
 
 #### participants
 
-- [[!Mediengruppe Bitnik]]
+- [[Mediengruppe Bitnik]]
 - [[Adonis Leboho]]
 - [[Adriana Knouf]]
 - [[Alaa Mansour]]
@@ -601,7 +601,7 @@
 - [[Luke van Gelderen]]
 - [[Mac Andre Arboleda]]
 - [[Margarita Tsomou]]
-- [[Maria Guta]]
+- [[Maria Guță]]
 - [[Lauren Huret]]
 - [[Mary Maggic]]
 - [[MengXuan Sun]]

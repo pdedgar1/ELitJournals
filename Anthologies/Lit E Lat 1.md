@@ -5,7 +5,7 @@
 | [[Ana María Uribe]]                          |
 | [[André Vallias]]                            |
 | [[Anuar Cichero]]                            |
-| [[Augusto de Campos]]                        |
+| [[Augusto deCampos]]                        |
 | B.                                           |
 | [[Belén Gache]]                              |
 | [[Raul Benjamín Moreno]]                          |

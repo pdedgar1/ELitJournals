@@ -30,7 +30,7 @@
 | [[Ananya Panda]]                      |
 | [[Anastasia Umpeleva]]                |
 | [[Andrea Galano Toro]]                |
-| [[Andres Colmenares]]                 |
+| [[Andrés Colmenares]]                 |
 | [[Andrés Sierra]]                     |
 | [[Andrew Lin]]                        |
 | [[Angeliki Diakrousi]]                |
@@ -107,7 +107,7 @@
 | [[Damn, Honey]]                       |
 | [[Dan Hassler-Forest]]                |
 | [[Danae Valentina]]                   |
-| [[Daniel de Zeeuw]]                   |
+| [[Daniël de Zeeuw]]                   |
 | [[Daniël Ernst]]                      |
 | [[Daniel Pianetti]]                   |
 | [[Daniel Samama]]                     |

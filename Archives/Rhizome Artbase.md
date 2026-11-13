@@ -401,7 +401,7 @@
 | [[Scott Gelber]]                                      |
 | [[Petra Gemeinboeck]]                                 |
 | [[gerald]]                                            |
-| [[Emilie Gervais]]                                    |
+| [[Émilie Gervais]]                                    |
 | [[De Geuzen: a foundation for multi-visual research]] |
 | [[Mariam Ghani]]                                      |
 | [[Greg Giannis]]                                      |
@@ -755,7 +755,7 @@
 | [[max Min]]                                           |
 | [[cat mazza]]                                         |
 | [[Marcello Mazzella]]                                 |
-| [[moises mañas]]                                      |
+| [[Moisés Mañas]]                                      |
 | [[Aleksandar Maćašev]]                                |
 | [[Jennifer McCoy]] and [[Kevin McCoy]]                |
 | [[Jillian Mcdonald]]                                  |
@@ -783,7 +783,7 @@
 | [[ali miharbi]]                                       |
 | [[Mike Mike]]                                         |
 | [[Adrian Miles]]                                      |
-| [[a. bill miller]]                                    |
+| [[A Bill Miller]]                                    |
 | [[Dave Miller]]                                       |
 | [[Ethan Miller]]                                      |
 | [[Paul D. Miller]]                                    |

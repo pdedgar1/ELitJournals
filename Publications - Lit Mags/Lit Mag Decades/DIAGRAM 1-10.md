@@ -551,7 +551,7 @@
 [[Susan Howe]]
 [[Susan Parr]]
 [[Ashley McWaters]]
-[[B. J. Soloy]]
+[[bj Soloy]]
 [[Joe Robitaille]]
 [[Kristina Jipson]]
 [[Larkin Higgins]]

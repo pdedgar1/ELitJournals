@@ -470,7 +470,7 @@
 
 ### Conferência nº 05 – 01.12
 
-- [[Ro Barragan]]
+- [[Ro Barragán]]
 - [[Gustavo Piqueira]]
 - [[Pau Minguet]]
 - [[Anderson Gomes]]
@@ -548,7 +548,7 @@
 - [[André Vallias]]
 - [[António Barros]]
 - [[Antonio Risério]]
-- [[Augusto de Campos]]
+- [[Augusto deCampos]]
 - [[Avelino de Araújo]]
 - [[Clemente Padín]]
 - [[Delmo Montenegro]]

@@ -1030,7 +1030,7 @@
 [[Anne Marie Rooney]]	
 [[Chelsea Biondolillo]]	
 [[Michael Brooks Cryer]]]]	
-[[B. J. Soloy]]	
+[[bj Soloy]]	
 [[Elisa Gabbert]]	
 [[Geoffrey Detrani]]	
 [[Josh Russell]]	

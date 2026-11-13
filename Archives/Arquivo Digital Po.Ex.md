@@ -63,7 +63,7 @@ CELL member : Portuguese Language E-lit
 | [[António Ramos Rosa]]                                                                            |
 | [[António Sena]]                                                                                  |
 | [[Arnaldo Antunes]]                                                                               |
-| [[Augusto de Campos]]                                                                             |
+| [[Augusto deCampos]]                                                                             |
 | [[Camões]]                                                                                        |
 | [[Clarice Lispector]]                                                                             |
 | [[Décio Pignatari]]                                                                               |

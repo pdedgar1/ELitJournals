@@ -27,7 +27,7 @@ Presiding, [[Mark H. Chignell]], [[Elaine Toms]]
 |[[Paul De Bra]]|
 |[[Munmun De Choudhury]]|
 |[[Mohamed Dekhil]]|
-|[[Oscar Díaz]]|
+|[[Óscar Díaz]]|
 |[[Andrew Dillon]]|
 |[[Efthimis N. Efthimiadis]]|
 |[[Binxing Fang]]|
@@ -216,7 +216,7 @@ Presiding, [[Paul De Bra]], [[Kaj Grønbæk]]
 |[[Hilbert J. Kappen]]|
 |[[Andreas Kaltenbrunner]]|
 |[[Jon Iturrioz]]|
-|[[Oscar Díaz]]|
+|[[Óscar Díaz]]|
 |[[Iker Azpeitia]]|
 |[[David Laniado]]|
 |[[Riccardo Tasso]]|
@@ -419,7 +419,7 @@ Presiding, [[Gerd Stumme]], [[Andreas Hotho]]
 |[[Kristina Lerman]]|
 |[[Markel Vigo]]|
 |[[Simon Harper]]|
-|[[Oscar Díaz]]|
+|[[Óscar Díaz]]|
 |[[Josune De Sosa]]|
 |[[Salvador Trujillo]]|
 |[[Annika L. Wolff]]|

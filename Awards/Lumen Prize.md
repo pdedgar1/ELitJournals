@@ -89,7 +89,7 @@
 - XR Award: [[Kristina Buozyte]] & [[Vitalijus Zukas]]
 - 3D/Interactive Award: [[Maja Petric]]
 - BCS A.I. Award: [[Dave Murray-Rust]] & [[Rocio von Jungenfeld]]
-- Still Image Award: [[Sougwen Chung]]
+- Still Image Award: [[Sougwen 愫君 Chung]]
 - Moving Image Award: [[Cassie McQuater]]
 
 ### 2018 Award Winners

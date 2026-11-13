@@ -252,7 +252,7 @@ Vancouver) 29 [[Domingo Sánchez-Mesa]] (University of Granada), [[Nieves Rosend
 
 Barcelona) 47 [[Kamil Kamysz]] (Jan Matejko Academy of Fine Arts in Krakow, Faculty of Industrial Design) and [[Marcin Wichrowski]] (Polish-Japanese Academy of Information Technology) 48 
 
-[[Agnieszka Przybyszewska]] (University of Lodz) 49 [[Lucile Haute]] (EnsadLab), [[Alexandra Saemmer]] (Université Paris 8), [[Aurelie Herbet]] (Université Paris 1), [[Emeline Brulé]] (TélécomParistech, Codesign Lab / Ensadlab) and [[Nolwenn Tréhondart]] (Université Paris 8) 51 [[Søren Bro Pold]], [[Christian Ulrik Andersen]] and [[Jonas Fritsch]] (Aarhus University) 53 [[Kathi Inman Berens]] (Portland State University) 54
+[[Agnieszka Przybyszewska]] (University of Lodz) 49 [[Lucile Haute]] (EnsadLab), [[Alexandra Saemmer]] (Université Paris 8), [[Aurélie Herbet]] (Université Paris 1), [[Emeline Brulé]] (TélécomParistech, Codesign Lab / Ensadlab) and [[Nolwenn Tréhondart]] (Université Paris 8) 51 [[Søren Bro Pold]], [[Christian Ulrik Andersen]] and [[Jonas Fritsch]] (Aarhus University) 53 [[Kathi Inman Berens]] (Portland State University) 54
 
 vii 
 

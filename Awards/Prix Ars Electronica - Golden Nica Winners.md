@@ -50,7 +50,7 @@ Source: [Ars Electronica Archive – Prix](https://archive.aec.at/prix/) (all 19
 - 2014 – _Walking City_ – [[Universal Everything]]
 - 2015 – _Temps Mort / Idle Times_ – [[Alex Verhaest]]
 - 2016 – _RHIZOME_ – [[Boris Labbé]]
-- 2017 – _Everything_ – [[David OReilly]]
+- 2017 – _Everything_ – [[David O'Reilly]]
 - 2018 – _TROPICS_ – [[Mathilde Lavenne]]
 - 2019 – _ManicVR_ – [[Kalina Bertin]], [[Fred Casia]], [[Nicolas S. Roy]], [[Sandra Rodriguez]]
 - 2020 – _Infinitely Yours_ – [[Miwa Matreyek]]

@@ -577,7 +577,7 @@
 - [[Michael Catalano]]
 - [[Natalie Sun]]
 - [[Xiaoqing Zhu]]
-- [[Joao Pedro Oliveira]]
+- [[João Pedro Oliveira]]
 - [[Billie Mitchell]]
 - [[Harvey Goldman]]
 - [[Jing Wang]]

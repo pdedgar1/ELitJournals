@@ -70,7 +70,7 @@
 [[Terence Broad]]
 [[Ana María Caballero]]
 [[Alejandro Cartagena]]
-[[Sougwen Chung]]
+[[Sougwen 愫君 Chung]]
 [[Andrea Ciulu]]
 [[ClownVamp]]
 [[Harold Cohen]] & [[AARON]]

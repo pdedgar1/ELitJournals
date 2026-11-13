@@ -147,7 +147,7 @@ CELL Member : French-language E-lit
 | [[Philippe Bootz]]                                       |
 | [[Benoit Bordeleau]]                                     |
 | Boredomresearch]]                                        |
-| [[Michael Borras]]                                       |
+| [[Michaël Borras aka Systaime]]                                       |
 | [[Bas Böttcher]]                                         |
 | [[Nadia Boucher]]                                        |
 | [[Gilles Boulet]]                                        |
