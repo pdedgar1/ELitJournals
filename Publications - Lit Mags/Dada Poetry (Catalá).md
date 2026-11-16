@@ -1,5 +1,16 @@
 Editor [[Adrián Salcedo Toca]]
 
+ISSN 3137-6738
+
+4
+[[Sarah Voight]]
+[[David Braden]]
+[[Adrián Salcedo Toca]]
+[[Francisco Izukiri]]
+[[Josep Vila Fisas]]
+[[Vicent Lloret]]
+[[Pau i au]]
+
 3
 [[Olga Rozanova]]
 [[Idoia Prim]]

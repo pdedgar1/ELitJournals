@@ -348,3 +348,16 @@ Global Coordinator [[Caitlin Fisher]]
 | [[Glenn S. Ritchey III]]                    |
 | [[Mark C. Marino]]                          |
 | [[Zach Whalen]]                             |
+
+## 2027 
+
+### organizing committee
+[[María Cecilia Reyes]]
+[[Mercedes Ortega]]
+[[Mauricio Vásquez Arias]]
+[[Claudia Kozak]]
+[[Jaime Alejandro Rodríguez Ruiz]]
+[[Mark C. Marino]]
+[[Anastasia Salter]]
+[[Dene Grigar]]
+[[Nelson Vera]]

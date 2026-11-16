@@ -1,9 +1,80 @@
 # Alias duplicate scan
-Vault: ELitJournals — 74303 distinct link targets
+Vault: ELitJournals — 74272 distinct link targets
+
+## Strong candidates (identical after normalizing punctuation/spacing/accents): 17
+
+- **P. D. Edgar ≈ pd edgar**
+  - `[[P. D. Edgar]]` — 26 use(s) in 13 file(s), e.g. Organizations/ELO 2020s Teams.md, Publications - Lit Mags/Re•mediate.md, Conferences/Conference Decades/ELO Conferences 2020s.md
+  - `[[pd edgar]]` — 1 use(s) in 1 file(s), e.g. README.md
+
+- **Gregory Chatonsky ≈ Grégory Chatonsky**
+  - `[[Gregory Chatonsky]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+  - `[[Grégory Chatonsky]]` — 9 use(s) in 8 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Publications - Academic/Decades Journals/Journ. - Media-N 2005-2016.md, Archives/The NEXT - Turbulence.md
+
+- **Clemente Padin ≈ Clemente Padín**
+  - `[[Clemente Padin]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Clemente Padín]]` — 5 use(s) in 4 file(s), e.g. Conferences/Jornada Internacional de Poesía Visual.md, Anthologies/Lit E Lat 1.md, Archives/Cartografía Digital.md
+
+- **Sofia Crespo ≈ Sofia Crespo)**
+  - `[[Sofia Crespo]]` — 5 use(s) in 4 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Publications - Art Mags/On NFTs.md, People + Labs/ARTXCODE.md
+  - `[[Sofia Crespo)]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+
+- **Valery Grancher ≈ Valéry Grancher**
+  - `[[Valery Grancher]]` — 3 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2020s.md, Conferences/Wrong Biennale 2010s.md
+  - `[[Valéry Grancher]]` — 3 use(s) in 3 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md, Archives/Rhizome Artbase.md, Conferences/Wrong Biennale 2020s.md
+
+- **Ricardo Miranda Zuniga ≈ Ricardo Miranda Zúñiga**
+  - `[[Ricardo Miranda Zuniga]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Ricardo Miranda Zúñiga]]` — 4 use(s) in 4 file(s), e.g. Archives/The NEXT - Turbulence.md, Archives/Répertoire NT2 - 1995-2006.md, Archives/Rhizome Artbase.md
+
+- **Antonio Olaio ≈ António Olaio**
+  - `[[Antonio Olaio]]` — 2 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[António Olaio]]` — 2 use(s) in 2 file(s), e.g. Archives/Arquivo Digital Po.Ex.md, Conferences/Wrong Biennale 2020s.md
+
+- **Jean Michel Rolland ≈ Jean-Michel Rolland**
+  - `[[Jean Michel Rolland]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+  - `[[Jean-Michel Rolland]]` — 3 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+
+- **LoveLetter.Exe ≈ Loveletterexe**
+  - `[[LoveLetter.Exe]]` — 3 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Conferences/Wrong Biennale 2020s.md
+  - `[[Loveletterexe]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+
+- **Mirko Tobias Schäfer ≈ Mirko Tobias Schäfer**
+  - `[[Mirko Tobias Schäfer]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Neural - 2011 - 2020.md
+  - `[[Mirko Tobias Schäfer]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Critical AI.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Papers (SPIR) (2011-2017).md
+
+- **Raphael Moreira Gonçalves ≈ Raphaël Moreira Gonçalves**
+  - `[[Raphael Moreira Gonçalves]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+  - `[[Raphaël Moreira Gonçalves]]` — 3 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2020s.md, Conferences/Wrong Biennale 2010s.md
+
+- **Dries De Poorter ≈ Dries DePoorter**
+  - `[[Dries De Poorter]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+  - `[[Dries DePoorter]]` — 2 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+
+- **Nestor Siré ≈ Nestor Siré**
+  - `[[Nestor Siré]]` — 1 use(s) in 1 file(s), e.g. Organizations/The Hmm.md
+  - `[[Nestor Siré]]` — 2 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2020s.md, Conferences/Transmediale/Transmediale 2020s.md
+
+- **A . ≈ Ϻaᴚ༄**
+  - `[[A .]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[Ϻaᴚ༄]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Taper Zine.md
+
+- **Kristóf János Bodnár ≈ Kristóf János Bodnár)**
+  - `[[Kristóf János Bodnár]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Kristóf János Bodnár)]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+
+- **Natasha Saje ≈ Natasha Sajé**
+  - `[[Natasha Saje]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Lit Mag Decades/Drunken Boat 2000-2012.md
+  - `[[Natasha Sajé]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Diode Editions.md
+
+- **Zheng Yang ≈ Zhengyang**
+  - `[[Zheng Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
+  - `[[Zhengyang]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+
 ## Fuzzy candidates (same surname, similar/subset names — review needed): 1214
 
 - **Óscar Díaz ≈ Óscar I. González Díaz** (similarity 0.99)
-  - `[[Óscar Díaz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+  - `[[Óscar Díaz]]` — 4 use(s) in 2 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010s.md, Conferences/Wrong Biennale 2010s.md
   - `[[Óscar I. González Díaz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
 
 - **Yun Ingrid Lee ≈ Yun Lee** (similarity 0.99)
@@ -76,11 +147,7 @@ Vault: ELitJournals — 74303 distinct link targets
 
 - **Tea D. Strazicic ≈ Tea Stražičić** (similarity 0.99)
   - `[[Tea D. Strazicic]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-  - `[[Tea Stražičić]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-
-- **Tea D. Strazicic ≈ Tea Strazicic** (similarity 0.99)
-  - `[[Tea D. Strazicic]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-  - `[[Tea Strazicic]]` — 2 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+  - `[[Tea Stražičić]]` — 3 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
 
 - **THE CRUNK FEMINIST COLLECTIVE ≈ The Collective** (similarity 0.99)
   - `[[THE CRUNK FEMINIST COLLECTIVE]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Ed. Coll. - Debates in Digital Humanities.md
@@ -89,6 +156,10 @@ Vault: ELitJournals — 74303 distinct link targets
 - **Sue Nhamandu ≈ Sue Vieira Nhamandu** (similarity 0.99)
   - `[[Sue Nhamandu]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
   - `[[Sue Vieira Nhamandu]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+
+- **Steven Ross Smith ≈ Steven Smith** (similarity 0.99)
+  - `[[Steven Ross Smith]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Book - Conceptualisms.md
+  - `[[Steven Smith]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md, Publications - Academic/Books/Book - Experimental Poetics to Creative Legacies.md
 
 - **Steven Hammer ≈ Steven R. Hammer** (similarity 0.99)
   - `[[Steven Hammer]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2020s.md
@@ -134,6 +205,10 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Rozita Fogelman]]` — 4 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Conferences/Wrong Biennale 2020s.md
   - `[[Rozita S. Fogelman]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
 
+- **Rosanna Oh ≈ Rosanna Young Oh** (similarity 0.99)
+  - `[[Rosanna Oh]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Graywolf Lab.md
+  - `[[Rosanna Young Oh]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Diode Editions.md
+
 - **Rodrigo De La Fabián ≈ Rodrigo Fabián** (similarity 0.99)
   - `[[Rodrigo De La Fabián]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Big Data & Society 2020s.md
   - `[[Rodrigo Fabián]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
@@ -173,6 +248,10 @@ Vault: ELitJournals — 74303 distinct link targets
 - **Ramon De Benito ≈ Ramon Lopez de Benito** (similarity 0.99)
   - `[[Ramon De Benito]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
   - `[[Ramon Lopez de Benito]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+
+- **Ralph Berry ≈ Ralph M. Berry** (similarity 0.99)
+  - `[[Ralph Berry]]` — 1 use(s) in 1 file(s), e.g. Organizations/Ed. Board - Electronic Book Review.md
+  - `[[Ralph M. Berry]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Book - Conceptualisms.md
 
 - **Rachel Franklin Wood ≈ Rachel Wood** (similarity 0.99)
   - `[[Rachel Franklin Wood]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Lit Mag Decades/DIAGRAM 21-30.md
@@ -226,10 +305,6 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Patricia Rossini]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Big Data & Society 2020s.md
   - `[[Patrícia G. C. Rossini]]` — 7 use(s) in 3 file(s), e.g. Conferences/AoIR Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2020s.md, Conferences/AoIR Papers (SPIR) (2011-2017).md
 
-- **Oscar Díaz ≈ Óscar I. González Díaz** (similarity 0.99)
-  - `[[Oscar Díaz]]` — 3 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010s.md
-  - `[[Óscar I. González Díaz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-
 - **Olga Fedorova ≈ Olga Mikh Fedorova** (similarity 0.99)
   - `[[Olga Fedorova]]` — 3 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Conferences/Wrong Biennale 2020s.md
   - `[[Olga Mikh Fedorova]]` — 2 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2020s.md, Conferences/Wrong Biennale 2010s.md
@@ -274,10 +349,6 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Natalia Barbara Stanusch]]` — 3 use(s) in 2 file(s), e.g. Conferences/AoIR Papers (SPIR) (2018 - 2027).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
   - `[[Natalia Stanusch]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Big Data & Society 2020s.md
 
-- **Michaël Borras ≈ Michaël Systaime Borras** (similarity 0.99)
-  - `[[Michaël Borras]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-  - `[[Michaël Systaime Borras]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-
 - **Michael W. Yang ≈ Michael Yang** (similarity 0.99)
   - `[[Michael W. Yang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Big Data & Society 2020s.md
   - `[[Michael Yang]]` — 1 use(s) in 1 file(s), e.g. Organizations/School for Poetic Computation.md
@@ -305,10 +376,6 @@ Vault: ELitJournals — 74303 distinct link targets
 - **Michael Brown ≈ Michael E. Brown** (similarity 0.99)
   - `[[Michael Brown]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Book 2.0 2011-2020.md
   - `[[Michael E. Brown]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - October 1970s.md
-
-- **Michael Borras ≈ Michaël Systaime Borras** (similarity 0.99)
-  - `[[Michael Borras]]` — 1 use(s) in 1 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md
-  - `[[Michaël Systaime Borras]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
 
 - **Michael A. Morris ≈ Michael Morris** (similarity 0.99)
   - `[[Michael A. Morris]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
@@ -344,11 +411,7 @@ Vault: ELitJournals — 74303 distinct link targets
 
 - **Marta D. Strazicic ≈ Marta Stražičić** (similarity 0.99)
   - `[[Marta D. Strazicic]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-  - `[[Marta Stražičić]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-
-- **Marta D. Strazicic ≈ Marta Strazicic** (similarity 0.99)
-  - `[[Marta D. Strazicic]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-  - `[[Marta Strazicic]]` — 2 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2020s.md, Conferences/Wrong Biennale 2010s.md
+  - `[[Marta Stražičić]]` — 3 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Conferences/Wrong Biennale 2020s.md
 
 - **Markus Buehler ≈ Markus J. Buehler** (similarity 0.99)
   - `[[Markus Buehler]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
@@ -401,6 +464,10 @@ Vault: ELitJournals — 74303 distinct link targets
 - **Liat Berdugo ≈ Liat Rachel Berdugo** (similarity 0.99)
   - `[[Liat Berdugo]]` — 5 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Conferences/Wrong Biennale 2020s.md
   - `[[Liat Rachel Berdugo]]` — 5 use(s) in 4 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media-N 2017-2026.md, Conferences/New Media Conferences/New Media Caucus Symposia.md, Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+
+- **Lena Khalaf Tuffaha ≈ Lena Tuffaha** (similarity 0.99)
+  - `[[Lena Khalaf Tuffaha]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Diode Editions.md
+  - `[[Lena Tuffaha]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Lit Mag Decades/Drunken Boat 2012-2026.md
 
 - **Lauren Lee McCarthy ≈ Lauren McCarthy** (similarity 0.99)
   - `[[Lauren Lee McCarthy]]` — 11 use(s) in 11 file(s), e.g. Organizations/School for Poetic Computation.md, Organizations/WordHack.md, Publications - Art Mags/AI Art Magazine.md
@@ -798,6 +865,10 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Cultura Plasmic Inc]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
   - `[[Kin - Cultura Plasmic Inc]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
 
+- **Craig Douglas Dworkin ≈ Craig Dworkin** (similarity 0.99)
+  - `[[Craig Douglas Dworkin]]` — 9 use(s) in 8 file(s), e.g. Publications - Lit Mags/Lit Mag Decades/Drunken Boat 2000-2012.md, Publications - Art Mags/Neural - 2011 - 2020.md, Publications - Academic/Decades Journals/Journ. - October 2000s.md
+  - `[[Craig Dworkin]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Books/Book - Conceptualisms.md
+
 - **Corey Johnson ≈ Corey W. Johnson** (similarity 0.99)
   - `[[Corey Johnson]]` — 2 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2020s.md, Conferences/Wrong Biennale 2010s.md
   - `[[Corey W. Johnson]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md, Conferences/AoIR Papers (SPIR) (2018 - 2027).md
@@ -1026,12 +1097,8 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[A. King]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Hypermedia 1999-2008.md
   - `[[M. A. King]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Jacket2.md
 
-- **A. Bill Miller ≈ Bill Miller** (similarity 0.99)
-  - `[[A. Bill Miller]]` — 7 use(s) in 4 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Archives/Rhizome Artbase.md, Conferences/Wrong Biennale 2020s.md
-  - `[[Bill Miller]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-
 - **A Bill Miller ≈ Bill Miller** (similarity 0.99)
-  - `[[A Bill Miller]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[A Bill Miller]]` — 8 use(s) in 4 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Conferences/Wrong Biennale 2020s.md, Archives/Rhizome Artbase.md
   - `[[Bill Miller]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
 
 - **Javier Yeikob Sajor Sederap ≈ Javierz Yeikob Sajor Sederap** (similarity 0.98)
@@ -1163,11 +1230,7 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Kate MacDonald]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
 
 - **José Irion Neto ≈ José Iron Neto** (similarity 0.96)
-  - `[[José Irion Neto]]` — 3 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Conferences/Wrong Biennale 2020s.md
-  - `[[José Iron Neto]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
-
-- **Jose Irion Neto ≈ José Iron Neto** (similarity 0.96)
-  - `[[Jose Irion Neto]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+  - `[[José Irion Neto]]` — 4 use(s) in 2 file(s), e.g. Conferences/Wrong Biennale 2010s.md, Conferences/Wrong Biennale 2020s.md
   - `[[José Iron Neto]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
 
 - **Hyunkyoung Cho ≈ Yun-Kyoung Cho** (similarity 0.96)
@@ -1982,6 +2045,10 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[C. David Russell]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
   - `[[David R. Russell]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Kairos - Technorhetoric 2000s.md, Publications - Academic/Decades Journals/Journ. - Computers & Composition 2020s.md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md
 
+- **Alison L. Joseph ≈ Allison Joseph** (similarity 0.92)
+  - `[[Alison L. Joseph]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Reviews in Digital Humanities.md
+  - `[[Allison Joseph]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Diode Editions.md
+
 - **Alexander Rose ≈ Alexandra Rose** (similarity 0.92)
   - `[[Alexander Rose]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Lit Mag Decades/DIAGRAM 1-10.md
   - `[[Alexandra Rose]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Taper Zine.md
@@ -2020,7 +2087,7 @@ Vault: ELitJournals — 74303 distinct link targets
 
 - **Noah E. Gordon ≈ Noah Eli Gordon** (similarity 0.92)
   - `[[Noah E. Gordon]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/3rd Bed.md
-  - `[[Noah Eli Gordon]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Presses/Press - Duration Press.md
+  - `[[Noah Eli Gordon]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Books/Book - Conceptualisms.md, Publications - Academic/Presses/Press - Duration Press.md
 
 - **Michael White ≈ Michele White** (similarity 0.92)
   - `[[Michael White]]` — 2 use(s) in 2 file(s), e.g. Archives/Répertoire NT2 - 1995-2006.md, Publications - Lit Mags/BeeHive.md
@@ -3200,23 +3267,15 @@ Vault: ELitJournals — 74303 distinct link targets
 
 - **Tanya Cruz ≈ Taína Cruz** (similarity 0.89)
   - `[[Tanya Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-  - `[[Taína Cruz]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[Taína Cruz]]` — 2 use(s) in 2 file(s), e.g. Archives/Rhizome Artbase.md, Conferences/Wrong Biennale 2010s.md
 
 - **Tania Cruz ≈ Taína Cruz** (similarity 0.89)
   - `[[Tania Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
-  - `[[Taína Cruz]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[Taína Cruz]]` — 2 use(s) in 2 file(s), e.g. Archives/Rhizome Artbase.md, Conferences/Wrong Biennale 2010s.md
 
 - **Tania Cruz ≈ Tanya Cruz** (similarity 0.89)
   - `[[Tania Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
   - `[[Tanya Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-
-- **Taina Cruz ≈ Tanya Cruz** (similarity 0.89)
-  - `[[Taina Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-  - `[[Tanya Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-
-- **Taina Cruz ≈ Tania Cruz** (similarity 0.89)
-  - `[[Taina Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
-  - `[[Tania Cruz]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
 
 - **Soo-jin Lee ≈ Yoojin Lee** (similarity 0.89)
   - `[[Soo-jin Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
@@ -3229,6 +3288,10 @@ Vault: ELitJournals — 74303 distinct link targets
 - **Siyang Chen ≈ Yang Chen** (similarity 0.89)
   - `[[Siyang Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Games & Culture 2020s.md
   - `[[Yang Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Big Data & Society 2020s.md
+
+- **Shanta Lee ≈ Shawna Lee** (similarity 0.89)
+  - `[[Shanta Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Diode Editions.md
+  - `[[Shawna Lee]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
 
 - **Ryan Shaw ≈ Ryland Shaw** (similarity 0.89)
   - `[[Ryan Shaw]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Big Data & Society 2010s.md
@@ -3934,6 +3997,10 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Lia Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
   - `[[Olivia Robinson]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
 
+- **Laura Robinson ≈ Lyra Robinson** (similarity 0.88)
+  - `[[Laura Robinson]]` — 13 use(s) in 5 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2008–2017).md, Publications - Academic/Decades Journals/Journ. - Info. Comm. & Society (2018–2027).md, Publications - Academic/Decades Journals/Journ. - New Media & Society 1999-2009.md
+  - `[[Lyra Robinson]]` — 2 use(s) in 1 file(s), e.g. Publications - Lit Mags/Phreak Mag.md
+
 - **Laura Dempsey ≈ Laurie Dempsey** (similarity 0.88)
   - `[[Laura Dempsey]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/LOGIC(S).md
   - `[[Laurie Dempsey]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Convergence 2017-2027.md
@@ -4595,19 +4662,19 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Qing Wang]]` — 1 use(s) in 1 file(s), e.g. Conferences/Transmediale/Transmediale 2000s.md
 
 - **Jin Zhang ≈ Yin Zhang** (similarity 0.88)
-  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/Conference Decades/ELO Exhibitions 2010s.md
+  - `[[Jin Zhang]]` — 4 use(s) in 4 file(s), e.g. Anthologies/ELC 3.md, Publications - Academic/Books/Book - Conceptualisms.md, Awards/New Media Writing Prize.md
   - `[[Yin Zhang]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Journ. - Hypermedia 2009-2018.md
 
 - **Jin Zhang ≈ Min Zhang** (similarity 0.88)
-  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/Conference Decades/ELO Exhibitions 2010s.md
+  - `[[Jin Zhang]]` — 4 use(s) in 4 file(s), e.g. Anthologies/ELC 3.md, Publications - Academic/Books/Book - Conceptualisms.md, Awards/New Media Writing Prize.md
   - `[[Min Zhang]]` — 1 use(s) in 1 file(s), e.g. Conferences/ACM/ACM Hypertext Proceedings 2010s.md
 
 - **Jin Zhang ≈ Lin Zhang** (similarity 0.88)
-  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/Conference Decades/ELO Exhibitions 2010s.md
+  - `[[Jin Zhang]]` — 4 use(s) in 4 file(s), e.g. Anthologies/ELC 3.md, Publications - Academic/Books/Book - Conceptualisms.md, Awards/New Media Writing Prize.md
   - `[[Lin Zhang]]` — 6 use(s) in 6 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Media, Cult. & Society 2020s.md, Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md, Publications - Academic/Decades Journals/Big Data & Society 2020s.md
 
 - **Jin Zhang ≈ Jun Zhang** (similarity 0.88)
-  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/Conference Decades/ELO Exhibitions 2010s.md
+  - `[[Jin Zhang]]` — 4 use(s) in 4 file(s), e.g. Anthologies/ELC 3.md, Publications - Academic/Books/Book - Conceptualisms.md, Awards/New Media Writing Prize.md
   - `[[Jun Zhang]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Journal of Digital Information.md
 
 - **Jin Kang ≈ Jiwon Kang** (similarity 0.88)
@@ -4648,7 +4715,7 @@ Vault: ELitJournals — 74303 distinct link targets
 
 - **Jia Zhang ≈ Jin Zhang** (similarity 0.88)
   - `[[Jia Zhang]]` — 1 use(s) in 1 file(s), e.g. Anthologies/OUTPUT.md
-  - `[[Jin Zhang]]` — 3 use(s) in 3 file(s), e.g. Anthologies/ELC 3.md, Awards/New Media Writing Prize.md, Conferences/Conference Decades/ELO Exhibitions 2010s.md
+  - `[[Jin Zhang]]` — 4 use(s) in 4 file(s), e.g. Anthologies/ELC 3.md, Publications - Academic/Books/Book - Conceptualisms.md, Awards/New Media Writing Prize.md
 
 - **Jay Chen ≈ Jiayu Chen** (similarity 0.88)
   - `[[Jay Chen]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Lit Mag Decades/DIAGRAM 1-10.md
@@ -4706,6 +4773,10 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Ha Na Lee]]` — 2 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
   - `[[Shawna Lee]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
 
+- **Ha Na Lee ≈ Shanta Lee** (similarity 0.88)
+  - `[[Ha Na Lee]]` — 2 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Shanta Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Diode Editions.md
+
 - **Ha Na Lee ≈ Hannah Lee** (similarity 0.88)
   - `[[Ha Na Lee]]` — 2 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
   - `[[Hannah Lee]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md
@@ -4747,7 +4818,7 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Lee Murray]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/Directory - Hyperizons.md
 
 - **Deb Olin Unferth ≈ Deborah Olin Unferth** (similarity 0.88)
-  - `[[Deb Olin Unferth]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/3rd Bed.md
+  - `[[Deb Olin Unferth]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Books/Book - Conceptualisms.md, Publications - Lit Mags/3rd Bed.md
   - `[[Deborah Olin Unferth]]` — 3 use(s) in 2 file(s), e.g. Publications - Lit Mags/Lit Mag Decades/Del Sol Review (1998-2007).md, Publications - Lit Mags/Lit Mag Decades/Del Sol Review (2008-2017ish).md
 
 - **Dasol Kim ≈ Dasul Kim** (similarity 0.88)
@@ -4858,3 +4929,55 @@ Vault: ELitJournals — 74303 distinct link targets
   - `[[Christine B. Williams]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - New Media & Society 2010s.md
   - `[[Miya Christine Williams]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Papers (SPIR) (2011-2017).md
 
+## Possible combined entries (target contains " and "/" & " — may be two people merged into one link): 50
+
+  - `[[Blank & Jeron]]` — 2 use(s) in 2 file(s), e.g. Anthologies/Media Art Net.md, Conferences/Transmediale/Transmediale 2020s.md
+  - `[[MASA/Casino Container]]` — 1 use(s) in 1 file(s), e.g. Anthologies/Media Art Net.md
+  - `[[Intelligent Information Laboratory / Narrative Science]]` — 1 use(s) in 1 file(s), e.g. Anthologies/OUTPUT.md
+  - `[[Microsoft Technology & Research Division and Bing Division]]` — 1 use(s) in 1 file(s), e.g. Anthologies/OUTPUT.md
+  - `[[aranhiças & elefantes]]` — 1 use(s) in 1 file(s), e.g. Archives/Arquivo Digital Po.Ex.md
+  - `[[Journ. - frAme -J'of Cult & Tech]]` — 2 use(s) in 2 file(s), e.g. Archives/Direct. - Eastgate.md, Archives/Hypertext Studios/Directory - Hypertext Kitchen.md
+  - `[[Hypertext Research and Resource Testbed]]` — 1 use(s) in 1 file(s), e.g. Archives/Hypertext Studios/Directory - Hypertext Kitchen.md
+  - `[[Agat & Anushka]]` — 1 use(s) in 1 file(s), e.g. Archives/Indian Electronic Literature Database.md
+  - `[[Kiss/Cantu/Hamos]]` — 1 use(s) in 1 file(s), e.g. Archives/Living Media Art (Li-ma).md
+  - `[[Dune & Devil]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[I/O/D]]` — 3 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md, Archives/Rhizome Artbase.md
+  - `[[Trial and Error]]` — 1 use(s) in 1 file(s), e.g. Archives/Rhizome Artbase.md
+  - `[[Cesar & Lois]]` — 3 use(s) in 3 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Cibertextualidades (2006–2017).md, Publications - Academic/Decades Journals/Journ. - Leonardo 2020s.md, Awards/Lumen Prize.md
+  - `[[Parsons & Charlesworth]]` — 2 use(s) in 2 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md, Awards/Lumen Prize.md
+  - `[[Industrial Light & Magic]]` — 2 use(s) in 1 file(s), e.g. Awards/Prix Ars Electronica - Golden Nica Winners.md
+  - `[[Jul Park/Parke]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Papers (SPIR) (2018 - 2027).md
+  - `[[Martin Trans]]` — 1 use(s) in 1 file(s), e.g. Conferences/AoIR Papers (SPIR) (2018 - 2027).md
+  - `[[Art & Science]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2010s.md
+  - `[[Sid and Geri]]` — 1 use(s) in 1 file(s), e.g. Conferences/New Media Conferences/Currents New Media Festival 2020s.md
+  - `[[The Beautiful Zeros and Ugly Ones]]` — 1 use(s) in 1 file(s), e.g. Conferences/Transmediale/Transmediale 2010s.md
+  - `[[Contemporary And (C&)]]` — 1 use(s) in 1 file(s), e.g. Conferences/Transmediale/Transmediale 2020s.md
+  - `[[Effi & Amir]]` — 1 use(s) in 1 file(s), e.g. Conferences/Transmediale/Transmediale 2020s.md
+  - `[[Johnson & Jeison]]` — 1 use(s) in 1 file(s), e.g. Conferences/Transmediale/Transmediale 2020s.md
+  - `[[Evgeniy Chernyshov / Syn Art Group]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+  - `[[Sailor Noom / Sahar Sepahdari]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2010s.md
+  - `[[Andrea Bonfini / Fade Out Label]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Böhler & Orendt]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Claudio Mangifesta and Fabio Doctorovich]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Joris H. /GoobBytes]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Jürgen Trautwein and Silvia Nonnenmacher]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Mario Viele / Charity Cult]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Micheál O'Connell/ Mocksim]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Mika & Vika (Anna Mikhailova]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Uli Ap / Alien AI]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[V/Plasm]]` — 2 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[Ying Wu and Teogonia]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[blanche the vidiot (Szabina Péter and Kristóf János Bodnár)]]` — 1 use(s) in 1 file(s), e.g. Conferences/Wrong Biennale 2020s.md
+  - `[[trAce/alt-X Hypertext Competition]]` — 1 use(s) in 1 file(s), e.g. Organizations/trAce. Online Writing Centre (95-05).md
+  - `[[Situated Critical Race & Media Collective (SCRAM)]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Hyperrhiz - New Media Cultures 2015-2025.md
+  - `[[DJNZ and the Action Tool Development Group]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+  - `[[Sponge and FoAM]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2000s.md
+  - `[[PRINZGAU/podgorschek]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - Leonardo 2010s.md
+  - `[[BüroBert (Renate Lorenz/Jochen Becker)]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - October 1990s.md
+  - `[[Sr/The Lausan Collective]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Decades Journals/Journ. - October 2020s.md
+  - `[[Ray Rozenweig Center for History and New Media]]` — 1 use(s) in 1 file(s), e.g. Publications - Academic/Solo Journals/Journ. - Vectors.md
+  - `[[Hide & Seek Audiovisual Art]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/E-Flux Index.md
+  - `[[AL/SO (Elmar)]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Rendah Mag.md
+  - `[[Rich & Miyu]]` — 1 use(s) in 1 file(s), e.g. Publications - Art Mags/Rendah Mag.md
+  - `[[j/j hastain]]` — 4 use(s) in 3 file(s), e.g. Publications - Lit Mags/Mad Hatters' Review.md, Publications - Lit Mags/Ghost Proposal.md, Publications - Lit Mags/Lit Mag Decades/Drunken Boat 2012-2026.md
+  - `[[Cecelia Chapman & Friends]]` — 1 use(s) in 1 file(s), e.g. Publications - Lit Mags/Mad Hatters' Review.md

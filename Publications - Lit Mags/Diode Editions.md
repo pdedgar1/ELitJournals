@@ -33,7 +33,7 @@
 |[[Sandy Gingras]]|
 |[[Nathalie Handal]]|
 |[[Rage Hezekiah]]|
-|[[T.R. Hummer]]|
+|[[T. R. Hummer]]|
 |[[W. Todd Kaneko]]|
 |[[Vandana Khanna]]|
 |[[Koss]]|
@@ -59,7 +59,7 @@
 |[[Shawn Hoo]]|
 |[[Melissa C. Johnson]]|
 |[[Lena Khalaf Tuffaha]]|
-|[[Joey S Kim]]|
+|[[Joey S. Kim]]|
 |[[Joan Kwon Glass]]|
 |[[Philip Metres]]|
 |[[Stephanie Niu]]|
