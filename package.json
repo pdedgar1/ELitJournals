@@ -1,0 +1,12 @@
+{
+  "name": "elitjournals-explorer",
+  "private": true,
+  "description": "Build-time layout for the E-Lit Borderlands explorer (see layout.js)",
+  "scripts": {
+    "layout": "node layout.js"
+  },
+  "dependencies": {
+    "graphology": "0.26.0",
+    "graphology-layout-forceatlas2": "0.10.1"
+  }
+}

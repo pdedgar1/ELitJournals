@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7a4b32b87695b715",
+        "id": "6ff30ad49d93bbec",
         "type": "tabs",
-        "dimension": 70.5110497237569,
         "children": [
           {
-            "id": "64a51f2f090322da",
+            "id": "b071c33923686bda",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4c973d83b957a0c4",
-        "type": "tabs",
-        "dimension": 29.48895027624309,
-        "children": [
-          {
-            "id": "7b766491570e7426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publications - Lit Mags/Re•mediate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Re•mediate"
             }
           }
         ]
@@ -206,23 +184,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "64a51f2f090322da",
+  "active": "b071c33923686bda",
   "lastOpenFiles": [
-    "Publications - Lit Mags/Re•mediate.md",
-    "Conferences/Wrong Biennale 2020s.md",
-    "Conferences/Wrong Biennale 2010s.md",
-    "Alias Report.md",
+    "Publications - Lit Mags/UnderAcademy College.md",
+    "Publications - Lit Mags/Empty Set Magazine.md",
+    "Conferences/Conference Decades/ELO Conferences 2020s.md",
     "Organizations/ELO 2020s Teams.md",
-    "Organizations/ELO Teams/ELO Team 2024.md",
-    "Organizations/ELO Teams/ELO Team 2026.md",
-    "Organizations/ELO Teams/ELO Team 2022.md",
-    "Organizations/ELO Teams/ELO Team 2021.md",
-    "Organizations/ELO Teams/ELO Team 2016.md",
-    "Organizations/ELO 2010s Teams.md",
-    "Organizations/ELO Teams/ELO Team 2014.md",
-    "Organizations/The Hmm.md",
-    "Publications - Lit Mags/The Fathoms.md",
-    "Publications - Lit Mags/soft lock.md",
+    "Publications - Lit Mags/Dada Poetry (Catalá).md",
+    "Publications - Academic/Solo Journals/Journ. - Acta Ludologica.md",
+    "Publications - Academic/Blogs/Blog - Public Domain Review.md",
+    "Alias Report.md",
+    "Zoé Brunet-Jailly.md",
+    "Taína Cruz.md",
+    "Stéphane Marin.md",
+    "s-ara.md",
+    "Roger GrandLapin.md",
+    "Peter Wu.md",
+    "PeiXin Liu.md",
+    "Kinga Tóth.md",
+    "Iris Díaz.md",
+    "József Bartha.md",
+    "İrem Çoban.md",
+    "Gabriella Torres-Ferrer.md",
+    "Ernesto Salazar Rodríguez.md",
+    "DupMarl.md",
+    "Delta_Ark.md",
+    "Cosmin Haiaş.md",
+    "Carmel Barnea Brezner-Jonas.md",
+    "Cezar Lăzărescu.md",
     "_site/excl/data/files/Screenshot 2026-09-18 at 11.08.44 AM.png",
     "_site/excl/data/notes/440.txt",
     "_site/excl/data/notes/439.txt",
@@ -234,17 +223,6 @@
     "_site/excl/data/notes/433.txt",
     "_site/excl/data/notes/432.txt",
     "_site/excl/data/notes/431.txt",
-    "MTC Cronin.md",
-    "Aurelia Tamò Larrieux.md",
-    "Sarah M. Balcomb.md",
-    "Robert J. Topinka.md",
-    "Rowan Cameron Wilken.md",
-    "Sarah A. Gilbert.md",
-    "Sal Hendrik Hagen.md",
-    "Sarah E. Fox.md",
-    "Sheila E. Murphy.md",
-    "Simeon J. Yates.md",
-    "Steve J. Jankowski.md",
     "_site/check/data/files/Screenshot 2026-09-18 at 11.08.44 AM.png",
     "_site/data/files/Screenshot 2026-09-18 at 11.08.44 AM.png",
     "Screenshot 2026-09-18 at 11.08.44 AM.png",

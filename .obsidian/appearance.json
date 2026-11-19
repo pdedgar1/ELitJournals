@@ -1,5 +1,6 @@
 {
   "accentColor": "#63bf73",
   "theme": "obsidian",
-  "interfaceFontFamily": "Krungthep"
+  "interfaceFontFamily": "Krungthep",
+  "showRibbon": true
 }

@@ -15,30 +15,15 @@ const S = {
   personNode: new Map(),// lowercase person name -> node id (bridges only)
   hovered: null, selected: null, focus: new Set(),
   hiddenGroups: new Set(), showPeople: true, minVenues: 2,
-  layoutOn: true, readme: null,
-  mode: null, spread: 1,           // current layout mode + Spread multiplier
+  layoutOn: false, readme: null,
+  mode: null,                      // current layout mode (see site/modes.js)
+  baked: false,                    // true when positions were saved at build time
 };
 // ================================================================== TWEAKABLE NUMBERS
 // Change a value, save, and push (or preview locally). Nothing else needs editing.
 
-// Layout forces — the web equivalent of Obsidian's Graph "Forces" sliders.
-const LAYOUT = {
-  startMode: "archipelago", // which mode the page opens in: "continent" or "archipelago"
-  steps: 600,             // how many animation steps before the layout stops moving
-  slowDown: 6,            // higher = calmer, slower movement; lower = faster but jittery
-  seedRadius: 800,        // size of the starting "pie" the groups begin in (Antarctica wedges)
-  spreadMin: 0.25,        // the Spread slider's range, as a multiplier of each mode's repel force
-  spreadMax: 4,
-};
-// The two modes behind the ELO Continent / Archipelago toggle.
-//   gravity      = Center force: pull toward the middle (0 = none, 1 = strong; Obsidian 0.00–0.01)
-//   scalingRatio = Repel force: how hard nodes push apart (Obsidian 19)
-//   hubsSpread   = true stops big hubs (EBR, ELO) dragging everything into one clump
-//   linLog       = true pushes each community out toward its own "coastline"
-const MODES = {
-  continent:   { label: "ELO Continent", gravity: 0.6,   scalingRatio: 12, hubsSpread: false, linLog: false },
-  archipelago: { label: "Archipelago",   gravity: 0.005, scalingRatio: 30, hubsSpread: true,  linLog: true  },
-};
+// Layout modes and forces live in site/modes.js (shared with the build step, layout.js).
+const { LAYOUT, MODES, makeRandom, seedPositions } = window.ELIT_LAYOUT;
 
 // Appearance.
 const LOOK = {
@@ -67,11 +52,11 @@ async function load() {
     else S.personNode.set(n.label.toLowerCase(), n.id);
   }
   S.readme = S.data.nodes.find((n) => n.kind === "note" && n.path.toLowerCase() === "readme.md");
+  S.mode = MODES[LAYOUT.startMode] ? LAYOUT.startMode : Object.keys(MODES)[0];
   buildGraph();
   buildLegend();
-  S.mode = MODES[LAYOUT.startMode] ? LAYOUT.startMode : Object.keys(MODES)[0];
   buildLayoutControls();
-  startLayout();
+  if (!S.baked) startLiveLayout();
   route();
   // people index is only needed for search + person pages; fetch it quietly afterwards
   fetch("data/people.json").then((r) => r.json()).then((p) => { S.people = p; buildSearchIndex(); if (location.hash.startsWith("#person/")) route(); });
@@ -83,36 +68,16 @@ const colorOf = (n) => (n.kind === "person" ? PERSON : n.group >= 0 ? S.data.gro
 
 function buildGraph() {
   const g = new graphology.Graph({ type: "undirected", multi: false });
-  const groups = S.data.groups;
-  const sectors = groups.length + 1;
-  // Seed positions as a pie around a pole, like the README's Antarctica image:
-  // ELO conferences near the centre, every other group in its own wedge.
-  const eloIdx = groups.findIndex((gr) => /ELO Conferences/i.test(gr.name));
+  const pos = S.data.layouts?.[S.mode];   // settled positions saved by layout.js
+  S.baked = !!pos;
+  const seed = S.baked ? null : seedPositions(S.data, makeRandom(LAYOUT.seed));
   for (const n of S.data.nodes) {
-    if (n.kind !== "note") continue;
-    const k = n.group >= 0 ? n.group : groups.length;
-    const angle = (k / sectors) * Math.PI * 2 + Math.random() * (Math.PI * 2 / sectors);
-    const r = n.group === eloIdx ? Math.random() * LAYOUT.seedRadius * 0.12 : LAYOUT.seedRadius * (0.35 + Math.random() * 0.65);
-    g.addNode(n.id, {
-      x: Math.cos(angle) * r, y: Math.sin(angle) * r,
-      size: LOOK.noteSize + Math.sqrt(n.people || 1) * LOOK.noteGrowth, label: n.label, color: colorOf(n), kind: "note", group: n.group,
-    });
-  }
-  // People start at the average position of the venues that name them.
-  const venuesOf = new Map();
-  for (const [a, b] of S.data.edges) {
-    if (S.data.nodes[b].kind === "person") (venuesOf.get(b) || venuesOf.set(b, []).get(b)).push(a);
-  }
-  for (const n of S.data.nodes) {
-    if (n.kind !== "person") continue;
-    const vs = venuesOf.get(n.id) || [];
-    let x = 0, y = 0;
-    for (const v of vs) { x += g.getNodeAttribute(v, "x"); y += g.getNodeAttribute(v, "y"); }
-    const d = vs.length || 1;
-    g.addNode(n.id, {
-      x: x / d + (Math.random() - 0.5) * 40, y: y / d + (Math.random() - 0.5) * 40,
-      size: LOOK.personSize + Math.min(n.venues, 30) * LOOK.personGrowth, label: n.label, color: PERSON, kind: "person", venues: n.venues,
-    });
+    const common = { label: n.label, color: colorOf(n), kind: n.kind,
+      x: S.baked ? pos[n.id * 2] : seed.x[n.id], y: S.baked ? pos[n.id * 2 + 1] : seed.y[n.id] };
+    if (n.kind === "note")
+      g.addNode(n.id, { ...common, group: n.group, size: LOOK.noteSize + Math.sqrt(n.people || 1) * LOOK.noteGrowth });
+    else
+      g.addNode(n.id, { ...common, venues: n.venues, size: LOOK.personSize + Math.min(n.venues, 30) * LOOK.personGrowth });
   }
   for (const [a, b] of S.data.edges) if (!g.hasEdge(a, b)) g.addEdge(a, b, { size: 0.3 });
   S.graph = g;
@@ -123,7 +88,7 @@ function buildGraph() {
     defaultEdgeColor: "#3a3f47", zIndex: true, minCameraRatio: 0.02, maxCameraRatio: 4,
     nodeReducer, edgeReducer, defaultDrawNodeHover: drawHover,
   });
-  S.renderer.once("afterRender", () => setTimeout(() => $("loading").classList.add("done"), 1200));
+  S.renderer.once("afterRender", () => setTimeout(() => $("loading").classList.add("done"), S.baked ? 0 : 1200));
   S.renderer.on("enterNode", ({ node }) => { S.hovered = +node; refocus(); });
   S.renderer.on("leaveNode", () => { S.hovered = null; refocus(); });
   S.renderer.on("clickNode", ({ node }) => openNode(+node));
@@ -143,53 +108,56 @@ function drawHover(ctx, d, st) {
   ctx.fillStyle = "#e6e3dc"; ctx.fillText(d.label, d.x + d.size + 10, d.y + size / 3);
 }
 
-// ------------------------------------------------------------------ layout (ForceAtlas2, animated in small steps)
-let layoutTicks = 0, looping = false, fa2Settings = null;
-function computeSettings() {
-  const fa2 = graphologyLibrary.layoutForceAtlas2, m = MODES[S.mode];
-  fa2Settings = { ...fa2.inferSettings(S.graph), barnesHutOptimize: true, slowDown: LAYOUT.slowDown,
-    gravity: m.gravity, scalingRatio: m.scalingRatio * S.spread,
-    outboundAttractionDistribution: m.hubsSpread, linLogMode: m.linLog };
+// ------------------------------------------------------------------ layout
+// Normal case: positions were settled at build time (layout.js) -> show them, glide between modes.
+// Fallback: no saved positions (e.g. a local preview without Node) -> run ForceAtlas2 live, as before.
+
+// glide every node from its current spot to the target mode's saved spot
+let glideFrame = null;
+function glideTo(mode) {
+  const target = S.data.layouts[mode], g = S.graph;
+  const from = new Map();
+  g.forEachNode((id, a) => from.set(id, [a.x, a.y]));
+  const t0 = performance.now();
+  cancelAnimationFrame(glideFrame);
+  const ease = (t) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2);   // ease-in-out
+  const frame = (now) => {
+    const t = Math.min(1, (now - t0) / LAYOUT.glideMs), e = ease(t);
+    g.updateEachNodeAttributes((id, a) => {
+      const [fx, fy] = from.get(id), i = +id * 2;
+      a.x = fx + (target[i] - fx) * e; a.y = fy + (target[i + 1] - fy) * e;
+      return a;
+    }, { attributes: ["x", "y"] });
+    if (t < 1) glideFrame = requestAnimationFrame(frame);
+  };
+  glideFrame = requestAnimationFrame(frame);
 }
-function startLayout() {
-  if (looping) return;              // already animating
-  if (!fa2Settings) computeSettings();
-  looping = true;
+
+let layoutTicks = 0, looping = false;
+function startLiveLayout() {
+  if (looping) return;
+  const fa2 = graphologyLibrary.layoutForceAtlas2;
+  const settings = window.ELIT_LAYOUT.fa2Settings(fa2, S.graph, S.mode);
+  looping = true; S.layoutOn = true; layoutTicks = 0;
   const step = () => {
     if (!S.layoutOn) { looping = false; return; }
-    graphologyLibrary.layoutForceAtlas2.assign(S.graph, { iterations: 1, settings: fa2Settings });
-    if (++layoutTicks < LAYOUT.steps) requestAnimationFrame(step);
-    else { looping = false; setLayout(false); }
+    fa2.assign(S.graph, { iterations: 1, settings });
+    if (++layoutTicks < LAYOUT.liveSteps) requestAnimationFrame(step);
+    else { looping = false; S.layoutOn = false; }
   };
   requestAnimationFrame(step);
 }
-function setLayout(on) {
-  S.layoutOn = on;
-  $("layout-btn").textContent = on ? "Pause layout" : "Resume layout";
-  if (on) { layoutTicks = Math.min(layoutTicks, LAYOUT.steps - 150); startLayout(); }
-}
-// called by the mode toggle and Spread slider: new forces, full re-run
-function relayout() {
-  computeSettings();
-  layoutTicks = 0;
-  setLayout(true);
-  layoutTicks = 0;
-}
+
 function buildLayoutControls() {
   $("mode").innerHTML = Object.entries(MODES).map(([k, m]) =>
     `<button data-mode="${k}" aria-pressed="${k === S.mode}">${m.label}</button>`).join("");
   $("mode").querySelectorAll("button").forEach((b) => b.onclick = () => {
+    if (b.dataset.mode === S.mode) return;
     S.mode = b.dataset.mode;
     $("mode").querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x === b));
-    relayout();
+    if (S.baked && S.data.layouts[S.mode]) glideTo(S.mode);
+    else { S.layoutOn = false; setTimeout(startLiveLayout, 30); }
   });
-  // slider works on a log scale so "1" (the mode's own value) sits in the middle
-  const sl = $("spread"), lo = Math.log(LAYOUT.spreadMin), hi = Math.log(LAYOUT.spreadMax);
-  sl.min = 0; sl.max = 100; sl.value = Math.round((0 - lo) / (hi - lo) * 100);
-  const show = () => ($("spread-out").textContent = S.spread.toFixed(S.spread < 1 ? 2 : 1) + "×");
-  show();
-  sl.oninput = () => { S.spread = Math.exp(lo + (sl.value / 100) * (hi - lo)); show(); };
-  sl.onchange = relayout;           // re-run once the thumb is released
 }
 
 // ------------------------------------------------------------------ highlight / filtering (sigma reducers)
@@ -394,7 +362,6 @@ function buildLegend() {
 function bindControls() {
   $("show-people").onchange = (e) => { S.showPeople = e.target.checked; S.renderer.refresh({ skipIndexation: true }); };
   $("min-venues").oninput = (e) => { S.minVenues = +e.target.value; $("min-venues-out").textContent = e.target.value; S.renderer.refresh({ skipIndexation: true }); };
-  $("layout-btn").onclick = () => setLayout(!S.layoutOn);
   $("fit-btn").onclick = () => S.renderer.getCamera().animatedReset({ duration: 500 });
   $("toggle-panel").onclick = () => { document.body.classList.toggle("panel-hidden"); setTimeout(() => S.renderer.resize(), 0); };
   const input = $("search");
