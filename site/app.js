@@ -16,14 +16,12 @@ const S = {
   hovered: null, selected: null, focus: new Set(),
   hiddenGroups: new Set(), showPeople: true, minVenues: 2,
   layoutOn: false, readme: null,
-  mode: null,                      // current layout mode (see site/modes.js)
-  baked: false,                    // true when positions were saved at build time
 };
 // ================================================================== TWEAKABLE NUMBERS
 // Change a value, save, and push (or preview locally). Nothing else needs editing.
 
-// Layout modes and forces live in site/modes.js (shared with the build step, layout.js).
-const { LAYOUT, MODES, makeRandom, seedPositions } = window.ELIT_LAYOUT;
+// Layout forces live in site/modes.js.
+const { LAYOUT, makeRandom, seedPositions } = window.ELIT_LAYOUT;
 
 // Appearance.
 const LOOK = {
@@ -52,11 +50,9 @@ async function load() {
     else S.personNode.set(n.label.toLowerCase(), n.id);
   }
   S.readme = S.data.nodes.find((n) => n.kind === "note" && n.path.toLowerCase() === "readme.md");
-  S.mode = MODES[LAYOUT.startMode] ? LAYOUT.startMode : Object.keys(MODES)[0];
   buildGraph();
   buildLegend();
-  buildLayoutControls();
-  if (!S.baked) startLiveLayout();
+  setLayout(true);
   route();
   // people index is only needed for search + person pages; fetch it quietly afterwards
   fetch("data/people.json").then((r) => r.json()).then((p) => { S.people = p; buildSearchIndex(); if (location.hash.startsWith("#person/")) route(); });
@@ -68,12 +64,10 @@ const colorOf = (n) => (n.kind === "person" ? PERSON : n.group >= 0 ? S.data.gro
 
 function buildGraph() {
   const g = new graphology.Graph({ type: "undirected", multi: false });
-  const pos = S.data.layouts?.[S.mode];   // settled positions saved by layout.js
-  S.baked = !!pos;
-  const seed = S.baked ? null : seedPositions(S.data, makeRandom(LAYOUT.seed));
+  const seed = seedPositions(S.data, makeRandom(LAYOUT.seed));
   for (const n of S.data.nodes) {
     const common = { label: n.label, color: colorOf(n), kind: n.kind,
-      x: S.baked ? pos[n.id * 2] : seed.x[n.id], y: S.baked ? pos[n.id * 2 + 1] : seed.y[n.id] };
+      x: seed.x[n.id], y: seed.y[n.id] };
     if (n.kind === "note")
       g.addNode(n.id, { ...common, group: n.group, size: LOOK.noteSize + Math.sqrt(n.people || 1) * LOOK.noteGrowth });
     else
@@ -88,7 +82,7 @@ function buildGraph() {
     defaultEdgeColor: "#3a3f47", zIndex: true, minCameraRatio: 0.02, maxCameraRatio: 4,
     nodeReducer, edgeReducer, defaultDrawNodeHover: drawHover,
   });
-  S.renderer.once("afterRender", () => setTimeout(() => $("loading").classList.add("done"), S.baked ? 0 : 1200));
+  S.renderer.once("afterRender", () => setTimeout(() => $("loading").classList.add("done"), 1200));
   S.renderer.on("enterNode", ({ node }) => { S.hovered = +node; refocus(); });
   S.renderer.on("leaveNode", () => { S.hovered = null; refocus(); });
   S.renderer.on("clickNode", ({ node }) => openNode(+node));
@@ -108,56 +102,25 @@ function drawHover(ctx, d, st) {
   ctx.fillStyle = "#e6e3dc"; ctx.fillText(d.label, d.x + d.size + 10, d.y + size / 3);
 }
 
-// ------------------------------------------------------------------ layout
-// Normal case: positions were settled at build time (layout.js) -> show them, glide between modes.
-// Fallback: no saved positions (e.g. a local preview without Node) -> run ForceAtlas2 live, as before.
-
-// glide every node from its current spot to the target mode's saved spot
-let glideFrame = null;
-function glideTo(mode) {
-  const target = S.data.layouts[mode], g = S.graph;
-  const from = new Map();
-  g.forEachNode((id, a) => from.set(id, [a.x, a.y]));
-  const t0 = performance.now();
-  cancelAnimationFrame(glideFrame);
-  const ease = (t) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2);   // ease-in-out
-  const frame = (now) => {
-    const t = Math.min(1, (now - t0) / LAYOUT.glideMs), e = ease(t);
-    g.updateEachNodeAttributes((id, a) => {
-      const [fx, fy] = from.get(id), i = +id * 2;
-      a.x = fx + (target[i] - fx) * e; a.y = fy + (target[i + 1] - fy) * e;
-      return a;
-    }, { attributes: ["x", "y"] });
-    if (t < 1) glideFrame = requestAnimationFrame(frame);
-  };
-  glideFrame = requestAnimationFrame(frame);
-}
-
+// ------------------------------------------------------------------ layout (ForceAtlas2, animated live in small steps)
 let layoutTicks = 0, looping = false;
-function startLiveLayout() {
-  if (looping) return;
+function startLayout() {
+  if (looping) return;              // already animating
   const fa2 = graphologyLibrary.layoutForceAtlas2;
-  const settings = window.ELIT_LAYOUT.fa2Settings(fa2, S.graph, S.mode);
-  looping = true; S.layoutOn = true; layoutTicks = 0;
+  const settings = window.ELIT_LAYOUT.fa2Settings(fa2, S.graph);
+  looping = true;
   const step = () => {
     if (!S.layoutOn) { looping = false; return; }
     fa2.assign(S.graph, { iterations: 1, settings });
-    if (++layoutTicks < LAYOUT.liveSteps) requestAnimationFrame(step);
-    else { looping = false; S.layoutOn = false; }
+    if (++layoutTicks < LAYOUT.steps) requestAnimationFrame(step);
+    else { looping = false; setLayout(false); }
   };
   requestAnimationFrame(step);
 }
-
-function buildLayoutControls() {
-  $("mode").innerHTML = Object.entries(MODES).map(([k, m]) =>
-    `<button data-mode="${k}" aria-pressed="${k === S.mode}">${m.label}</button>`).join("");
-  $("mode").querySelectorAll("button").forEach((b) => b.onclick = () => {
-    if (b.dataset.mode === S.mode) return;
-    S.mode = b.dataset.mode;
-    $("mode").querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x === b));
-    if (S.baked && S.data.layouts[S.mode]) glideTo(S.mode);
-    else { S.layoutOn = false; setTimeout(startLiveLayout, 30); }
-  });
+function setLayout(on) {
+  S.layoutOn = on;
+  $("layout-btn").textContent = on ? "Pause layout" : "Resume layout";
+  if (on) { layoutTicks = Math.min(layoutTicks, LAYOUT.steps - 150); startLayout(); }
 }
 
 // ------------------------------------------------------------------ highlight / filtering (sigma reducers)
@@ -362,6 +325,7 @@ function buildLegend() {
 function bindControls() {
   $("show-people").onchange = (e) => { S.showPeople = e.target.checked; S.renderer.refresh({ skipIndexation: true }); };
   $("min-venues").oninput = (e) => { S.minVenues = +e.target.value; $("min-venues-out").textContent = e.target.value; S.renderer.refresh({ skipIndexation: true }); };
+  $("layout-btn").onclick = () => setLayout(!S.layoutOn);
   $("fit-btn").onclick = () => S.renderer.getCamera().animatedReset({ duration: 500 });
   $("toggle-panel").onclick = () => { document.body.classList.toggle("panel-hidden"); setTimeout(() => S.renderer.resize(), 0); };
   const input = $("search");

@@ -1,31 +1,25 @@
-/* modes.js — layout settings shared by the page (app.js) and the build step (layout.js).
+/* modes.js — the map's layout settings (used by app.js).
  *
  * ================================================================== TWEAKABLE NUMBERS
- * The map's layout is worked out ONCE when the site is built (by layout.js, in the
- * GitHub Action) and saved into data/graph.json, so visitors see a settled map instantly.
- * Change a number here, push, and the next build bakes in the new shape.
+ * The map is force-directed and settles live in the visitor's browser, like Obsidian's graph.
+ * Change a number here, save, and push (or preview locally).
  */
 (function (root) {
 "use strict";
 
 const LAYOUT = {
-  startMode: "archipelago", // which mode the page opens in: "continent" or "archipelago"
-  buildSteps: 800,          // layout steps run at build time (more = more settled, slower build)
-  liveSteps: 600,           // steps for the in-browser fallback (only if positions weren't built)
-  slowDown: 6,              // higher = calmer, smaller moves per step
-  seedRadius: 800,          // size of the starting "pie" the groups begin in (Antarctica wedges)
-  seed: 2024,               // random seed: same number = same map every build. Change it to "reshuffle".
-  glideMs: 1100,            // how long the glide between modes takes, in milliseconds
+  steps: 600,          // how many animation steps before the layout stops moving
+  slowDown: 6,         // higher = calmer, smaller moves per step; lower = faster but jittery
+  seedRadius: 800,     // size of the starting "pie" the groups begin in (Antarctica wedges)
+  seed: 2024,          // random seed for the starting positions: same number = same start every visit
 };
 
-// The two modes behind the ELO Continent / Archipelago toggle.
-//   gravity      = Center force: pull toward the middle (0 = none, 1 = strong; Obsidian 0.00–0.01)
-//   scalingRatio = Repel force: how hard nodes push apart (Obsidian 19)
-//   hubsSpread   = true stops big hubs (EBR, ELO) dragging everything into one clump
-//   linLog       = true pushes each community out toward its own "coastline"
-const MODES = {
-  continent:   { label: "ELO Continent", gravity: 0.6,   scalingRatio: 12, hubsSpread: false, linLog: false },
-  archipelago: { label: "Archipelago",   gravity: 0.005, scalingRatio: 30, hubsSpread: true,  linLog: true  },
+// The forces — the web equivalent of Obsidian's Graph "Forces" sliders.
+const FORCES = {
+  gravity: 0.005,      // Center force: pull toward the middle. 0 = none, 1 = strong. (Obsidian: 0.00–0.01)
+                       //   Keep it above 0, or loosely connected nodes drift off forever.
+  scalingRatio: 40,    // Repel force: how hard nodes push apart, relative to the links pulling them together. (Obsidian: 19)
+  hubsSpread: true,    // true = big hubs (EBR, ELO) don't drag everything into one clump
 };
 // ==================================================================
 
@@ -69,15 +63,14 @@ function seedPositions(data, rand) {
   return { x, y };
 }
 
-// ForceAtlas2 settings for one mode (fa2 = the graphology-layout-forceatlas2 module).
-function fa2Settings(fa2, graph, mode) {
-  const m = MODES[mode];
+// ForceAtlas2 settings (fa2 = the graphology-layout-forceatlas2 module).
+function fa2Settings(fa2, graph) {
   return { ...fa2.inferSettings(graph), barnesHutOptimize: true, slowDown: LAYOUT.slowDown,
-    gravity: m.gravity, scalingRatio: m.scalingRatio,
-    outboundAttractionDistribution: m.hubsSpread, linLogMode: m.linLog };
+    gravity: FORCES.gravity, scalingRatio: FORCES.scalingRatio,
+    outboundAttractionDistribution: FORCES.hubsSpread };
 }
 
-const api = { LAYOUT, MODES, makeRandom, seedPositions, fa2Settings };
+const api = { LAYOUT, FORCES, makeRandom, seedPositions, fa2Settings };
 if (typeof module !== "undefined" && module.exports) module.exports = api;
 else root.ELIT_LAYOUT = api;
 })(typeof window !== "undefined" ? window : globalThis);
